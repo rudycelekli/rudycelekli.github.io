@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T20:36:11Z</updated>
+  <updated>2026-10-13T23:22:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #854: fix(hermes): honor HERMES_HOME and native data roots for session stores</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/854</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/854"/>
+    <updated>2026-10-13T23:22:27Z</updated>
+    <summary>Merged public contribution. +110 / -4 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #855: fix: honor literal CODEX_HOME session stores</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/855</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/855"/>
+    <updated>2026-10-13T23:18:13Z</updated>
+    <summary>Merged public contribution. +143 / -9 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #856: fix(config): write endpoint config atomically</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/856</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/856"/>
+    <updated>2026-10-13T23:00:20Z</updated>
+    <summary>Merged public contribution. +60 / -47 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>openclaw/openclaw #171222: fix(feishu): keep nested code fences intact in incoming posts</title>
     <id>https://github.com/openclaw/openclaw/pull/171222</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/mark3labs/mcp-go/pull/1066"/>
     <updated>2026-10-13T14:14:48Z</updated>
     <summary>Merged public contribution. +76 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1073: fix(transport): allow registration hooks to close in-process sessions</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1073</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1073"/>
-    <updated>2026-10-13T14:14:35Z</updated>
-    <summary>Merged public contribution. +106 / -33 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1061: fix(client): preserve supplied initial round trip parameters</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1061</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1061"/>
-    <updated>2026-10-13T14:14:07Z</updated>
-    <summary>Merged public contribution. +216 / -12 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #423: fix(export): preserve CSS selector literals while scoping</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/423</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/423"/>
-    <updated>2026-10-13T14:05:12Z</updated>
-    <summary>Merged public contribution. +81 / -7 across 3 changed files.</summary>
   </entry>
 </feed>
