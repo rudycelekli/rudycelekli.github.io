@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T16:58:49Z</updated>
+  <updated>2026-10-13T17:17:01Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #4746: fix(corpus): preserve the requested observation budget</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4746</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4746"/>
+    <updated>2026-10-13T17:17:01Z</updated>
+    <summary>Merged public contribution. +144 / -7 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4750: fix(search): match persisted metadata consistently during semantic hydration</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4750</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4750"/>
+    <updated>2026-10-13T17:15:15Z</updated>
+    <summary>Merged public contribution. +56 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4748: fix(viewer): preserve distinct native prompt turns in the feed</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4748</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4748"/>
+    <updated>2026-10-13T17:14:51Z</updated>
+    <summary>Merged public contribution. +76 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1230: fix(tooling): decode Git quoted paths in portability reports</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1230</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1230"/>
+    <updated>2026-10-13T17:08:57Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4754: fix(search): skip normalized empty hydration filters</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4754</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4754"/>
+    <updated>2026-10-13T17:01:38Z</updated>
+    <summary>Merged public contribution. +83 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4751: fix(import): retain native prompt receipts across restore</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4751</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4751"/>
+    <updated>2026-10-13T17:00:51Z</updated>
+    <summary>Merged public contribution. +101 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4747: fix(viewer): order equal-timestamp feed rows newest first</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4747</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1067"/>
     <updated>2026-10-13T11:19:05Z</updated>
     <summary>Merged public contribution. +13 / -10 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1066: fix(model-qa): require periods for stability comparison</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1066</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1066"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1065: fix(pdf): validate exports before claiming conformance</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1065</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1065"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +18 / -33 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1064: Reject trailing newlines in Security Architect usernames</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1064</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1064"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1063: fix(security): preserve IOC CSV record boundaries</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1063</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1063"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +13 / -7 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1723: Preserve JSON serialization of NumPy values on NumPy 2</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1723</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1723"/>
-    <updated>2026-10-13T09:38:14Z</updated>
-    <summary>Merged public contribution. +119 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1604: fix(loomloom): avoid synthesizing narration from nontext results</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1604</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1604"/>
-    <updated>2026-10-13T09:32:54Z</updated>
-    <summary>Merged public contribution. +39 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,890**
+Records: **1,896**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4746: fix(corpus): preserve the requested observation budget](https://github.com/thedotmack/claude-mem/pull/4746) | +144 / -7 across 5 files | 2 reviews · 2 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4750: fix(search): match persisted metadata consistently during semantic hydration](https://github.com/thedotmack/claude-mem/pull/4750) | +56 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4748: fix(viewer): preserve distinct native prompt turns in the feed](https://github.com/thedotmack/claude-mem/pull/4748) | +76 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1230: fix(tooling): decode Git quoted paths in portability reports](https://github.com/mvschwarz/openrig/pull/1230) | +32 / -2 across 2 files | 1 reviews · 4 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4754: fix(search): skip normalized empty hydration filters](https://github.com/thedotmack/claude-mem/pull/4754) | +83 / -8 across 2 files | 0 reviews · 2 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4751: fix(import): retain native prompt receipts across restore](https://github.com/thedotmack/claude-mem/pull/4751) | +101 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4747: fix(viewer): order equal-timestamp feed rows newest first](https://github.com/thedotmack/claude-mem/pull/4747) | +54 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4749: fix(viewer): match session catalog project filters case-insensitively](https://github.com/thedotmack/claude-mem/pull/4749) | +48 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4742: fix(context): refresh empty-project state after deletion](https://github.com/thedotmack/claude-mem/pull/4742) | +73 / -2 across 2 files | 0 reviews · 2 comments |
