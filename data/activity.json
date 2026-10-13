@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 156,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-11T16:46:02Z",
+      "deletions": 4,
+      "merged_at": "2026-10-13T13:58:57Z",
+      "number": 9791,
+      "repository": "NationalSecurityAgency/ghidra",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "reviews": 0,
+      "title": "Preserve long source sizes in file copy progress",
+      "url": "https://github.com/NationalSecurityAgency/ghidra/pull/9791"
+    },
+    {
+      "additions": 138,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-11T16:07:02Z",
+      "deletions": 1,
+      "merged_at": "2026-10-13T13:58:57Z",
+      "number": 9786,
+      "repository": "NationalSecurityAgency/ghidra",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "reviews": 0,
+      "title": "Report recursive archive cancellation as incomplete",
+      "url": "https://github.com/NationalSecurityAgency/ghidra/pull/9786"
+    },
+    {
       "additions": 55,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -29869,7 +29901,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 1865,
+  "record_count": 1867,
   "schema_version": 1,
   "updated_at_utc": "2026-10-13"
 }

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T12:51:45Z</updated>
+  <updated>2026-10-13T13:58:57Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9791: Preserve long source sizes in file copy progress</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9791</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9791"/>
+    <updated>2026-10-13T13:58:57Z</updated>
+    <summary>Merged public contribution. +156 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9786: Report recursive archive cancellation as incomplete</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9786</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9786"/>
+    <updated>2026-10-13T13:58:57Z</updated>
+    <summary>Merged public contribution. +138 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #2471: fix(process): resolve POSIX backslash basenames through PATH</title>
     <id>https://github.com/morluto/rea/pull/2471</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/raphaelmansuy/edgequake/pull/450"/>
     <updated>2026-10-13T00:19:43Z</updated>
     <summary>Merged public contribution. +51 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #451: fix(ruby): send username in login requests</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/451</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/451"/>
-    <updated>2026-10-13T00:19:38Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #457: fix(ruby): match entity merge request fields</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/457</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/457"/>
-    <updated>2026-10-13T00:19:33Z</updated>
-    <summary>Merged public contribution. +39 / -3 across 3 changed files.</summary>
   </entry>
 </feed>

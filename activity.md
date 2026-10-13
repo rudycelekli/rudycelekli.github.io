@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,865**
+Records: **1,867**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9791: Preserve long source sizes in file copy progress](https://github.com/NationalSecurityAgency/ghidra/pull/9791) | +156 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-13 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9786: Report recursive archive cancellation as incomplete](https://github.com/NationalSecurityAgency/ghidra/pull/9786) | +138 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-13 | [morluto/rea](https://github.com/morluto/rea) | [#2471: fix(process): resolve POSIX backslash basenames through PATH](https://github.com/morluto/rea/pull/2471) | +55 / -2 across 3 files | 0 reviews · 4 comments |
 | 2026-10-13 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [#1101: fix(nudge): respect the preferred delivery channel for every profile](https://github.com/msitarzewski/agency-agents/pull/1101) | +1 / -1 across 1 files | 0 reviews · 0 comments |
 | 2026-10-13 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [#1073: fix(voice): handle leading-dash audio filenames throughout examples](https://github.com/msitarzewski/agency-agents/pull/1073) | +4 / -4 across 1 files | 0 reviews · 0 comments |
