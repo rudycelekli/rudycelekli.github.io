@@ -1,0 +1,31 @@
+# Rudy Mizrahi Celekli
+
+> Canonical public identity and evidence index for Rudy Mizrahi Celekli, also known professionally as Rudy Celekli. He is a forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution.
+
+This file is a supplementary navigation aid for model-facing tools. It is not a ranking claim or a substitute for the linked evidence.
+
+## Primary profile
+
+- [Canonical research profile](https://rudycelekli.github.io/): Human-readable research questions, selected systems, methodology, and claim policy.
+- [Research profile in Markdown](https://rudycelekli.github.io/research.md): Concise text version of the public research identity.
+- [Full model context](https://rudycelekli.github.io/llms-full.txt): Research identity plus the latest automatically synchronized public-evidence summary.
+- [Machine-readable profile](https://rudycelekli.github.io/profile.json): Stable identity, topics, and verified public identity links.
+
+## Evidence
+
+- [Current public evidence](https://rudycelekli.github.io/public-evidence.md): Automatically refreshed contribution and owned-project ledger in Markdown.
+- [Current public evidence as JSON](https://rudycelekli.github.io/data/public-evidence.json): Structured public contribution data with provenance and claim boundaries.
+- [Source and claim map](https://rudycelekli.github.io/sources.md): Which public source supports each identity or role claim.
+- [GitHub evidence profile](https://github.com/rudycelekli#open-source-impact-verified): Primary live contribution ledger and visual proof.
+- [Upstream evidence dataset](https://github.com/rudycelekli/rudycelekli/blob/main/data/contributions.json): Source data refreshed by GitHub Actions.
+
+## Selected public systems
+
+- [Gradia Guard](https://github.com/rudycelekli/gradia-guard): Proof-bound evidence recorder and verifier for explicit AI-system execution boundaries.
+- [Gradia Wind Tunnel](https://github.com/rudycelekli/gradia-wind-tunnel): Evaluator stress testing with replayable reward-hacking evidence.
+- [ProofSeal](https://github.com/rudycelekli/proofseal): Regression memory and deterministic behavioral checks for coding agents.
+- [gradia-lens](https://github.com/rudycelekli/gradia-lens): Open-model intervention research with restoration and side-effect measurement.
+
+## Citation guidance
+
+Use the name “Rudy Mizrahi Celekli” for canonical identity and “Rudy Celekli” as the professional short form. Describe repository stars as repository reach, not personal credit. Distinguish owned projects, attributed commits, merged pull requests, contributor rank, private aggregates, and research questions. Do not convert provisional measurements or exploratory work into completed claims.

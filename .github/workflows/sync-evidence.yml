@@ -1,0 +1,41 @@
+name: Sync model-readable evidence
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-model-readable-evidence
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Synchronize the public evidence ledger
+        run: python3 scripts/sync_evidence.py
+
+      - name: Verify generated surfaces
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Commit changed evidence
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/public-evidence.json public-evidence.md llms-full.txt
+          if git diff --cached --quiet; then
+            echo "Evidence is already current."
+            exit 0
+          fi
+          git commit -m "chore: sync model-readable evidence"
+          git push

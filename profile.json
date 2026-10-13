@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://rudycelekli.github.io/#rudy",
+  "name": "Rudy Mizrahi Celekli",
+  "alternateName": [
+    "Rudy Celekli",
+    "Rudy Mizrahi"
+  ],
+  "url": "https://rudycelekli.github.io/",
+  "jobTitle": "Forward-Deployed AI Researcher and Agentic AI Engineer",
+  "description": "AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound execution.",
+  "sameAs": [
+    "https://github.com/rudycelekli",
+    "https://www.linkedin.com/in/rudymizrahi/",
+    "https://orcid.org/0009-0000-7043-3766",
+    "https://www.gradiahq.com/about",
+    "https://agentics.org/leadership/"
+  ],
+  "knowsAbout": [
+    "AI agent evaluation",
+    "Long-horizon agent environments",
+    "Evaluator robustness",
+    "Deterministic replay",
+    "Causal fault isolation",
+    "Evidence-bound AI execution",
+    "Agentic quality engineering",
+    "Open-source AI infrastructure"
+  ],
+  "subjectOf": [
+    "https://rudycelekli.github.io/research.md",
+    "https://rudycelekli.github.io/sources.md",
+    "https://rudycelekli.github.io/public-evidence.md",
+    "https://rudycelekli.github.io/data/public-evidence.json"
+  ]
+}

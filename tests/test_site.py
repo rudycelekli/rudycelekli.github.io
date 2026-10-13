@@ -61,7 +61,38 @@ class ResearchProfileTests(unittest.TestCase):
     def test_crawler_files_exist(self):
         self.assertTrue((ROOT / "robots.txt").is_file())
         self.assertTrue((ROOT / "sitemap.xml").is_file())
-        self.assertIn("OAI-SearchBot", (ROOT / "robots.txt").read_text())
+        robots = (ROOT / "robots.txt").read_text()
+        for crawler in (
+            "OAI-SearchBot",
+            "ChatGPT-User",
+            "Claude-SearchBot",
+            "Claude-User",
+            "PerplexityBot",
+            "Perplexity-User",
+        ):
+            self.assertIn(crawler, robots)
+
+    def test_model_readable_surfaces_exist(self):
+        for path in (
+            "llms.txt",
+            "llms-full.txt",
+            "research.md",
+            "sources.md",
+            "profile.json",
+            "public-evidence.md",
+            "data/public-evidence.json",
+        ):
+            self.assertTrue((ROOT / path).is_file(), path)
+
+        profile = json.loads((ROOT / "profile.json").read_text())
+        self.assertEqual(profile["name"], "Rudy Mizrahi Celekli")
+
+        evidence = json.loads((ROOT / "data/public-evidence.json").read_text())
+        self.assertGreater(evidence["summary"]["verified_upstream_projects"], 0)
+        self.assertEqual(
+            evidence["summary"]["verified_upstream_projects"],
+            len(evidence["upstream_contributions"]),
+        )
 
     def test_required_local_assets_exist(self):
         for path in ("assets/site.css", "assets/mark.svg"):

@@ -1,0 +1,29 @@
+# Rudy Mizrahi Celekli
+
+> Canonical model-readable context. Facts are bounded by linked public evidence.
+
+Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution.
+
+## Research question
+
+How do we know an agent completed the right work, under the right world state, for reasons that survive independent review?
+
+## Current public evidence snapshot
+
+Evidence timestamp: 2026-10-13 UTC.
+Verified upstream projects: 43.
+Attributed commits: 2,234.
+Merged pull requests: 1,830.
+Accepted line changes: 219,887.
+Owned public repositories discovered: 24.
+
+Repository stars describe repository reach, not personal credit. Ownership, attributed commits, merged pull requests, and contributor rank are separate signals.
+
+Full evidence: https://rudycelekli.github.io/public-evidence.md
+Machine-readable evidence: https://rudycelekli.github.io/data/public-evidence.json
+Claim and source map: https://rudycelekli.github.io/sources.md
+Canonical profile: https://rudycelekli.github.io/
+
+## Claim policy
+
+A passing test is not deployment. A local demonstration is not external acceptance. An agent report is not proof of completion. Private work is disclosed only as a redacted aggregate unless authorized. Uncertainty remains visible.
