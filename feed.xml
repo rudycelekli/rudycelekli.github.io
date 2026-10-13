@@ -4,8 +4,162 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T09:38:14Z</updated>
+  <updated>2026-10-13T11:19:06Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>msitarzewski/agency-agents #1101: fix(nudge): respect the preferred delivery channel for every profile</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1101</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1101"/>
+    <updated>2026-10-13T11:19:06Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1073: fix(voice): handle leading-dash audio filenames throughout examples</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1073</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1073"/>
+    <updated>2026-10-13T11:19:06Z</updated>
+    <summary>Merged public contribution. +4 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1109: fix(marketing): use the current WebMCP tool contract</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1109</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1109"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +53 / -87 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1102: fix(lsp): normalize protocol definition results to locations</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1102</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1102"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1100: fix(collaboration): queue operations before connecting a socket</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1100</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1100"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +8 / -7 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1099: fix(whimsy): count clicks on nested Easter egg elements</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1099</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1099"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1096: fix(email): preserve quotations absent from parent messages</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1096</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1096"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1091: fix(tool-evaluator): measure latency with a monotonic clock</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1091</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1091"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1077: fix(engineering): detect all Unicode private-use ranges in ATS text</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1077</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1077"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1076: fix(engineering): enforce RAG chunk bounds for nonspaced text</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1076</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1076"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1075: fix(security): export matching STIX patterns for admitted IOC types</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1075</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1075"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +13 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1074: fix(design): keep theme controls working when storage is denied</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1074</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1074"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +13 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1072: fix(workflows): preserve zero-cost comparison reports</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1072</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1072"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +7 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1071: fix(support): accept timezone-aware outreach reports</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1071</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1071"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +8 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1070: fix(model-qa): select SHAP outputs before reporting</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1070</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1070"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +15 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1069: fix(jira): validate documented Codex branch wrappers</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1069</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1069"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +5 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1068: fix(backups): preserve failure messages in alert JSON</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1068</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1068"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +4 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1067: fix(compliance): make data category YAML parseable</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1067</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1067"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +13 / -10 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1066: fix(model-qa): require periods for stability comparison</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1066</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1066"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1065: fix(pdf): validate exports before claiming conformance</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1065</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1065"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +18 / -33 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1064: Reject trailing newlines in Security Architect usernames</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1064</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1064"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1063: fix(security): preserve IOC CSV record boundaries</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1063</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1063"/>
+    <updated>2026-10-13T11:19:05Z</updated>
+    <summary>Merged public contribution. +13 / -7 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1723: Preserve JSON serialization of NumPy values on NumPy 2</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1723</id>
@@ -201,159 +355,5 @@
     <link href="https://github.com/raphaelmansuy/edgequake/pull/460"/>
     <updated>2026-10-13T00:19:29Z</updated>
     <summary>Merged public contribution. +42 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #462: fix(ruby): consume SSE events from query and chat streams</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/462</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/462"/>
-    <updated>2026-10-13T00:19:24Z</updated>
-    <summary>Merged public contribution. +93 / -2 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #475: fix(go): retain document batch tracking progress</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/475</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/475"/>
-    <updated>2026-10-13T00:19:20Z</updated>
-    <summary>Merged public contribution. +100 / -17 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #473: fix(go): decode pipeline progress and queue metrics</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/473</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/473"/>
-    <updated>2026-10-13T00:19:14Z</updated>
-    <summary>Merged public contribution. +183 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #472: fix(go): decode canonical budget spend and alert state</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/472</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/472"/>
-    <updated>2026-10-13T00:19:10Z</updated>
-    <summary>Merged public contribution. +78 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #468: fix(go): decode canonical cost history values</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/468</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/468"/>
-    <updated>2026-10-13T00:19:06Z</updated>
-    <summary>Merged public contribution. +93 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #465: fix(go): decode canonical user identifiers and envelopes</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/465</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/465"/>
-    <updated>2026-10-13T00:19:02Z</updated>
-    <summary>Merged public contribution. +119 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #445: fix(go): preserve structured errors from raw operations</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/445</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/445"/>
-    <updated>2026-10-13T00:18:58Z</updated>
-    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #439: fix(go): close export response bodies before retries</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/439</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/439"/>
-    <updated>2026-10-13T00:18:54Z</updated>
-    <summary>Merged public contribution. +80 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #443: fix(python): parse complete SSE data events</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/443</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/443"/>
-    <updated>2026-10-13T00:18:49Z</updated>
-    <summary>Merged public contribution. +139 / -31 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #435: fix(python): preserve pagination cursor when fetching fails</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/435</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/435"/>
-    <updated>2026-10-13T00:18:44Z</updated>
-    <summary>Merged public contribution. +55 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #438: fix(python): preserve caller upload metadata</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/438</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/438"/>
-    <updated>2026-10-13T00:18:39Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #447: fix(python): encode entity names in route segments</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/447</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/447"/>
-    <updated>2026-10-13T00:18:35Z</updated>
-    <summary>Merged public contribution. +82 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #444: fix(python): give JWT refresh an independent bounded retry</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/444</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/444"/>
-    <updated>2026-10-13T00:18:30Z</updated>
-    <summary>Merged public contribution. +105 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #437: fix(python): ignore unusable Retry-After delays</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/437</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/437"/>
-    <updated>2026-10-13T00:18:26Z</updated>
-    <summary>Merged public contribution. +72 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #469: fix(python): close unsuccessful streaming responses</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/469</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/469"/>
-    <updated>2026-10-13T00:18:22Z</updated>
-    <summary>Merged public contribution. +145 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #463: fix(typescript): finish WebSocket iteration on close</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/463</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/463"/>
-    <updated>2026-10-13T00:18:17Z</updated>
-    <summary>Merged public contribution. +92 / -35 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #453: fix(typescript): share complete SSE event parsing</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/453</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/453"/>
-    <updated>2026-10-13T00:18:12Z</updated>
-    <summary>Merged public contribution. +84 / -56 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #474: fix(typescript): validate HTTP error JSON before status mapping</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/474</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/474"/>
-    <updated>2026-10-13T00:18:07Z</updated>
-    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #440: Guarantee chunk splitting advances at UTF-8 boundaries</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/440</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/440"/>
-    <updated>2026-10-13T00:18:02Z</updated>
-    <summary>Merged public contribution. +95 / -9 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #459: Reserve existing citation IDs before allocating new references</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/459</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/459"/>
-    <updated>2026-10-13T00:17:58Z</updated>
-    <summary>Merged public contribution. +101 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #456: Strip gold reference sections only at actual headings</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/456</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/456"/>
-    <updated>2026-10-13T00:17:52Z</updated>
-    <summary>Merged public contribution. +59 / -9 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #452: Match complete tokens when checking answer groundedness</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/452</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/452"/>
-    <updated>2026-10-13T00:17:48Z</updated>
-    <summary>Merged public contribution. +32 / -3 across 1 changed files.</summary>
   </entry>
 </feed>
