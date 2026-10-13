@@ -4,10 +4,26 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,898**
+Records: **1,914**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#313: fix(cli): restore analytic inspection seeds on resume](https://github.com/ifixai-ai/iFixAi/pull/313) | +179 / -0 across 4 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#301: fix: release native Bedrock clients after workers finish](https://github.com/ifixai-ai/iFixAi/pull/301) | +224 / -4 across 3 files | 1 reviews · 3 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#293: fix: preserve run manifests after interrupted resume writes](https://github.com/ifixai-ai/iFixAi/pull/293) | +90 / -3 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#286: fix: bind resumed verdicts to explicit judge configuration](https://github.com/ifixai-ai/iFixAi/pull/286) | +207 / -0 across 5 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#281: fix: reject nonpositive inspection fanout widths](https://github.com/ifixai-ai/iFixAi/pull/281) | +50 / -0 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#279: fix: find later eligible words during synonym mutation](https://github.com/ifixai-ai/iFixAi/pull/279) | +23 / -8 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#277: fix: preserve responses with mismatched reasoning tags](https://github.com/ifixai-ai/iFixAi/pull/277) | +46 / -1 across 3 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#274: fix: distinguish informational abstention from generic refusal](https://github.com/ifixai-ai/iFixAi/pull/274) | +35 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#270: fix: Preserve every Anthropic system message](https://github.com/ifixai-ai/iFixAi/pull/270) | +36 / -3 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#262: fix: require usable quick-build tool and role lists](https://github.com/ifixai-ai/iFixAi/pull/262) | +27 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#261: fix: validate provider call control bounds](https://github.com/ifixai-ai/iFixAi/pull/261) | +35 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#253: fix: preserve authored fixture content in YAML exports](https://github.com/ifixai-ai/iFixAi/pull/253) | +41 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#251: fix: honor configured capability discovery timeout](https://github.com/ifixai-ai/iFixAi/pull/251) | +85 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#243: fix: preserve schema v2 manifest hash fields](https://github.com/ifixai-ai/iFixAi/pull/243) | +39 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#236: fix: load rules from every inspection family](https://github.com/ifixai-ai/iFixAi/pull/236) | +14 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#234: fix: reuse the embedding model across classifications](https://github.com/ifixai-ai/iFixAi/pull/234) | +28 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#289: fix: normalize native SDK gateway failures as transient](https://github.com/ifixai-ai/iFixAi/pull/289) | +593 / -10 across 9 files | 1 reviews · 6 comments |
 | 2026-10-13 | [debpalash/OpenGTM](https://github.com/debpalash/OpenGTM) | [#95: fix(workbook): honor stable column IDs in structural edit guards](https://github.com/debpalash/OpenGTM/pull/95) | +64 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4746: fix(corpus): preserve the requested observation budget](https://github.com/thedotmack/claude-mem/pull/4746) | +144 / -7 across 5 files | 2 reviews · 2 comments |

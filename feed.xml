@@ -4,8 +4,120 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T18:30:49Z</updated>
+  <updated>2026-10-13T19:20:53Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ifixai-ai/iFixAi #313: fix(cli): restore analytic inspection seeds on resume</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/313</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/313"/>
+    <updated>2026-10-13T19:20:53Z</updated>
+    <summary>Merged public contribution. +179 / -0 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #301: fix: release native Bedrock clients after workers finish</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/301</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/301"/>
+    <updated>2026-10-13T19:20:47Z</updated>
+    <summary>Merged public contribution. +224 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #293: fix: preserve run manifests after interrupted resume writes</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/293</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/293"/>
+    <updated>2026-10-13T19:20:41Z</updated>
+    <summary>Merged public contribution. +90 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #286: fix: bind resumed verdicts to explicit judge configuration</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/286</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/286"/>
+    <updated>2026-10-13T19:20:34Z</updated>
+    <summary>Merged public contribution. +207 / -0 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #281: fix: reject nonpositive inspection fanout widths</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/281</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/281"/>
+    <updated>2026-10-13T19:20:27Z</updated>
+    <summary>Merged public contribution. +50 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #279: fix: find later eligible words during synonym mutation</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/279</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/279"/>
+    <updated>2026-10-13T19:20:21Z</updated>
+    <summary>Merged public contribution. +23 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #277: fix: preserve responses with mismatched reasoning tags</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/277</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/277"/>
+    <updated>2026-10-13T19:20:15Z</updated>
+    <summary>Merged public contribution. +46 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #274: fix: distinguish informational abstention from generic refusal</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/274</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/274"/>
+    <updated>2026-10-13T19:20:09Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #270: fix: Preserve every Anthropic system message</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/270</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/270"/>
+    <updated>2026-10-13T19:20:02Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #262: fix: require usable quick-build tool and role lists</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/262</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/262"/>
+    <updated>2026-10-13T19:19:57Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #261: fix: validate provider call control bounds</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/261</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/261"/>
+    <updated>2026-10-13T19:19:52Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #253: fix: preserve authored fixture content in YAML exports</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/253</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/253"/>
+    <updated>2026-10-13T19:19:46Z</updated>
+    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #251: fix: honor configured capability discovery timeout</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/251</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/251"/>
+    <updated>2026-10-13T19:19:40Z</updated>
+    <summary>Merged public contribution. +85 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #243: fix: preserve schema v2 manifest hash fields</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/243</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/243"/>
+    <updated>2026-10-13T19:19:35Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #236: fix: load rules from every inspection family</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/236</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/236"/>
+    <updated>2026-10-13T19:19:29Z</updated>
+    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #234: fix: reuse the embedding model across classifications</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/234</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/234"/>
+    <updated>2026-10-13T19:19:23Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ifixai-ai/iFixAi #289: fix: normalize native SDK gateway failures as transient</title>
     <id>https://github.com/ifixai-ai/iFixAi/pull/289</id>
@@ -243,117 +355,5 @@
     <link href="https://github.com/morluto/rea/pull/2471"/>
     <updated>2026-10-13T12:51:45Z</updated>
     <summary>Merged public contribution. +55 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1101: fix(nudge): respect the preferred delivery channel for every profile</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1101</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1101"/>
-    <updated>2026-10-13T11:19:06Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1073: fix(voice): handle leading-dash audio filenames throughout examples</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1073</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1073"/>
-    <updated>2026-10-13T11:19:06Z</updated>
-    <summary>Merged public contribution. +4 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1109: fix(marketing): use the current WebMCP tool contract</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1109</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1109"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +53 / -87 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1102: fix(lsp): normalize protocol definition results to locations</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1102</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1102"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1100: fix(collaboration): queue operations before connecting a socket</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1100</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1100"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +8 / -7 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1099: fix(whimsy): count clicks on nested Easter egg elements</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1099</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1099"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1096: fix(email): preserve quotations absent from parent messages</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1096</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1096"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1091: fix(tool-evaluator): measure latency with a monotonic clock</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1091</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1091"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1077: fix(engineering): detect all Unicode private-use ranges in ATS text</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1077</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1077"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1076: fix(engineering): enforce RAG chunk bounds for nonspaced text</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1076</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1076"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1075: fix(security): export matching STIX patterns for admitted IOC types</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1075</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1075"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +13 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1074: fix(design): keep theme controls working when storage is denied</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1074</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1074"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +13 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1072: fix(workflows): preserve zero-cost comparison reports</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1072</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1072"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +7 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1071: fix(support): accept timezone-aware outreach reports</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1071</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1071"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +8 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1070: fix(model-qa): select SHAP outputs before reporting</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1070</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1070"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +15 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1069: fix(jira): validate documented Codex branch wrappers</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1069</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1069"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +5 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
