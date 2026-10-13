@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,896**
+Records: **1,898**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#289: fix: normalize native SDK gateway failures as transient](https://github.com/ifixai-ai/iFixAi/pull/289) | +593 / -10 across 9 files | 1 reviews · 6 comments |
+| 2026-10-13 | [debpalash/OpenGTM](https://github.com/debpalash/OpenGTM) | [#95: fix(workbook): honor stable column IDs in structural edit guards](https://github.com/debpalash/OpenGTM/pull/95) | +64 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4746: fix(corpus): preserve the requested observation budget](https://github.com/thedotmack/claude-mem/pull/4746) | +144 / -7 across 5 files | 2 reviews · 2 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4750: fix(search): match persisted metadata consistently during semantic hydration](https://github.com/thedotmack/claude-mem/pull/4750) | +56 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4748: fix(viewer): preserve distinct native prompt turns in the feed](https://github.com/thedotmack/claude-mem/pull/4748) | +76 / -1 across 2 files | 1 reviews · 2 comments |

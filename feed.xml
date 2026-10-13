@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T17:17:01Z</updated>
+  <updated>2026-10-13T18:30:49Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ifixai-ai/iFixAi #289: fix: normalize native SDK gateway failures as transient</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/289</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/289"/>
+    <updated>2026-10-13T18:30:49Z</updated>
+    <summary>Merged public contribution. +593 / -10 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>debpalash/OpenGTM #95: fix(workbook): honor stable column IDs in structural edit guards</title>
+    <id>https://github.com/debpalash/OpenGTM/pull/95</id>
+    <link href="https://github.com/debpalash/OpenGTM/pull/95"/>
+    <updated>2026-10-13T18:10:30Z</updated>
+    <summary>Merged public contribution. +64 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4746: fix(corpus): preserve the requested observation budget</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4746</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1069"/>
     <updated>2026-10-13T11:19:05Z</updated>
     <summary>Merged public contribution. +5 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1068: fix(backups): preserve failure messages in alert JSON</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1068</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1068"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +4 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1067: fix(compliance): make data category YAML parseable</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1067</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1067"/>
-    <updated>2026-10-13T11:19:05Z</updated>
-    <summary>Merged public contribution. +13 / -10 across 1 changed files.</summary>
   </entry>
 </feed>

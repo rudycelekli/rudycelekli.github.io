@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 593,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 9,
+      "comments": 6,
+      "commits": 6,
+      "created_at": "2026-10-10T17:41:37Z",
+      "deletions": 10,
+      "merged_at": "2026-10-13T18:30:49Z",
+      "number": 289,
+      "repository": "ifixai-ai/iFixAi",
+      "repository_url": "https://github.com/ifixai-ai/iFixAi",
+      "reviews": 1,
+      "title": "fix: normalize native SDK gateway failures as transient",
+      "url": "https://github.com/ifixai-ai/iFixAi/pull/289"
+    },
+    {
+      "additions": 64,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-13T14:00:40Z",
+      "deletions": 2,
+      "merged_at": "2026-10-13T18:10:30Z",
+      "number": 95,
+      "repository": "debpalash/OpenGTM",
+      "repository_url": "https://github.com/debpalash/OpenGTM",
+      "reviews": 0,
+      "title": "fix(workbook): honor stable column IDs in structural edit guards",
+      "url": "https://github.com/debpalash/OpenGTM/pull/95"
+    },
+    {
       "additions": 144,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -30365,7 +30397,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 1896,
+  "record_count": 1898,
   "schema_version": 1,
   "updated_at_utc": "2026-10-13"
 }
