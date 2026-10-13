@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T15:34:43Z</updated>
+  <updated>2026-10-13T16:16:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1234: fix(context): allow literal dots in file path segments</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1234</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1234"/>
+    <updated>2026-10-13T16:16:22Z</updated>
+    <summary>Merged public contribution. +57 / -11 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9778: Accept signed zero in the BigInteger decoder</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9778</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9778"/>
+    <updated>2026-10-13T15:50:00Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #819: fix(cli): keep trace metadata on one row</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/819</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/819"/>
+    <updated>2026-10-13T15:45:03Z</updated>
+    <summary>Merged public contribution. +171 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #818: fix(pricing): report only cache fallbacks used</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/818</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/818"/>
+    <updated>2026-10-13T15:44:10Z</updated>
+    <summary>Merged public contribution. +102 / -3 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>NationalSecurityAgency/ghidra #9821: Correct RGB565 green values and alternate color typedef creation</title>
     <id>https://github.com/NationalSecurityAgency/ghidra/pull/9821</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/morluto/rea/pull/2475"/>
     <updated>2026-10-13T06:51:23Z</updated>
     <summary>Merged public contribution. +106 / -17 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #2472: fix(screenshot): reject invalid PNG header dimensions</title>
-    <id>https://github.com/morluto/rea/pull/2472</id>
-    <link href="https://github.com/morluto/rea/pull/2472"/>
-    <updated>2026-10-13T06:50:45Z</updated>
-    <summary>Merged public contribution. +90 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #109: Align SDK connected-source inputs with the existing native APIs</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/109</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/109"/>
-    <updated>2026-10-13T05:27:53Z</updated>
-    <summary>Merged public contribution. +37 / -41 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #107: Reset dataset preview paging when its current snapshot changes</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/107</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/107"/>
-    <updated>2026-10-13T05:27:44Z</updated>
-    <summary>Merged public contribution. +177 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #110: Exclude SQL literals and comments from Analyst snapshot citations</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/110</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/110"/>
-    <updated>2026-10-13T05:27:34Z</updated>
-    <summary>Merged public contribution. +349 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
