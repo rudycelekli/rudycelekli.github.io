@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T19:20:53Z</updated>
+  <updated>2026-10-13T20:12:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>addyosmani/agent-skills #675: fix(evals): decode quoted skill identities consistently</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/675</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/675"/>
+    <updated>2026-10-13T20:12:29Z</updated>
+    <summary>Merged public contribution. +21 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #676: fix(validation): read top-level command descriptions</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/676</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/676"/>
+    <updated>2026-10-13T20:05:05Z</updated>
+    <summary>Merged public contribution. +36 / -16 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ifixai-ai/iFixAi #313: fix(cli): restore analytic inspection seeds on resume</title>
     <id>https://github.com/ifixai-ai/iFixAi/pull/313</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9791"/>
     <updated>2026-10-13T13:58:57Z</updated>
     <summary>Merged public contribution. +156 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9786: Report recursive archive cancellation as incomplete</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9786</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9786"/>
-    <updated>2026-10-13T13:58:57Z</updated>
-    <summary>Merged public contribution. +138 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #2471: fix(process): resolve POSIX backslash basenames through PATH</title>
-    <id>https://github.com/morluto/rea/pull/2471</id>
-    <link href="https://github.com/morluto/rea/pull/2471"/>
-    <updated>2026-10-13T12:51:45Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
