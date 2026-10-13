@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T14:57:30Z</updated>
+  <updated>2026-10-13T15:34:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9821: Correct RGB565 green values and alternate color typedef creation</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9821</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9821"/>
+    <updated>2026-10-13T15:34:43Z</updated>
+    <summary>Merged public contribution. +4 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #264: fix: validate inspection definitions before parsing plans</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/264</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/264"/>
+    <updated>2026-10-13T15:17:04Z</updated>
+    <summary>Merged public contribution. +71 / -21 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #238: fix: honor explicit tool exclusions in session objectives</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/238</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/238"/>
+    <updated>2026-10-13T15:16:58Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #310: fix: restrict inferred destructive tools in discovered audit fixtures</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/310</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/310"/>
+    <updated>2026-10-13T15:16:52Z</updated>
+    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1229: fix(gate): close probe connections before releasing the lane</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1229</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1229"/>
+    <updated>2026-10-13T15:08:15Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #421: fix(import): ignore Mermaid samples inside outer Markdown fences</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/421</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/HelixDB/helix-foundry/pull/110"/>
     <updated>2026-10-13T05:27:34Z</updated>
     <summary>Merged public contribution. +349 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #92: Let dataset owners protect additional sensitive columns</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/92</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/92"/>
-    <updated>2026-10-13T04:39:27Z</updated>
-    <summary>Merged public contribution. +799 / -27 across 12 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3732: fix(memory): retain originating turns after long tool workflows</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3732</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3732"/>
-    <updated>2026-10-13T02:24:05Z</updated>
-    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3728: fix(role): retain consistent tags when importing overrides</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3728</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3728"/>
-    <updated>2026-10-13T02:24:00Z</updated>
-    <summary>Merged public contribution. +42 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #17: fix: allow retry after interrupted engine preparation</title>
-    <id>https://github.com/liseami/CCBaga/pull/17</id>
-    <link href="https://github.com/liseami/CCBaga/pull/17"/>
-    <updated>2026-10-13T01:10:11Z</updated>
-    <summary>Merged public contribution. +236 / -7 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #16: fix: retain installer recovery copies when rollback fails</title>
-    <id>https://github.com/liseami/CCBaga/pull/16</id>
-    <link href="https://github.com/liseami/CCBaga/pull/16"/>
-    <updated>2026-10-13T01:10:11Z</updated>
-    <summary>Merged public contribution. +125 / -26 across 5 changed files.</summary>
   </entry>
 </feed>

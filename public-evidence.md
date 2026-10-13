@@ -7,58 +7,58 @@ This is an automatically synchronized rendering of the public GitHub evidence le
 ## Summary
 
 - Verified upstream projects: 45
-- Attributed commits: 2,278
-- Merged pull requests: 1,876
-- Accepted line changes: 223,644 (+203,737 / -19,907)
-- Combined repository stars: 2,119,979
+- Attributed commits: 2,282
+- Merged pull requests: 1,881
+- Accepted line changes: 223,923 (+203,988 / -19,935)
+- Combined repository stars: 2,121,673
 - Owned public repositories discovered: 26
 
 ## Verified upstream contributions
 
 | Project | Evidence | Rank | Commits | Merged PRs | Accepted lines (+ / -) | Reach |
 |:--|:--|--:|--:|--:|--:|--:|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | GitHub-listed contributor | #2 | 187 | 186 | +22,995 / -1,986 | 100,307 stars |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | GitHub-listed contributor | #2 | 184 | 184 | +14,884 / -1,214 | 7,372 stars |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | GitHub-listed contributor | #2 | 162 | 162 | +13,830 / -1,020 | 130,470 stars |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | GitHub-listed contributor | #2 | 160 | 148 | +2,750 / -971 | 159,757 stars |
-| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | GitHub-listed contributor | #1 | 145 | 145 | +11,970 / -750 | 25,473 stars |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | GitHub-listed contributor | #2 | 288 | 140 | +12,318 / -1,580 | 74,503 stars |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | GitHub-listed contributor | #2 | 176 | 136 | +10,577 / -1,206 | 54,502 stars |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | GitHub-listed contributor | #2 | 187 | 186 | +22,995 / -1,986 | 100,320 stars |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | GitHub-listed contributor | #2 | 184 | 185 | +14,922 / -1,215 | 7,374 stars |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | GitHub-listed contributor | #2 | 162 | 162 | +13,830 / -1,020 | 130,474 stars |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | GitHub-listed contributor | #2 | 160 | 148 | +2,750 / -971 | 159,772 stars |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | GitHub-listed contributor | #1 | 148 | 148 | +12,179 / -773 | 25,535 stars |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | GitHub-listed contributor | #2 | 288 | 140 | +12,318 / -1,580 | 74,506 stars |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | GitHub-listed contributor | #2 | 176 | 136 | +10,577 / -1,206 | 54,507 stars |
 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | GitHub-listed contributor | #2 | 203 | 132 | +21,061 / -3,166 | 499 stars |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | GitHub-listed contributor | #5 | 122 | 114 | +9,932 / -885 | 47,379 stars |
-| [morluto/rea](https://github.com/morluto/rea) | GitHub-listed contributor | #4 | 90 | 82 | +32,716 / -2,956 | 193,789 stars |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | GitHub-listed contributor | #5 | 122 | 114 | +9,932 / -885 | 47,380 stars |
+| [morluto/rea](https://github.com/morluto/rea) | GitHub-listed contributor | #4 | 90 | 82 | +32,716 / -2,956 | 195,087 stars |
 | [debpalash/OpenGTM](https://github.com/debpalash/OpenGTM) | GitHub-listed contributor | #2 | 53 | 48 | +4,412 / -233 | 48 stars |
 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | GitHub-listed contributor | #3 | 48 | 48 | +6,131 / -809 | 5,300 stars |
-| [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | GitHub-listed contributor | #2 | 48 | 35 | +2,402 / -259 | 2,229 stars |
+| [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | GitHub-listed contributor | #2 | 48 | 35 | +2,402 / -259 | 2,230 stars |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | GitHub-listed contributor | #4 | 46 | 30 | +7,814 / -1,221 | 39,863 stars |
-| [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | GitHub-listed contributor | #1 | 30 | 30 | +6,597 / -269 | 1,383 stars |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | GitHub-listed contributor | #2 | 33 | 29 | +1,789 / -119 | 7,679 stars |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | GitHub-listed contributor | #13 | 24 | 24 | +1,546 / -116 | 49,110 stars |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | GitHub-listed contributor | #4 | 23 | 23 | +1,302 / -126 | 9,945 stars |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | GitHub-listed contributor | #9 | 39 | 21 | +1,486 / -77 | 41,678 stars |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | GitHub-listed contributor | #11 | 33 | 20 | +1,294 / -108 | 35,392 stars |
+| [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | GitHub-listed contributor | #1 | 30 | 30 | +6,597 / -269 | 1,387 stars |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | GitHub-listed contributor | #2 | 33 | 29 | +1,789 / -119 | 7,737 stars |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | GitHub-listed contributor | #13 | 24 | 24 | +1,546 / -116 | 49,119 stars |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | GitHub-listed contributor | #4 | 23 | 23 | +1,302 / -126 | 9,952 stars |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | GitHub-listed contributor | #9 | 39 | 21 | +1,486 / -77 | 41,679 stars |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | GitHub-listed contributor | #11 | 33 | 20 | +1,294 / -108 | 35,395 stars |
 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | GitHub-listed contributor | #3 | 25 | 19 | +3,528 / -165 | 1,048 stars |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | GitHub-listed contributor | #6 | 38 | 18 | +2,522 / -134 | 61,959 stars |
-| [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) | GitHub-listed contributor | #1 | 19 | 17 | +2,055 / -78 | 5,747 stars |
-| [deeplethe/utopia](https://github.com/deeplethe/utopia) | GitHub-listed contributor | #5 | 13 | 13 | +303 / -32 | 8,322 stars |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | GitHub-listed contributor | #6 | 38 | 18 | +2,522 / -134 | 62,056 stars |
+| [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) | GitHub-listed contributor | #1 | 19 | 17 | +2,055 / -78 | 5,748 stars |
+| [deeplethe/utopia](https://github.com/deeplethe/utopia) | GitHub-listed contributor | #5 | 13 | 13 | +303 / -32 | 8,324 stars |
 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | GitHub-listed contributor | #13 | 12 | 12 | +1,088 / -45 | 4,439 stars |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub-listed contributor | #5 | 10 | 12 | +1,270 / -118 | 53,623 stars |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub-listed contributor | #5 | 10 | 12 | +1,270 / -118 | 53,662 stars |
 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | GitHub-listed contributor | #8 | 11 | 7 | +1,027 / -44 | 293 stars |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | GitHub-listed contributor | #10 | 7 | 7 | +127 / -4 | 106,021 stars |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | GitHub-listed contributor | #10 | 7 | 7 | +127 / -4 | 106,032 stars |
 | [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | GitHub-listed contributor | #2 | 7 | 7 | +715 / -33 | 262 stars |
-| [liseami/CCBaga](https://github.com/liseami/CCBaga) | GitHub-listed contributor | #4 | 6 | 5 | +698 / -51 | 2,002 stars |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | GitHub-listed contributor | #9 | 4 | 4 | +355 / -12 | 67,832 stars |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Default-branch commit verified | - | 3 | 3 | +664 / -16 | 391,854 stars |
-| [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | GitHub-listed contributor | #8 | 3 | 3 | +77 / -5 | 11,054 stars |
+| [liseami/CCBaga](https://github.com/liseami/CCBaga) | GitHub-listed contributor | #4 | 6 | 5 | +698 / -51 | 2,010 stars |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | GitHub-listed contributor | #9 | 4 | 4 | +355 / -12 | 67,843 stars |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Default-branch commit verified | - | 3 | 3 | +664 / -16 | 391,856 stars |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | GitHub-listed contributor | #82 | 3 | 3 | +298 / -9 | 85,992 stars |
+| [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | GitHub-listed contributor | #8 | 3 | 3 | +77 / -5 | 11,050 stars |
 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | GitHub-listed contributor | #25 | 3 | 3 | +398 / -50 | 9,159 stars |
-| [rociiu/talorys](https://github.com/rociiu/talorys) | GitHub-listed contributor | #6 | 3 | 3 | +306 / -31 | 930 stars |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | GitHub-listed contributor | #141 | 2 | 2 | +294 / -5 | 85,969 stars |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | GitHub-listed contributor | #302 | 1 | 1 | +332 / -6 | 42,708 stars |
+| [rociiu/talorys](https://github.com/rociiu/talorys) | GitHub-listed contributor | #6 | 3 | 3 | +306 / -31 | 932 stars |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | GitHub-listed contributor | #302 | 1 | 1 | +332 / -6 | 42,707 stars |
 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | GitHub-listed contributor | #41 | 1 | 1 | +1 / -1 | 711 stars |
 | [mohit67890/imajev](https://github.com/mohit67890/imajev) | GitHub-listed contributor | #2 | 1 | 1 | +164 / -2 | 377 stars |
 | [ktwu01/benchmark-radar-paper](https://github.com/ktwu01/benchmark-radar-paper) | GitHub-listed contributor | #6 | 1 | 1 | +7 / -4 | 2 stars |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Default-branch commit verified | - | 4 | 0 | +0 / -0 | 253,359 stars |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | GitHub graph verified | - | 3 | 0 | +0 / -0 | 19,864 stars |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Default-branch commit verified | - | 4 | 0 | +0 / -0 | 253,364 stars |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | GitHub graph verified | - | 3 | 0 | +0 / -0 | 19,876 stars |
 | [openclaw/goplaces](https://github.com/openclaw/goplaces) | GitHub graph verified | - | 3 | 0 | +0 / -0 | 261 stars |
 | [openclaw/mcporter](https://github.com/openclaw/mcporter) | GitHub graph verified | - | 2 | 0 | +0 / -0 | 5,058 stars |
 | [steipete/poltergeist](https://github.com/steipete/poltergeist) | GitHub graph verified | - | 2 | 0 | +0 / -0 | 447 stars |
@@ -69,9 +69,9 @@ Ownership is reported separately and is not counted as upstream contributor cred
 
 | Project | Description | Commits | Reach |
 |:--|:--|--:|--:|
-| [ProofSeal](https://github.com/rudycelekli/proofseal) | Regression memory for coding agents — seal how your repo behaves, then check over MCP (or in CI) that an edit didn't regress it: pass/drift/regressed/missing. With seal history, bisection, and staleness queries. | 13 | 4 stars |
+| [ProofSeal](https://github.com/rudycelekli/proofseal) | Regression memory for coding agents — seal how your repo behaves, then check over MCP (or in CI) that an edit didn't regress it: pass/drift/regressed/missing. With seal history, bisection, and staleness queries. | 14 | 4 stars |
 | [Gradia Guard](https://github.com/rudycelekli/gradia-guard) | Open-source, proof-bound evidence recorder and verifier for explicit AI-system execution boundaries. | 10 | 3 stars |
-| [TestLore](https://github.com/rudycelekli/testlore) | Build better tests. Run what matters. Remember what worked. An open-source test intelligence and quality engineering layer. | 266 | 2 stars |
+| [TestLore](https://github.com/rudycelekli/testlore) | Build better tests. Run what matters. Remember what worked. An open-source test intelligence and quality engineering layer. | 267 | 2 stars |
 | [code-transplant](https://github.com/rudycelekli/code-transplant) | Gradia Research: move TypeScript parsers between programs with dependency capsules and reproducible behavioral evidence. | 2 | 2 stars |
 | [rudycelekli.github.io](https://github.com/rudycelekli/rudycelekli.github.io) | Canonical research profile for Rudy Mizrahi Celekli: verifiable AI agents, evaluator robustness, and open-source evidence. | 3 | 0 stars |
 | [lifeweave](https://github.com/rudycelekli/lifeweave) | Local-first proactive intelligent UI for chosen goals, consented evidence and working personal or business surfaces. | 6 | 0 stars |
