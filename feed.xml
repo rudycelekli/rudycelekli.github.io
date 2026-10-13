@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T13:58:57Z</updated>
+  <updated>2026-10-13T14:34:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1228: fix(slack): preserve interaction reply provenance</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1228</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1228"/>
+    <updated>2026-10-13T14:34:56Z</updated>
+    <summary>Merged public contribution. +75 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #387: fix(export): preserve live references alongside commented defs</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/387</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/387"/>
+    <updated>2026-10-13T14:20:27Z</updated>
+    <summary>Merged public contribution. +134 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1066: fix(mcp): preserve structured JSON through task result round trips</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1066</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1066"/>
+    <updated>2026-10-13T14:14:48Z</updated>
+    <summary>Merged public contribution. +76 / -5 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1073: fix(transport): allow registration hooks to close in-process sessions</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1073</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1073"/>
+    <updated>2026-10-13T14:14:35Z</updated>
+    <summary>Merged public contribution. +106 / -33 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1061: fix(client): preserve supplied initial round trip parameters</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1061</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1061"/>
+    <updated>2026-10-13T14:14:07Z</updated>
+    <summary>Merged public contribution. +216 / -12 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #423: fix(export): preserve CSS selector literals while scoping</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/423</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/423"/>
+    <updated>2026-10-13T14:05:12Z</updated>
+    <summary>Merged public contribution. +81 / -7 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>NationalSecurityAgency/ghidra #9791: Preserve long source sizes in file copy progress</title>
     <id>https://github.com/NationalSecurityAgency/ghidra/pull/9791</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/liseami/CCBaga/pull/13"/>
     <updated>2026-10-13T01:10:11Z</updated>
     <summary>Merged public contribution. +42 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #333: fix(charts): parse complete displayed numeric tokens</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/333</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/333"/>
-    <updated>2026-10-13T01:08:52Z</updated>
-    <summary>Merged public contribution. +159 / -10 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #415: fix(import): report excessive Excalidraw JSON nesting</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/415</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/415"/>
-    <updated>2026-10-13T00:37:36Z</updated>
-    <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #446: fix(swift): propagate request body encoding errors</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/446</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/446"/>
-    <updated>2026-10-13T00:19:57Z</updated>
-    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #454: fix(swift): preserve native numeric values in AnyCodable</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/454</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/454"/>
-    <updated>2026-10-13T00:19:53Z</updated>
-    <summary>Merged public contribution. +44 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #448: fix(ruby): encode spaces correctly in path segments</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/448</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/448"/>
-    <updated>2026-10-13T00:19:49Z</updated>
-    <summary>Merged public contribution. +43 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #450: fix(ruby): match bulk conversation request contracts</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/450</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/450"/>
-    <updated>2026-10-13T00:19:43Z</updated>
-    <summary>Merged public contribution. +51 / -5 across 3 changed files.</summary>
   </entry>
 </feed>
