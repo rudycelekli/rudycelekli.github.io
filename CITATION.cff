@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this public evidence index, cite it with the evidence timestamp and linked primary sources."
+title: "Rudy Celekli Public Research Evidence Index"
+type: dataset
+authors:
+  - family-names: Celekli
+    given-names: Rudy Mizrahi
+    orcid: "https://orcid.org/0009-0000-7043-3766"
+repository-code: "https://github.com/rudycelekli/rudycelekli.github.io"
+url: "https://rudycelekli.github.io/"
+license: MIT
+keywords:
+  - AI agent evaluation
+  - long-horizon agents
+  - evaluator robustness
+  - deterministic replay
+  - open-source contributions

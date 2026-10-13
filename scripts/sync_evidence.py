@@ -7,6 +7,7 @@ import argparse
 import json
 import pathlib
 import urllib.request
+from xml.sax.saxutils import escape
 
 
 DEFAULT_SOURCE = (
@@ -71,6 +72,25 @@ def compact_owned(repo: dict) -> dict:
     }
 
 
+def compact_activity(pull_request: dict) -> dict:
+    return {
+        "repository": pull_request["repository"],
+        "repository_url": pull_request["repository_url"],
+        "number": int(pull_request["number"]),
+        "title": pull_request["title"],
+        "url": pull_request["url"],
+        "created_at": pull_request.get("created_at"),
+        "merged_at": pull_request.get("merged_at"),
+        "additions": int(pull_request["additions"]),
+        "deletions": int(pull_request["deletions"]),
+        "changed_files": int(pull_request["changed_files"]),
+        "commits": int(pull_request["commits"]),
+        "comments": int(pull_request["comments"]),
+        "reviews": int(pull_request["reviews"]),
+        "attribution": pull_request["attribution"],
+    }
+
+
 def build_evidence(source: dict, source_url: str) -> dict:
     required = {"repositories", "owned_repositories", "methodology", "updated_at_utc"}
     missing = required.difference(source)
@@ -79,6 +99,10 @@ def build_evidence(source: dict, source_url: str) -> dict:
 
     contributions = [compact_contribution(repo) for repo in source["repositories"]]
     owned = [compact_owned(repo) for repo in source["owned_repositories"]]
+    activity = [
+        compact_activity(pull_request)
+        for pull_request in source.get("merged_pull_requests", [])
+    ]
     additions = sum(repo["accepted_additions"] for repo in contributions)
     deletions = sum(repo["accepted_deletions"] for repo in contributions)
 
@@ -107,6 +131,7 @@ def build_evidence(source: dict, source_url: str) -> dict:
             "verified_upstream_projects": len(contributions),
             "attributed_commits": sum(repo["attributed_commits"] for repo in contributions),
             "merged_pull_requests": sum(repo["merged_pull_requests"] for repo in contributions),
+            "merged_pull_request_records": len(activity),
             "accepted_additions": additions,
             "accepted_deletions": deletions,
             "accepted_line_changes": additions + deletions,
@@ -115,6 +140,7 @@ def build_evidence(source: dict, source_url: str) -> dict:
         },
         "upstream_contributions": contributions,
         "owned_public_projects": owned,
+        "merged_pull_request_activity": activity,
     }
 
 
@@ -217,6 +243,8 @@ def full_context(evidence: dict) -> str:
         "",
         "Full evidence: " + CANONICAL + "/public-evidence.md",
         "Machine-readable evidence: " + CANONICAL + "/data/public-evidence.json",
+        "Accepted-work activity: " + CANONICAL + "/activity.md",
+        "Accepted-work activity JSON: " + CANONICAL + "/data/activity.json",
         "Claim and source map: " + CANONICAL + "/sources.md",
         "Canonical profile: " + CANONICAL + "/",
         "",
@@ -229,11 +257,101 @@ def full_context(evidence: dict) -> str:
     ])
 
 
+def activity_markdown(evidence: dict) -> str:
+    activity = evidence["merged_pull_request_activity"]
+    rows = [
+        "# Public merged contribution activity for Rudy Mizrahi Celekli",
+        "",
+        f"Evidence timestamp: **{evidence['updated_at_utc']} UTC**",
+        "",
+        "Every row is a public pull request authored by Rudy Celekli and reported "
+        "as merged by GitHub. This is accepted-work evidence, not a claim that every "
+        "line or repository outcome belongs to one contributor.",
+        "",
+        f"Records: **{len(activity):,}**",
+        "",
+        "| Merged | Repository | Pull request | Changes | Review evidence |",
+        "|:--|:--|:--|--:|--:|",
+    ]
+    for item in activity:
+        title = str(item["title"]).replace("|", "\\|")
+        merged = str(item.get("merged_at") or "")[:10]
+        rows.append(
+            f"| {merged} | [{item['repository']}]({item['repository_url']}) | "
+            f"[#{item['number']}: {title}]({item['url']}) | "
+            f"+{number(item['additions'])} / -{number(item['deletions'])} across "
+            f"{number(item['changed_files'])} files | "
+            f"{number(item['reviews'])} reviews · {number(item['comments'])} comments |"
+        )
+    rows.extend([
+        "",
+        "Machine-readable activity: " + CANONICAL + "/data/activity.json",
+        "Canonical evidence method: " + CANONICAL + "/sources.md",
+        "",
+    ])
+    return "\n".join(rows)
+
+
+def activity_payload(evidence: dict) -> dict:
+    return {
+        "schema_version": 1,
+        "identity": evidence["identity"],
+        "updated_at_utc": evidence["updated_at_utc"],
+        "provenance": evidence["provenance"],
+        "record_count": len(evidence["merged_pull_request_activity"]),
+        "items": evidence["merged_pull_request_activity"],
+    }
+
+
+def atom_feed(evidence: dict, limit: int = 50) -> str:
+    activity = evidence["merged_pull_request_activity"][:limit]
+    updated = (
+        str(activity[0].get("merged_at"))
+        if activity
+        else f"{evidence['updated_at_utc']}T00:00:00Z"
+    )
+    rows = [
+        '<?xml version="1.0" encoding="utf-8"?>',
+        '<feed xmlns="http://www.w3.org/2005/Atom">',
+        "  <title>Rudy Celekli accepted open-source work</title>",
+        f"  <id>{CANONICAL}/feed.xml</id>",
+        f"  <link href=\"{CANONICAL}/feed.xml\" rel=\"self\"/>",
+        f"  <link href=\"{CANONICAL}/activity.md\"/>",
+        f"  <updated>{escape(updated)}</updated>",
+        "  <author><name>Rudy Mizrahi Celekli</name></author>",
+    ]
+    for item in activity:
+        title = escape(f"{item['repository']} #{item['number']}: {item['title']}")
+        url = escape(str(item["url"]), {'"': '&quot;'})
+        merged_at = escape(str(item.get("merged_at") or updated))
+        summary = escape(
+            f"Merged public contribution. +{item['additions']} / -{item['deletions']} "
+            f"across {item['changed_files']} changed files."
+        )
+        rows.extend([
+            "  <entry>",
+            f"    <title>{title}</title>",
+            f"    <id>{url}</id>",
+            f"    <link href=\"{url}\"/>",
+            f"    <updated>{merged_at}</updated>",
+            f"    <summary>{summary}</summary>",
+            "  </entry>",
+        ])
+    rows.append("</feed>")
+    return "\n".join(rows) + "\n"
+
+
 def write_outputs(evidence: dict, output_dir: pathlib.Path) -> None:
     data_dir = output_dir / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
+    public_evidence = {
+        key: value
+        for key, value in evidence.items()
+        if key != "merged_pull_request_activity"
+    }
+    public_evidence["accepted_activity_url"] = f"{CANONICAL}/data/activity.json"
     (data_dir / "public-evidence.json").write_text(
-        json.dumps(evidence, indent=2, sort_keys=True) + "\n",
+        json.dumps(public_evidence, indent=2, sort_keys=True) + "\n",
         encoding="utf-8",
     )
     (output_dir / "public-evidence.md").write_text(
@@ -242,6 +360,14 @@ def write_outputs(evidence: dict, output_dir: pathlib.Path) -> None:
     (output_dir / "llms-full.txt").write_text(
         full_context(evidence), encoding="utf-8"
     )
+    (data_dir / "activity.json").write_text(
+        json.dumps(activity_payload(evidence), indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    (output_dir / "activity.md").write_text(
+        activity_markdown(evidence), encoding="utf-8"
+    )
+    (output_dir / "feed.xml").write_text(atom_feed(evidence), encoding="utf-8")
 
 
 def main() -> None:

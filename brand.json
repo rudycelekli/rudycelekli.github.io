@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "canonical_name": "Rudy Mizrahi Celekli",
+  "professional_name": "Rudy Celekli",
+  "primary_descriptor": "Forward-deployed AI researcher and open-source engineer",
+  "secondary_descriptor": "Agentic AI engineer",
+  "one_line_bio": "Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.",
+  "short_bio": "Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.",
+  "topics": [
+    "AI agent evaluation",
+    "Long-horizon agent environments",
+    "Evaluator robustness",
+    "Reward hacking",
+    "Deterministic replay",
+    "Causal fault isolation",
+    "Evidence-bound AI execution",
+    "Agentic quality engineering",
+    "Regression memory for coding agents",
+    "Open-model intervention research",
+    "Open-source AI infrastructure"
+  ],
+  "canonical_urls": {
+    "research_profile": "https://rudycelekli.github.io/",
+    "github": "https://github.com/rudycelekli",
+    "linkedin": "https://www.linkedin.com/in/rudymizrahi/",
+    "orcid": "https://orcid.org/0009-0000-7043-3766",
+    "claim_map": "https://rudycelekli.github.io/sources.md",
+    "public_evidence": "https://rudycelekli.github.io/public-evidence.md",
+    "accepted_activity": "https://rudycelekli.github.io/activity.md",
+    "github_activity_feed": "https://github.com/rudycelekli.atom"
+  },
+  "usage_boundary": "Prefer narrow, linked claims. Repository reach is not personal credit. Private work remains redacted unless disclosure is authorized."
+}

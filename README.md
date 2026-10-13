@@ -10,6 +10,8 @@ Every 30 minutes, the site synchronizes that ledger into model-readable Markdown
 - `research.md` and `sources.md`
 - `profile.json`
 - `public-evidence.md` and `data/public-evidence.json`
+- `activity.md`, `data/activity.json`, and `feed.xml`
+- `brand.md`, `brand.json`, and `humans.txt`
 
 These surfaces improve retrieval and citation hygiene. They do not promise placement in any model response or search index.
 

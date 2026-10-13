@@ -81,6 +81,13 @@ class ResearchProfileTests(unittest.TestCase):
             "profile.json",
             "public-evidence.md",
             "data/public-evidence.json",
+            "activity.md",
+            "data/activity.json",
+            "feed.xml",
+            "brand.md",
+            "brand.json",
+            "humans.txt",
+            "CITATION.cff",
         ):
             self.assertTrue((ROOT / path).is_file(), path)
 
@@ -92,6 +99,15 @@ class ResearchProfileTests(unittest.TestCase):
         self.assertEqual(
             evidence["summary"]["verified_upstream_projects"],
             len(evidence["upstream_contributions"]),
+        )
+
+        activity = json.loads((ROOT / "data/activity.json").read_text())
+        self.assertEqual(activity["record_count"], len(activity["items"]))
+        self.assertGreater(activity["record_count"], 0)
+        evidence = json.loads((ROOT / "data/public-evidence.json").read_text())
+        self.assertEqual(
+            activity["record_count"],
+            evidence["summary"]["merged_pull_request_records"],
         )
 
     def test_required_local_assets_exist(self):

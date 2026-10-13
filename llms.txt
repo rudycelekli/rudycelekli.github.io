@@ -10,11 +10,16 @@ This file is a supplementary navigation aid for model-facing tools. It is not a 
 - [Research profile in Markdown](https://rudycelekli.github.io/research.md): Concise text version of the public research identity.
 - [Full model context](https://rudycelekli.github.io/llms-full.txt): Research identity plus the latest automatically synchronized public-evidence summary.
 - [Machine-readable profile](https://rudycelekli.github.io/profile.json): Stable identity, topics, and verified public identity links.
+- [Brand source](https://rudycelekli.github.io/brand.md): Approved names, bios, technical topics, language, and claim boundaries.
+- [Brand source as JSON](https://rudycelekli.github.io/brand.json): Reusable structured identity language for tools and directories.
 
 ## Evidence
 
 - [Current public evidence](https://rudycelekli.github.io/public-evidence.md): Automatically refreshed contribution and owned-project ledger in Markdown.
 - [Current public evidence as JSON](https://rudycelekli.github.io/data/public-evidence.json): Structured public contribution data with provenance and claim boundaries.
+- [Merged contribution activity](https://rudycelekli.github.io/activity.md): One receipt per public authored merged pull request.
+- [Merged contribution activity as JSON](https://rudycelekli.github.io/data/activity.json): Complete structured accepted-work feed.
+- [Accepted-work Atom feed](https://rudycelekli.github.io/feed.xml): Latest public merged contributions for feed readers and retrieval systems.
 - [Source and claim map](https://rudycelekli.github.io/sources.md): Which public source supports each identity or role claim.
 - [GitHub evidence profile](https://github.com/rudycelekli#open-source-impact-verified): Primary live contribution ledger and visual proof.
 - [Upstream evidence dataset](https://github.com/rudycelekli/rudycelekli/blob/main/data/contributions.json): Source data refreshed by GitHub Actions.

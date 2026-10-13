@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rudy Celekli accepted open-source work</title>
+  <id>https://rudycelekli.github.io/feed.xml</id>
+  <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
+  <link href="https://rudycelekli.github.io/activity.md"/>
+  <updated>2026-10-13T02:24:05Z</updated>
+  <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3732: fix(memory): retain originating turns after long tool workflows</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3732</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3732"/>
+    <updated>2026-10-13T02:24:05Z</updated>
+    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3728: fix(role): retain consistent tags when importing overrides</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3728</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3728"/>
+    <updated>2026-10-13T02:24:00Z</updated>
+    <summary>Merged public contribution. +42 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #17: fix: allow retry after interrupted engine preparation</title>
+    <id>https://github.com/liseami/CCBaga/pull/17</id>
+    <link href="https://github.com/liseami/CCBaga/pull/17"/>
+    <updated>2026-10-13T01:10:11Z</updated>
+    <summary>Merged public contribution. +236 / -7 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #16: fix: retain installer recovery copies when rollback fails</title>
+    <id>https://github.com/liseami/CCBaga/pull/16</id>
+    <link href="https://github.com/liseami/CCBaga/pull/16"/>
+    <updated>2026-10-13T01:10:11Z</updated>
+    <summary>Merged public contribution. +125 / -26 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #15: fix: replace stale Linux browser build resources</title>
+    <id>https://github.com/liseami/CCBaga/pull/15</id>
+    <link href="https://github.com/liseami/CCBaga/pull/15"/>
+    <updated>2026-10-13T01:10:11Z</updated>
+    <summary>Merged public contribution. +186 / -7 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #14: fix: require platform checksum coverage before release assembly</title>
+    <id>https://github.com/liseami/CCBaga/pull/14</id>
+    <link href="https://github.com/liseami/CCBaga/pull/14"/>
+    <updated>2026-10-13T01:10:11Z</updated>
+    <summary>Merged public contribution. +109 / -5 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #13: fix: preserve working Linux installations when browser resources are incomplete</title>
+    <id>https://github.com/liseami/CCBaga/pull/13</id>
+    <link href="https://github.com/liseami/CCBaga/pull/13"/>
+    <updated>2026-10-13T01:10:11Z</updated>
+    <summary>Merged public contribution. +42 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #333: fix(charts): parse complete displayed numeric tokens</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/333</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/333"/>
+    <updated>2026-10-13T01:08:52Z</updated>
+    <summary>Merged public contribution. +159 / -10 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #415: fix(import): report excessive Excalidraw JSON nesting</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/415</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/415"/>
+    <updated>2026-10-13T00:37:36Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #446: fix(swift): propagate request body encoding errors</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/446</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/446"/>
+    <updated>2026-10-13T00:19:57Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #454: fix(swift): preserve native numeric values in AnyCodable</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/454</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/454"/>
+    <updated>2026-10-13T00:19:53Z</updated>
+    <summary>Merged public contribution. +44 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #448: fix(ruby): encode spaces correctly in path segments</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/448</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/448"/>
+    <updated>2026-10-13T00:19:49Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #450: fix(ruby): match bulk conversation request contracts</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/450</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/450"/>
+    <updated>2026-10-13T00:19:43Z</updated>
+    <summary>Merged public contribution. +51 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #451: fix(ruby): send username in login requests</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/451</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/451"/>
+    <updated>2026-10-13T00:19:38Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #457: fix(ruby): match entity merge request fields</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/457</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/457"/>
+    <updated>2026-10-13T00:19:33Z</updated>
+    <summary>Merged public contribution. +39 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #460: fix(ruby): send display_name when updating users</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/460</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/460"/>
+    <updated>2026-10-13T00:19:29Z</updated>
+    <summary>Merged public contribution. +42 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #462: fix(ruby): consume SSE events from query and chat streams</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/462</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/462"/>
+    <updated>2026-10-13T00:19:24Z</updated>
+    <summary>Merged public contribution. +93 / -2 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #475: fix(go): retain document batch tracking progress</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/475</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/475"/>
+    <updated>2026-10-13T00:19:20Z</updated>
+    <summary>Merged public contribution. +100 / -17 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #473: fix(go): decode pipeline progress and queue metrics</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/473</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/473"/>
+    <updated>2026-10-13T00:19:14Z</updated>
+    <summary>Merged public contribution. +183 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #472: fix(go): decode canonical budget spend and alert state</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/472</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/472"/>
+    <updated>2026-10-13T00:19:10Z</updated>
+    <summary>Merged public contribution. +78 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #468: fix(go): decode canonical cost history values</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/468</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/468"/>
+    <updated>2026-10-13T00:19:06Z</updated>
+    <summary>Merged public contribution. +93 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #465: fix(go): decode canonical user identifiers and envelopes</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/465</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/465"/>
+    <updated>2026-10-13T00:19:02Z</updated>
+    <summary>Merged public contribution. +119 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #445: fix(go): preserve structured errors from raw operations</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/445</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/445"/>
+    <updated>2026-10-13T00:18:58Z</updated>
+    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #439: fix(go): close export response bodies before retries</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/439</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/439"/>
+    <updated>2026-10-13T00:18:54Z</updated>
+    <summary>Merged public contribution. +80 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #443: fix(python): parse complete SSE data events</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/443</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/443"/>
+    <updated>2026-10-13T00:18:49Z</updated>
+    <summary>Merged public contribution. +139 / -31 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #435: fix(python): preserve pagination cursor when fetching fails</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/435</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/435"/>
+    <updated>2026-10-13T00:18:44Z</updated>
+    <summary>Merged public contribution. +55 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #438: fix(python): preserve caller upload metadata</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/438</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/438"/>
+    <updated>2026-10-13T00:18:39Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #447: fix(python): encode entity names in route segments</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/447</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/447"/>
+    <updated>2026-10-13T00:18:35Z</updated>
+    <summary>Merged public contribution. +82 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #444: fix(python): give JWT refresh an independent bounded retry</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/444</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/444"/>
+    <updated>2026-10-13T00:18:30Z</updated>
+    <summary>Merged public contribution. +105 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #437: fix(python): ignore unusable Retry-After delays</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/437</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/437"/>
+    <updated>2026-10-13T00:18:26Z</updated>
+    <summary>Merged public contribution. +72 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #469: fix(python): close unsuccessful streaming responses</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/469</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/469"/>
+    <updated>2026-10-13T00:18:22Z</updated>
+    <summary>Merged public contribution. +145 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #463: fix(typescript): finish WebSocket iteration on close</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/463</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/463"/>
+    <updated>2026-10-13T00:18:17Z</updated>
+    <summary>Merged public contribution. +92 / -35 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #453: fix(typescript): share complete SSE event parsing</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/453</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/453"/>
+    <updated>2026-10-13T00:18:12Z</updated>
+    <summary>Merged public contribution. +84 / -56 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #474: fix(typescript): validate HTTP error JSON before status mapping</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/474</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/474"/>
+    <updated>2026-10-13T00:18:07Z</updated>
+    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #440: Guarantee chunk splitting advances at UTF-8 boundaries</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/440</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/440"/>
+    <updated>2026-10-13T00:18:02Z</updated>
+    <summary>Merged public contribution. +95 / -9 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #459: Reserve existing citation IDs before allocating new references</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/459</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/459"/>
+    <updated>2026-10-13T00:17:58Z</updated>
+    <summary>Merged public contribution. +101 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #456: Strip gold reference sections only at actual headings</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/456</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/456"/>
+    <updated>2026-10-13T00:17:52Z</updated>
+    <summary>Merged public contribution. +59 / -9 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #452: Match complete tokens when checking answer groundedness</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/452</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/452"/>
+    <updated>2026-10-13T00:17:48Z</updated>
+    <summary>Merged public contribution. +32 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #464: Truncate fallback document names at Unicode characters</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/464</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/464"/>
+    <updated>2026-10-13T00:17:44Z</updated>
+    <summary>Merged public contribution. +13 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #466: Preserve cosine similarity for finite scaled vectors</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/466</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/466"/>
+    <updated>2026-10-13T00:17:40Z</updated>
+    <summary>Merged public contribution. +20 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #449: Normalize type allow-lists consistently before capping</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/449</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/449"/>
+    <updated>2026-10-13T00:17:34Z</updated>
+    <summary>Merged public contribution. +22 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #436: Preserve full closing delimiters in atomic Markdown fences</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/436</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/436"/>
+    <updated>2026-10-13T00:17:29Z</updated>
+    <summary>Merged public contribution. +57 / -8 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #434: Fix finite min-max retrieval score overflow</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/434</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/434"/>
+    <updated>2026-10-13T00:17:23Z</updated>
+    <summary>Merged public contribution. +37 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #461: Scope migration guard concurrency to each pull request</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/461</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/461"/>
+    <updated>2026-10-13T00:17:13Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #732: fix(clis): fail commands with structured validation errors</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/732</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/732"/>
+    <updated>2026-10-12T23:56:42Z</updated>
+    <summary>Merged public contribution. +310 / -126 across 100 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #713: fix(clis): return failure status when HTTP requests are rejected</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/713</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/713"/>
+    <updated>2026-10-12T23:56:11Z</updated>
+    <summary>Merged public contribution. +189 / -11 across 34 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #42: fix(capture): measure the current figure before each screenshot</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/42</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/42"/>
+    <updated>2026-10-12T22:29:28Z</updated>
+    <summary>Merged public contribution. +82 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4719: fix(hooks): honor environment opt-outs before worker startup</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4719</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4719"/>
+    <updated>2026-10-12T20:31:53Z</updated>
+    <summary>Merged public contribution. +110 / -9 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4716: fix(keys): retain only strings in API-key settings arrays</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4716</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4716"/>
+    <updated>2026-10-12T20:30:32Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4717: fix(gemini): isolate malformed answer parts</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4717</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4717"/>
+    <updated>2026-10-12T20:20:30Z</updated>
+    <summary>Merged public contribution. +23 / -2 across 3 changed files.</summary>
+  </entry>
+</feed>
