@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,831**
+Records: **1,834**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#109: Align SDK connected-source inputs with the existing native APIs](https://github.com/HelixDB/helix-foundry/pull/109) | +37 / -41 across 3 files | 0 reviews · 0 comments |
+| 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#107: Reset dataset preview paging when its current snapshot changes](https://github.com/HelixDB/helix-foundry/pull/107) | +177 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#110: Exclude SQL literals and comments from Analyst snapshot citations](https://github.com/HelixDB/helix-foundry/pull/110) | +349 / -0 across 3 files | 0 reviews · 0 comments |
 | 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#92: Let dataset owners protect additional sensitive columns](https://github.com/HelixDB/helix-foundry/pull/92) | +799 / -27 across 12 files | 0 reviews · 0 comments |
 | 2026-10-13 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3732: fix(memory): retain originating turns after long tool workflows](https://github.com/zhayujie/CowAgent/pull/3732) | +35 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-10-13 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3728: fix(role): retain consistent tags when importing overrides](https://github.com/zhayujie/CowAgent/pull/3728) | +42 / -1 across 2 files | 0 reviews · 1 comments |
