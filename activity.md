@@ -4,11 +4,12 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,885**
+Records: **1,886**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1234: fix(context): allow literal dots in file path segments](https://github.com/mvschwarz/openrig/pull/1234) | +57 / -11 across 5 files | 1 reviews · 1 comments |
+| 2026-10-13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#751: fix(clis): bound stalled provider requests and response bodies](https://github.com/coreyhaines31/marketingskills/pull/751) | +794 / -79 across 67 files | 0 reviews · 4 comments |
+| 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1234: fix(context): allow literal dots in file path segments](https://github.com/mvschwarz/openrig/pull/1234) | +57 / -11 across 5 files | 1 reviews · 2 comments |
 | 2026-10-13 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9778: Accept signed zero in the BigInteger decoder](https://github.com/NationalSecurityAgency/ghidra/pull/9778) | +1 / -1 across 1 files | 0 reviews · 1 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#819: fix(cli): keep trace metadata on one row](https://github.com/Asymptote-Labs/agent-beacon/pull/819) | +171 / -4 across 3 files | 1 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#818: fix(pricing): report only cache fallbacks used](https://github.com/Asymptote-Labs/agent-beacon/pull/818) | +102 / -3 across 4 files | 1 reviews · 0 comments |

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T16:16:22Z</updated>
+  <updated>2026-10-13T16:35:26Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>coreyhaines31/marketingskills #751: fix(clis): bound stalled provider requests and response bodies</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/751</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/751"/>
+    <updated>2026-10-13T16:35:26Z</updated>
+    <summary>Merged public contribution. +794 / -79 across 67 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1234: fix(context): allow literal dots in file path segments</title>
     <id>https://github.com/mvschwarz/openrig/pull/1234</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/morluto/rea/pull/2474"/>
     <updated>2026-10-13T06:51:30Z</updated>
     <summary>Merged public contribution. +17 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #2475: fix(javascript): parse explicit CommonJS wrapper syntax</title>
-    <id>https://github.com/morluto/rea/pull/2475</id>
-    <link href="https://github.com/morluto/rea/pull/2475"/>
-    <updated>2026-10-13T06:51:23Z</updated>
-    <summary>Merged public contribution. +106 / -17 across 3 changed files.</summary>
   </entry>
 </feed>
