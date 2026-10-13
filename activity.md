@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,873**
+Records: **1,876**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#421: fix(import): ignore Mermaid samples inside outer Markdown fences](https://github.com/cathrynlavery/diagram-design/pull/421) | +64 / -6 across 3 files | 2 reviews · 7 comments |
+| 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1232: fix(cli): report byte counts from Apple openrsync](https://github.com/mvschwarz/openrig/pull/1232) | +29 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-13 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#422: fix(import): preserve sequence fragments across visual highlight blocks](https://github.com/cathrynlavery/diagram-design/pull/422) | +68 / -6 across 3 files | 2 reviews · 5 comments |
 | 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1228: fix(slack): preserve interaction reply provenance](https://github.com/mvschwarz/openrig/pull/1228) | +75 / -2 across 3 files | 1 reviews · 3 comments |
 | 2026-10-13 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#387: fix(export): preserve live references alongside commented defs](https://github.com/cathrynlavery/diagram-design/pull/387) | +134 / -11 across 3 files | 2 reviews · 10 comments |
 | 2026-10-13 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1066: fix(mcp): preserve structured JSON through task result round trips](https://github.com/mark3labs/mcp-go/pull/1066) | +76 / -5 across 5 files | 0 reviews · 2 comments |
