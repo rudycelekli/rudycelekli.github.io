@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T06:51:30Z</updated>
+  <updated>2026-10-13T06:54:18Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #2468: fix(process): preserve nested path identities during normalization</title>
+    <id>https://github.com/morluto/rea/pull/2468</id>
+    <link href="https://github.com/morluto/rea/pull/2468"/>
+    <updated>2026-10-13T06:54:18Z</updated>
+    <summary>Merged public contribution. +141 / -14 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #2474: fix(config): reject NUL bytes in Hopper loader arguments</title>
     <id>https://github.com/morluto/rea/pull/2474</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/raphaelmansuy/edgequake/pull/436"/>
     <updated>2026-10-13T00:17:29Z</updated>
     <summary>Merged public contribution. +57 / -8 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #434: Fix finite min-max retrieval score overflow</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/434</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/434"/>
-    <updated>2026-10-13T00:17:23Z</updated>
-    <summary>Merged public contribution. +37 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
