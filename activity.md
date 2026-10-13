@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,886**
+Records: **1,890**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4747: fix(viewer): order equal-timestamp feed rows newest first](https://github.com/thedotmack/claude-mem/pull/4747) | +54 / -3 across 2 files | 0 reviews · 2 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4749: fix(viewer): match session catalog project filters case-insensitively](https://github.com/thedotmack/claude-mem/pull/4749) | +48 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-10-13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4742: fix(context): refresh empty-project state after deletion](https://github.com/thedotmack/claude-mem/pull/4742) | +73 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-10-13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#744: feat(mixpanel): support US, EU and India API routing](https://github.com/coreyhaines31/marketingskills/pull/744) | +64 / -3 across 3 files | 0 reviews · 2 comments |
 | 2026-10-13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#751: fix(clis): bound stalled provider requests and response bodies](https://github.com/coreyhaines31/marketingskills/pull/751) | +794 / -79 across 67 files | 0 reviews · 4 comments |
 | 2026-10-13 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1234: fix(context): allow literal dots in file path segments](https://github.com/mvschwarz/openrig/pull/1234) | +57 / -11 across 5 files | 1 reviews · 2 comments |
 | 2026-10-13 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9778: Accept signed zero in the BigInteger decoder](https://github.com/NationalSecurityAgency/ghidra/pull/9778) | +1 / -1 across 1 files | 0 reviews · 1 comments |
