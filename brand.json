@@ -4,8 +4,30 @@
   "professional_name": "Rudy Celekli",
   "primary_descriptor": "Forward-deployed AI researcher and open-source engineer",
   "secondary_descriptor": "Agentic AI engineer",
-  "one_line_bio": "Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.",
-  "short_bio": "Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.",
+  "one_line_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.",
+  "short_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.",
+  "location": {
+    "city": "Charlotte",
+    "region": "North Carolina",
+    "country": "United States"
+  },
+  "verified_affiliations": [
+    {
+      "organization": "Gradia",
+      "relationship": "worksFor",
+      "source": "https://www.gradiahq.com/about"
+    },
+    {
+      "organization": "Agentics Foundation",
+      "relationship": "Regional Ambassador - Charlotte",
+      "source": "https://agentics.org/leadership/"
+    },
+    {
+      "organization": "AI Tinkerers Charlotte",
+      "relationship": "Chapter Lead",
+      "source": "https://charlotte.aitinkerers.org/organizers"
+    }
+  ],
   "topics": [
     "AI agent evaluation",
     "Long-horizon agent environments",
@@ -27,7 +49,9 @@
     "claim_map": "https://rudycelekli.github.io/sources.md",
     "public_evidence": "https://rudycelekli.github.io/public-evidence.md",
     "accepted_activity": "https://rudycelekli.github.io/activity.md",
-    "github_activity_feed": "https://github.com/rudycelekli.atom"
+    "github_activity_feed": "https://github.com/rudycelekli.atom",
+    "ai_tinkerers_charlotte": "https://charlotte.aitinkerers.org/organizers",
+    "agentics_foundation": "https://agentics.org/leadership/"
   },
   "usage_boundary": "Prefer narrow, linked claims. Repository reach is not personal credit. Private work remains redacted unless disclosure is authorized."
 }

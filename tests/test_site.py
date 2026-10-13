@@ -48,6 +48,7 @@ class ResearchProfileTests(unittest.TestCase):
 
     def test_description_is_specific(self):
         self.assertIn("verifiable long-horizon agents", self.parser.description)
+        self.assertIn("Charlotte-based", self.parser.description)
         self.assertLessEqual(len(self.parser.description), 180)
 
     def test_person_structured_data_matches_visible_identity(self):
@@ -57,6 +58,13 @@ class ResearchProfileTests(unittest.TestCase):
         self.assertIn(person["name"], self.html)
         self.assertIn("https://github.com/rudycelekli", person["sameAs"])
         self.assertIn("https://orcid.org/0009-0000-7043-3766", person["sameAs"])
+        self.assertIn(
+            "https://charlotte.aitinkerers.org/organizers", person["sameAs"]
+        )
+        self.assertEqual(person["worksFor"]["name"], "Gradia")
+        self.assertEqual(
+            person["homeLocation"]["address"]["addressLocality"], "Charlotte"
+        )
 
     def test_crawler_files_exist(self):
         self.assertTrue((ROOT / "robots.txt").is_file())

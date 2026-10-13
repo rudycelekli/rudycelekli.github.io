@@ -9,13 +9,14 @@
   ],
   "url": "https://rudycelekli.github.io/",
   "jobTitle": "Forward-Deployed AI Researcher and Agentic AI Engineer",
-  "description": "AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound execution.",
+  "description": "Charlotte-based AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound execution.",
   "sameAs": [
     "https://github.com/rudycelekli",
     "https://www.linkedin.com/in/rudymizrahi/",
     "https://orcid.org/0009-0000-7043-3766",
     "https://www.gradiahq.com/about",
-    "https://agentics.org/leadership/"
+    "https://agentics.org/leadership/",
+    "https://charlotte.aitinkerers.org/organizers"
   ],
   "knowsAbout": [
     "AI agent evaluation",
@@ -26,6 +27,33 @@
     "Evidence-bound AI execution",
     "Agentic quality engineering",
     "Open-source AI infrastructure"
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Charlotte, North Carolina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Charlotte",
+      "addressRegion": "NC",
+      "addressCountry": "US"
+    }
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Gradia",
+    "url": "https://www.gradiahq.com/"
+  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Agentics Foundation",
+      "url": "https://agentics.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "AI Tinkerers Charlotte",
+      "url": "https://charlotte.aitinkerers.org/"
+    }
   ],
   "subjectOf": [
     "https://rudycelekli.github.io/research.md",

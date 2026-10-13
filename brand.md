@@ -8,17 +8,18 @@ This is the canonical language sheet for profiles, introductions, event pages, r
 - Professional short name: Rudy Celekli
 - Primary descriptor: Forward-deployed AI researcher and open-source engineer
 - Secondary descriptor: Agentic AI engineer
+- Location: Charlotte, North Carolina, United States
 - Canonical URL: https://rudycelekli.github.io/
 - GitHub: https://github.com/rudycelekli
 - ORCID: https://orcid.org/0009-0000-7043-3766
 
 ## One line
 
-Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.
+Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.
 
 ## Short bio
 
-Rudy Mizrahi Celekli is a forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.
+Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.
 
 ## Extended bio
 
@@ -67,4 +68,5 @@ Avoid: AI visionary, guru, genius, thought leader, world-leading, revolutionary,
 - GitHub-native public activity feed: https://github.com/rudycelekli.atom
 - Gradia role: https://www.gradiahq.com/about
 - Agentics Foundation leadership: https://agentics.org/leadership/
+- AI Tinkerers Charlotte organizers: https://charlotte.aitinkerers.org/organizers
 - LinkedIn: https://www.linkedin.com/in/rudymizrahi/

@@ -220,7 +220,7 @@ def full_context(evidence: dict) -> str:
         "> Canonical model-readable context. Facts are bounded by linked public evidence.",
         "",
         "Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a "
-        "forward-deployed AI researcher and open-source engineer focused on verifiable "
+        "Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable "
         "long-horizon agent environments, evaluator robustness, deterministic replay, "
         "causal fault isolation, and evidence-bound AI execution.",
         "",

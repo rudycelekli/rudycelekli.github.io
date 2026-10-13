@@ -1,6 +1,6 @@
 # Rudy Mizrahi Celekli
 
-Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a forward-deployed AI researcher and open-source engineer. His work focuses on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, evidence-bound execution, agentic quality engineering, and open-source AI infrastructure.
+Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-based forward-deployed AI researcher and open-source engineer. His work focuses on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, evidence-bound execution, agentic quality engineering, and open-source AI infrastructure.
 
 Canonical profile: https://rudycelekli.github.io/
 
@@ -42,3 +42,4 @@ A passing test is not deployment. A local demonstration is not external acceptan
 - ORCID: https://orcid.org/0009-0000-7043-3766
 - Gradia role: https://www.gradiahq.com/about
 - Agentics Foundation leadership: https://agentics.org/leadership/
+- AI Tinkerers Charlotte chapter leadership: https://charlotte.aitinkerers.org/organizers
