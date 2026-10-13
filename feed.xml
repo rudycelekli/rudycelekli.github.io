@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T05:27:53Z</updated>
+  <updated>2026-10-13T06:51:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #2474: fix(config): reject NUL bytes in Hopper loader arguments</title>
+    <id>https://github.com/morluto/rea/pull/2474</id>
+    <link href="https://github.com/morluto/rea/pull/2474"/>
+    <updated>2026-10-13T06:51:30Z</updated>
+    <summary>Merged public contribution. +17 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #2475: fix(javascript): parse explicit CommonJS wrapper syntax</title>
+    <id>https://github.com/morluto/rea/pull/2475</id>
+    <link href="https://github.com/morluto/rea/pull/2475"/>
+    <updated>2026-10-13T06:51:23Z</updated>
+    <summary>Merged public contribution. +106 / -17 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #2472: fix(screenshot): reject invalid PNG header dimensions</title>
+    <id>https://github.com/morluto/rea/pull/2472</id>
+    <link href="https://github.com/morluto/rea/pull/2472"/>
+    <updated>2026-10-13T06:50:45Z</updated>
+    <summary>Merged public contribution. +90 / -1 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>HelixDB/helix-foundry #109: Align SDK connected-source inputs with the existing native APIs</title>
     <id>https://github.com/HelixDB/helix-foundry/pull/109</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/raphaelmansuy/edgequake/pull/434"/>
     <updated>2026-10-13T00:17:23Z</updated>
     <summary>Merged public contribution. +37 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #461: Scope migration guard concurrency to each pull request</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/461</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/461"/>
-    <updated>2026-10-13T00:17:13Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #732: fix(clis): fail commands with structured validation errors</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/732</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/732"/>
-    <updated>2026-10-12T23:56:42Z</updated>
-    <summary>Merged public contribution. +310 / -126 across 100 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #713: fix(clis): return failure status when HTTP requests are rejected</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/713</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/713"/>
-    <updated>2026-10-12T23:56:11Z</updated>
-    <summary>Merged public contribution. +189 / -11 across 34 changed files.</summary>
   </entry>
 </feed>

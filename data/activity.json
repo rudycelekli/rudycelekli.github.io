@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 17,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 1,
+      "created_at": "2026-10-13T03:45:02Z",
+      "deletions": 8,
+      "merged_at": "2026-10-13T06:51:30Z",
+      "number": 2474,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 0,
+      "title": "fix(config): reject NUL bytes in Hopper loader arguments",
+      "url": "https://github.com/morluto/rea/pull/2474"
+    },
+    {
+      "additions": 106,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-13T03:45:53Z",
+      "deletions": 17,
+      "merged_at": "2026-10-13T06:51:23Z",
+      "number": 2475,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 0,
+      "title": "fix(javascript): parse explicit CommonJS wrapper syntax",
+      "url": "https://github.com/morluto/rea/pull/2475"
+    },
+    {
+      "additions": 90,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 1,
+      "created_at": "2026-10-13T03:41:55Z",
+      "deletions": 1,
+      "merged_at": "2026-10-13T06:50:45Z",
+      "number": 2472,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 0,
+      "title": "fix(screenshot): reject invalid PNG header dimensions",
+      "url": "https://github.com/morluto/rea/pull/2472"
+    },
+    {
       "additions": 37,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -29373,7 +29421,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 1834,
+  "record_count": 1837,
   "schema_version": 1,
   "updated_at_utc": "2026-10-13"
 }

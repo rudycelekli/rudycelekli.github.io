@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,834**
+Records: **1,837**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [morluto/rea](https://github.com/morluto/rea) | [#2474: fix(config): reject NUL bytes in Hopper loader arguments](https://github.com/morluto/rea/pull/2474) | +17 / -8 across 2 files | 0 reviews · 3 comments |
+| 2026-10-13 | [morluto/rea](https://github.com/morluto/rea) | [#2475: fix(javascript): parse explicit CommonJS wrapper syntax](https://github.com/morluto/rea/pull/2475) | +106 / -17 across 3 files | 0 reviews · 4 comments |
+| 2026-10-13 | [morluto/rea](https://github.com/morluto/rea) | [#2472: fix(screenshot): reject invalid PNG header dimensions](https://github.com/morluto/rea/pull/2472) | +90 / -1 across 4 files | 0 reviews · 3 comments |
 | 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#109: Align SDK connected-source inputs with the existing native APIs](https://github.com/HelixDB/helix-foundry/pull/109) | +37 / -41 across 3 files | 0 reviews · 0 comments |
 | 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#107: Reset dataset preview paging when its current snapshot changes](https://github.com/HelixDB/helix-foundry/pull/107) | +177 / -4 across 2 files | 0 reviews · 0 comments |
 | 2026-10-13 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#110: Exclude SQL literals and comments from Analyst snapshot citations](https://github.com/HelixDB/helix-foundry/pull/110) | +349 / -0 across 3 files | 0 reviews · 0 comments |
