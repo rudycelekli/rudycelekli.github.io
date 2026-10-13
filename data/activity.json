@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 799,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 12,
+      "comments": 0,
+      "commits": 6,
+      "created_at": "2026-10-11T20:15:09Z",
+      "deletions": 27,
+      "merged_at": "2026-10-13T04:39:27Z",
+      "number": 92,
+      "repository": "HelixDB/helix-foundry",
+      "repository_url": "https://github.com/HelixDB/helix-foundry",
+      "reviews": 0,
+      "title": "Let dataset owners protect additional sensitive columns",
+      "url": "https://github.com/HelixDB/helix-foundry/pull/92"
+    },
+    {
       "additions": 35,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -29309,7 +29325,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 1830,
+  "record_count": 1831,
   "schema_version": 1,
   "updated_at_utc": "2026-10-13"
 }

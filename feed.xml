@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T02:24:05Z</updated>
+  <updated>2026-10-13T04:39:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HelixDB/helix-foundry #92: Let dataset owners protect additional sensitive columns</title>
+    <id>https://github.com/HelixDB/helix-foundry/pull/92</id>
+    <link href="https://github.com/HelixDB/helix-foundry/pull/92"/>
+    <updated>2026-10-13T04:39:27Z</updated>
+    <summary>Merged public contribution. +799 / -27 across 12 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3732: fix(memory): retain originating turns after long tool workflows</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3732</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/4716"/>
     <updated>2026-10-12T20:30:32Z</updated>
     <summary>Merged public contribution. +22 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4717: fix(gemini): isolate malformed answer parts</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4717</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4717"/>
-    <updated>2026-10-12T20:20:30Z</updated>
-    <summary>Merged public contribution. +23 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
