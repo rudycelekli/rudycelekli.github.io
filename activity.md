@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,841**
+Records: **1,842**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1723: Preserve JSON serialization of NumPy values on NumPy 2](https://github.com/open-compass/VLMEvalKit/pull/1723) | +119 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-10-13 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1604: fix(loomloom): avoid synthesizing narration from nontext results](https://github.com/harry0703/MoneyPrinterTurbo/pull/1604) | +39 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-10-13 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1603: fix(subtitles): require timed headers before publication](https://github.com/harry0703/MoneyPrinterTurbo/pull/1603) | +27 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-13 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1602: fix(llm): recover one JSON value from prose responses](https://github.com/harry0703/MoneyPrinterTurbo/pull/1602) | +38 / -12 across 2 files | 0 reviews · 1 comments |

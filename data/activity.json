@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 119,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-10-06T08:05:30Z",
+      "deletions": 2,
+      "merged_at": "2026-10-13T09:38:14Z",
+      "number": 1723,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "Preserve JSON serialization of NumPy values on NumPy 2",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1723"
+    },
+    {
       "additions": 39,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -29485,7 +29501,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 1841,
+  "record_count": 1842,
   "schema_version": 1,
   "updated_at_utc": "2026-10-13"
 }

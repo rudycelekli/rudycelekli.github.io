@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T09:32:54Z</updated>
+  <updated>2026-10-13T09:38:14Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1723: Preserve JSON serialization of NumPy values on NumPy 2</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1723</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1723"/>
+    <updated>2026-10-13T09:38:14Z</updated>
+    <summary>Merged public contribution. +119 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1604: fix(loomloom): avoid synthesizing narration from nontext results</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1604</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/raphaelmansuy/edgequake/pull/452"/>
     <updated>2026-10-13T00:17:48Z</updated>
     <summary>Merged public contribution. +32 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #464: Truncate fallback document names at Unicode characters</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/464</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/464"/>
-    <updated>2026-10-13T00:17:44Z</updated>
-    <summary>Merged public contribution. +13 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
