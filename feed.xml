@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T05:01:09Z</updated>
+  <updated>2026-10-14T05:44:58Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1606: fix(skill): replace complete multiline configuration values</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1606</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1606"/>
+    <updated>2026-10-14T05:44:58Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1614: fix(skill): match case-insensitive runtime provider IDs</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1614</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1614"/>
+    <updated>2026-10-14T05:44:44Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1621: fix(config): distinguish network routes from default gateways</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1621</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1621"/>
+    <updated>2026-10-14T05:44:31Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1598: fix(project): report bounded numeric validation errors consistently</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1598</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1598"/>
+    <updated>2026-10-14T05:44:17Z</updated>
+    <summary>Merged public contribution. +132 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1231: fix(cli): forward whoami full output over SSH</title>
     <id>https://github.com/mvschwarz/openrig/pull/1231</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/804"/>
     <updated>2026-10-14T01:41:33Z</updated>
     <summary>Merged public contribution. +58 / -4 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #803: fix(sendgrid): reject non-object dynamic template data</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/803</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/803"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +40 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #801: fix(amplitude): reject invalid ingestion JSON containers</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/801</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/801"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +96 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #845: fix(traces): stop huge page and context values from overflowing</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/845</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/845"/>
-    <updated>2026-10-14T01:31:35Z</updated>
-    <summary>Merged public contribution. +87 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #38: fix(cortexdb): reject mismatched empty vector batches</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/38</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/38"/>
-    <updated>2026-10-14T01:15:54Z</updated>
-    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
