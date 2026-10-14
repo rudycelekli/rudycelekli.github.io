@@ -1,13 +1,26 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-13 UTC**
+Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,926**
+Records: **1,939**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#817: fix(revops): calibrate scoring with decision-time snapshots and holdouts](https://github.com/coreyhaines31/marketingskills/pull/817) | +26 / -21 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#810: fix(churn-prevention): distinguish recovery cash and net ROI](https://github.com/coreyhaines31/marketingskills/pull/810) | +19 / -12 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#829: fix(churn-prevention): define health score units and coverage](https://github.com/coreyhaines31/marketingskills/pull/829) | +21 / -7 across 5 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#827: fix(onboarding): evaluate card gates across the whole funnel](https://github.com/coreyhaines31/marketingskills/pull/827) | +15 / -8 across 7 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#826: fix(onboarding): separate early activation from mature retention](https://github.com/coreyhaines31/marketingskills/pull/826) | +19 / -9 across 5 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#825: fix(ads): confirm headline screening with a page experiment](https://github.com/coreyhaines31/marketingskills/pull/825) | +17 / -11 across 5 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#823: fix(seo-audit): scope hreflang findings to affected relationships](https://github.com/coreyhaines31/marketingskills/pull/823) | +16 / -10 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#821: fix(pricing): define the decreasing price-perception curves](https://github.com/coreyhaines31/marketingskills/pull/821) | +21 / -7 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#820: fix(referrals): measure program return after serving costs](https://github.com/coreyhaines31/marketingskills/pull/820) | +18 / -7 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#819: fix(ab-testing): account for exposure and allocation in duration checklist](https://github.com/coreyhaines31/marketingskills/pull/819) | +24 / -7 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#815: fix(attribution): distinguish assignment analysis and uncertain lift](https://github.com/coreyhaines31/marketingskills/pull/815) | +13 / -8 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#812: fix(co-marketing): correct marketplace routing and recurring fee economics](https://github.com/coreyhaines31/marketingskills/pull/812) | +11 / -7 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#847: fix(claude): read the workspace from the transcript when the index omits it](https://github.com/Asymptote-Labs/agent-beacon/pull/847) | +284 / -192 across 8 files | 0 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#848: fix(opencode): read sessions from OpenCode's data directory](https://github.com/Asymptote-Labs/agent-beacon/pull/848) | +104 / -20 across 6 files | 0 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#850: fix(sqlite): escape database paths in one shared file URI builder](https://github.com/Asymptote-Labs/agent-beacon/pull/850) | +146 / -121 across 10 files | 0 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#851: fix(exporter): scope Codex cache subsets to their own token series](https://github.com/Asymptote-Labs/agent-beacon/pull/851) | +81 / -39 across 3 files | 0 reviews · 0 comments |

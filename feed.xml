@@ -4,8 +4,99 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T23:47:56Z</updated>
+  <updated>2026-10-14T00:45:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>coreyhaines31/marketingskills #817: fix(revops): calibrate scoring with decision-time snapshots and holdouts</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/817</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/817"/>
+    <updated>2026-10-14T00:45:00Z</updated>
+    <summary>Merged public contribution. +26 / -21 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #810: fix(churn-prevention): distinguish recovery cash and net ROI</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/810</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/810"/>
+    <updated>2026-10-14T00:45:00Z</updated>
+    <summary>Merged public contribution. +19 / -12 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #829: fix(churn-prevention): define health score units and coverage</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/829</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/829"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +21 / -7 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #827: fix(onboarding): evaluate card gates across the whole funnel</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/827</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/827"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +15 / -8 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #826: fix(onboarding): separate early activation from mature retention</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/826</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/826"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +19 / -9 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #825: fix(ads): confirm headline screening with a page experiment</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/825</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/825"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +17 / -11 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #823: fix(seo-audit): scope hreflang findings to affected relationships</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/823</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/823"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +16 / -10 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #821: fix(pricing): define the decreasing price-perception curves</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/821</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/821"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +21 / -7 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #820: fix(referrals): measure program return after serving costs</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/820</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/820"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +18 / -7 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #819: fix(ab-testing): account for exposure and allocation in duration checklist</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/819</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/819"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +24 / -7 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #815: fix(attribution): distinguish assignment analysis and uncertain lift</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/815</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/815"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +13 / -8 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #812: fix(co-marketing): correct marketplace routing and recurring fee economics</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/812</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/812"/>
+    <updated>2026-10-14T00:44:59Z</updated>
+    <summary>Merged public contribution. +11 / -7 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #847: fix(claude): read the workspace from the transcript when the index omits it</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/847</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/847"/>
+    <updated>2026-10-14T00:09:12Z</updated>
+    <summary>Merged public contribution. +284 / -192 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #848: fix(opencode): read sessions from OpenCode's data directory</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/848</id>
@@ -264,96 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/4747"/>
     <updated>2026-10-13T16:58:49Z</updated>
     <summary>Merged public contribution. +54 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4749: fix(viewer): match session catalog project filters case-insensitively</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4749</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4749"/>
-    <updated>2026-10-13T16:58:09Z</updated>
-    <summary>Merged public contribution. +48 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4742: fix(context): refresh empty-project state after deletion</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4742</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4742"/>
-    <updated>2026-10-13T16:55:25Z</updated>
-    <summary>Merged public contribution. +73 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #744: feat(mixpanel): support US, EU and India API routing</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/744</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/744"/>
-    <updated>2026-10-13T16:35:39Z</updated>
-    <summary>Merged public contribution. +64 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #751: fix(clis): bound stalled provider requests and response bodies</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/751</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/751"/>
-    <updated>2026-10-13T16:35:26Z</updated>
-    <summary>Merged public contribution. +794 / -79 across 67 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1234: fix(context): allow literal dots in file path segments</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1234</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1234"/>
-    <updated>2026-10-13T16:16:22Z</updated>
-    <summary>Merged public contribution. +57 / -11 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9778: Accept signed zero in the BigInteger decoder</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9778</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9778"/>
-    <updated>2026-10-13T15:50:00Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #819: fix(cli): keep trace metadata on one row</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/819</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/819"/>
-    <updated>2026-10-13T15:45:03Z</updated>
-    <summary>Merged public contribution. +171 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #818: fix(pricing): report only cache fallbacks used</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/818</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/818"/>
-    <updated>2026-10-13T15:44:10Z</updated>
-    <summary>Merged public contribution. +102 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9821: Correct RGB565 green values and alternate color typedef creation</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9821</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9821"/>
-    <updated>2026-10-13T15:34:43Z</updated>
-    <summary>Merged public contribution. +4 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #264: fix: validate inspection definitions before parsing plans</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/264</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/264"/>
-    <updated>2026-10-13T15:17:04Z</updated>
-    <summary>Merged public contribution. +71 / -21 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #238: fix: honor explicit tool exclusions in session objectives</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/238</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/238"/>
-    <updated>2026-10-13T15:16:58Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #310: fix: restrict inferred destructive tools in discovered audit fixtures</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/310</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/310"/>
-    <updated>2026-10-13T15:16:52Z</updated>
-    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1229: fix(gate): close probe connections before releasing the lane</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1229</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1229"/>
-    <updated>2026-10-13T15:08:15Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
