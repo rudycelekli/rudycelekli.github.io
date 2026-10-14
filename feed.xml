@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T14:33:42Z</updated>
+  <updated>2026-10-14T14:55:51Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #835: fix(opencode): keep streamed text that arrives after a pending snapshot</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/835</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/835"/>
+    <updated>2026-10-14T14:55:51Z</updated>
+    <summary>Merged public contribution. +50 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #836: fix(browser-extension): stop rapid settings changes from overwriting each other</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/836</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/836"/>
+    <updated>2026-10-14T14:55:24Z</updated>
+    <summary>Merged public contribution. +95 / -22 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1071: fix(mcp): retain typed task status fields and result envelopes</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1071</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1071"/>
+    <updated>2026-10-14T14:51:32Z</updated>
+    <summary>Merged public contribution. +46 / -118 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1070: fix(client): allow failed listener callbacks to stop their stream</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1070</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1070"/>
+    <updated>2026-10-14T14:51:18Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1069: fix(mcp): return encodable errors for invalid structured results</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1069</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1069"/>
+    <updated>2026-10-14T14:51:02Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1067: fix(transport): include client session in in-process notifications</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1067</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1067"/>
+    <updated>2026-10-14T14:50:43Z</updated>
+    <summary>Merged public contribution. +26 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #837: fix(plugins): keep invalid dates from dropping hook events</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/837</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/837"/>
+    <updated>2026-10-14T14:50:00Z</updated>
+    <summary>Merged public contribution. +89 / -12 across 18 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #838: fix(backfill): stop suppressed replays from spending the byte budget</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/838</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/838"/>
+    <updated>2026-10-14T14:48:42Z</updated>
+    <summary>Merged public contribution. +81 / -9 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #840: fix(sdk): release stopped provider after shutdown rejection</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/840</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/840"/>
+    <updated>2026-10-14T14:44:10Z</updated>
+    <summary>Merged public contribution. +40 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #839: fix(sdk): warn when the module shortcut ignores changed options</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/839</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/839"/>
+    <updated>2026-10-14T14:43:52Z</updated>
+    <summary>Merged public contribution. +70 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #841: fix(traces): stop byte limits from splitting UTF-8 characters</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/841</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/841"/>
+    <updated>2026-10-14T14:38:03Z</updated>
+    <summary>Merged public contribution. +45 / -31 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #842: fix(browser-extension): stop new turns from burning queued batches' retries</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/842</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/tigerless-labs/autoharness/pull/262"/>
     <updated>2026-10-14T08:33:47Z</updated>
     <summary>Merged public contribution. +139 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #261: fix(references): interpret sentence pointers consistently when validating and removing files</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/261</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/261"/>
-    <updated>2026-10-14T08:32:29Z</updated>
-    <summary>Merged public contribution. +196 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #257: fix(hooks): skip unavailable sidecars during usage observation</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/257</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/257"/>
-    <updated>2026-10-14T08:29:36Z</updated>
-    <summary>Merged public contribution. +39 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #259: fix(session-start): isolate claimed summaries across completed runs</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/259</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/259"/>
-    <updated>2026-10-14T08:22:52Z</updated>
-    <summary>Merged public contribution. +63 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #260: fix(promoter): serialize mutations of the shared global library</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/260</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/260"/>
-    <updated>2026-10-14T08:18:19Z</updated>
-    <summary>Merged public contribution. +92 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #297: fix: scope Anthropic temperature support to its API endpoint</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/297</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/297"/>
-    <updated>2026-10-14T08:05:40Z</updated>
-    <summary>Merged public contribution. +290 / -25 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1719: Fix sample weighting in GUI evaluation metrics</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1719</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1719"/>
-    <updated>2026-10-14T08:04:25Z</updated>
-    <summary>Merged public contribution. +94 / -30 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1038: fix(memory): explain unavailable private scratch roots</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1038</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1038"/>
-    <updated>2026-10-14T08:03:33Z</updated>
-    <summary>Merged public contribution. +67 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #312: fix: exclude native SUT aliases from judge fallbacks</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/312</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/312"/>
-    <updated>2026-10-14T08:02:45Z</updated>
-    <summary>Merged public contribution. +264 / -18 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1035: fix(test-execution): require exact file evidence for Vitest retries</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1035</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1035"/>
-    <updated>2026-10-14T08:02:39Z</updated>
-    <summary>Merged public contribution. +60 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1041: fix(test-execution): merge sequential coverage from hit evidence</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1041</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1041"/>
-    <updated>2026-10-14T08:02:28Z</updated>
-    <summary>Merged public contribution. +163 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1039: fix(coverage): read measured per-file coverage by canonical key</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1039</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1039"/>
-    <updated>2026-10-14T08:02:15Z</updated>
-    <summary>Merged public contribution. +61 / -16 across 5 changed files.</summary>
   </entry>
 </feed>

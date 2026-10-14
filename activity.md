@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,074**
+Records: **2,085**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#835: fix(opencode): keep streamed text that arrives after a pending snapshot](https://github.com/Asymptote-Labs/agent-beacon/pull/835) | +50 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#836: fix(browser-extension): stop rapid settings changes from overwriting each other](https://github.com/Asymptote-Labs/agent-beacon/pull/836) | +95 / -22 across 5 files | 0 reviews · 0 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1071: fix(mcp): retain typed task status fields and result envelopes](https://github.com/mark3labs/mcp-go/pull/1071) | +46 / -118 across 2 files | 0 reviews · 4 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1070: fix(client): allow failed listener callbacks to stop their stream](https://github.com/mark3labs/mcp-go/pull/1070) | +54 / -2 across 2 files | 0 reviews · 4 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1069: fix(mcp): return encodable errors for invalid structured results](https://github.com/mark3labs/mcp-go/pull/1069) | +34 / -1 across 2 files | 0 reviews · 4 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1067: fix(transport): include client session in in-process notifications](https://github.com/mark3labs/mcp-go/pull/1067) | +26 / -0 across 2 files | 0 reviews · 4 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#837: fix(plugins): keep invalid dates from dropping hook events](https://github.com/Asymptote-Labs/agent-beacon/pull/837) | +89 / -12 across 18 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#838: fix(backfill): stop suppressed replays from spending the byte budget](https://github.com/Asymptote-Labs/agent-beacon/pull/838) | +81 / -9 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#840: fix(sdk): release stopped provider after shutdown rejection](https://github.com/Asymptote-Labs/agent-beacon/pull/840) | +40 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#839: fix(sdk): warn when the module shortcut ignores changed options](https://github.com/Asymptote-Labs/agent-beacon/pull/839) | +70 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#841: fix(traces): stop byte limits from splitting UTF-8 characters](https://github.com/Asymptote-Labs/agent-beacon/pull/841) | +45 / -31 across 6 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#842: fix(browser-extension): stop new turns from burning queued batches' retries](https://github.com/Asymptote-Labs/agent-beacon/pull/842) | +76 / -9 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1841: fix(documents): preserve literal Excel missing-value markers](https://github.com/HKUDS/Vibe-Trading/pull/1841) | +68 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1840: fix(documents): read PowerPoint group and table text](https://github.com/HKUDS/Vibe-Trading/pull/1840) | +160 / -5 across 2 files | 0 reviews · 0 comments |
