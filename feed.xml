@@ -4,8 +4,232 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T00:45:00Z</updated>
+  <updated>2026-10-14T01:31:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #845: fix(traces): stop huge page and context values from overflowing</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/845</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/845"/>
+    <updated>2026-10-14T01:31:35Z</updated>
+    <summary>Merged public contribution. +87 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #38: fix(cortexdb): reject mismatched empty vector batches</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/38</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/38"/>
+    <updated>2026-10-14T01:15:54Z</updated>
+    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #37: fix(cortexdb): preserve underlying text embedding error causes</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/37</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/37"/>
+    <updated>2026-10-14T01:15:46Z</updated>
+    <summary>Merged public contribution. +58 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #36: fix(graph): redistribute dangling PageRank mass</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/36</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/36"/>
+    <updated>2026-10-14T01:15:40Z</updated>
+    <summary>Merged public contribution. +60 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #35: fix(graph): preserve vectorless nodes in XML imports</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/35</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/35"/>
+    <updated>2026-10-14T01:15:32Z</updated>
+    <summary>Merged public contribution. +97 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #34: fix(cypher): bound string positions before slicing</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/34</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/34"/>
+    <updated>2026-10-14T01:15:26Z</updated>
+    <summary>Merged public contribution. +46 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #33: fix(shacl): validate negative integer value spaces</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/33</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/33"/>
+    <updated>2026-10-14T01:15:19Z</updated>
+    <summary>Merged public contribution. +46 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #32: fix(importflow): default nonpositive CSV sample sizes</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/32</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/32"/>
+    <updated>2026-10-14T01:15:13Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #31: fix(mcp): escape backslashes in quoted export frontmatter</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/31</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/31"/>
+    <updated>2026-10-14T01:15:06Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #30: fix(sparql): make solution and group keys unambiguous</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/30</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/30"/>
+    <updated>2026-10-14T01:14:59Z</updated>
+    <summary>Merged public contribution. +64 / -22 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #846: fix(handoff): use transcript chronology for Codex briefs</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/846</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/846"/>
+    <updated>2026-10-14T01:14:57Z</updated>
+    <summary>Merged public contribution. +60 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #29: fix(rdf): validate XML element matching and closure</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/29</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/29"/>
+    <updated>2026-10-14T01:14:52Z</updated>
+    <summary>Merged public contribution. +59 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #28: fix(core): report buffered CSV export errors</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/28</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/28"/>
+    <updated>2026-10-14T01:14:45Z</updated>
+    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #27: fix(cypher): stop ranges before integer overflow</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/27</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/27"/>
+    <updated>2026-10-14T01:14:37Z</updated>
+    <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #26: fix(router): enforce function schema required parameter lists</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/26</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/26"/>
+    <updated>2026-10-14T01:14:30Z</updated>
+    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #25: fix(router): bind functions to their semantic route names</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/25</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/25"/>
+    <updated>2026-10-14T01:14:23Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #24: fix(router): preserve extracted values and escape keyword patterns</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/24</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/24"/>
+    <updated>2026-10-14T01:14:17Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #23: fix(router): honor per-function parameter extractors</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/23</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/23"/>
+    <updated>2026-10-14T01:14:12Z</updated>
+    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #22: fix(dsh): reject truncated gRPC and protobuf responses</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/22</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/22"/>
+    <updated>2026-10-14T01:14:06Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #21: fix(graphflow): copy caller metadata before merging nodes</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/21</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/21"/>
+    <updated>2026-10-14T01:14:00Z</updated>
+    <summary>Merged public contribution. +40 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #20: fix(graphflow): preserve extraction metadata in JSON exports</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/20</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/20"/>
+    <updated>2026-10-14T01:13:53Z</updated>
+    <summary>Merged public contribution. +72 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #19: fix(agentmem): constrain reflection supersession targets to scope</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/19</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/19"/>
+    <updated>2026-10-14T01:13:47Z</updated>
+    <summary>Merged public contribution. +81 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #18: fix(agentmem): append context sections atomically</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/18</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/18"/>
+    <updated>2026-10-14T01:13:41Z</updated>
+    <summary>Merged public contribution. +87 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #17: fix(authz): reject trailing data in key files</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/17</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/17"/>
+    <updated>2026-10-14T01:13:35Z</updated>
+    <summary>Merged public contribution. +52 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #16: fix(connector): preserve allowed NULL-only source columns</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/16</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/16"/>
+    <updated>2026-10-14T01:13:29Z</updated>
+    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #15: fix(connector): mask email local parts as Unicode characters</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/15</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/15"/>
+    <updated>2026-10-14T01:13:22Z</updated>
+    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #14: fix(importflow): reject ambiguous CSV header names</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/14</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/14"/>
+    <updated>2026-10-14T01:13:17Z</updated>
+    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #13: fix(router): replace sparse encoder state when refitting</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/13</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/13"/>
+    <updated>2026-10-14T01:13:11Z</updated>
+    <summary>Merged public contribution. +47 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #12: fix(router): synchronize cached embedder map access</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/12</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/12"/>
+    <updated>2026-10-14T01:13:05Z</updated>
+    <summary>Merged public contribution. +53 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #11: fix(router): retry failed utterance embeddings before caching</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/11</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/11"/>
+    <updated>2026-10-14T01:12:59Z</updated>
+    <summary>Merged public contribution. +69 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #10: fix(router): validate complete route batches before insertion</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/10</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/10"/>
+    <updated>2026-10-14T01:12:52Z</updated>
+    <summary>Merged public contribution. +59 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #9: fix(router): select routes with nonpositive similarity scores</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/9</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/9"/>
+    <updated>2026-10-14T01:12:44Z</updated>
+    <summary>Merged public contribution. +67 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>coreyhaines31/marketingskills #817: fix(revops): calibrate scoring with decision-time snapshots and holdouts</title>
     <id>https://github.com/coreyhaines31/marketingskills/pull/817</id>
@@ -131,229 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/852"/>
     <updated>2026-10-13T23:31:10Z</updated>
     <summary>Merged public contribution. +50 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #211: fix(bridge): preserve substantive identifiers in replay keys</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/211</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/211"/>
-    <updated>2026-10-13T23:28:17Z</updated>
-    <summary>Merged public contribution. +483 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #854: fix(hermes): honor HERMES_HOME and native data roots for session stores</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/854</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/854"/>
-    <updated>2026-10-13T23:22:27Z</updated>
-    <summary>Merged public contribution. +110 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #855: fix: honor literal CODEX_HOME session stores</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/855</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/855"/>
-    <updated>2026-10-13T23:18:13Z</updated>
-    <summary>Merged public contribution. +143 / -9 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #856: fix(config): write endpoint config atomically</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/856</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/856"/>
-    <updated>2026-10-13T23:00:20Z</updated>
-    <summary>Merged public contribution. +60 / -47 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/openclaw #171222: fix(feishu): keep nested code fences intact in incoming posts</title>
-    <id>https://github.com/openclaw/openclaw/pull/171222</id>
-    <link href="https://github.com/openclaw/openclaw/pull/171222"/>
-    <updated>2026-10-13T20:36:11Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #675: fix(evals): decode quoted skill identities consistently</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/675</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/675"/>
-    <updated>2026-10-13T20:12:29Z</updated>
-    <summary>Merged public contribution. +21 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #676: fix(validation): read top-level command descriptions</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/676</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/676"/>
-    <updated>2026-10-13T20:05:05Z</updated>
-    <summary>Merged public contribution. +36 / -16 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #313: fix(cli): restore analytic inspection seeds on resume</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/313</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/313"/>
-    <updated>2026-10-13T19:20:53Z</updated>
-    <summary>Merged public contribution. +179 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #301: fix: release native Bedrock clients after workers finish</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/301</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/301"/>
-    <updated>2026-10-13T19:20:47Z</updated>
-    <summary>Merged public contribution. +224 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #293: fix: preserve run manifests after interrupted resume writes</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/293</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/293"/>
-    <updated>2026-10-13T19:20:41Z</updated>
-    <summary>Merged public contribution. +90 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #286: fix: bind resumed verdicts to explicit judge configuration</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/286</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/286"/>
-    <updated>2026-10-13T19:20:34Z</updated>
-    <summary>Merged public contribution. +207 / -0 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #281: fix: reject nonpositive inspection fanout widths</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/281</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/281"/>
-    <updated>2026-10-13T19:20:27Z</updated>
-    <summary>Merged public contribution. +50 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #279: fix: find later eligible words during synonym mutation</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/279</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/279"/>
-    <updated>2026-10-13T19:20:21Z</updated>
-    <summary>Merged public contribution. +23 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #277: fix: preserve responses with mismatched reasoning tags</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/277</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/277"/>
-    <updated>2026-10-13T19:20:15Z</updated>
-    <summary>Merged public contribution. +46 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #274: fix: distinguish informational abstention from generic refusal</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/274</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/274"/>
-    <updated>2026-10-13T19:20:09Z</updated>
-    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #270: fix: Preserve every Anthropic system message</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/270</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/270"/>
-    <updated>2026-10-13T19:20:02Z</updated>
-    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #262: fix: require usable quick-build tool and role lists</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/262</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/262"/>
-    <updated>2026-10-13T19:19:57Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #261: fix: validate provider call control bounds</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/261</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/261"/>
-    <updated>2026-10-13T19:19:52Z</updated>
-    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #253: fix: preserve authored fixture content in YAML exports</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/253</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/253"/>
-    <updated>2026-10-13T19:19:46Z</updated>
-    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #251: fix: honor configured capability discovery timeout</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/251</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/251"/>
-    <updated>2026-10-13T19:19:40Z</updated>
-    <summary>Merged public contribution. +85 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #243: fix: preserve schema v2 manifest hash fields</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/243</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/243"/>
-    <updated>2026-10-13T19:19:35Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #236: fix: load rules from every inspection family</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/236</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/236"/>
-    <updated>2026-10-13T19:19:29Z</updated>
-    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #234: fix: reuse the embedding model across classifications</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/234</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/234"/>
-    <updated>2026-10-13T19:19:23Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #289: fix: normalize native SDK gateway failures as transient</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/289</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/289"/>
-    <updated>2026-10-13T18:30:49Z</updated>
-    <summary>Merged public contribution. +593 / -10 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>debpalash/OpenGTM #95: fix(workbook): honor stable column IDs in structural edit guards</title>
-    <id>https://github.com/debpalash/OpenGTM/pull/95</id>
-    <link href="https://github.com/debpalash/OpenGTM/pull/95"/>
-    <updated>2026-10-13T18:10:30Z</updated>
-    <summary>Merged public contribution. +64 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4746: fix(corpus): preserve the requested observation budget</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4746</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4746"/>
-    <updated>2026-10-13T17:17:01Z</updated>
-    <summary>Merged public contribution. +144 / -7 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4750: fix(search): match persisted metadata consistently during semantic hydration</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4750</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4750"/>
-    <updated>2026-10-13T17:15:15Z</updated>
-    <summary>Merged public contribution. +56 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4748: fix(viewer): preserve distinct native prompt turns in the feed</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4748</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4748"/>
-    <updated>2026-10-13T17:14:51Z</updated>
-    <summary>Merged public contribution. +76 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1230: fix(tooling): decode Git quoted paths in portability reports</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1230</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1230"/>
-    <updated>2026-10-13T17:08:57Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4754: fix(search): skip normalized empty hydration filters</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4754</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4754"/>
-    <updated>2026-10-13T17:01:38Z</updated>
-    <summary>Merged public contribution. +83 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4751: fix(import): retain native prompt receipts across restore</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4751</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4751"/>
-    <updated>2026-10-13T17:00:51Z</updated>
-    <summary>Merged public contribution. +101 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4747: fix(viewer): order equal-timestamp feed rows newest first</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4747</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4747"/>
-    <updated>2026-10-13T16:58:49Z</updated>
-    <summary>Merged public contribution. +54 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
