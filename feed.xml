@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T01:41:33Z</updated>
+  <updated>2026-10-14T02:18:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1619: fix(video): flatten image opacity onto the MP4 canvas</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1619</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1619"/>
+    <updated>2026-10-14T02:18:44Z</updated>
+    <summary>Merged public contribution. +25 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1609: fix(skill): retain Pexels keys after transient validation failures</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1609</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1609"/>
+    <updated>2026-10-14T02:18:29Z</updated>
+    <summary>Merged public contribution. +34 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1634: fix(minimax): reject unsupported raw PCM before synthesis</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1634</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1634"/>
+    <updated>2026-10-14T02:18:16Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>coreyhaines31/marketingskills #831: fix(close): preserve exact integer opportunity amounts</title>
     <id>https://github.com/coreyhaines31/marketingskills/pull/831</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/liliang-cn/cortexdb/pull/9"/>
     <updated>2026-10-14T01:12:44Z</updated>
     <summary>Merged public contribution. +67 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #817: fix(revops): calibrate scoring with decision-time snapshots and holdouts</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/817</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/817"/>
-    <updated>2026-10-14T00:45:00Z</updated>
-    <summary>Merged public contribution. +26 / -21 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #810: fix(churn-prevention): distinguish recovery cash and net ROI</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/810</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/810"/>
-    <updated>2026-10-14T00:45:00Z</updated>
-    <summary>Merged public contribution. +19 / -12 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #829: fix(churn-prevention): define health score units and coverage</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/829</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/829"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +21 / -7 across 5 changed files.</summary>
   </entry>
 </feed>
