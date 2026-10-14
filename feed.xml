@@ -4,8 +4,176 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T02:51:43Z</updated>
+  <updated>2026-10-14T03:47:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1613: fix(video): isolate sanitized image pixel snapshots</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1613</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1613"/>
+    <updated>2026-10-14T03:47:02Z</updated>
+    <summary>Merged public contribution. +57 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1612: fix(video): retain image renders across pixel revisions</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1612</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1612"/>
+    <updated>2026-10-14T03:46:49Z</updated>
+    <summary>Merged public contribution. +42 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1447: fix(webui): preserve task state when file deletion fails</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1447</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1447"/>
+    <updated>2026-10-14T03:46:35Z</updated>
+    <summary>Merged public contribution. +41 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1623: fix(webui): admit only actual final video files in task history</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1623</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1623"/>
+    <updated>2026-10-14T03:46:20Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1630: fix(webui): admit all supported local material formats</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1630</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1630"/>
+    <updated>2026-10-14T03:46:03Z</updated>
+    <summary>Merged public contribution. +60 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1610: fix(skill): honor environment keys after blank config values</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1610</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1610"/>
+    <updated>2026-10-14T03:45:48Z</updated>
+    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1618: fix(skill): finalize manifest when generation cannot start</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1618</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1618"/>
+    <updated>2026-10-14T03:45:32Z</updated>
+    <summary>Merged public contribution. +47 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1605: fix(llm): retry scripts empty after formatting</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1605</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1605"/>
+    <updated>2026-10-14T03:45:18Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1611: fix(subtitles): match canonically equivalent Unicode cue text</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1611</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1611"/>
+    <updated>2026-10-14T03:45:04Z</updated>
+    <summary>Merged public contribution. +33 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1615: fix(subtitles): keep attached marks together during wrapping</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1615</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1615"/>
+    <updated>2026-10-14T03:44:49Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1629: fix(twelvelabs): reject mixed embedding dimensions</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1629</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1629"/>
+    <updated>2026-10-14T03:44:35Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1625: fix(voice): preserve first SSE event after UTF-8 BOM</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1625</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1625"/>
+    <updated>2026-10-14T03:44:21Z</updated>
+    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1628: fix(api): return complete streams for unverifiable If-Range</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1628</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1628"/>
+    <updated>2026-10-14T03:44:08Z</updated>
+    <summary>Merged public contribution. +35 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1627: fix(api): parse byte ranges with HTTP grammar</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1627</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1627"/>
+    <updated>2026-10-14T03:43:53Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1636: feat(api): support HEAD metadata for artifact endpoints</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1636</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1636"/>
+    <updated>2026-10-14T03:43:37Z</updated>
+    <summary>Merged public contribution. +133 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1639: fix(minimax): match narration artifacts to output containers</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1639</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1639"/>
+    <updated>2026-10-14T03:42:03Z</updated>
+    <summary>Merged public contribution. +69 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1042: fix(foundation): classify cooperative and URL cancellation</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1042</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1042"/>
+    <updated>2026-10-14T03:41:59Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1033: fix(logging): filter errors consistently while streaming</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1033</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1033"/>
+    <updated>2026-10-14T03:41:39Z</updated>
+    <summary>Merged public contribution. +22 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1021: fix(mcp): validate wrapper timing options before scheduling</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1021</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1021"/>
+    <updated>2026-10-14T03:41:19Z</updated>
+    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1020: fix(mcp): keep repeated starts from spawning multiple servers</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1020</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1020"/>
+    <updated>2026-10-14T03:40:58Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1039: fix(mcp): fail and shut down after fatal wrapper errors</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1039</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1039"/>
+    <updated>2026-10-14T03:40:37Z</updated>
+    <summary>Merged public contribution. +81 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1030: fix(docs): protect link destinations from emphasis formatting</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1030</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1030"/>
+    <updated>2026-10-14T03:40:01Z</updated>
+    <summary>Merged public contribution. +47 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1028: fix(docs): honor code fence delimiters and lengths</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1028</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1028"/>
+    <updated>2026-10-14T03:36:13Z</updated>
+    <summary>Merged public contribution. +24 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1029: fix(docs): retain ordered instruction list start numbers</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1029</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1029"/>
+    <updated>2026-10-14T03:35:19Z</updated>
+    <summary>Merged public contribution. +13 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1616: fix(material): require Pixabay rendition height to fill output</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1616</id>
@@ -187,173 +355,5 @@
     <link href="https://github.com/liliang-cn/cortexdb/pull/37"/>
     <updated>2026-10-14T01:15:46Z</updated>
     <summary>Merged public contribution. +58 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #36: fix(graph): redistribute dangling PageRank mass</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/36</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/36"/>
-    <updated>2026-10-14T01:15:40Z</updated>
-    <summary>Merged public contribution. +60 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #35: fix(graph): preserve vectorless nodes in XML imports</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/35</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/35"/>
-    <updated>2026-10-14T01:15:32Z</updated>
-    <summary>Merged public contribution. +97 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #34: fix(cypher): bound string positions before slicing</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/34</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/34"/>
-    <updated>2026-10-14T01:15:26Z</updated>
-    <summary>Merged public contribution. +46 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #33: fix(shacl): validate negative integer value spaces</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/33</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/33"/>
-    <updated>2026-10-14T01:15:19Z</updated>
-    <summary>Merged public contribution. +46 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #32: fix(importflow): default nonpositive CSV sample sizes</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/32</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/32"/>
-    <updated>2026-10-14T01:15:13Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #31: fix(mcp): escape backslashes in quoted export frontmatter</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/31</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/31"/>
-    <updated>2026-10-14T01:15:06Z</updated>
-    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #30: fix(sparql): make solution and group keys unambiguous</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/30</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/30"/>
-    <updated>2026-10-14T01:14:59Z</updated>
-    <summary>Merged public contribution. +64 / -22 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #846: fix(handoff): use transcript chronology for Codex briefs</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/846</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/846"/>
-    <updated>2026-10-14T01:14:57Z</updated>
-    <summary>Merged public contribution. +60 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #29: fix(rdf): validate XML element matching and closure</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/29</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/29"/>
-    <updated>2026-10-14T01:14:52Z</updated>
-    <summary>Merged public contribution. +59 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #28: fix(core): report buffered CSV export errors</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/28</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/28"/>
-    <updated>2026-10-14T01:14:45Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #27: fix(cypher): stop ranges before integer overflow</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/27</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/27"/>
-    <updated>2026-10-14T01:14:37Z</updated>
-    <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #26: fix(router): enforce function schema required parameter lists</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/26</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/26"/>
-    <updated>2026-10-14T01:14:30Z</updated>
-    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #25: fix(router): bind functions to their semantic route names</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/25</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/25"/>
-    <updated>2026-10-14T01:14:23Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #24: fix(router): preserve extracted values and escape keyword patterns</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/24</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/24"/>
-    <updated>2026-10-14T01:14:17Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #23: fix(router): honor per-function parameter extractors</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/23</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/23"/>
-    <updated>2026-10-14T01:14:12Z</updated>
-    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #22: fix(dsh): reject truncated gRPC and protobuf responses</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/22</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/22"/>
-    <updated>2026-10-14T01:14:06Z</updated>
-    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #21: fix(graphflow): copy caller metadata before merging nodes</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/21</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/21"/>
-    <updated>2026-10-14T01:14:00Z</updated>
-    <summary>Merged public contribution. +40 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #20: fix(graphflow): preserve extraction metadata in JSON exports</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/20</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/20"/>
-    <updated>2026-10-14T01:13:53Z</updated>
-    <summary>Merged public contribution. +72 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #19: fix(agentmem): constrain reflection supersession targets to scope</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/19</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/19"/>
-    <updated>2026-10-14T01:13:47Z</updated>
-    <summary>Merged public contribution. +81 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #18: fix(agentmem): append context sections atomically</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/18</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/18"/>
-    <updated>2026-10-14T01:13:41Z</updated>
-    <summary>Merged public contribution. +87 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #17: fix(authz): reject trailing data in key files</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/17</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/17"/>
-    <updated>2026-10-14T01:13:35Z</updated>
-    <summary>Merged public contribution. +52 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #16: fix(connector): preserve allowed NULL-only source columns</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/16</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/16"/>
-    <updated>2026-10-14T01:13:29Z</updated>
-    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #15: fix(connector): mask email local parts as Unicode characters</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/15</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/15"/>
-    <updated>2026-10-14T01:13:22Z</updated>
-    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #14: fix(importflow): reject ambiguous CSV header names</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/14</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/14"/>
-    <updated>2026-10-14T01:13:17Z</updated>
-    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
