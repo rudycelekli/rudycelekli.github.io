@@ -4,8 +4,92 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T07:52:55Z</updated>
+  <updated>2026-10-14T08:33:47Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #262: fix(validate): decode YAML block scalar frontmatter</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/262</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/262"/>
+    <updated>2026-10-14T08:33:47Z</updated>
+    <summary>Merged public contribution. +139 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #261: fix(references): interpret sentence pointers consistently when validating and removing files</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/261</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/261"/>
+    <updated>2026-10-14T08:32:29Z</updated>
+    <summary>Merged public contribution. +196 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #257: fix(hooks): skip unavailable sidecars during usage observation</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/257</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/257"/>
+    <updated>2026-10-14T08:29:36Z</updated>
+    <summary>Merged public contribution. +39 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #259: fix(session-start): isolate claimed summaries across completed runs</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/259</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/259"/>
+    <updated>2026-10-14T08:22:52Z</updated>
+    <summary>Merged public contribution. +63 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #260: fix(promoter): serialize mutations of the shared global library</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/260</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/260"/>
+    <updated>2026-10-14T08:18:19Z</updated>
+    <summary>Merged public contribution. +92 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #297: fix: scope Anthropic temperature support to its API endpoint</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/297</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/297"/>
+    <updated>2026-10-14T08:05:40Z</updated>
+    <summary>Merged public contribution. +290 / -25 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1719: Fix sample weighting in GUI evaluation metrics</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1719</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1719"/>
+    <updated>2026-10-14T08:04:25Z</updated>
+    <summary>Merged public contribution. +94 / -30 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1038: fix(memory): explain unavailable private scratch roots</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1038</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1038"/>
+    <updated>2026-10-14T08:03:33Z</updated>
+    <summary>Merged public contribution. +67 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #312: fix: exclude native SUT aliases from judge fallbacks</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/312</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/312"/>
+    <updated>2026-10-14T08:02:45Z</updated>
+    <summary>Merged public contribution. +264 / -18 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1035: fix(test-execution): require exact file evidence for Vitest retries</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1035</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1035"/>
+    <updated>2026-10-14T08:02:39Z</updated>
+    <summary>Merged public contribution. +60 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1041: fix(test-execution): merge sequential coverage from hit evidence</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1041</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1041"/>
+    <updated>2026-10-14T08:02:28Z</updated>
+    <summary>Merged public contribution. +163 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1039: fix(coverage): read measured per-file coverage by canonical key</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1039</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1039"/>
+    <updated>2026-10-14T08:02:15Z</updated>
+    <summary>Merged public contribution. +61 / -16 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1040: fix(quality): reject unmeasured gate evidence</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1040</id>
@@ -271,89 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1634"/>
     <updated>2026-10-14T02:18:16Z</updated>
     <summary>Merged public contribution. +54 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #831: fix(close): preserve exact integer opportunity amounts</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/831</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/831"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +32 / -4 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #830: fix(pendo): require aggregation envelopes for search queries</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/830</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/830"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #828: fix(resend): validate template variable arrays and limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/828</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/828"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +42 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #824: fix(dub): validate bulk link containers and batch limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/824</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/824"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +33 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #822: fix(intercom): require event metadata dictionaries</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/822</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/822"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +18 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #818: fix(onesignal): reject conflicting notification audience options</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/818</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/818"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +31 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #816: fix(resend): enforce batch email container and size limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/816</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/816"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +32 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #813: fix(mixpanel): reject non-object event and profile properties</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/813</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/813"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #811: fix(customer-io): validate attribute and message data objects</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/811</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/811"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +49 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #807: fix(validation): inspect nested references and relative sibling links</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/807</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/807"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +55 / -6 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #806: fix(kit): validate custom field dictionaries before mutations</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/806</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/806"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +48 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #805: fix(sync): update skill tables in CRLF README files</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/805</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/805"/>
-    <updated>2026-10-14T01:41:33Z</updated>
-    <summary>Merged public contribution. +48 / -5 across 6 changed files.</summary>
   </entry>
 </feed>

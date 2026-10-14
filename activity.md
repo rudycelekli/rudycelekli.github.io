@@ -4,10 +4,22 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,024**
+Records: **2,036**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#262: fix(validate): decode YAML block scalar frontmatter](https://github.com/tigerless-labs/autoharness/pull/262) | +139 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#261: fix(references): interpret sentence pointers consistently when validating and removing files](https://github.com/tigerless-labs/autoharness/pull/261) | +196 / -10 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#257: fix(hooks): skip unavailable sidecars during usage observation](https://github.com/tigerless-labs/autoharness/pull/257) | +39 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#259: fix(session-start): isolate claimed summaries across completed runs](https://github.com/tigerless-labs/autoharness/pull/259) | +63 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#260: fix(promoter): serialize mutations of the shared global library](https://github.com/tigerless-labs/autoharness/pull/260) | +92 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#297: fix: scope Anthropic temperature support to its API endpoint](https://github.com/ifixai-ai/iFixAi/pull/297) | +290 / -25 across 9 files | 1 reviews · 2 comments |
+| 2026-10-14 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1719: Fix sample weighting in GUI evaluation metrics](https://github.com/open-compass/VLMEvalKit/pull/1719) | +94 / -30 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1038: fix(memory): explain unavailable private scratch roots](https://github.com/proffesor-for-testing/agentic-qe/pull/1038) | +67 / -6 across 2 files | 1 reviews · 0 comments |
+| 2026-10-14 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#312: fix: exclude native SUT aliases from judge fallbacks](https://github.com/ifixai-ai/iFixAi/pull/312) | +264 / -18 across 4 files | 1 reviews · 2 comments |
+| 2026-10-14 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1035: fix(test-execution): require exact file evidence for Vitest retries](https://github.com/proffesor-for-testing/agentic-qe/pull/1035) | +60 / -6 across 2 files | 1 reviews · 0 comments |
+| 2026-10-14 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1041: fix(test-execution): merge sequential coverage from hit evidence](https://github.com/proffesor-for-testing/agentic-qe/pull/1041) | +163 / -7 across 2 files | 1 reviews · 0 comments |
+| 2026-10-14 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1039: fix(coverage): read measured per-file coverage by canonical key](https://github.com/proffesor-for-testing/agentic-qe/pull/1039) | +61 / -16 across 5 files | 1 reviews · 0 comments |
 | 2026-10-14 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1040: fix(quality): reject unmeasured gate evidence](https://github.com/proffesor-for-testing/agentic-qe/pull/1040) | +65 / -3 across 3 files | 1 reviews · 0 comments |
 | 2026-10-14 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1606: fix(skill): replace complete multiline configuration values](https://github.com/harry0703/MoneyPrinterTurbo/pull/1606) | +35 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-14 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1614: fix(skill): match case-insensitive runtime provider IDs](https://github.com/harry0703/MoneyPrinterTurbo/pull/1614) | +36 / -3 across 2 files | 0 reviews · 1 comments |
