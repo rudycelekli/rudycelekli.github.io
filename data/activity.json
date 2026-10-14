@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 18,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 4,
+      "created_at": "2026-10-11T14:24:31Z",
+      "deletions": 2,
+      "merged_at": "2026-10-14T18:27:27Z",
+      "number": 1022,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 1,
+      "title": "fix(search): refuse empty coordinate components instead of silently dropping them",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1022"
+    },
+    {
+      "additions": 2140,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 22,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-11T06:00:56Z",
+      "deletions": 0,
+      "merged_at": "2026-10-14T18:26:20Z",
+      "number": 316,
+      "repository": "ifixai-ai/iFixAi",
+      "repository_url": "https://github.com/ifixai-ai/iFixAi",
+      "reviews": 1,
+      "title": "feat: discover harmful business-policy compositions and goal-preserving repairs",
+      "url": "https://github.com/ifixai-ai/iFixAi/pull/316"
+    },
+    {
+      "additions": 2534,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 20,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-11T05:22:14Z",
+      "deletions": 0,
+      "merged_at": "2026-10-14T17:57:38Z",
+      "number": 315,
+      "repository": "ifixai-ai/iFixAi",
+      "repository_url": "https://github.com/ifixai-ai/iFixAi",
+      "reviews": 1,
+      "title": "feat: audit recorded agent trajectories with replayable authority witnesses",
+      "url": "https://github.com/ifixai-ai/iFixAi/pull/315"
+    },
+    {
       "additions": 21,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -33597,7 +33645,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2098,
+  "record_count": 2101,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }

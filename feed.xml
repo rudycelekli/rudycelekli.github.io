@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T17:00:09Z</updated>
+  <updated>2026-10-14T18:27:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1022: fix(search): refuse empty coordinate components instead of silently dropping them</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1022</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1022"/>
+    <updated>2026-10-14T18:27:27Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #316: feat: discover harmful business-policy compositions and goal-preserving repairs</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/316</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/316"/>
+    <updated>2026-10-14T18:26:20Z</updated>
+    <summary>Merged public contribution. +2140 / -0 across 22 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #315: feat: audit recorded agent trajectories with replayable authority witnesses</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/315</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/315"/>
+    <updated>2026-10-14T17:57:38Z</updated>
+    <summary>Merged public contribution. +2534 / -0 across 20 changed files.</summary>
+  </entry>
   <entry>
     <title>tester-army/e2e #1043: feat(web): expose saved download absolute paths</title>
     <id>https://github.com/tester-army/e2e/pull/1043</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/tigerless-labs/cost-xray/pull/39"/>
     <updated>2026-10-14T12:13:04Z</updated>
     <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #23: fix(analyze): count literal special-token strings in captured text</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/23</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/23"/>
-    <updated>2026-10-14T12:12:58Z</updated>
-    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4170: fix(hooks): record failed Bash and edit outcomes</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4170</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4170"/>
-    <updated>2026-10-14T12:11:08Z</updated>
-    <summary>Merged public contribution. +88 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4163: docs(analyze): describe reviewer role suggestions accurately</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4163</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4163"/>
-    <updated>2026-10-14T11:51:37Z</updated>
-    <summary>Merged public contribution. +21 / -15 across 13 changed files.</summary>
   </entry>
 </feed>
