@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T09:25:20Z</updated>
+  <updated>2026-10-14T10:52:40Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1034: fix(learning): give default backups collision-safe names</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1034</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1034"/>
+    <updated>2026-10-14T10:52:40Z</updated>
+    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/ruflo #4168: test(quantization): make binary recall check stable</title>
     <id>https://github.com/ruvnet/ruflo/pull/4168</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1616"/>
     <updated>2026-10-14T02:51:43Z</updated>
     <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1601: fix(api): preserve explicit falsy response payloads</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1601</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1601"/>
-    <updated>2026-10-14T02:51:28Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
