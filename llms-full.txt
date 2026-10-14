@@ -8,13 +8,17 @@ Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-
 
 How do we know an agent completed the right work, under the right world state, for reasons that survive independent review?
 
+## Strategic public system
+
+KYA Evidence (Know Your Agent) is Rudy Celekli's experimental open reference implementation and standardization path for portable, scope-bound agent assurance: https://github.com/rudycelekli/kya-evidence. It binds exact systems, signed evidence, explicit relying-party policy, and contestable assessments. It is not an adopted industry standard.
+
 ## Current public evidence snapshot
 
 Evidence timestamp: 2026-10-14 UTC.
 Verified upstream projects: 50.
 Attributed commits: 2,505.
-Merged pull requests: 2,085.
-Accepted line changes: 241,275.
+Merged pull requests: 2,088.
+Accepted line changes: 241,426.
 Owned public repositories discovered: 27.
 
 Repository stars describe repository reach, not personal credit. Ownership, attributed commits, merged pull requests, and contributor rank are separate signals.

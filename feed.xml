@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T14:55:51Z</updated>
+  <updated>2026-10-14T15:11:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #831: fix(sdk): keep stream controls on wrapped Claude Agent queries</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/831</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/831"/>
+    <updated>2026-10-14T15:11:00Z</updated>
+    <summary>Merged public contribution. +85 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #834: fix(browser-extension): refresh static assets in watch builds</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/834</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/834"/>
+    <updated>2026-10-14T15:08:25Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #830: fix(sdk): honor disabled providers during manual patching</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/830</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/830"/>
+    <updated>2026-10-14T15:03:47Z</updated>
+    <summary>Merged public contribution. +37 / -9 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #835: fix(opencode): keep streamed text that arrives after a pending snapshot</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/835</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/ruvnet/ruflo/pull/4162"/>
     <updated>2026-10-14T09:21:33Z</updated>
     <summary>Merged public contribution. +34 / -36 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4169: fix(analyze): flag encryption paths as security-sensitive</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4169</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4169"/>
-    <updated>2026-10-14T09:20:30Z</updated>
-    <summary>Merged public contribution. +53 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>truefoundry/trueforge #1035: docs: describe optional server ports and public context hooks</title>
-    <id>https://github.com/truefoundry/trueforge/pull/1035</id>
-    <link href="https://github.com/truefoundry/trueforge/pull/1035"/>
-    <updated>2026-10-14T09:05:27Z</updated>
-    <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #262: fix(validate): decode YAML block scalar frontmatter</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/262</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/262"/>
-    <updated>2026-10-14T08:33:47Z</updated>
-    <summary>Merged public contribution. +139 / -2 across 3 changed files.</summary>
   </entry>
 </feed>

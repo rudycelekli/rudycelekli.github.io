@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,085**
+Records: **2,088**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#831: fix(sdk): keep stream controls on wrapped Claude Agent queries](https://github.com/Asymptote-Labs/agent-beacon/pull/831) | +85 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#834: fix(browser-extension): refresh static assets in watch builds](https://github.com/Asymptote-Labs/agent-beacon/pull/834) | +18 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#830: fix(sdk): honor disabled providers during manual patching](https://github.com/Asymptote-Labs/agent-beacon/pull/830) | +37 / -9 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#835: fix(opencode): keep streamed text that arrives after a pending snapshot](https://github.com/Asymptote-Labs/agent-beacon/pull/835) | +50 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#836: fix(browser-extension): stop rapid settings changes from overwriting each other](https://github.com/Asymptote-Labs/agent-beacon/pull/836) | +95 / -22 across 5 files | 0 reviews · 0 comments |
 | 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1071: fix(mcp): retain typed task status fields and result envelopes](https://github.com/mark3labs/mcp-go/pull/1071) | +46 / -118 across 2 files | 0 reviews · 4 comments |
