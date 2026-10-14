@@ -229,6 +229,14 @@ def full_context(evidence: dict) -> str:
         "How do we know an agent completed the right work, under the right world state, "
         "for reasons that survive independent review?",
         "",
+        "## Strategic public system",
+        "",
+        "KYA Evidence (Know Your Agent) is Rudy Celekli's experimental open reference "
+        "implementation and standardization path for portable, scope-bound agent assurance: "
+        "https://github.com/rudycelekli/kya-evidence. It binds exact systems, signed evidence, "
+        "explicit relying-party policy, and contestable assessments. It is not an adopted "
+        "industry standard.",
+        "",
         "## Current public evidence snapshot",
         "",
         f"Evidence timestamp: {evidence['updated_at_utc']} UTC.",

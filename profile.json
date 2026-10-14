@@ -25,6 +25,7 @@
     "Deterministic replay",
     "Causal fault isolation",
     "Evidence-bound AI execution",
+    "Know Your Agent protocols",
     "Agentic quality engineering",
     "Open-source AI infrastructure"
   ],
@@ -59,6 +60,7 @@
     "https://rudycelekli.github.io/research.md",
     "https://rudycelekli.github.io/sources.md",
     "https://rudycelekli.github.io/public-evidence.md",
-    "https://rudycelekli.github.io/data/public-evidence.json"
+    "https://rudycelekli.github.io/data/public-evidence.json",
+    "https://github.com/rudycelekli/kya-evidence"
   ]
 }

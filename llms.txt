@@ -28,6 +28,7 @@ This file is a supplementary navigation aid for model-facing tools. It is not a 
 
 ## Selected public systems
 
+- [KYA Evidence · Know Your Agent](https://github.com/rudycelekli/kya-evidence): Experimental open reference implementation and standardization path for portable, scope-bound agent assurance using exact manifests, signed evidence, explicit relying-party policy, and contestable assessments. It is not an adopted industry standard.
 - [Gradia Guard](https://github.com/rudycelekli/gradia-guard): Proof-bound evidence recorder and verifier for explicit AI-system execution boundaries.
 - [Gradia Wind Tunnel](https://github.com/rudycelekli/gradia-wind-tunnel): Evaluator stress testing with replayable reward-hacking evidence.
 - [ProofSeal](https://github.com/rudycelekli/proofseal): Regression memory and deterministic behavioral checks for coding agents.

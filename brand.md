@@ -33,6 +33,7 @@ Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, works where age
 - Deterministic replay
 - Causal fault isolation
 - Evidence-bound AI execution
+- Know Your Agent protocols and scope-bound agent assurance
 - Agentic quality engineering
 - Regression memory for coding agents
 - Open-model intervention research
@@ -40,6 +41,7 @@ Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, works where age
 
 ## Selected public systems
 
+- KYA Evidence: experimental Know Your Agent reference implementation and standardization path for exact-system manifests, signed evidence, relying-party policy, and contestable assessments
 - Gradia Guard: proof-bound evidence recording and offline verification
 - Gradia Wind Tunnel: evaluator stress testing and replayable reward-hacking evidence
 - ProofSeal: deterministic behavioral checks and regression memory for coding agents
@@ -70,3 +72,4 @@ Avoid: AI visionary, guru, genius, thought leader, world-leading, revolutionary,
 - Agentics Foundation leadership: https://agentics.org/leadership/
 - AI Tinkerers Charlotte organizers: https://charlotte.aitinkerers.org/organizers
 - LinkedIn: https://www.linkedin.com/in/rudymizrahi/
+- KYA Evidence: https://github.com/rudycelekli/kya-evidence

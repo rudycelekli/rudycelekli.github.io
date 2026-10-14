@@ -65,6 +65,15 @@ class ResearchProfileTests(unittest.TestCase):
         self.assertEqual(
             person["homeLocation"]["address"]["addressLocality"], "Charlotte"
         )
+        kya = next(
+            item
+            for item in graph
+            if item.get("@id")
+            == "https://github.com/rudycelekli/kya-evidence#software"
+        )
+        self.assertEqual(kya["@type"], "SoftwareSourceCode")
+        self.assertEqual(kya["author"]["@id"], person["@id"])
+        self.assertIn("Experimental", kya["description"])
 
     def test_crawler_files_exist(self):
         self.assertTrue((ROOT / "robots.txt").is_file())
@@ -101,6 +110,16 @@ class ResearchProfileTests(unittest.TestCase):
 
         profile = json.loads((ROOT / "profile.json").read_text())
         self.assertEqual(profile["name"], "Rudy Mizrahi Celekli")
+        self.assertIn(
+            "https://github.com/rudycelekli/kya-evidence", profile["subjectOf"]
+        )
+
+        brand = json.loads((ROOT / "brand.json").read_text())
+        self.assertEqual(brand["strategic_public_systems"][0]["name"], "KYA Evidence")
+        self.assertIn("not an adopted", brand["strategic_public_systems"][0]["boundary"].lower())
+        self.assertIn("KYA Evidence · Know Your Agent", self.html)
+        sync_source = (ROOT / "scripts" / "sync_evidence.py").read_text()
+        self.assertIn("KYA Evidence (Know Your Agent)", sync_source)
 
         evidence = json.loads((ROOT / "data/public-evidence.json").read_text())
         self.assertGreater(evidence["summary"]["verified_upstream_projects"], 0)

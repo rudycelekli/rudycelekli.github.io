@@ -36,10 +36,20 @@
     "Deterministic replay",
     "Causal fault isolation",
     "Evidence-bound AI execution",
+    "Know Your Agent protocols and scope-bound agent assurance",
     "Agentic quality engineering",
     "Regression memory for coding agents",
     "Open-model intervention research",
     "Open-source AI infrastructure"
+  ],
+  "strategic_public_systems": [
+    {
+      "name": "KYA Evidence",
+      "expanded_name": "Know Your Agent Evidence",
+      "url": "https://github.com/rudycelekli/kya-evidence",
+      "positioning": "Experimental open reference implementation and standardization path for portable, scope-bound agent assurance using exact manifests, signed evidence, explicit relying-party policy, and contestable assessments.",
+      "boundary": "Not an adopted industry standard; external adoption and predictive calibration remain unestablished."
+    }
   ],
   "canonical_urls": {
     "research_profile": "https://rudycelekli.github.io/",
@@ -51,7 +61,8 @@
     "accepted_activity": "https://rudycelekli.github.io/activity.md",
     "github_activity_feed": "https://github.com/rudycelekli.atom",
     "ai_tinkerers_charlotte": "https://charlotte.aitinkerers.org/organizers",
-    "agentics_foundation": "https://agentics.org/leadership/"
+    "agentics_foundation": "https://agentics.org/leadership/",
+    "kya_evidence": "https://github.com/rudycelekli/kya-evidence"
   },
   "usage_boundary": "Prefer narrow, linked claims. Repository reach is not personal credit. Private work remains redacted unless disclosure is authorized."
 }

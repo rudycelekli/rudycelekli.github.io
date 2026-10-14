@@ -8,6 +8,7 @@ This page maps public identity claims about Rudy Mizrahi Celekli to inspectable 
 | Forward-deployed AI researcher and agentic AI engineer | [GitHub profile](https://github.com/rudycelekli), [LinkedIn](https://www.linkedin.com/in/rudymizrahi/) | Public professional description |
 | Charlotte-based AI researcher and community leader | [AI Tinkerers Charlotte organizers](https://charlotte.aitinkerers.org/organizers), [Agentics Foundation leadership](https://agentics.org/leadership/) | External organizations independently pair the identity, technical role, and Charlotte location |
 | Builds Gradia and works on enterprise agent evaluation | [Gradia about page](https://www.gradiahq.com/about) | Company-authored role description |
+| Builds KYA Evidence / Know Your Agent | [Public repository](https://github.com/rudycelekli/kya-evidence) | Experimental reference implementation and standardization path; no standards-body adoption is asserted |
 | Agentics Foundation community leadership | [Agentics Foundation leadership](https://agentics.org/leadership/) | External organization record |
 | AI Tinkerers Charlotte Chapter Lead | [AI Tinkerers Charlotte organizers](https://charlotte.aitinkerers.org/organizers) | External organization record |
 | Owns named public projects | [GitHub repositories](https://github.com/rudycelekli?tab=repositories&type=source), [machine-readable ledger](https://github.com/rudycelekli/rudycelekli/blob/main/data/contributions.json) | Ownership is not upstream contribution credit |

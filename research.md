@@ -17,6 +17,7 @@ How do we know an agent completed the right work, under the right world state, f
 
 ## Selected public systems
 
+- KYA Evidence · Know Your Agent: https://github.com/rudycelekli/kya-evidence
 - Gradia Guard: https://github.com/rudycelekli/gradia-guard
 - Gradia Wind Tunnel: https://github.com/rudycelekli/gradia-wind-tunnel
 - ProofSeal: https://github.com/rudycelekli/proofseal
@@ -43,3 +44,4 @@ A passing test is not deployment. A local demonstration is not external acceptan
 - Gradia role: https://www.gradiahq.com/about
 - Agentics Foundation leadership: https://agentics.org/leadership/
 - AI Tinkerers Charlotte chapter leadership: https://charlotte.aitinkerers.org/organizers
+- KYA Evidence public source: https://github.com/rudycelekli/kya-evidence
