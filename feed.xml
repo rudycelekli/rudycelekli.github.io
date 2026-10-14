@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T02:18:44Z</updated>
+  <updated>2026-10-14T02:51:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1616: fix(material): require Pixabay rendition height to fill output</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1616</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1616"/>
+    <updated>2026-10-14T02:51:43Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1601: fix(api): preserve explicit falsy response payloads</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1601</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1601"/>
+    <updated>2026-10-14T02:51:28Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1638: fix(video): finish slideout within short scene duration</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1638</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1638"/>
+    <updated>2026-10-14T02:51:14Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1626: fix(llm): preserve inline sharp symbols in narration</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1626</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1626"/>
+    <updated>2026-10-14T02:50:58Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1624: fix(llm): retain narration in Markdown link labels</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1624</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1624"/>
+    <updated>2026-10-14T02:50:43Z</updated>
+    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1619: fix(video): flatten image opacity onto the MP4 canvas</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1619</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/liliang-cn/cortexdb/pull/14"/>
     <updated>2026-10-14T01:13:17Z</updated>
     <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #13: fix(router): replace sparse encoder state when refitting</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/13</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/13"/>
-    <updated>2026-10-14T01:13:11Z</updated>
-    <summary>Merged public contribution. +47 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #12: fix(router): synchronize cached embedder map access</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/12</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/12"/>
-    <updated>2026-10-14T01:13:05Z</updated>
-    <summary>Merged public contribution. +53 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #11: fix(router): retry failed utterance embeddings before caching</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/11</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/11"/>
-    <updated>2026-10-14T01:12:59Z</updated>
-    <summary>Merged public contribution. +69 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #10: fix(router): validate complete route batches before insertion</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/10</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/10"/>
-    <updated>2026-10-14T01:12:52Z</updated>
-    <summary>Merged public contribution. +59 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #9: fix(router): select routes with nonpositive similarity scores</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/9</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/9"/>
-    <updated>2026-10-14T01:12:44Z</updated>
-    <summary>Merged public contribution. +67 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
