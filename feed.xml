@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T21:28:53Z</updated>
+  <updated>2026-10-14T22:48:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1023: fix(director): seek camera longitude across the shortest dateline arc</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1023</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1023"/>
+    <updated>2026-10-14T22:48:41Z</updated>
+    <summary>Merged public contribution. +74 / -3 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #434: fix: probe Doctor readiness through default headless Chromium</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/434</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/mark3labs/mcp-go/pull/1055"/>
     <updated>2026-10-14T12:48:59Z</updated>
     <summary>Merged public contribution. +39 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #45: fix(count-tokens): validate persistent tool cache records before reuse</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/45</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/45"/>
-    <updated>2026-10-14T12:13:09Z</updated>
-    <summary>Merged public contribution. +26 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
