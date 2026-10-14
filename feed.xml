@@ -4,8 +4,113 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T01:31:35Z</updated>
+  <updated>2026-10-14T01:41:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>coreyhaines31/marketingskills #831: fix(close): preserve exact integer opportunity amounts</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/831</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/831"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +32 / -4 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #830: fix(pendo): require aggregation envelopes for search queries</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/830</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/830"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +37 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #828: fix(resend): validate template variable arrays and limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/828</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/828"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +42 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #824: fix(dub): validate bulk link containers and batch limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/824</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/824"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +33 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #822: fix(intercom): require event metadata dictionaries</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/822</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/822"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +18 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #818: fix(onesignal): reject conflicting notification audience options</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/818</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/818"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +31 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #816: fix(resend): enforce batch email container and size limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/816</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/816"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +32 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #813: fix(mixpanel): reject non-object event and profile properties</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/813</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/813"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +37 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #811: fix(customer-io): validate attribute and message data objects</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/811</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/811"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +49 / -7 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #807: fix(validation): inspect nested references and relative sibling links</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/807</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/807"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +55 / -6 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #806: fix(kit): validate custom field dictionaries before mutations</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/806</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/806"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +48 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #805: fix(sync): update skill tables in CRLF README files</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/805</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/805"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +48 / -5 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #804: fix: preflight packaging resource sizes before loading blobs</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/804</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/804"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +58 / -4 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #803: fix(sendgrid): reject non-object dynamic template data</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/803</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/803"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #801: fix(amplitude): reject invalid ingestion JSON containers</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/801</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/801"/>
+    <updated>2026-10-14T01:41:33Z</updated>
+    <summary>Merged public contribution. +96 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #845: fix(traces): stop huge page and context values from overflowing</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/845</id>
@@ -250,110 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/829"/>
     <updated>2026-10-14T00:44:59Z</updated>
     <summary>Merged public contribution. +21 / -7 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #827: fix(onboarding): evaluate card gates across the whole funnel</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/827</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/827"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +15 / -8 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #826: fix(onboarding): separate early activation from mature retention</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/826</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/826"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +19 / -9 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #825: fix(ads): confirm headline screening with a page experiment</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/825</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/825"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +17 / -11 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #823: fix(seo-audit): scope hreflang findings to affected relationships</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/823</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/823"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +16 / -10 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #821: fix(pricing): define the decreasing price-perception curves</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/821</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/821"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +21 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #820: fix(referrals): measure program return after serving costs</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/820</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/820"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +18 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #819: fix(ab-testing): account for exposure and allocation in duration checklist</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/819</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/819"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +24 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #815: fix(attribution): distinguish assignment analysis and uncertain lift</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/815</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/815"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +13 / -8 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #812: fix(co-marketing): correct marketplace routing and recurring fee economics</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/812</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/812"/>
-    <updated>2026-10-14T00:44:59Z</updated>
-    <summary>Merged public contribution. +11 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #847: fix(claude): read the workspace from the transcript when the index omits it</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/847</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/847"/>
-    <updated>2026-10-14T00:09:12Z</updated>
-    <summary>Merged public contribution. +284 / -192 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #848: fix(opencode): read sessions from OpenCode's data directory</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/848</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/848"/>
-    <updated>2026-10-13T23:47:56Z</updated>
-    <summary>Merged public contribution. +104 / -20 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #850: fix(sqlite): escape database paths in one shared file URI builder</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/850</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/850"/>
-    <updated>2026-10-13T23:41:26Z</updated>
-    <summary>Merged public contribution. +146 / -121 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #851: fix(exporter): scope Codex cache subsets to their own token series</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/851</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/851"/>
-    <updated>2026-10-13T23:38:16Z</updated>
-    <summary>Merged public contribution. +81 / -39 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #853: fix(hooks): discover Git branch and remote from the physical working directory</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/853</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/853"/>
-    <updated>2026-10-13T23:34:13Z</updated>
-    <summary>Merged public contribution. +95 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #852: fix(openclaw): validate gateway OTLP only from OTLP events</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/852</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/852"/>
-    <updated>2026-10-13T23:31:10Z</updated>
-    <summary>Merged public contribution. +50 / -5 across 3 changed files.</summary>
   </entry>
 </feed>

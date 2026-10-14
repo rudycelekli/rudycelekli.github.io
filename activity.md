@@ -4,10 +4,25 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,971**
+Records: **1,986**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#831: fix(close): preserve exact integer opportunity amounts](https://github.com/coreyhaines31/marketingskills/pull/831) | +32 / -4 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#830: fix(pendo): require aggregation envelopes for search queries](https://github.com/coreyhaines31/marketingskills/pull/830) | +37 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#828: fix(resend): validate template variable arrays and limits](https://github.com/coreyhaines31/marketingskills/pull/828) | +42 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#824: fix(dub): validate bulk link containers and batch limits](https://github.com/coreyhaines31/marketingskills/pull/824) | +33 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#822: fix(intercom): require event metadata dictionaries](https://github.com/coreyhaines31/marketingskills/pull/822) | +18 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#818: fix(onesignal): reject conflicting notification audience options](https://github.com/coreyhaines31/marketingskills/pull/818) | +31 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#816: fix(resend): enforce batch email container and size limits](https://github.com/coreyhaines31/marketingskills/pull/816) | +32 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#813: fix(mixpanel): reject non-object event and profile properties](https://github.com/coreyhaines31/marketingskills/pull/813) | +37 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#811: fix(customer-io): validate attribute and message data objects](https://github.com/coreyhaines31/marketingskills/pull/811) | +49 / -7 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#807: fix(validation): inspect nested references and relative sibling links](https://github.com/coreyhaines31/marketingskills/pull/807) | +55 / -6 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#806: fix(kit): validate custom field dictionaries before mutations](https://github.com/coreyhaines31/marketingskills/pull/806) | +48 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#805: fix(sync): update skill tables in CRLF README files](https://github.com/coreyhaines31/marketingskills/pull/805) | +48 / -5 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#804: fix: preflight packaging resource sizes before loading blobs](https://github.com/coreyhaines31/marketingskills/pull/804) | +58 / -4 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#803: fix(sendgrid): reject non-object dynamic template data](https://github.com/coreyhaines31/marketingskills/pull/803) | +40 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-10-14 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#801: fix(amplitude): reject invalid ingestion JSON containers](https://github.com/coreyhaines31/marketingskills/pull/801) | +96 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#845: fix(traces): stop huge page and context values from overflowing](https://github.com/Asymptote-Labs/agent-beacon/pull/845) | +87 / -7 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#38: fix(cortexdb): reject mismatched empty vector batches](https://github.com/liliang-cn/cortexdb/pull/38) | +32 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#37: fix(cortexdb): preserve underlying text embedding error causes](https://github.com/liliang-cn/cortexdb/pull/37) | +58 / -6 across 4 files | 0 reviews · 0 comments |
