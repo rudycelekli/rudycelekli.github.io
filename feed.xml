@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T03:47:02Z</updated>
+  <updated>2026-10-14T05:01:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1231: fix(cli): forward whoami full output over SSH</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1231</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1231"/>
+    <updated>2026-10-14T05:01:09Z</updated>
+    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1613: fix(video): isolate sanitized image pixel snapshots</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1613</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/liliang-cn/cortexdb/pull/38"/>
     <updated>2026-10-14T01:15:54Z</updated>
     <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #37: fix(cortexdb): preserve underlying text embedding error causes</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/37</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/37"/>
-    <updated>2026-10-14T01:15:46Z</updated>
-    <summary>Merged public contribution. +58 / -6 across 4 changed files.</summary>
   </entry>
 </feed>
