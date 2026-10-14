@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T12:51:11Z</updated>
+  <updated>2026-10-14T13:04:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4172: fix(intelligence): recall long memories for short route prompts</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4172</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4172"/>
+    <updated>2026-10-14T13:04:07Z</updated>
+    <summary>Merged public contribution. +374 / -70 across 12 changed files.</summary>
+  </entry>
   <entry>
     <title>mark3labs/mcp-go #1065: fix(server): invoke task lifecycle observers after unlocking</title>
     <id>https://github.com/mark3labs/mcp-go/pull/1065</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1615"/>
     <updated>2026-10-14T03:44:49Z</updated>
     <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1629: fix(twelvelabs): reject mixed embedding dimensions</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1629</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1629"/>
-    <updated>2026-10-14T03:44:35Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

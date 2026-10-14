@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,057**
+Records: **2,058**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4172: fix(intelligence): recall long memories for short route prompts](https://github.com/ruvnet/ruflo/pull/4172) | +374 / -70 across 12 files | 0 reviews · 1 comments |
 | 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1065: fix(server): invoke task lifecycle observers after unlocking](https://github.com/mark3labs/mcp-go/pull/1065) | +137 / -131 across 2 files | 0 reviews · 4 comments |
 | 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1060: fix(mcp): preserve empty arrays in result parser round trips](https://github.com/mark3labs/mcp-go/pull/1060) | +30 / -0 across 2 files | 0 reviews · 2 comments |
 | 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1057: fix(mcp): preserve caller metadata map ownership](https://github.com/mark3labs/mcp-go/pull/1057) | +25 / -5 across 2 files | 0 reviews · 2 comments |

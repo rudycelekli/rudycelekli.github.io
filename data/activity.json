@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 374,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 12,
+      "comments": 1,
+      "commits": 7,
+      "created_at": "2026-10-13T17:04:52Z",
+      "deletions": 70,
+      "merged_at": "2026-10-14T13:04:07Z",
+      "number": 4172,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(intelligence): recall long memories for short route prompts",
+      "url": "https://github.com/ruvnet/ruflo/pull/4172"
+    },
+    {
       "additions": 137,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -32941,7 +32957,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2057,
+  "record_count": 2058,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }
