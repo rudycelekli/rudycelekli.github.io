@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T12:13:09Z</updated>
+  <updated>2026-10-14T12:51:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mark3labs/mcp-go #1065: fix(server): invoke task lifecycle observers after unlocking</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1065</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1065"/>
+    <updated>2026-10-14T12:51:11Z</updated>
+    <summary>Merged public contribution. +137 / -131 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1060: fix(mcp): preserve empty arrays in result parser round trips</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1060</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1060"/>
+    <updated>2026-10-14T12:49:31Z</updated>
+    <summary>Merged public contribution. +30 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1057: fix(mcp): preserve caller metadata map ownership</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1057</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1057"/>
+    <updated>2026-10-14T12:49:15Z</updated>
+    <summary>Merged public contribution. +25 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1055: fix(mcp): replace output schemas without retaining old fields</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1055</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1055"/>
+    <updated>2026-10-14T12:48:59Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/cost-xray #45: fix(count-tokens): validate persistent tool cache records before reuse</title>
     <id>https://github.com/tigerless-labs/cost-xray/pull/45</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1629"/>
     <updated>2026-10-14T03:44:35Z</updated>
     <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1625: fix(voice): preserve first SSE event after UTF-8 BOM</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1625</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1625"/>
-    <updated>2026-10-14T03:44:21Z</updated>
-    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1628: fix(api): return complete streams for unverifiable If-Range</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1628</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1628"/>
-    <updated>2026-10-14T03:44:08Z</updated>
-    <summary>Merged public contribution. +35 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1627: fix(api): parse byte ranges with HTTP grammar</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1627</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1627"/>
-    <updated>2026-10-14T03:43:53Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1636: feat(api): support HEAD metadata for artifact endpoints</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1636</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1636"/>
-    <updated>2026-10-14T03:43:37Z</updated>
-    <summary>Merged public contribution. +133 / -5 across 4 changed files.</summary>
   </entry>
 </feed>

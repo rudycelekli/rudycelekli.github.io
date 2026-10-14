@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,053**
+Records: **2,057**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1065: fix(server): invoke task lifecycle observers after unlocking](https://github.com/mark3labs/mcp-go/pull/1065) | +137 / -131 across 2 files | 0 reviews · 4 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1060: fix(mcp): preserve empty arrays in result parser round trips](https://github.com/mark3labs/mcp-go/pull/1060) | +30 / -0 across 2 files | 0 reviews · 2 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1057: fix(mcp): preserve caller metadata map ownership](https://github.com/mark3labs/mcp-go/pull/1057) | +25 / -5 across 2 files | 0 reviews · 2 comments |
+| 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1055: fix(mcp): replace output schemas without retaining old fields](https://github.com/mark3labs/mcp-go/pull/1055) | +39 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-10-14 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#45: fix(count-tokens): validate persistent tool cache records before reuse](https://github.com/tigerless-labs/cost-xray/pull/45) | +26 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#39: fix(materialize): rebuild state after a capture is truncated](https://github.com/tigerless-labs/cost-xray/pull/39) | +23 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#23: fix(analyze): count literal special-token strings in captured text](https://github.com/tigerless-labs/cost-xray/pull/23) | +8 / -1 across 2 files | 0 reviews · 0 comments |
