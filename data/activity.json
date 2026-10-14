@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 86,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-09T16:16:30Z",
+      "deletions": 4,
+      "merged_at": "2026-10-14T13:41:33Z",
+      "number": 80,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Keep archived backlog pending when executor output is incomplete",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/80"
+    },
+    {
       "additions": 374,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 12,
@@ -32957,7 +32973,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2058,
+  "record_count": 2059,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }
