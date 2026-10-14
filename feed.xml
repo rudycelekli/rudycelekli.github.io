@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T11:51:37Z</updated>
+  <updated>2026-10-14T12:13:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #45: fix(count-tokens): validate persistent tool cache records before reuse</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/45</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/45"/>
+    <updated>2026-10-14T12:13:09Z</updated>
+    <summary>Merged public contribution. +26 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #39: fix(materialize): rebuild state after a capture is truncated</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/39</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/39"/>
+    <updated>2026-10-14T12:13:04Z</updated>
+    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #23: fix(analyze): count literal special-token strings in captured text</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/23</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/23"/>
+    <updated>2026-10-14T12:12:58Z</updated>
+    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4170: fix(hooks): record failed Bash and edit outcomes</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4170</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4170"/>
+    <updated>2026-10-14T12:11:08Z</updated>
+    <summary>Merged public contribution. +88 / -6 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/ruflo #4163: docs(analyze): describe reviewer role suggestions accurately</title>
     <id>https://github.com/ruvnet/ruflo/pull/4163</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1636"/>
     <updated>2026-10-14T03:43:37Z</updated>
     <summary>Merged public contribution. +133 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1639: fix(minimax): match narration artifacts to output containers</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1639</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1639"/>
-    <updated>2026-10-14T03:42:03Z</updated>
-    <summary>Merged public contribution. +69 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1042: fix(foundation): classify cooperative and URL cancellation</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1042</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1042"/>
-    <updated>2026-10-14T03:41:59Z</updated>
-    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1033: fix(logging): filter errors consistently while streaming</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1033</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1033"/>
-    <updated>2026-10-14T03:41:39Z</updated>
-    <summary>Merged public contribution. +22 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1021: fix(mcp): validate wrapper timing options before scheduling</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1021</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1021"/>
-    <updated>2026-10-14T03:41:19Z</updated>
-    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
