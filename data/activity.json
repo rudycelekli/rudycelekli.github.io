@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 60,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-06T08:00:14Z",
+      "deletions": 3,
+      "merged_at": "2026-10-14T11:08:07Z",
+      "number": 1722,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "Reject unparseable GUI click responses instead of inventing origin clicks",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1722"
+    },
+    {
       "additions": 35,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -32717,7 +32733,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2043,
+  "record_count": 2044,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }

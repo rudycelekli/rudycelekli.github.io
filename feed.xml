@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T10:52:40Z</updated>
+  <updated>2026-10-14T11:08:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1722: Reject unparseable GUI click responses instead of inventing origin clicks</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1722</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1722"/>
+    <updated>2026-10-14T11:08:07Z</updated>
+    <summary>Merged public contribution. +60 / -3 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1034: fix(learning): give default backups collision-safe names</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1034</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/openclaw/Peekaboo/pull/1029"/>
     <updated>2026-10-14T03:35:19Z</updated>
     <summary>Merged public contribution. +13 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1616: fix(material): require Pixabay rendition height to fill output</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1616</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1616"/>
-    <updated>2026-10-14T02:51:43Z</updated>
-    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
