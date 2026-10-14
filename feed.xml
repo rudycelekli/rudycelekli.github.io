@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-13T23:22:27Z</updated>
+  <updated>2026-10-13T23:47:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #848: fix(opencode): read sessions from OpenCode's data directory</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/848</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/848"/>
+    <updated>2026-10-13T23:47:56Z</updated>
+    <summary>Merged public contribution. +104 / -20 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #850: fix(sqlite): escape database paths in one shared file URI builder</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/850</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/850"/>
+    <updated>2026-10-13T23:41:26Z</updated>
+    <summary>Merged public contribution. +146 / -121 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #851: fix(exporter): scope Codex cache subsets to their own token series</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/851</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/851"/>
+    <updated>2026-10-13T23:38:16Z</updated>
+    <summary>Merged public contribution. +81 / -39 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #853: fix(hooks): discover Git branch and remote from the physical working directory</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/853</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/853"/>
+    <updated>2026-10-13T23:34:13Z</updated>
+    <summary>Merged public contribution. +95 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #852: fix(openclaw): validate gateway OTLP only from OTLP events</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/852</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/852"/>
+    <updated>2026-10-13T23:31:10Z</updated>
+    <summary>Merged public contribution. +50 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #211: fix(bridge): preserve substantive identifiers in replay keys</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/211</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/211"/>
+    <updated>2026-10-13T23:28:17Z</updated>
+    <summary>Merged public contribution. +483 / -14 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #854: fix(hermes): honor HERMES_HOME and native data roots for session stores</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/854</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/mvschwarz/openrig/pull/1229"/>
     <updated>2026-10-13T15:08:15Z</updated>
     <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #421: fix(import): ignore Mermaid samples inside outer Markdown fences</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/421</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/421"/>
-    <updated>2026-10-13T14:57:30Z</updated>
-    <summary>Merged public contribution. +64 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1232: fix(cli): report byte counts from Apple openrsync</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1232</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1232"/>
-    <updated>2026-10-13T14:52:17Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #422: fix(import): preserve sequence fragments across visual highlight blocks</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/422</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/422"/>
-    <updated>2026-10-13T14:40:33Z</updated>
-    <summary>Merged public contribution. +68 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1228: fix(slack): preserve interaction reply provenance</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1228</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1228"/>
-    <updated>2026-10-13T14:34:56Z</updated>
-    <summary>Merged public contribution. +75 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #387: fix(export): preserve live references alongside commented defs</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/387</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/387"/>
-    <updated>2026-10-13T14:20:27Z</updated>
-    <summary>Merged public contribution. +134 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1066: fix(mcp): preserve structured JSON through task result round trips</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1066</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1066"/>
-    <updated>2026-10-13T14:14:48Z</updated>
-    <summary>Merged public contribution. +76 / -5 across 5 changed files.</summary>
   </entry>
 </feed>

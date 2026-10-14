@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **1,920**
+Records: **1,926**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#848: fix(opencode): read sessions from OpenCode's data directory](https://github.com/Asymptote-Labs/agent-beacon/pull/848) | +104 / -20 across 6 files | 0 reviews · 0 comments |
+| 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#850: fix(sqlite): escape database paths in one shared file URI builder](https://github.com/Asymptote-Labs/agent-beacon/pull/850) | +146 / -121 across 10 files | 0 reviews · 0 comments |
+| 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#851: fix(exporter): scope Codex cache subsets to their own token series](https://github.com/Asymptote-Labs/agent-beacon/pull/851) | +81 / -39 across 3 files | 0 reviews · 0 comments |
+| 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#853: fix(hooks): discover Git branch and remote from the physical working directory](https://github.com/Asymptote-Labs/agent-beacon/pull/853) | +95 / -10 across 2 files | 0 reviews · 0 comments |
+| 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#852: fix(openclaw): validate gateway OTLP only from OTLP events](https://github.com/Asymptote-Labs/agent-beacon/pull/852) | +50 / -5 across 3 files | 0 reviews · 0 comments |
+| 2026-10-13 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#211: fix(bridge): preserve substantive identifiers in replay keys](https://github.com/ifixai-ai/iFixAi/pull/211) | +483 / -14 across 2 files | 1 reviews · 4 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#854: fix(hermes): honor HERMES_HOME and native data roots for session stores](https://github.com/Asymptote-Labs/agent-beacon/pull/854) | +110 / -4 across 5 files | 0 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#855: fix: honor literal CODEX_HOME session stores](https://github.com/Asymptote-Labs/agent-beacon/pull/855) | +143 / -9 across 7 files | 0 reviews · 0 comments |
 | 2026-10-13 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#856: fix(config): write endpoint config atomically](https://github.com/Asymptote-Labs/agent-beacon/pull/856) | +60 / -47 across 9 files | 0 reviews · 0 comments |
