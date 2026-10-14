@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T11:08:07Z</updated>
+  <updated>2026-10-14T11:51:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4163: docs(analyze): describe reviewer role suggestions accurately</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4163</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4163"/>
+    <updated>2026-10-14T11:51:37Z</updated>
+    <summary>Merged public contribution. +21 / -15 across 13 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4167: fix(agent): derive health from observed execution outcomes</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4167</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4167"/>
+    <updated>2026-10-14T11:50:59Z</updated>
+    <summary>Merged public contribution. +235 / -44 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4165: fix(analyze): classify actual diff content and commit subjects</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4165</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4165"/>
+    <updated>2026-10-14T11:45:48Z</updated>
+    <summary>Merged public contribution. +293 / -66 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4164: fix(workflow): fail closed on invalid gates and unsupported steps</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4164</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4164"/>
+    <updated>2026-10-14T11:42:52Z</updated>
+    <summary>Merged public contribution. +110 / -16 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4171: fix(rag-memory): use supported CLI and MCP search paths</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4171</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4171"/>
+    <updated>2026-10-14T11:40:05Z</updated>
+    <summary>Merged public contribution. +76 / -108 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1722: Reject unparseable GUI click responses instead of inventing origin clicks</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1722</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/openclaw/Peekaboo/pull/1021"/>
     <updated>2026-10-14T03:41:19Z</updated>
     <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1020: fix(mcp): keep repeated starts from spawning multiple servers</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1020</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1020"/>
-    <updated>2026-10-14T03:40:58Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1039: fix(mcp): fail and shut down after fatal wrapper errors</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1039</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1039"/>
-    <updated>2026-10-14T03:40:37Z</updated>
-    <summary>Merged public contribution. +81 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1030: fix(docs): protect link destinations from emphasis formatting</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1030</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1030"/>
-    <updated>2026-10-14T03:40:01Z</updated>
-    <summary>Merged public contribution. +47 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1028: fix(docs): honor code fence delimiters and lengths</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1028</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1028"/>
-    <updated>2026-10-14T03:36:13Z</updated>
-    <summary>Merged public contribution. +24 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1029: fix(docs): retain ordered instruction list start numbers</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1029</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1029"/>
-    <updated>2026-10-14T03:35:19Z</updated>
-    <summary>Merged public contribution. +13 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
