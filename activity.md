@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,036**
+Records: **2,042**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4168: test(quantization): make binary recall check stable](https://github.com/ruvnet/ruflo/pull/4168) | +13 / -4 across 1 files | 0 reviews · 0 comments |
+| 2026-10-14 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#285: fix: preserve all Gemini system message frames](https://github.com/ifixai-ai/iFixAi/pull/285) | +42 / -3 across 2 files | 1 reviews · 2 comments |
+| 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4166: fix(security): detect interpolated exec calls after imports](https://github.com/ruvnet/ruflo/pull/4166) | +64 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4162: fix(analyze): accept safe Git revision ranges](https://github.com/ruvnet/ruflo/pull/4162) | +34 / -36 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4169: fix(analyze): flag encryption paths as security-sensitive](https://github.com/ruvnet/ruflo/pull/4169) | +53 / -7 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | [#1035: docs: describe optional server ports and public context hooks](https://github.com/truefoundry/trueforge/pull/1035) | +22 / -5 across 2 files | 1 reviews · 1 comments |
 | 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#262: fix(validate): decode YAML block scalar frontmatter](https://github.com/tigerless-labs/autoharness/pull/262) | +139 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#261: fix(references): interpret sentence pointers consistently when validating and removing files](https://github.com/tigerless-labs/autoharness/pull/261) | +196 / -10 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#257: fix(hooks): skip unavailable sidecars during usage observation](https://github.com/tigerless-labs/autoharness/pull/257) | +39 / -4 across 3 files | 0 reviews · 0 comments |

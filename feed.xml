@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T08:33:47Z</updated>
+  <updated>2026-10-14T09:25:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4168: test(quantization): make binary recall check stable</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4168</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4168"/>
+    <updated>2026-10-14T09:25:20Z</updated>
+    <summary>Merged public contribution. +13 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #285: fix: preserve all Gemini system message frames</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/285</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/285"/>
+    <updated>2026-10-14T09:24:49Z</updated>
+    <summary>Merged public contribution. +42 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4166: fix(security): detect interpolated exec calls after imports</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4166</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4166"/>
+    <updated>2026-10-14T09:23:08Z</updated>
+    <summary>Merged public contribution. +64 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4162: fix(analyze): accept safe Git revision ranges</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4162</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4162"/>
+    <updated>2026-10-14T09:21:33Z</updated>
+    <summary>Merged public contribution. +34 / -36 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4169: fix(analyze): flag encryption paths as security-sensitive</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4169</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4169"/>
+    <updated>2026-10-14T09:20:30Z</updated>
+    <summary>Merged public contribution. +53 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>truefoundry/trueforge #1035: docs: describe optional server ports and public context hooks</title>
+    <id>https://github.com/truefoundry/trueforge/pull/1035</id>
+    <link href="https://github.com/truefoundry/trueforge/pull/1035"/>
+    <updated>2026-10-14T09:05:27Z</updated>
+    <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #262: fix(validate): decode YAML block scalar frontmatter</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/262</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1601"/>
     <updated>2026-10-14T02:51:28Z</updated>
     <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1638: fix(video): finish slideout within short scene duration</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1638</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1638"/>
-    <updated>2026-10-14T02:51:14Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1626: fix(llm): preserve inline sharp symbols in narration</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1626</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1626"/>
-    <updated>2026-10-14T02:50:58Z</updated>
-    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1624: fix(llm): retain narration in Markdown link labels</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1624</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1624"/>
-    <updated>2026-10-14T02:50:43Z</updated>
-    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1619: fix(video): flatten image opacity onto the MP4 canvas</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1619</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1619"/>
-    <updated>2026-10-14T02:18:44Z</updated>
-    <summary>Merged public contribution. +25 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1609: fix(skill): retain Pexels keys after transient validation failures</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1609</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1609"/>
-    <updated>2026-10-14T02:18:29Z</updated>
-    <summary>Merged public contribution. +34 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1634: fix(minimax): reject unsupported raw PCM before synthesis</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1634</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1634"/>
-    <updated>2026-10-14T02:18:16Z</updated>
-    <summary>Merged public contribution. +54 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
