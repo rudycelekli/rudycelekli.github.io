@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T15:11:00Z</updated>
+  <updated>2026-10-14T16:33:05Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #820: fix(traces): center filtered --around-event on the original event number</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/820</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/820"/>
+    <updated>2026-10-14T16:33:05Z</updated>
+    <summary>Merged public contribution. +129 / -17 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #822: fix(traces): measure trace browser text in terminal columns</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/822</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/822"/>
+    <updated>2026-10-14T16:24:25Z</updated>
+    <summary>Merged public contribution. +90 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #827: fix(hooks): stop reconstructed Write diffs adding a phantom final line</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/827</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/827"/>
+    <updated>2026-10-14T15:58:01Z</updated>
+    <summary>Merged public contribution. +49 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #825: fix(opencode): finish hook cleanup after synchronous disposal errors</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/825</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/825"/>
+    <updated>2026-10-14T15:57:58Z</updated>
+    <summary>Merged public contribution. +22 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #826: fix(dashboard): keep the latest activity filter response</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/826</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/826"/>
+    <updated>2026-10-14T15:53:37Z</updated>
+    <summary>Merged public contribution. +94 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #828: fix(browser-extension): time out stalled collector requests</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/828</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/828"/>
+    <updated>2026-10-14T15:50:10Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #829: fix(sdk): end async stream spans when consumption stops early</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/829</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/829"/>
+    <updated>2026-10-14T15:46:56Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #832: fix(sdk): bind AI instrumentations to the configured provider</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/832</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/832"/>
+    <updated>2026-10-14T15:42:42Z</updated>
+    <summary>Merged public contribution. +40 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #831: fix(sdk): keep stream controls on wrapped Claude Agent queries</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/831</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/ruvnet/ruflo/pull/4165"/>
     <updated>2026-10-14T11:45:48Z</updated>
     <summary>Merged public contribution. +293 / -66 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4164: fix(workflow): fail closed on invalid gates and unsupported steps</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4164</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4164"/>
-    <updated>2026-10-14T11:42:52Z</updated>
-    <summary>Merged public contribution. +110 / -16 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4171: fix(rag-memory): use supported CLI and MCP search paths</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4171</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4171"/>
-    <updated>2026-10-14T11:40:05Z</updated>
-    <summary>Merged public contribution. +76 / -108 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1722: Reject unparseable GUI click responses instead of inventing origin clicks</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1722</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1722"/>
-    <updated>2026-10-14T11:08:07Z</updated>
-    <summary>Merged public contribution. +60 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1034: fix(learning): give default backups collision-safe names</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1034</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1034"/>
-    <updated>2026-10-14T10:52:40Z</updated>
-    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4168: test(quantization): make binary recall check stable</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4168</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4168"/>
-    <updated>2026-10-14T09:25:20Z</updated>
-    <summary>Merged public contribution. +13 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #285: fix: preserve all Gemini system message frames</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/285</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/285"/>
-    <updated>2026-10-14T09:24:49Z</updated>
-    <summary>Merged public contribution. +42 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4166: fix(security): detect interpolated exec calls after imports</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4166</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4166"/>
-    <updated>2026-10-14T09:23:08Z</updated>
-    <summary>Merged public contribution. +64 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4162: fix(analyze): accept safe Git revision ranges</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4162</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4162"/>
-    <updated>2026-10-14T09:21:33Z</updated>
-    <summary>Merged public contribution. +34 / -36 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,18 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,088**
+Records: **2,096**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#820: fix(traces): center filtered --around-event on the original event number](https://github.com/Asymptote-Labs/agent-beacon/pull/820) | +129 / -17 across 7 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#822: fix(traces): measure trace browser text in terminal columns](https://github.com/Asymptote-Labs/agent-beacon/pull/822) | +90 / -15 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#827: fix(hooks): stop reconstructed Write diffs adding a phantom final line](https://github.com/Asymptote-Labs/agent-beacon/pull/827) | +49 / -19 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#825: fix(opencode): finish hook cleanup after synchronous disposal errors](https://github.com/Asymptote-Labs/agent-beacon/pull/825) | +22 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#826: fix(dashboard): keep the latest activity filter response](https://github.com/Asymptote-Labs/agent-beacon/pull/826) | +94 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#828: fix(browser-extension): time out stalled collector requests](https://github.com/Asymptote-Labs/agent-beacon/pull/828) | +8 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#829: fix(sdk): end async stream spans when consumption stops early](https://github.com/Asymptote-Labs/agent-beacon/pull/829) | +19 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#832: fix(sdk): bind AI instrumentations to the configured provider](https://github.com/Asymptote-Labs/agent-beacon/pull/832) | +40 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#831: fix(sdk): keep stream controls on wrapped Claude Agent queries](https://github.com/Asymptote-Labs/agent-beacon/pull/831) | +85 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#834: fix(browser-extension): refresh static assets in watch builds](https://github.com/Asymptote-Labs/agent-beacon/pull/834) | +18 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#830: fix(sdk): honor disabled providers during manual patching](https://github.com/Asymptote-Labs/agent-beacon/pull/830) | +37 / -9 across 3 files | 0 reviews · 0 comments |
