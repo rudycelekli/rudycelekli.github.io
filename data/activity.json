@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 213,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-13T23:47:13Z",
+      "deletions": 26,
+      "merged_at": "2026-10-14T21:28:53Z",
+      "number": 434,
+      "repository": "cathrynlavery/diagram-design",
+      "repository_url": "https://github.com/cathrynlavery/diagram-design",
+      "reviews": 2,
+      "title": "fix: probe Doctor readiness through default headless Chromium",
+      "url": "https://github.com/cathrynlavery/diagram-design/pull/434"
+    },
+    {
       "additions": 18,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -33645,7 +33661,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2101,
+  "record_count": 2102,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }
