@@ -4,10 +4,25 @@ Evidence timestamp: **2026-10-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,059**
+Records: **2,074**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#842: fix(browser-extension): stop new turns from burning queued batches' retries](https://github.com/Asymptote-Labs/agent-beacon/pull/842) | +76 / -9 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1841: fix(documents): preserve literal Excel missing-value markers](https://github.com/HKUDS/Vibe-Trading/pull/1841) | +68 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1840: fix(documents): read PowerPoint group and table text](https://github.com/HKUDS/Vibe-Trading/pull/1840) | +160 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1839: fix(documents): preserve Word paragraph and table order](https://github.com/HKUDS/Vibe-Trading/pull/1839) | +81 / -7 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1838: fix(documents): retain short text in accepted mixed PDFs](https://github.com/HKUDS/Vibe-Trading/pull/1838) | +131 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1836: fix(quantlib): enforce the serialized result leaf budget](https://github.com/HKUDS/Vibe-Trading/pull/1836) | +140 / -12 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1834: fix(session): anchor search snippets to native FTS matches](https://github.com/HKUDS/Vibe-Trading/pull/1834) | +175 / -12 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1832: fix(session): preserve live title updates and synchronize search labels](https://github.com/HKUDS/Vibe-Trading/pull/1832) | +201 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1830: fix(events): preserve share-class tickers in configured RSS routes](https://github.com/HKUDS/Vibe-Trading/pull/1830) | +87 / -16 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1829: fix(events): preserve daily calendar dates for timezone-aware inputs](https://github.com/HKUDS/Vibe-Trading/pull/1829) | +109 / -18 across 3 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1828: fix(session): serialize shared search connection operations](https://github.com/HKUDS/Vibe-Trading/pull/1828) | +242 / -28 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1827: fix(session): apply search limits to distinct conversations](https://github.com/HKUDS/Vibe-Trading/pull/1827) | +123 / -23 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1826: fix(quantlib): keep VPIN bucket completion invariant to volume units](https://github.com/HKUDS/Vibe-Trading/pull/1826) | +73 / -7 across 2 files | 1 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#843: fix(opencode): release arguments of failed tools](https://github.com/Asymptote-Labs/agent-beacon/pull/843) | +4 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-14 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#844: fix(dashboard): retain newest events across timestamp ties](https://github.com/Asymptote-Labs/agent-beacon/pull/844) | +103 / -31 across 2 files | 0 reviews · 0 comments |
 | 2026-10-14 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#80: Keep archived backlog pending when executor output is incomplete](https://github.com/tigerless-labs/agent-memory/pull/80) | +86 / -4 across 5 files | 0 reviews · 0 comments |
 | 2026-10-14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4172: fix(intelligence): recall long memories for short route prompts](https://github.com/ruvnet/ruflo/pull/4172) | +374 / -70 across 12 files | 0 reviews · 1 comments |
 | 2026-10-14 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1065: fix(server): invoke task lifecycle observers after unlocking](https://github.com/mark3labs/mcp-go/pull/1065) | +137 / -131 across 2 files | 0 reviews · 4 comments |
