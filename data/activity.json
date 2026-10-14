@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 54,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 3,
+      "commits": 5,
+      "created_at": "2026-10-11T14:27:30Z",
+      "deletions": 8,
+      "merged_at": "2026-10-14T23:14:01Z",
+      "number": 1027,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(weather): keep absent observations unknown instead of reporting clear skies",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1027"
+    },
+    {
+      "additions": 51,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 5,
+      "created_at": "2026-10-11T14:27:25Z",
+      "deletions": 4,
+      "merged_at": "2026-10-14T23:03:36Z",
+      "number": 1026,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(tools): enforce string schema lengths by Unicode code point",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1026"
+    },
+    {
       "additions": 74,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -33677,7 +33709,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2103,
+  "record_count": 2105,
   "schema_version": 1,
   "updated_at_utc": "2026-10-14"
 }
