@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T14:52:18Z</updated>
+  <updated>2026-10-15T15:34:49Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388"/>
+    <updated>2026-10-15T15:34:49Z</updated>
+    <summary>Merged public contribution. +57 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #879: fix(cline): honor CLINE_DIR for the plugin, discovery, inventory and sessions</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/879</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/879"/>
+    <updated>2026-10-15T15:34:18Z</updated>
+    <summary>Merged public contribution. +163 / -24 across 13 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #877: fix(hooks): serialize the session state file across hook processes</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/877</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/877"/>
+    <updated>2026-10-15T15:31:46Z</updated>
+    <summary>Merged public contribution. +172 / -38 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1033: chore(ui): harden surface Tab cycling</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1033</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1033"/>
+    <updated>2026-10-15T15:27:25Z</updated>
+    <summary>Merged public contribution. +66 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #881: fix(cursorsession): stop skipping records after a compaction</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/881</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/881"/>
+    <updated>2026-10-15T15:18:04Z</updated>
+    <summary>Merged public contribution. +91 / -7 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1038: fix(cctv): leave conflicting direction fields unresolved</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1038</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1038"/>
+    <updated>2026-10-15T15:10:35Z</updated>
+    <summary>Merged public contribution. +64 / -17 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #882: fix(endpoint): compact an oversized event instead of failing the sync</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/882</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/882"/>
+    <updated>2026-10-15T15:01:44Z</updated>
+    <summary>Merged public contribution. +120 / -0 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1053: fix(test-execution): compare retry evidence by realpath so symlinked targets can clear</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1053</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/openclaw/Peekaboo/pull/1076"/>
     <updated>2026-10-15T06:48:44Z</updated>
     <summary>Merged public contribution. +21 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1074: fix(click): reject non-finite coordinates</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1074</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1074"/>
-    <updated>2026-10-15T06:48:41Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1047: fix(maps): stop delivering settled state to detached subscribers</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1047</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1047"/>
-    <updated>2026-10-15T04:28:08Z</updated>
-    <summary>Merged public contribution. +99 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1046: fix(director): reject cancellation during the final asset stream read</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1046</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1046"/>
-    <updated>2026-10-15T04:11:43Z</updated>
-    <summary>Merged public contribution. +88 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1045: fix(tools): retain query rows when a timestamp exceeds the Date range</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1045</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1045"/>
-    <updated>2026-10-15T02:54:17Z</updated>
-    <summary>Merged public contribution. +89 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1044: fix(firms): reject missing and out-of-range detection coordinates</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1044</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1044"/>
-    <updated>2026-10-15T02:43:40Z</updated>
-    <summary>Merged public contribution. +103 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1040: fix(terrain): refresh cache recency when resolving warm batches</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1040</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1040"/>
-    <updated>2026-10-15T02:02:27Z</updated>
-    <summary>Merged public contribution. +57 / -16 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1036: fix(recent-imagery): reject absent box edges instead of inventing zero degrees</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1036</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1036"/>
-    <updated>2026-10-15T01:54:25Z</updated>
-    <summary>Merged public contribution. +75 / -6 across 4 changed files.</summary>
   </entry>
 </feed>

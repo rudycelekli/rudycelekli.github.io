@@ -4,10 +4,17 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,161**
+Records: **2,168**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388) | +57 / -8 across 3 files | 10 reviews · 1 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#879: fix(cline): honor CLINE_DIR for the plugin, discovery, inventory and sessions](https://github.com/Asymptote-Labs/agent-beacon/pull/879) | +163 / -24 across 13 files | 0 reviews · 0 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#877: fix(hooks): serialize the session state file across hook processes](https://github.com/Asymptote-Labs/agent-beacon/pull/877) | +172 / -38 across 5 files | 0 reviews · 0 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1033: chore(ui): harden surface Tab cycling](https://github.com/bilawalsidhu/gods-eye-view/pull/1033) | +66 / -2 across 4 files | 0 reviews · 2 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#881: fix(cursorsession): stop skipping records after a compaction](https://github.com/Asymptote-Labs/agent-beacon/pull/881) | +91 / -7 across 5 files | 0 reviews · 0 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1038: fix(cctv): leave conflicting direction fields unresolved](https://github.com/bilawalsidhu/gods-eye-view/pull/1038) | +64 / -17 across 4 files | 0 reviews · 2 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#882: fix(endpoint): compact an oversized event instead of failing the sync](https://github.com/Asymptote-Labs/agent-beacon/pull/882) | +120 / -0 across 3 files | 0 reviews · 0 comments |
 | 2026-10-15 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1053: fix(test-execution): compare retry evidence by realpath so symlinked targets can clear](https://github.com/proffesor-for-testing/agentic-qe/pull/1053) | +65 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1051: fix(regional): keep impossible compact article dates unknown](https://github.com/bilawalsidhu/gods-eye-view/pull/1051) | +60 / -6 across 4 files | 0 reviews · 3 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4392: fix(learner): parse block-list skill metadata in CRLF files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4392) | +29 / -6 across 3 files | 1 reviews · 2 comments |
