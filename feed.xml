@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T11:27:03Z</updated>
+  <updated>2026-10-15T13:16:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liseami/CCBaga #31: fix(browser): reject IPv6 exit addresses that carry URL syntax</title>
+    <id>https://github.com/liseami/CCBaga/pull/31</id>
+    <link href="https://github.com/liseami/CCBaga/pull/31"/>
+    <updated>2026-10-15T13:16:11Z</updated>
+    <summary>Merged public contribution. +5 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #30: fix(ui): carry formatBytes rounding into the next unit</title>
+    <id>https://github.com/liseami/CCBaga/pull/30</id>
+    <link href="https://github.com/liseami/CCBaga/pull/30"/>
+    <updated>2026-10-15T13:16:11Z</updated>
+    <summary>Merged public contribution. +502 / -5 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #29: fix(network): reject non-string expected exit IP in connection config</title>
+    <id>https://github.com/liseami/CCBaga/pull/29</id>
+    <link href="https://github.com/liseami/CCBaga/pull/29"/>
+    <updated>2026-10-15T13:16:11Z</updated>
+    <summary>Merged public contribution. +486 / -1 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>tester-army/e2e #1042: feat(web): support held keyboard keys and modifiers</title>
     <id>https://github.com/tester-army/e2e/pull/1042</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/821"/>
     <updated>2026-10-14T16:40:25Z</updated>
     <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #820: fix(traces): center filtered --around-event on the original event number</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/820</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/820"/>
-    <updated>2026-10-14T16:33:05Z</updated>
-    <summary>Merged public contribution. +129 / -17 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #822: fix(traces): measure trace browser text in terminal columns</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/822</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/822"/>
-    <updated>2026-10-14T16:24:25Z</updated>
-    <summary>Merged public contribution. +90 / -15 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #827: fix(hooks): stop reconstructed Write diffs adding a phantom final line</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/827</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/827"/>
-    <updated>2026-10-14T15:58:01Z</updated>
-    <summary>Merged public contribution. +49 / -19 across 2 changed files.</summary>
   </entry>
 </feed>

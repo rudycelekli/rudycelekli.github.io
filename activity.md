@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,143**
+Records: **2,146**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#31: fix(browser): reject IPv6 exit addresses that carry URL syntax](https://github.com/liseami/CCBaga/pull/31) | +5 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-15 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#30: fix(ui): carry formatBytes rounding into the next unit](https://github.com/liseami/CCBaga/pull/30) | +502 / -5 across 7 files | 0 reviews · 1 comments |
+| 2026-10-15 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#29: fix(network): reject non-string expected exit IP in connection config](https://github.com/liseami/CCBaga/pull/29) | +486 / -1 across 7 files | 0 reviews · 1 comments |
 | 2026-10-15 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1042: feat(web): support held keyboard keys and modifiers](https://github.com/tester-army/e2e/pull/1042) | +98 / -6 across 9 files | 2 reviews · 1 comments |
 | 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9793: Resolve dotted program labels in assembler operands](https://github.com/NationalSecurityAgency/ghidra/pull/9793) | +1 / -1 across 1 files | 0 reviews · 1 comments |
 | 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9848: Use symbol identity when hashing class namespaces](https://github.com/NationalSecurityAgency/ghidra/pull/9848) | +5 / -0 across 1 files | 0 reviews · 1 comments |

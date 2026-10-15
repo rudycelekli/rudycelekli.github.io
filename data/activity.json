@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 5,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-14T21:41:46Z",
+      "deletions": 1,
+      "merged_at": "2026-10-15T13:16:11Z",
+      "number": 31,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 0,
+      "title": "fix(browser): reject IPv6 exit addresses that carry URL syntax",
+      "url": "https://github.com/liseami/CCBaga/pull/31"
+    },
+    {
+      "additions": 502,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 1,
+      "commits": 8,
+      "created_at": "2026-10-14T19:16:35Z",
+      "deletions": 5,
+      "merged_at": "2026-10-15T13:16:11Z",
+      "number": 30,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 0,
+      "title": "fix(ui): carry formatBytes rounding into the next unit",
+      "url": "https://github.com/liseami/CCBaga/pull/30"
+    },
+    {
+      "additions": 486,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 1,
+      "commits": 8,
+      "created_at": "2026-10-14T19:16:05Z",
+      "deletions": 1,
+      "merged_at": "2026-10-15T13:16:11Z",
+      "number": 29,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 0,
+      "title": "fix(network): reject non-string expected exit IP in connection config",
+      "url": "https://github.com/liseami/CCBaga/pull/29"
+    },
+    {
       "additions": 98,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 9,
@@ -34317,7 +34365,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2143,
+  "record_count": 2146,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
