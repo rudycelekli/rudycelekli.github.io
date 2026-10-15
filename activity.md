@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,182**
+Records: **2,183**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4393: fix: keep commas inside quoted inline frontmatter list items](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4393) | +297 / -51 across 8 files | 7 reviews · 2 comments |
 | 2026-10-15 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#426: fix(export): preserve comment-like text in CSS strings](https://github.com/cathrynlavery/diagram-design/pull/426) | +42 / -7 across 4 files | 0 reviews · 2 comments |
 | 2026-10-15 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#51: fix(pricing): refresh cache entries dated in the future](https://github.com/tigerless-labs/cost-xray/pull/51) | +20 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-15 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#36: fix(verify): preserve all metrics when aggregating an iterator](https://github.com/tigerless-labs/cost-xray/pull/36) | +18 / -0 across 2 files | 0 reviews · 0 comments |
