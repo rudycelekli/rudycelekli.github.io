@@ -2,11 +2,15 @@
 
 > Canonical model-readable context. Facts are bounded by linked public evidence.
 
-Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution.
+Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agent environments and building Gradia, an AI Research & Implementation Lab developing a verified software factory.
 
 ## Research question
 
 How do we know an agent completed the right work, under the right world state, for reasons that survive independent review?
+
+## Current company-building
+
+Gradia is an AI Research & Implementation Lab connecting applied research, evaluation, reusable software, and enterprise implementation: https://www.gradiahq.com/. It is building a verified software factory around Blocks, Factory, Verify, Workers, and Intelligence. AxiomConsulting.ai is a Gradia company and its implementation, forward-deployed AI engineering, and architecture arm: https://axiomconsulting.ai/. The research and evaluation foundation is established; the broader factory platform, qualified Worker catalog, managed Intelligence, and Studio remain in development.
 
 ## Strategic public system
 

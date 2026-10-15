@@ -15,15 +15,19 @@ This is the canonical language sheet for profiles, introductions, event pages, r
 
 ## One line
 
-Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.
+Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems and Gradia, an AI Research & Implementation Lab.
 
 ## Short bio
 
-Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.
+Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He is building Gradia, an AI Research & Implementation Lab developing a verified software factory, and maintains a machine-verifiable record of accepted open-source work.
 
 ## Extended bio
 
-Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, works where agent infrastructure meets experimental science. His research and engineering focus on long-horizon reliability, evaluator robustness, deterministic replay, causal fault isolation, and proof-bound execution. He builds systems that preserve enough state and evidence for another person to reproduce a failure, challenge a score, inspect an autonomous action, and evaluate a proposed repair. His public contribution record separates repository ownership, attributed commits, merged pull requests, contributor rank, and repository reach rather than collapsing activity into a single vanity metric.
+Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, works where agent infrastructure meets experimental science. His research and engineering focus on long-horizon reliability, evaluator robustness, deterministic replay, causal fault isolation, and proof-bound execution. He builds systems that preserve enough state and evidence for another person to reproduce a failure, challenge a score, inspect an autonomous action, and evaluate a proposed repair.
+
+At Gradia, an AI Research & Implementation Lab, he connects applied research, evaluation, reusable software, and enterprise implementation. Gradia is building a verified software factory around Blocks, Factory, Verify, Workers, and Intelligence. AxiomConsulting.ai, a Gradia company, is the implementation, forward-deployed AI engineering, and architecture arm. The existing research and evaluation foundation is established; the broader factory platform, Worker catalog, managed Intelligence, and Studio remain in development.
+
+His public contribution record separates repository ownership, attributed commits, merged pull requests, contributor rank, and repository reach rather than collapsing activity into a single vanity metric.
 
 ## Technical topics
 
@@ -33,11 +37,19 @@ Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, works where age
 - Deterministic replay
 - Causal fault isolation
 - Evidence-bound AI execution
+- Verified software factories
+- Applied AI research and enterprise implementation
 - Know Your Agent protocols and scope-bound agent assurance
 - Agentic quality engineering
 - Regression memory for coding agents
 - Open-model intervention research
 - Open-source AI infrastructure
+
+## Current company-building
+
+- Gradia: AI Research & Implementation Lab building a verified software factory around Blocks, Factory, Verify, Workers, and Intelligence
+- AxiomConsulting.ai: a Gradia company and its implementation, forward-deployed AI engineering, and architecture arm
+- Availability boundary: the research and evaluation foundation is established; the broader factory products are in development
 
 ## Selected public systems
 
@@ -69,6 +81,8 @@ Avoid: AI visionary, guru, genius, thought leader, world-leading, revolutionary,
 - Accepted-work activity: https://rudycelekli.github.io/activity.md
 - GitHub-native public activity feed: https://github.com/rudycelekli.atom
 - Gradia role: https://www.gradiahq.com/about
+- Gradia lab and platform: https://www.gradiahq.com/
+- AxiomConsulting.ai: https://axiomconsulting.ai/
 - Agentics Foundation leadership: https://agentics.org/leadership/
 - AI Tinkerers Charlotte organizers: https://charlotte.aitinkerers.org/organizers
 - LinkedIn: https://www.linkedin.com/in/rudymizrahi/

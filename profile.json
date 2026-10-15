@@ -9,7 +9,7 @@
   ],
   "url": "https://rudycelekli.github.io/",
   "jobTitle": "Forward-Deployed AI Researcher and Agentic AI Engineer",
-  "description": "Charlotte-based AI researcher and open-source engineer focused on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound execution.",
+  "description": "Charlotte-based AI researcher and open-source engineer focused on verifiable long-horizon agents and building Gradia, an AI Research & Implementation Lab developing a verified software factory.",
   "sameAs": [
     "https://github.com/rudycelekli",
     "https://www.linkedin.com/in/rudymizrahi/",
@@ -25,6 +25,8 @@
     "Deterministic replay",
     "Causal fault isolation",
     "Evidence-bound AI execution",
+    "Verified software factories",
+    "Enterprise AI implementation",
     "Know Your Agent protocols",
     "Agentic quality engineering",
     "Open-source AI infrastructure"
@@ -41,8 +43,16 @@
   },
   "worksFor": {
     "@type": "Organization",
+    "@id": "https://www.gradiahq.com/#organization",
     "name": "Gradia",
-    "url": "https://www.gradiahq.com/"
+    "url": "https://www.gradiahq.com/",
+    "description": "AI Research & Implementation Lab building a verified software factory on an existing research and evaluation foundation.",
+    "subOrganization": {
+      "@type": "Organization",
+      "name": "AxiomConsulting.ai",
+      "url": "https://axiomconsulting.ai/",
+      "description": "Gradia's implementation, forward-deployed AI engineering, and architecture arm."
+    }
   },
   "memberOf": [
     {
@@ -61,6 +71,7 @@
     "https://rudycelekli.github.io/sources.md",
     "https://rudycelekli.github.io/public-evidence.md",
     "https://rudycelekli.github.io/data/public-evidence.json",
+    "https://www.gradiahq.com/",
     "https://github.com/rudycelekli/kya-evidence"
   ]
 }

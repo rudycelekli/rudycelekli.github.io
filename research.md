@@ -1,8 +1,17 @@
 # Rudy Mizrahi Celekli
 
-Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-based forward-deployed AI researcher and open-source engineer. His work focuses on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, evidence-bound execution, agentic quality engineering, and open-source AI infrastructure.
+Rudy Mizrahi Celekli, also known professionally as Rudy Celekli, is a Charlotte-based forward-deployed AI researcher and open-source engineer. His work focuses on verifiable long-horizon agent environments, evaluator robustness, deterministic replay, causal fault isolation, evidence-bound execution, agentic quality engineering, and open-source AI infrastructure. He is building Gradia, an AI Research & Implementation Lab developing a verified software factory.
 
 Canonical profile: https://rudycelekli.github.io/
+
+## Building Gradia
+
+Gradia connects applied AI research, evaluation, reusable software, and hands-on enterprise implementation. Its direction comprises five connected products: Blocks for adaptable capabilities; Factory for workflow composition and implementation; Verify for scoped evaluation and evidence; Workers for bounded agent jobs; and Intelligence for understanding outcomes, exceptions, and operating costs.
+
+AxiomConsulting.ai, a Gradia company, is the implementation, forward-deployed AI engineering, and architecture arm. The existing research and evaluation foundation is established. The broader factory platform, qualified Worker catalog, managed Intelligence, and Studio remain in development; Gradia does not claim a released universal software marketplace or autonomous workforce.
+
+- Gradia: https://www.gradiahq.com/
+- AxiomConsulting.ai: https://axiomconsulting.ai/
 
 ## Research question
 
@@ -42,6 +51,8 @@ A passing test is not deployment. A local demonstration is not external acceptan
 - LinkedIn: https://www.linkedin.com/in/rudymizrahi/
 - ORCID: https://orcid.org/0009-0000-7043-3766
 - Gradia role: https://www.gradiahq.com/about
+- Gradia lab and platform: https://www.gradiahq.com/
+- AxiomConsulting.ai: https://axiomconsulting.ai/
 - Agentics Foundation leadership: https://agentics.org/leadership/
 - AI Tinkerers Charlotte chapter leadership: https://charlotte.aitinkerers.org/organizers
 - KYA Evidence public source: https://github.com/rudycelekli/kya-evidence

@@ -4,8 +4,8 @@
   "professional_name": "Rudy Celekli",
   "primary_descriptor": "Forward-deployed AI researcher and open-source engineer",
   "secondary_descriptor": "Agentic AI engineer",
-  "one_line_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems.",
-  "short_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He builds public systems that make autonomous behavior inspectable and maintains a machine-verifiable record of accepted open-source work.",
+  "one_line_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer building verifiable long-horizon agent systems and Gradia, an AI Research & Implementation Lab.",
+  "short_bio": "Rudy Mizrahi Celekli is a Charlotte-based forward-deployed AI researcher and open-source engineer focused on verifiable long-horizon agents, evaluator robustness, deterministic replay, causal fault isolation, and evidence-bound AI execution. He is building Gradia, an AI Research & Implementation Lab developing a verified software factory, and maintains a machine-verifiable record of accepted open-source work.",
   "location": {
     "city": "Charlotte",
     "region": "North Carolina",
@@ -28,6 +28,24 @@
       "source": "https://charlotte.aitinkerers.org/organizers"
     }
   ],
+  "current_work": {
+    "organization": "Gradia",
+    "url": "https://www.gradiahq.com/",
+    "positioning": "AI Research & Implementation Lab connecting applied research, evaluation, reusable software, and enterprise implementation while building a verified software factory.",
+    "products": [
+      "Blocks",
+      "Factory",
+      "Verify",
+      "Workers",
+      "Intelligence"
+    ],
+    "implementation_arm": {
+      "name": "AxiomConsulting.ai",
+      "url": "https://axiomconsulting.ai/",
+      "relationship": "A Gradia company and its implementation, forward-deployed AI engineering, and architecture arm."
+    },
+    "availability_boundary": "The research and evaluation foundation is established; the broader factory platform, qualified Worker catalog, managed Intelligence, and Studio remain in development."
+  },
   "topics": [
     "AI agent evaluation",
     "Long-horizon agent environments",
@@ -36,6 +54,8 @@
     "Deterministic replay",
     "Causal fault isolation",
     "Evidence-bound AI execution",
+    "Verified software factories",
+    "Applied AI research and enterprise implementation",
     "Know Your Agent protocols and scope-bound agent assurance",
     "Agentic quality engineering",
     "Regression memory for coding agents",
@@ -62,6 +82,8 @@
     "github_activity_feed": "https://github.com/rudycelekli.atom",
     "ai_tinkerers_charlotte": "https://charlotte.aitinkerers.org/organizers",
     "agentics_foundation": "https://agentics.org/leadership/",
+    "gradia": "https://www.gradiahq.com/",
+    "axiom_consulting": "https://axiomconsulting.ai/",
     "kya_evidence": "https://github.com/rudycelekli/kya-evidence"
   },
   "usage_boundary": "Prefer narrow, linked claims. Repository reach is not personal credit. Private work remains redacted unless disclosure is authorized."

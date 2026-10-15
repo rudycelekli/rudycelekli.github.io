@@ -63,6 +63,10 @@ class ResearchProfileTests(unittest.TestCase):
         )
         self.assertEqual(person["worksFor"]["name"], "Gradia")
         self.assertEqual(
+            person["worksFor"]["subOrganization"]["name"],
+            "AxiomConsulting.ai",
+        )
+        self.assertEqual(
             person["homeLocation"]["address"]["addressLocality"], "Charlotte"
         )
         kya = next(
@@ -74,6 +78,16 @@ class ResearchProfileTests(unittest.TestCase):
         self.assertEqual(kya["@type"], "SoftwareSourceCode")
         self.assertEqual(kya["author"]["@id"], person["@id"])
         self.assertIn("Experimental", kya["description"])
+        gradia = next(
+            item
+            for item in graph
+            if item.get("@id") == "https://www.gradiahq.com/#organization"
+        )
+        self.assertIn("AI Research & Implementation Lab", gradia["description"])
+        self.assertIn("in development", gradia["description"])
+        self.assertEqual(
+            gradia["subOrganization"]["name"], "AxiomConsulting.ai"
+        )
 
     def test_crawler_files_exist(self):
         self.assertTrue((ROOT / "robots.txt").is_file())
@@ -115,11 +129,23 @@ class ResearchProfileTests(unittest.TestCase):
         )
 
         brand = json.loads((ROOT / "brand.json").read_text())
+        self.assertEqual(brand["current_work"]["organization"], "Gradia")
+        self.assertEqual(
+            brand["current_work"]["products"],
+            ["Blocks", "Factory", "Verify", "Workers", "Intelligence"],
+        )
+        self.assertIn(
+            "remain in development",
+            brand["current_work"]["availability_boundary"],
+        )
         self.assertEqual(brand["strategic_public_systems"][0]["name"], "KYA Evidence")
         self.assertIn("not an adopted", brand["strategic_public_systems"][0]["boundary"].lower())
         self.assertIn("KYA Evidence · Know Your Agent", self.html)
         sync_source = (ROOT / "scripts" / "sync_evidence.py").read_text()
         self.assertIn("KYA Evidence (Know Your Agent)", sync_source)
+        self.assertIn("Gradia is an AI Research & Implementation Lab", sync_source)
+        self.assertIn("AxiomConsulting.ai is a Gradia company", sync_source)
+        self.assertIn("Gradia · Verified Software Factory", self.html)
 
         evidence = json.loads((ROOT / "data/public-evidence.json").read_text())
         self.assertGreater(evidence["summary"]["verified_upstream_projects"], 0)
