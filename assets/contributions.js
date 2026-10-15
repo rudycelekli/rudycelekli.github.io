@@ -187,15 +187,23 @@
       document.querySelector("#summary-prs").textContent = compact.format(evidence.summary.merged_pull_requests);
       document.querySelector("#summary-commits").textContent = compact.format(evidence.summary.attributed_commits);
       document.querySelector("#summary-stars").textContent = compact.format(evidence.summary.combined_repository_stars);
-      const date = new Date(evidence.updated_at_utc);
-      elements.freshness.textContent = `Evidence refreshed ${date.toLocaleString(undefined, {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-        hour: "numeric",
-        minute: "2-digit",
-        timeZoneName: "short",
-      })}`;
+      const updated = String(evidence.updated_at_utc || "");
+      const date = new Date(updated);
+      elements.freshness.textContent = /^\d{4}-\d{2}-\d{2}$/.test(updated)
+        ? `Evidence dated ${date.toLocaleDateString(undefined, {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+            timeZone: "UTC",
+          })} UTC`
+        : `Evidence refreshed ${date.toLocaleString(undefined, {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            timeZoneName: "short",
+          })}`;
       render();
     } catch (error) {
       elements.body.innerHTML = '<tr><td colspan="8" class="load-error">The live ledger could not be loaded. <a href="/public-evidence.md">Open the synchronized Markdown evidence.</a></td></tr>';
