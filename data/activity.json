@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 41,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-15T06:54:00Z",
+      "deletions": 1,
+      "merged_at": "2026-10-15T20:56:17Z",
+      "number": 1320,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(daemon): reject a non-map agent spec profile instead of crashing normalize",
+      "url": "https://github.com/mvschwarz/openrig/pull/1320"
+    },
+    {
+      "additions": 121,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 3,
+      "commits": 5,
+      "created_at": "2026-10-15T03:48:35Z",
+      "deletions": 15,
+      "merged_at": "2026-10-15T20:50:15Z",
+      "number": 4389,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 5,
+      "title": "fix: ignore malformed values in the security config section",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389"
+    },
+    {
       "additions": 178,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -35085,7 +35117,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2191,
+  "record_count": 2193,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }

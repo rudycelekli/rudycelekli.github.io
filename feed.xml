@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T20:10:24Z</updated>
+  <updated>2026-10-15T20:56:17Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1320</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1320"/>
+    <updated>2026-10-15T20:56:17Z</updated>
+    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4389: fix: ignore malformed values in the security config section</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389"/>
+    <updated>2026-10-15T20:50:15Z</updated>
+    <summary>Merged public contribution. +121 / -15 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4786: fix(search): reject an unparseable dateStart/dateEnd with 400 INVALID_DATE</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4786</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/liseami/CCBaga/pull/29"/>
     <updated>2026-10-15T13:16:11Z</updated>
     <summary>Merged public contribution. +486 / -1 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1042: feat(web): support held keyboard keys and modifiers</title>
-    <id>https://github.com/tester-army/e2e/pull/1042</id>
-    <link href="https://github.com/tester-army/e2e/pull/1042"/>
-    <updated>2026-10-15T11:27:03Z</updated>
-    <summary>Merged public contribution. +98 / -6 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9793: Resolve dotted program labels in assembler operands</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9793</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9793"/>
-    <updated>2026-10-15T10:54:24Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
