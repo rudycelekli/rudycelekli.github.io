@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T07:46:11Z</updated>
+  <updated>2026-10-15T08:22:26Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tester-army/e2e #895: fix(web): read recognized ARIA role fallbacks</title>
+    <id>https://github.com/tester-army/e2e/pull/895</id>
+    <link href="https://github.com/tester-army/e2e/pull/895"/>
+    <updated>2026-10-15T08:22:26Z</updated>
+    <summary>Merged public contribution. +59 / -5 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>openclaw/Peekaboo #1075: fix(move): reject non-finite --at coordinates</title>
     <id>https://github.com/openclaw/Peekaboo/pull/1075</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1841"/>
     <updated>2026-10-14T14:32:37Z</updated>
     <summary>Merged public contribution. +68 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1840: fix(documents): read PowerPoint group and table text</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1840</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1840"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +160 / -5 across 2 changed files.</summary>
   </entry>
 </feed>
