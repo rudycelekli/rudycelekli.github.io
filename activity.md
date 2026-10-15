@@ -4,13 +4,20 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,135**
+Records: **2,142**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9793: Resolve dotted program labels in assembler operands](https://github.com/NationalSecurityAgency/ghidra/pull/9793) | +1 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9848: Use symbol identity when hashing class namespaces](https://github.com/NationalSecurityAgency/ghidra/pull/9848) | +5 / -0 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9830: Display FILETIME fractions at their stored 100-nanosecond precision](https://github.com/NationalSecurityAgency/ghidra/pull/9830) | +2 / -2 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9801: Convert zero-bit Scalars to BigInteger zero](https://github.com/NationalSecurityAgency/ghidra/pull/9801) | +3 / -0 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9799: Prevent overflow when joining sorted address ranges](https://github.com/NationalSecurityAgency/ghidra/pull/9799) | +3 / -3 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9780: Return absent byte-array values at the capacity boundary](https://github.com/NationalSecurityAgency/ghidra/pull/9780) | +1 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-10-15 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9777: Close PyGhidra compiler file managers after compilation](https://github.com/NationalSecurityAgency/ghidra/pull/9777) | +25 / -25 across 1 files | 0 reviews · 1 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4390: fix(state-manager): match list and cleanup glob patterns literally](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4390) | +400 / -162 across 5 files | 4 reviews · 2 comments |
 | 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1875: fix(risk-xray): measure downside deviation as zero-target RMS over all bars](https://github.com/HKUDS/Vibe-Trading/pull/1875) | +51 / -3 across 2 files | 0 reviews · 0 comments |
-| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1874: fix(redaction): cover more secret formats (tokens, private-key blocks, cookies, provider keys)](https://github.com/HKUDS/Vibe-Trading/pull/1874) | +226 / -2 across 6 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1874: fix(redaction): cover more secret formats (tokens, private-key blocks, cookies, provider keys)](https://github.com/HKUDS/Vibe-Trading/pull/1874) | +226 / -2 across 6 files | 0 reviews · 1 comments |
 | 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1873: fix(skills): stamp swing-based signals on the pivot confirmation bar](https://github.com/HKUDS/Vibe-Trading/pull/1873) | +138 / -40 across 5 files | 0 reviews · 0 comments |
 | 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1872: fix(journal): parse parenthesised accounting negatives instead of zeroing them](https://github.com/HKUDS/Vibe-Trading/pull/1872) | +41 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1871: fix(journal): keep fiat currency pairs (EUR/USD) out of the crypto market](https://github.com/HKUDS/Vibe-Trading/pull/1871) | +55 / -2 across 2 files | 0 reviews · 0 comments |

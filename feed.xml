@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T10:28:20Z</updated>
+  <updated>2026-10-15T10:54:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9793: Resolve dotted program labels in assembler operands</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9793</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9793"/>
+    <updated>2026-10-15T10:54:24Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9848: Use symbol identity when hashing class namespaces</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9848</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9848"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9830: Display FILETIME fractions at their stored 100-nanosecond precision</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9830</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9830"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9801: Convert zero-bit Scalars to BigInteger zero</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9801</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9801"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +3 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9799: Prevent overflow when joining sorted address ranges</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9799</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9799"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9780: Return absent byte-array values at the capacity boundary</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9780</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9780"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9777: Close PyGhidra compiler file managers after compilation</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9777</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9777"/>
+    <updated>2026-10-15T10:54:23Z</updated>
+    <summary>Merged public contribution. +25 / -25 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4390: fix(state-manager): match list and cleanup glob patterns literally</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4390</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/825"/>
     <updated>2026-10-14T15:57:58Z</updated>
     <summary>Merged public contribution. +22 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #826: fix(dashboard): keep the latest activity filter response</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/826</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/826"/>
-    <updated>2026-10-14T15:53:37Z</updated>
-    <summary>Merged public contribution. +94 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #828: fix(browser-extension): time out stalled collector requests</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/828</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/828"/>
-    <updated>2026-10-14T15:50:10Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #829: fix(sdk): end async stream spans when consumption stops early</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/829</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/829"/>
-    <updated>2026-10-14T15:46:56Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #832: fix(sdk): bind AI instrumentations to the configured provider</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/832</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/832"/>
-    <updated>2026-10-14T15:42:42Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #831: fix(sdk): keep stream controls on wrapped Claude Agent queries</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/831</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/831"/>
-    <updated>2026-10-14T15:11:00Z</updated>
-    <summary>Merged public contribution. +85 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #834: fix(browser-extension): refresh static assets in watch builds</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/834</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/834"/>
-    <updated>2026-10-14T15:08:25Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #830: fix(sdk): honor disabled providers during manual patching</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/830</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/830"/>
-    <updated>2026-10-14T15:03:47Z</updated>
-    <summary>Merged public contribution. +37 / -9 across 3 changed files.</summary>
   </entry>
 </feed>
