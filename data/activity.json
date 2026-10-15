@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 75,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 4,
+      "commits": 4,
+      "created_at": "2026-10-11T14:32:43Z",
+      "deletions": 6,
+      "merged_at": "2026-10-15T01:54:25Z",
+      "number": 1036,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(recent-imagery): reject absent box edges instead of inventing zero degrees",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1036"
+    },
+    {
+      "additions": 48,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 6,
+      "created_at": "2026-10-11T14:30:07Z",
+      "deletions": 2,
+      "merged_at": "2026-10-15T01:43:48Z",
+      "number": 1032,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(street-level): deduplicate overlapping dateline tile halves",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1032"
+    },
+    {
       "additions": 108,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -33789,7 +33821,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2110,
+  "record_count": 2112,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
