@@ -4,11 +4,13 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,168**
+Records: **2,170**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388) | +57 / -8 across 3 files | 10 reviews · 1 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#880: fix(gemini): resolve user settings through GEMINI_CLI_HOME](https://github.com/Asymptote-Labs/agent-beacon/pull/880) | +121 / -13 across 11 files | 0 reviews · 0 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1041: fix(imagery): require explicit Data-Present proof before decoding thumbnails](https://github.com/bilawalsidhu/gods-eye-view/pull/1041) | +39 / -8 across 5 files | 0 reviews · 2 comments |
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388) | +57 / -8 across 3 files | 10 reviews · 2 comments |
 | 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#879: fix(cline): honor CLINE_DIR for the plugin, discovery, inventory and sessions](https://github.com/Asymptote-Labs/agent-beacon/pull/879) | +163 / -24 across 13 files | 0 reviews · 0 comments |
 | 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#877: fix(hooks): serialize the session state file across hook processes](https://github.com/Asymptote-Labs/agent-beacon/pull/877) | +172 / -38 across 5 files | 0 reviews · 0 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1033: chore(ui): harden surface Tab cycling](https://github.com/bilawalsidhu/gods-eye-view/pull/1033) | +66 / -2 across 4 files | 0 reviews · 2 comments |

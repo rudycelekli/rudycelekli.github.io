@@ -8,10 +8,42 @@
   },
   "items": [
     {
+      "additions": 121,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 11,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-15T03:48:22Z",
+      "deletions": 13,
+      "merged_at": "2026-10-15T15:49:37Z",
+      "number": 880,
+      "repository": "Asymptote-Labs/agent-beacon",
+      "repository_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "reviews": 0,
+      "title": "fix(gemini): resolve user settings through GEMINI_CLI_HOME",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/880"
+    },
+    {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-11T14:42:47Z",
+      "deletions": 8,
+      "merged_at": "2026-10-15T15:43:29Z",
+      "number": 1041,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(imagery): require explicit Data-Present proof before decoding thumbnails",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1041"
+    },
+    {
       "additions": 57,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
-      "comments": 1,
+      "comments": 2,
       "commits": 21,
       "created_at": "2026-10-15T03:46:30Z",
       "deletions": 8,
@@ -34717,7 +34749,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2168,
+  "record_count": 2170,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }

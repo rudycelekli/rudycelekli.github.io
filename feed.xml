@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T15:34:49Z</updated>
+  <updated>2026-10-15T15:49:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #880: fix(gemini): resolve user settings through GEMINI_CLI_HOME</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/880</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/880"/>
+    <updated>2026-10-15T15:49:37Z</updated>
+    <summary>Merged public contribution. +121 / -13 across 11 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1041: fix(imagery): require explicit Data-Present proof before decoding thumbnails</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1041</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1041"/>
+    <updated>2026-10-15T15:43:29Z</updated>
+    <summary>Merged public contribution. +39 / -8 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/openclaw/Peekaboo/pull/1075"/>
     <updated>2026-10-15T07:46:11Z</updated>
     <summary>Merged public contribution. +10 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #3661: fix(mcp): keep a snapshot open ahead of later calls on the same connection</title>
-    <id>https://github.com/morluto/rea/pull/3661</id>
-    <link href="https://github.com/morluto/rea/pull/3661"/>
-    <updated>2026-10-15T07:05:45Z</updated>
-    <summary>Merged public contribution. +92 / -20 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1076: fix(capture): reject non-finite area regions</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1076</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1076"/>
-    <updated>2026-10-15T06:48:44Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
