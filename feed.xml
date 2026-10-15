@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T01:54:25Z</updated>
+  <updated>2026-10-15T02:02:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1040: fix(terrain): refresh cache recency when resolving warm batches</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1040</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1040"/>
+    <updated>2026-10-15T02:02:27Z</updated>
+    <summary>Merged public contribution. +57 / -16 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1036: fix(recent-imagery): reject absent box edges instead of inventing zero degrees</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1036</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1828"/>
     <updated>2026-10-14T14:32:37Z</updated>
     <summary>Merged public contribution. +242 / -28 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1827: fix(session): apply search limits to distinct conversations</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1827</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1827"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +123 / -23 across 2 changed files.</summary>
   </entry>
 </feed>

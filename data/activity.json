@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 57,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-10-11T14:42:42Z",
+      "deletions": 16,
+      "merged_at": "2026-10-15T02:02:27Z",
+      "number": 1040,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(terrain): refresh cache recency when resolving warm batches",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1040"
+    },
+    {
       "additions": 75,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -33821,7 +33837,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2112,
+  "record_count": 2113,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
