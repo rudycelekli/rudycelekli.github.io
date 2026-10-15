@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 34,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 3,
+      "commits": 4,
+      "created_at": "2026-10-11T14:29:57Z",
+      "deletions": 6,
+      "merged_at": "2026-10-15T00:03:41Z",
+      "number": 1030,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(directions): report truncation only when a maneuver was actually omitted",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1030"
+    },
+    {
       "additions": 54,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -33709,7 +33725,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2105,
+  "record_count": 2106,
   "schema_version": 1,
-  "updated_at_utc": "2026-10-14"
+  "updated_at_utc": "2026-10-15"
 }

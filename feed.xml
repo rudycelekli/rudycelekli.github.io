@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-14T23:14:01Z</updated>
+  <updated>2026-10-15T00:03:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1030: fix(directions): report truncation only when a maneuver was actually omitted</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1030</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1030"/>
+    <updated>2026-10-15T00:03:41Z</updated>
+    <summary>Merged public contribution. +34 / -6 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1027: fix(weather): keep absent observations unknown instead of reporting clear skies</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1027</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/mark3labs/mcp-go/pull/1065"/>
     <updated>2026-10-14T12:51:11Z</updated>
     <summary>Merged public contribution. +137 / -131 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1060: fix(mcp): preserve empty arrays in result parser round trips</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1060</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1060"/>
-    <updated>2026-10-14T12:49:31Z</updated>
-    <summary>Merged public contribution. +30 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
