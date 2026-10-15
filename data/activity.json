@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 98,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 9,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-11T14:58:06Z",
+      "deletions": 6,
+      "merged_at": "2026-10-15T11:27:03Z",
+      "number": 1042,
+      "repository": "tester-army/e2e",
+      "repository_url": "https://github.com/tester-army/e2e",
+      "reviews": 2,
+      "title": "feat(web): support held keyboard keys and modifiers",
+      "url": "https://github.com/tester-army/e2e/pull/1042"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -34301,7 +34317,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2142,
+  "record_count": 2143,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
