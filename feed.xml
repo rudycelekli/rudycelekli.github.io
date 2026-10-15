@@ -4,8 +4,106 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T13:54:27Z</updated>
+  <updated>2026-10-15T14:52:18Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1053: fix(test-execution): compare retry evidence by realpath so symlinked targets can clear</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1053</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1053"/>
+    <updated>2026-10-15T14:52:18Z</updated>
+    <summary>Merged public contribution. +65 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1051: fix(regional): keep impossible compact article dates unknown</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1051</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1051"/>
+    <updated>2026-10-15T14:50:01Z</updated>
+    <summary>Merged public contribution. +60 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4392: fix(learner): parse block-list skill metadata in CRLF files</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4392</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4392"/>
+    <updated>2026-10-15T14:47:31Z</updated>
+    <summary>Merged public contribution. +29 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1043: fix(firms): reject impossible acquisition days in CSV parsing</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1043</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1043"/>
+    <updated>2026-10-15T14:38:44Z</updated>
+    <summary>Merged public contribution. +44 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1031: fix(tools): reject already-cancelled queries before execution</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1031</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1031"/>
+    <updated>2026-10-15T14:25:28Z</updated>
+    <summary>Merged public contribution. +57 / -13 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1024: fix(services): retry malformed capability probes after the existing backoff</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1024</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1024"/>
+    <updated>2026-10-15T14:15:55Z</updated>
+    <summary>Merged public contribution. +53 / -9 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #74: turn-build: reject star polygons as non-convex prisms</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/74</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/74"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #73: turn-audit: sample clips through their final instant, not past it</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/73</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/73"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +35 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #72: turn-build: ignore repeated vertices when rounding a prism polygon</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/72</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/72"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #69: capture.mjs: reject option values it cannot use</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/69</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/69"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +35 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #68: publish.mjs: keep the existing figure when a --force publish fails</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/68</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/68"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +105 / -78 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #67: drive.mjs: reject orbit and sheet arguments that yield no frames</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/67</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/67"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +37 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #66: drive.mjs: wait for page load, never hang on Chrome</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/66</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/66"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +53 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>wheresryan22/anatomy #61: fix(audit): follow curved strokes between fixed samples</title>
+    <id>https://github.com/wheresryan22/anatomy/pull/61</id>
+    <link href="https://github.com/wheresryan22/anatomy/pull/61"/>
+    <updated>2026-10-15T14:14:34Z</updated>
+    <summary>Merged public contribution. +98 / -18 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1039: fix(terrain): reject out-of-range points at the proxy boundary</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1039</id>
@@ -257,103 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1036"/>
     <updated>2026-10-15T01:54:25Z</updated>
     <summary>Merged public contribution. +75 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1032: fix(street-level): deduplicate overlapping dateline tile halves</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1032</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1032"/>
-    <updated>2026-10-15T01:43:48Z</updated>
-    <summary>Merged public contribution. +48 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #40: fix(geo): search the full longitude span of a radius at high latitudes</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/40</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/40"/>
-    <updated>2026-10-15T01:23:48Z</updated>
-    <summary>Merged public contribution. +108 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #42: fix(quantization): keep mismatched binary codes out of search results</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/42</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/42"/>
-    <updated>2026-10-15T01:22:57Z</updated>
-    <summary>Merged public contribution. +38 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #41: fix(quantization): reject malformed product quantizer codebooks</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/41</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/41"/>
-    <updated>2026-10-15T01:22:52Z</updated>
-    <summary>Merged public contribution. +88 / -21 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #39: fix(geo): replace the earlier point when an ID is inserted again</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/39</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/39"/>
-    <updated>2026-10-15T01:22:46Z</updated>
-    <summary>Merged public contribution. +86 / -15 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1030: fix(directions): report truncation only when a maneuver was actually omitted</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1030</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1030"/>
-    <updated>2026-10-15T00:03:41Z</updated>
-    <summary>Merged public contribution. +34 / -6 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1027: fix(weather): keep absent observations unknown instead of reporting clear skies</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1027</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1027"/>
-    <updated>2026-10-14T23:14:01Z</updated>
-    <summary>Merged public contribution. +54 / -8 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1026: fix(tools): enforce string schema lengths by Unicode code point</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1026</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1026"/>
-    <updated>2026-10-14T23:03:36Z</updated>
-    <summary>Merged public contribution. +51 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1023: fix(director): seek camera longitude across the shortest dateline arc</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1023</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1023"/>
-    <updated>2026-10-14T22:48:41Z</updated>
-    <summary>Merged public contribution. +74 / -3 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #434: fix: probe Doctor readiness through default headless Chromium</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/434</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/434"/>
-    <updated>2026-10-14T21:28:53Z</updated>
-    <summary>Merged public contribution. +213 / -26 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1022: fix(search): refuse empty coordinate components instead of silently dropping them</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1022</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1022"/>
-    <updated>2026-10-14T18:27:27Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #316: feat: discover harmful business-policy compositions and goal-preserving repairs</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/316</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/316"/>
-    <updated>2026-10-14T18:26:20Z</updated>
-    <summary>Merged public contribution. +2140 / -0 across 22 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #315: feat: audit recorded agent trajectories with replayable authority witnesses</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/315</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/315"/>
-    <updated>2026-10-14T17:57:38Z</updated>
-    <summary>Merged public contribution. +2534 / -0 across 20 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1043: feat(web): expose saved download absolute paths</title>
-    <id>https://github.com/tester-army/e2e/pull/1043</id>
-    <link href="https://github.com/tester-army/e2e/pull/1043"/>
-    <updated>2026-10-14T17:00:09Z</updated>
-    <summary>Merged public contribution. +21 / -6 across 6 changed files.</summary>
   </entry>
 </feed>

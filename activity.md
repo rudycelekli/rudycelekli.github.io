@@ -4,10 +4,24 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,147**
+Records: **2,161**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1053: fix(test-execution): compare retry evidence by realpath so symlinked targets can clear](https://github.com/proffesor-for-testing/agentic-qe/pull/1053) | +65 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1051: fix(regional): keep impossible compact article dates unknown](https://github.com/bilawalsidhu/gods-eye-view/pull/1051) | +60 / -6 across 4 files | 0 reviews · 3 comments |
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4392: fix(learner): parse block-list skill metadata in CRLF files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4392) | +29 / -6 across 3 files | 1 reviews · 2 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1043: fix(firms): reject impossible acquisition days in CSV parsing](https://github.com/bilawalsidhu/gods-eye-view/pull/1043) | +44 / -3 across 4 files | 0 reviews · 2 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1031: fix(tools): reject already-cancelled queries before execution](https://github.com/bilawalsidhu/gods-eye-view/pull/1031) | +57 / -13 across 4 files | 0 reviews · 2 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1024: fix(services): retry malformed capability probes after the existing backoff](https://github.com/bilawalsidhu/gods-eye-view/pull/1024) | +53 / -9 across 5 files | 0 reviews · 2 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#74: turn-build: reject star polygons as non-convex prisms](https://github.com/wheresryan22/anatomy/pull/74) | +36 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#73: turn-audit: sample clips through their final instant, not past it](https://github.com/wheresryan22/anatomy/pull/73) | +35 / -3 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#72: turn-build: ignore repeated vertices when rounding a prism polygon](https://github.com/wheresryan22/anatomy/pull/72) | +32 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#69: capture.mjs: reject option values it cannot use](https://github.com/wheresryan22/anatomy/pull/69) | +35 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#68: publish.mjs: keep the existing figure when a --force publish fails](https://github.com/wheresryan22/anatomy/pull/68) | +105 / -78 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#67: drive.mjs: reject orbit and sheet arguments that yield no frames](https://github.com/wheresryan22/anatomy/pull/67) | +37 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#66: drive.mjs: wait for page load, never hang on Chrome](https://github.com/wheresryan22/anatomy/pull/66) | +53 / -6 across 3 files | 0 reviews · 0 comments |
+| 2026-10-15 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | [#61: fix(audit): follow curved strokes between fixed samples](https://github.com/wheresryan22/anatomy/pull/61) | +98 / -18 across 3 files | 0 reviews · 0 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1039: fix(terrain): reject out-of-range points at the proxy boundary](https://github.com/bilawalsidhu/gods-eye-view/pull/1039) | +39 / -13 across 5 files | 0 reviews · 2 comments |
 | 2026-10-15 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#31: fix(browser): reject IPv6 exit addresses that carry URL syntax](https://github.com/liseami/CCBaga/pull/31) | +5 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-15 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#30: fix(ui): carry formatBytes rounding into the next unit](https://github.com/liseami/CCBaga/pull/30) | +502 / -5 across 7 files | 0 reviews · 1 comments |
