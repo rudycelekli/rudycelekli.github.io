@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 10,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-15T03:58:59Z",
+      "deletions": 2,
+      "merged_at": "2026-10-15T07:46:11Z",
+      "number": 1075,
+      "repository": "openclaw/Peekaboo",
+      "repository_url": "https://github.com/openclaw/Peekaboo",
+      "reviews": 0,
+      "title": "fix(move): reject non-finite --at coordinates",
+      "url": "https://github.com/openclaw/Peekaboo/pull/1075"
+    },
+    {
       "additions": 92,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -33949,7 +33965,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2120,
+  "record_count": 2121,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
