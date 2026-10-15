@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T20:56:17Z</updated>
+  <updated>2026-10-15T21:22:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4402: fix(commands): parse CRLF frontmatter in command files</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402"/>
+    <updated>2026-10-15T21:22:31Z</updated>
+    <summary>Merged public contribution. +148 / -29 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize</title>
     <id>https://github.com/mvschwarz/openrig/pull/1320</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/liseami/CCBaga/pull/30"/>
     <updated>2026-10-15T13:16:11Z</updated>
     <summary>Merged public contribution. +502 / -5 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #29: fix(network): reject non-string expected exit IP in connection config</title>
-    <id>https://github.com/liseami/CCBaga/pull/29</id>
-    <link href="https://github.com/liseami/CCBaga/pull/29"/>
-    <updated>2026-10-15T13:16:11Z</updated>
-    <summary>Merged public contribution. +486 / -1 across 7 changed files.</summary>
   </entry>
 </feed>

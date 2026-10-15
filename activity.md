@@ -4,11 +4,12 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,193**
+Records: **2,194**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize](https://github.com/mvschwarz/openrig/pull/1320) | +41 / -1 across 2 files | 1 reviews · 3 comments |
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4402: fix(commands): parse CRLF frontmatter in command files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402) | +148 / -29 across 5 files | 0 reviews · 2 comments |
+| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize](https://github.com/mvschwarz/openrig/pull/1320) | +41 / -1 across 2 files | 1 reviews · 4 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4389: fix: ignore malformed values in the security config section](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389) | +121 / -15 across 6 files | 5 reviews · 3 comments |
 | 2026-10-15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4786: fix(search): reject an unparseable dateStart/dateEnd with 400 INVALID_DATE](https://github.com/thedotmack/claude-mem/pull/4786) | +178 / -5 across 5 files | 1 reviews · 3 comments |
 | 2026-10-15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4784: fix(context-files): keep CLAUDE.md/AGENTS.md symlinks when refreshing context](https://github.com/thedotmack/claude-mem/pull/4784) | +206 / -26 across 6 files | 2 reviews · 3 comments |
