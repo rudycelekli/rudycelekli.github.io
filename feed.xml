@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T00:03:41Z</updated>
+  <updated>2026-10-15T01:23:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liliang-cn/cortexdb #40: fix(geo): search the full longitude span of a radius at high latitudes</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/40</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/40"/>
+    <updated>2026-10-15T01:23:48Z</updated>
+    <summary>Merged public contribution. +108 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #42: fix(quantization): keep mismatched binary codes out of search results</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/42</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/42"/>
+    <updated>2026-10-15T01:22:57Z</updated>
+    <summary>Merged public contribution. +38 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #41: fix(quantization): reject malformed product quantizer codebooks</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/41</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/41"/>
+    <updated>2026-10-15T01:22:52Z</updated>
+    <summary>Merged public contribution. +88 / -21 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #39: fix(geo): replace the earlier point when an ID is inserted again</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/39</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/39"/>
+    <updated>2026-10-15T01:22:46Z</updated>
+    <summary>Merged public contribution. +86 / -15 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1030: fix(directions): report truncation only when a maneuver was actually omitted</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1030</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/843"/>
     <updated>2026-10-14T14:26:25Z</updated>
     <summary>Merged public contribution. +4 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #844: fix(dashboard): retain newest events across timestamp ties</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/844</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/844"/>
-    <updated>2026-10-14T14:16:03Z</updated>
-    <summary>Merged public contribution. +103 / -31 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #80: Keep archived backlog pending when executor output is incomplete</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/80</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/80"/>
-    <updated>2026-10-14T13:41:33Z</updated>
-    <summary>Merged public contribution. +86 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4172: fix(intelligence): recall long memories for short route prompts</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4172</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4172"/>
-    <updated>2026-10-14T13:04:07Z</updated>
-    <summary>Merged public contribution. +374 / -70 across 12 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1065: fix(server): invoke task lifecycle observers after unlocking</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1065</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1065"/>
-    <updated>2026-10-14T12:51:11Z</updated>
-    <summary>Merged public contribution. +137 / -131 across 2 changed files.</summary>
   </entry>
 </feed>

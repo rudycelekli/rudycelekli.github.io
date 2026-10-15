@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,106**
+Records: **2,110**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#40: fix(geo): search the full longitude span of a radius at high latitudes](https://github.com/liliang-cn/cortexdb/pull/40) | +108 / -10 across 2 files | 0 reviews · 1 comments |
+| 2026-10-15 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#42: fix(quantization): keep mismatched binary codes out of search results](https://github.com/liliang-cn/cortexdb/pull/42) | +38 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-15 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#41: fix(quantization): reject malformed product quantizer codebooks](https://github.com/liliang-cn/cortexdb/pull/41) | +88 / -21 across 2 files | 0 reviews · 1 comments |
+| 2026-10-15 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#39: fix(geo): replace the earlier point when an ID is inserted again](https://github.com/liliang-cn/cortexdb/pull/39) | +86 / -15 across 2 files | 0 reviews · 0 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1030: fix(directions): report truncation only when a maneuver was actually omitted](https://github.com/bilawalsidhu/gods-eye-view/pull/1030) | +34 / -6 across 5 files | 0 reviews · 3 comments |
 | 2026-10-14 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1027: fix(weather): keep absent observations unknown instead of reporting clear skies](https://github.com/bilawalsidhu/gods-eye-view/pull/1027) | +54 / -8 across 6 files | 0 reviews · 3 comments |
 | 2026-10-14 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1026: fix(tools): enforce string schema lengths by Unicode code point](https://github.com/bilawalsidhu/gods-eye-view/pull/1026) | +51 / -4 across 4 files | 0 reviews · 3 comments |
