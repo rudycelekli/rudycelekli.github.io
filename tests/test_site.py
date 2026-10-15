@@ -164,8 +164,26 @@ class ResearchProfileTests(unittest.TestCase):
         )
 
     def test_required_local_assets_exist(self):
-        for path in ("assets/site.css", "assets/mark.svg"):
+        for path in ("assets/site.css", "assets/mark.svg", "assets/contributions.js"):
             self.assertTrue((ROOT / path).is_file(), path)
+
+    def test_sortable_contribution_explorer_is_evidence_driven(self):
+        explorer = (ROOT / "contributions.html").read_text(encoding="utf-8")
+        script = (ROOT / "assets" / "contributions.js").read_text(encoding="utf-8")
+        sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
+
+        self.assertIn('id="contribution-table"', explorer)
+        self.assertIn('data-sort="rank"', explorer)
+        self.assertIn('data-sort="prs"', explorer)
+        self.assertIn('data-sort="stars"', explorer)
+        self.assertIn('data-sort="balanced"', explorer)
+        self.assertIn('href="/contributions.html"', self.html)
+        self.assertIn("/data/public-evidence.json", script)
+        self.assertIn("0.5 * logRatio(row.merged_pull_requests", script)
+        self.assertIn("0.3 * rankStrength", script)
+        self.assertIn("0.2 * logRatio(row.repository_stars", script)
+        self.assertIn("history.replaceState", script)
+        self.assertIn("https://rudycelekli.github.io/contributions.html", sitemap)
 
 
 if __name__ == "__main__":

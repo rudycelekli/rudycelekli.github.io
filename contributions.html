@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sortable Open-Source Contribution Evidence | Rudy Celekli</title>
+  <meta name="description" content="Sort Rudy Celekli's automatically refreshed public GitHub contribution evidence by contributor rank, merged pull requests, attributed commits, accepted changes, repository reach, or a transparent balanced view.">
+  <meta name="author" content="Rudy Mizrahi Celekli">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+  <link rel="canonical" href="https://rudycelekli.github.io/contributions.html">
+  <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:opsz,wght@12..72,400;12..72,500;12..72,600;12..72,700&family=Fragment+Mono:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/site.css">
+  <script defer src="/assets/contributions.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contribution-table">Skip to contribution evidence</a>
+
+  <header class="masthead" aria-label="Primary">
+    <a class="wordmark" href="/" aria-label="Rudy Celekli home">
+      <span class="wordmark-mark" aria-hidden="true">RC</span>
+      <span>Rudy Celekli</span>
+    </a>
+    <nav class="masthead-nav" aria-label="Page links">
+      <a href="/">Research profile</a>
+      <a href="/public-evidence.md">Method</a>
+      <a href="/data/public-evidence.json">JSON</a>
+    </nav>
+  </header>
+
+  <main id="main" class="explorer-page">
+    <section class="explorer-hero" aria-labelledby="explorer-title">
+      <p class="eyebrow">Open-source impact / live evidence</p>
+      <h1 id="explorer-title">Sort the proof,<br><em>not the story.</em></h1>
+      <p class="explorer-deck">Compare distinct public signals without collapsing them into one claim. Contributor rank, merged pull requests, attributed commits, accepted changes, and repository reach update from the public evidence ledger every 30 minutes.</p>
+      <div class="explorer-summary" aria-label="Current contribution summary">
+        <div><span>Projects</span><strong id="summary-projects">—</strong></div>
+        <div><span>Merged PRs</span><strong id="summary-prs">—</strong></div>
+        <div><span>Attributed commits</span><strong id="summary-commits">—</strong></div>
+        <div><span>Repository stars</span><strong id="summary-stars">—</strong></div>
+      </div>
+    </section>
+
+    <section class="explorer-panel" aria-labelledby="ledger-title">
+      <div class="explorer-heading">
+        <div>
+          <p class="eyebrow">Comparable evidence</p>
+          <h2 id="ledger-title">Contribution ledger</h2>
+        </div>
+        <p id="evidence-freshness" class="freshness">Loading current evidence…</p>
+      </div>
+
+      <div class="explorer-controls" aria-label="Contribution table controls">
+        <label class="control-field">
+          <span>Find a project</span>
+          <input id="project-filter" type="search" placeholder="Repository name" autocomplete="off">
+        </label>
+        <label class="control-field">
+          <span>Sort by</span>
+          <select id="sort-key">
+            <option value="balanced">Balanced evidence</option>
+            <option value="rank">GitHub API rank</option>
+            <option value="prs">Merged PRs</option>
+            <option value="commits">Attributed commits</option>
+            <option value="lines">Accepted line changes</option>
+            <option value="stars">Repository stars</option>
+            <option value="forks">Repository forks</option>
+            <option value="name">Project name</option>
+          </select>
+        </label>
+        <button id="sort-direction" class="direction-button" type="button" aria-label="Sort descending" data-direction="desc">
+          <span aria-hidden="true">↓</span> Descending
+        </button>
+        <label class="rank-filter">
+          <input id="top-five-only" type="checkbox">
+          <span>Top-5 ranked only</span>
+        </label>
+      </div>
+
+      <p class="score-note"><strong>Balanced evidence</strong> is a transparent comparison view, not a claim of personal credit: 50% merged PR volume, 30% GitHub contributor-rank strength, and 20% repository stars. PRs and stars are log-scaled against the current verified set; missing rank receives no rank weight.</p>
+
+      <div class="table-shell" tabindex="0" role="region" aria-label="Sortable contribution evidence table">
+        <table id="contribution-table" class="contribution-table">
+          <thead>
+            <tr>
+              <th scope="col" data-sort="name"><button type="button">Project and evidence <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="rank"><button type="button">API rank <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="prs"><button type="button">Merged PRs <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="commits"><button type="button">Commits <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="lines"><button type="button">Line changes <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="stars"><button type="button">Stars <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="forks"><button type="button">Forks <span aria-hidden="true"></span></button></th>
+              <th scope="col" data-sort="balanced" aria-sort="descending"><button type="button">Balanced <span aria-hidden="true">↓</span></button></th>
+            </tr>
+          </thead>
+          <tbody id="contribution-rows">
+            <tr><td colspan="8" class="loading-cell">Loading verified public evidence…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p id="result-status" class="result-status" role="status" aria-live="polite"></p>
+      <noscript><p class="load-error">This explorer needs JavaScript for sorting. The same evidence remains available in <a href="/public-evidence.md">Markdown</a> and <a href="/data/public-evidence.json">JSON</a>.</p></noscript>
+    </section>
+
+    <section class="explorer-boundary" aria-labelledby="boundary-title">
+      <p class="eyebrow">Interpretation boundary</p>
+      <h2 id="boundary-title">Reach is context.<br>Acceptance is evidence.</h2>
+      <div>
+        <p>Repository stars and forks describe the upstream project, not Rudy’s share of its creation. A contributor rank is GitHub’s current API ordering, not a qualitative review. Merged PRs and accepted line changes describe accepted public work, but volume alone does not establish importance.</p>
+        <p>Use the individual columns when you need a specific signal. Use the balanced view only as a convenient, reproducible way to explore several signals together.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Evidence source: <a href="/data/public-evidence.json">public-evidence.json</a>.</p>
+    <p>Automatically refreshed · every 30 minutes · public repositories only.</p>
+  </footer>
+</body>
+</html>
