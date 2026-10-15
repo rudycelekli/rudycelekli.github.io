@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T18:37:09Z</updated>
+  <updated>2026-10-15T20:10:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #4786: fix(search): reject an unparseable dateStart/dateEnd with 400 INVALID_DATE</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4786</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4786"/>
+    <updated>2026-10-15T20:10:24Z</updated>
+    <summary>Merged public contribution. +178 / -5 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4784: fix(context-files): keep CLAUDE.md/AGENTS.md symlinks when refreshing context</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4784</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4784"/>
+    <updated>2026-10-15T19:45:16Z</updated>
+    <summary>Merged public contribution. +206 / -26 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4787: fix(search): validate limit and offset at the search routes (400 instead of unbounded/empty results)</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4787</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4787"/>
+    <updated>2026-10-15T19:43:35Z</updated>
+    <summary>Merged public contribution. +125 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4783: fix(cursor): preserve the user's own hooks.json entries on install/uninstall</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4783</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4783"/>
+    <updated>2026-10-15T19:40:53Z</updated>
+    <summary>Merged public contribution. +408 / -65 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4785: fix(exclusions): make a trailing /** pattern also exclude the directory itself</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4785</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4785"/>
+    <updated>2026-10-15T19:38:26Z</updated>
+    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4780: fix(hooks): skip SessionEnd for sessions that are never tracked</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4780</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4780"/>
+    <updated>2026-10-15T19:37:50Z</updated>
+    <summary>Merged public contribution. +34 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Softeria/ms-365-mcp-server #738: fix(logging): keep the email redaction pattern linear on long text runs</title>
     <id>https://github.com/Softeria/ms-365-mcp-server/pull/738</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9793"/>
     <updated>2026-10-15T10:54:24Z</updated>
     <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9848: Use symbol identity when hashing class namespaces</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9848</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9848"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9830: Display FILETIME fractions at their stored 100-nanosecond precision</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9830</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9830"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9801: Convert zero-bit Scalars to BigInteger zero</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9801</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9801"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +3 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9799: Prevent overflow when joining sorted address ranges</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9799</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9799"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9780: Return absent byte-array values at the capacity boundary</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9780</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9780"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9777: Close PyGhidra compiler file managers after compilation</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9777</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9777"/>
-    <updated>2026-10-15T10:54:23Z</updated>
-    <summary>Merged public contribution. +25 / -25 across 1 changed files.</summary>
   </entry>
 </feed>
