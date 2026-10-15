@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T04:28:08Z</updated>
+  <updated>2026-10-15T07:05:45Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #3661: fix(mcp): keep a snapshot open ahead of later calls on the same connection</title>
+    <id>https://github.com/morluto/rea/pull/3661</id>
+    <link href="https://github.com/morluto/rea/pull/3661"/>
+    <updated>2026-10-15T07:05:45Z</updated>
+    <summary>Merged public contribution. +92 / -20 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1076: fix(capture): reject non-finite area regions</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1076</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1076"/>
+    <updated>2026-10-15T06:48:44Z</updated>
+    <summary>Merged public contribution. +21 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1074: fix(click): reject non-finite coordinates</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1074</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1074"/>
+    <updated>2026-10-15T06:48:41Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1047: fix(maps): stop delivering settled state to detached subscribers</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1047</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1839"/>
     <updated>2026-10-14T14:32:37Z</updated>
     <summary>Merged public contribution. +81 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1838: fix(documents): retain short text in accepted mixed PDFs</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1838</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1838"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +131 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1836: fix(quantlib): enforce the serialized result leaf budget</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1836</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1836"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +140 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1834: fix(session): anchor search snippets to native FTS matches</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1834</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1834"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +175 / -12 across 2 changed files.</summary>
   </entry>
 </feed>

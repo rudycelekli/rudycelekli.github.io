@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,117**
+Records: **2,120**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [morluto/rea](https://github.com/morluto/rea) | [#3661: fix(mcp): keep a snapshot open ahead of later calls on the same connection](https://github.com/morluto/rea/pull/3661) | +92 / -20 across 5 files | 2 reviews · 2 comments |
+| 2026-10-15 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1076: fix(capture): reject non-finite area regions](https://github.com/openclaw/Peekaboo/pull/1076) | +21 / -2 across 3 files | 0 reviews · 4 comments |
+| 2026-10-15 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1074: fix(click): reject non-finite coordinates](https://github.com/openclaw/Peekaboo/pull/1074) | +32 / -2 across 3 files | 0 reviews · 4 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1047: fix(maps): stop delivering settled state to detached subscribers](https://github.com/bilawalsidhu/gods-eye-view/pull/1047) | +99 / -1 across 4 files | 0 reviews · 4 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1046: fix(director): reject cancellation during the final asset stream read](https://github.com/bilawalsidhu/gods-eye-view/pull/1046) | +88 / -0 across 4 files | 0 reviews · 4 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1045: fix(tools): retain query rows when a timestamp exceeds the Date range](https://github.com/bilawalsidhu/gods-eye-view/pull/1045) | +89 / -3 across 6 files | 0 reviews · 4 comments |

@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 92,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-14T20:27:42Z",
+      "deletions": 20,
+      "merged_at": "2026-10-15T07:05:45Z",
+      "number": 3661,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 2,
+      "title": "fix(mcp): keep a snapshot open ahead of later calls on the same connection",
+      "url": "https://github.com/morluto/rea/pull/3661"
+    },
+    {
+      "additions": 21,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-15T04:00:11Z",
+      "deletions": 2,
+      "merged_at": "2026-10-15T06:48:44Z",
+      "number": 1076,
+      "repository": "openclaw/Peekaboo",
+      "repository_url": "https://github.com/openclaw/Peekaboo",
+      "reviews": 0,
+      "title": "fix(capture): reject non-finite area regions",
+      "url": "https://github.com/openclaw/Peekaboo/pull/1076"
+    },
+    {
+      "additions": 32,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-15T03:55:46Z",
+      "deletions": 2,
+      "merged_at": "2026-10-15T06:48:41Z",
+      "number": 1074,
+      "repository": "openclaw/Peekaboo",
+      "repository_url": "https://github.com/openclaw/Peekaboo",
+      "reviews": 0,
+      "title": "fix(click): reject non-finite coordinates",
+      "url": "https://github.com/openclaw/Peekaboo/pull/1074"
+    },
+    {
       "additions": 99,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -33901,7 +33949,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2117,
+  "record_count": 2120,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }
