@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-10-11T14:42:38Z",
+      "deletions": 13,
+      "merged_at": "2026-10-15T13:54:27Z",
+      "number": 1039,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(terrain): reject out-of-range points at the proxy boundary",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1039"
+    },
+    {
       "additions": 5,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -34365,7 +34381,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2146,
+  "record_count": 2147,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }

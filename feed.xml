@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T13:16:11Z</updated>
+  <updated>2026-10-15T13:54:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1039: fix(terrain): reject out-of-range points at the proxy boundary</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1039</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1039"/>
+    <updated>2026-10-15T13:54:27Z</updated>
+    <summary>Merged public contribution. +39 / -13 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>liseami/CCBaga #31: fix(browser): reject IPv6 exit addresses that carry URL syntax</title>
     <id>https://github.com/liseami/CCBaga/pull/31</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tester-army/e2e/pull/1043"/>
     <updated>2026-10-14T17:00:09Z</updated>
     <summary>Merged public contribution. +21 / -6 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #821: fix(traces): quit on Ctrl+C while entering a search</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/821</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/821"/>
-    <updated>2026-10-14T16:40:25Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
