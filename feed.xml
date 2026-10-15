@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T02:02:27Z</updated>
+  <updated>2026-10-15T02:54:17Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1045: fix(tools): retain query rows when a timestamp exceeds the Date range</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1045</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1045"/>
+    <updated>2026-10-15T02:54:17Z</updated>
+    <summary>Merged public contribution. +89 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1044: fix(firms): reject missing and out-of-range detection coordinates</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1044</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1044"/>
+    <updated>2026-10-15T02:43:40Z</updated>
+    <summary>Merged public contribution. +103 / -4 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1040: fix(terrain): refresh cache recency when resolving warm batches</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1040</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1830"/>
     <updated>2026-10-14T14:32:37Z</updated>
     <summary>Merged public contribution. +87 / -16 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1829: fix(events): preserve daily calendar dates for timezone-aware inputs</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1829</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1829"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +109 / -18 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1828: fix(session): serialize shared search connection operations</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1828</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1828"/>
-    <updated>2026-10-14T14:32:37Z</updated>
-    <summary>Merged public contribution. +242 / -28 across 2 changed files.</summary>
   </entry>
 </feed>
