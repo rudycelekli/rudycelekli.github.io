@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,124**
+Records: **2,125**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#560: fix(rank): expire preserved past deadlines before shortlisting](https://github.com/MadsLorentzen/ai-job-search/pull/560) | +88 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-10-15 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | [#1034: docs: describe the typed streaming event union](https://github.com/truefoundry/trueforge/pull/1034) | +8 / -7 across 1 files | 1 reviews · 1 comments |
 | 2026-10-15 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | [#1032: docs: correct agent search pagination and list result types](https://github.com/truefoundry/trueforge/pull/1032) | +6 / -5 across 3 files | 1 reviews · 1 comments |
 | 2026-10-15 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#895: fix(web): read recognized ARIA role fallbacks](https://github.com/tester-army/e2e/pull/895) | +59 / -5 across 4 files | 2 reviews · 6 comments |
