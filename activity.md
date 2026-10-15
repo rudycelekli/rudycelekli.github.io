@@ -4,10 +4,20 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,125**
+Records: **2,135**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4390: fix(state-manager): match list and cleanup glob patterns literally](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4390) | +400 / -162 across 5 files | 4 reviews · 2 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1875: fix(risk-xray): measure downside deviation as zero-target RMS over all bars](https://github.com/HKUDS/Vibe-Trading/pull/1875) | +51 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1874: fix(redaction): cover more secret formats (tokens, private-key blocks, cookies, provider keys)](https://github.com/HKUDS/Vibe-Trading/pull/1874) | +226 / -2 across 6 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1873: fix(skills): stamp swing-based signals on the pivot confirmation bar](https://github.com/HKUDS/Vibe-Trading/pull/1873) | +138 / -40 across 5 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1872: fix(journal): parse parenthesised accounting negatives instead of zeroing them](https://github.com/HKUDS/Vibe-Trading/pull/1872) | +41 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1871: fix(journal): keep fiat currency pairs (EUR/USD) out of the crypto market](https://github.com/HKUDS/Vibe-Trading/pull/1871) | +55 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1862: fix(backtest): classify separated USDC/BUSD pairs (BTC-USDC, ETH/USDC) as crypto](https://github.com/HKUDS/Vibe-Trading/pull/1862) | +53 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1861: fix(backtest): keep digit-leading crypto bases (1INCH, 1000PEPE) on crypto rules](https://github.com/HKUDS/Vibe-Trading/pull/1861) | +93 / -9 across 5 files | 0 reviews · 0 comments |
+| 2026-10-15 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1037: fix(init): honor explicit project root for generated assets](https://github.com/proffesor-for-testing/agentic-qe/pull/1037) | +874 / -720 across 5 files | 2 reviews · 1 comments |
+| 2026-10-15 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1032: fix(mcp): persist generated testCode source files](https://github.com/proffesor-for-testing/agentic-qe/pull/1032) | +145 / -10 across 5 files | 2 reviews · 2 comments |
 | 2026-10-15 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#560: fix(rank): expire preserved past deadlines before shortlisting](https://github.com/MadsLorentzen/ai-job-search/pull/560) | +88 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-10-15 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | [#1034: docs: describe the typed streaming event union](https://github.com/truefoundry/trueforge/pull/1034) | +8 / -7 across 1 files | 1 reviews · 1 comments |
 | 2026-10-15 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | [#1032: docs: correct agent search pagination and list result types](https://github.com/truefoundry/trueforge/pull/1032) | +6 / -5 across 3 files | 1 reviews · 1 comments |
