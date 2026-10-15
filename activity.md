@@ -4,10 +4,22 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,170**
+Records: **2,182**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#426: fix(export): preserve comment-like text in CSS strings](https://github.com/cathrynlavery/diagram-design/pull/426) | +42 / -7 across 4 files | 0 reviews · 2 comments |
+| 2026-10-15 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#51: fix(pricing): refresh cache entries dated in the future](https://github.com/tigerless-labs/cost-xray/pull/51) | +20 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#36: fix(verify): preserve all metrics when aggregating an iterator](https://github.com/tigerless-labs/cost-xray/pull/36) | +18 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#44: fix(analyze): ignore nonpositive context window overrides](https://github.com/tigerless-labs/cost-xray/pull/44) | +14 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#239: fix: resolve relative redaction rule paths before caching](https://github.com/tigerless-labs/autoharness/pull/239) | +20 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#266: fix(validate): do not treat a URL to a .py file as a path escaping the skill dir](https://github.com/tigerless-labs/autoharness/pull/266) | +9 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#814: fix(free-tools): source case examples and stop rewarding unsupported rates](https://github.com/coreyhaines31/marketingskills/pull/814) | +41 / -35 across 7 files | 0 reviews · 4 comments |
+| 2026-10-15 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#264: fix(guard): flag recursive rm in any flag order and pipes into sudo shells](https://github.com/tigerless-labs/autoharness/pull/264) | +25 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-15 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#427: fix(containment): honor important inline declaration priority](https://github.com/cathrynlavery/diagram-design/pull/427) | +244 / -11 across 2 files | 2 reviews · 3 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#876: fix(claude): honor CLAUDE_CONFIG_DIR for settings, hooks, sessions and inventory](https://github.com/Asymptote-Labs/agent-beacon/pull/876) | +321 / -39 across 24 files | 0 reviews · 0 comments |
+| 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#878: fix(copilot): honor COPILOT_HOME for the session store](https://github.com/Asymptote-Labs/agent-beacon/pull/878) | +66 / -10 across 9 files | 0 reviews · 0 comments |
+| 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1042: fix(imagery): paginate raw CMR pages within the record budget](https://github.com/bilawalsidhu/gods-eye-view/pull/1042) | +125 / -9 across 4 files | 0 reviews · 3 comments |
 | 2026-10-15 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#880: fix(gemini): resolve user settings through GEMINI_CLI_HOME](https://github.com/Asymptote-Labs/agent-beacon/pull/880) | +121 / -13 across 11 files | 0 reviews · 0 comments |
 | 2026-10-15 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1041: fix(imagery): require explicit Data-Present proof before decoding thumbnails](https://github.com/bilawalsidhu/gods-eye-view/pull/1041) | +39 / -8 across 5 files | 0 reviews · 2 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388) | +57 / -8 across 3 files | 10 reviews · 2 comments |

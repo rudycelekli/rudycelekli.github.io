@@ -4,8 +4,92 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T15:49:37Z</updated>
+  <updated>2026-10-15T16:33:21Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>cathrynlavery/diagram-design #426: fix(export): preserve comment-like text in CSS strings</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/426</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/426"/>
+    <updated>2026-10-15T16:33:21Z</updated>
+    <summary>Merged public contribution. +42 / -7 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #51: fix(pricing): refresh cache entries dated in the future</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/51</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/51"/>
+    <updated>2026-10-15T16:31:31Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #36: fix(verify): preserve all metrics when aggregating an iterator</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/36</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/36"/>
+    <updated>2026-10-15T16:29:58Z</updated>
+    <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #44: fix(analyze): ignore nonpositive context window overrides</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/44</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/44"/>
+    <updated>2026-10-15T16:28:01Z</updated>
+    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #239: fix: resolve relative redaction rule paths before caching</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/239</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/239"/>
+    <updated>2026-10-15T16:22:50Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #266: fix(validate): do not treat a URL to a .py file as a path escaping the skill dir</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/266</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/266"/>
+    <updated>2026-10-15T16:21:34Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #814: fix(free-tools): source case examples and stop rewarding unsupported rates</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/814</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/814"/>
+    <updated>2026-10-15T16:21:21Z</updated>
+    <summary>Merged public contribution. +41 / -35 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #264: fix(guard): flag recursive rm in any flag order and pipes into sudo shells</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/264</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/264"/>
+    <updated>2026-10-15T16:21:09Z</updated>
+    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #427: fix(containment): honor important inline declaration priority</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/427</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/427"/>
+    <updated>2026-10-15T16:17:56Z</updated>
+    <summary>Merged public contribution. +244 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #876: fix(claude): honor CLAUDE_CONFIG_DIR for settings, hooks, sessions and inventory</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/876</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/876"/>
+    <updated>2026-10-15T16:10:07Z</updated>
+    <summary>Merged public contribution. +321 / -39 across 24 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #878: fix(copilot): honor COPILOT_HOME for the session store</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/878</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/878"/>
+    <updated>2026-10-15T16:05:56Z</updated>
+    <summary>Merged public contribution. +66 / -10 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1042: fix(imagery): paginate raw CMR pages within the record budget</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1042</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1042"/>
+    <updated>2026-10-15T16:01:24Z</updated>
+    <summary>Merged public contribution. +125 / -9 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #880: fix(gemini): resolve user settings through GEMINI_CLI_HOME</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/880</id>
@@ -271,89 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1874"/>
     <updated>2026-10-15T10:20:36Z</updated>
     <summary>Merged public contribution. +226 / -2 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1873: fix(skills): stamp swing-based signals on the pivot confirmation bar</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1873</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1873"/>
-    <updated>2026-10-15T10:20:36Z</updated>
-    <summary>Merged public contribution. +138 / -40 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1872: fix(journal): parse parenthesised accounting negatives instead of zeroing them</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1872</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1872"/>
-    <updated>2026-10-15T10:20:36Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1871: fix(journal): keep fiat currency pairs (EUR/USD) out of the crypto market</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1871</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1871"/>
-    <updated>2026-10-15T10:20:36Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1862: fix(backtest): classify separated USDC/BUSD pairs (BTC-USDC, ETH/USDC) as crypto</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1862</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1862"/>
-    <updated>2026-10-15T10:20:36Z</updated>
-    <summary>Merged public contribution. +53 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1861: fix(backtest): keep digit-leading crypto bases (1INCH, 1000PEPE) on crypto rules</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1861</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1861"/>
-    <updated>2026-10-15T10:20:36Z</updated>
-    <summary>Merged public contribution. +93 / -9 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1037: fix(init): honor explicit project root for generated assets</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1037</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1037"/>
-    <updated>2026-10-15T10:06:46Z</updated>
-    <summary>Merged public contribution. +874 / -720 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1032: fix(mcp): persist generated testCode source files</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1032</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1032"/>
-    <updated>2026-10-15T10:06:39Z</updated>
-    <summary>Merged public contribution. +145 / -10 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #560: fix(rank): expire preserved past deadlines before shortlisting</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/560</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/560"/>
-    <updated>2026-10-15T09:39:11Z</updated>
-    <summary>Merged public contribution. +88 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>truefoundry/trueforge #1034: docs: describe the typed streaming event union</title>
-    <id>https://github.com/truefoundry/trueforge/pull/1034</id>
-    <link href="https://github.com/truefoundry/trueforge/pull/1034"/>
-    <updated>2026-10-15T09:21:14Z</updated>
-    <summary>Merged public contribution. +8 / -7 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>truefoundry/trueforge #1032: docs: correct agent search pagination and list result types</title>
-    <id>https://github.com/truefoundry/trueforge/pull/1032</id>
-    <link href="https://github.com/truefoundry/trueforge/pull/1032"/>
-    <updated>2026-10-15T09:14:46Z</updated>
-    <summary>Merged public contribution. +6 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #895: fix(web): read recognized ARIA role fallbacks</title>
-    <id>https://github.com/tester-army/e2e/pull/895</id>
-    <link href="https://github.com/tester-army/e2e/pull/895"/>
-    <updated>2026-10-15T08:22:26Z</updated>
-    <summary>Merged public contribution. +59 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1075: fix(move): reject non-finite --at coordinates</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1075</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1075"/>
-    <updated>2026-10-15T07:46:11Z</updated>
-    <summary>Merged public contribution. +10 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
