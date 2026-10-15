@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,194**
+Records: **2,198**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1316: fix(daemon): read a CRLF SPEC.md's frontmatter intent](https://github.com/mvschwarz/openrig/pull/1316) | +15 / -2 across 2 files | 1 reviews · 3 comments |
+| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1315: fix(scope): parse CRLF checkbox blocks in the logical-checkbox twin](https://github.com/mvschwarz/openrig/pull/1315) | +54 / -2 across 4 files | 1 reviews · 3 comments |
+| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1314: fix(daemon): parse CRLF PROGRESS.md files in the progress indexer](https://github.com/mvschwarz/openrig/pull/1314) | +22 / -1 across 2 files | 1 reviews · 3 comments |
+| 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1317: fix(daemon): send non-ASCII ntfy titles as RFC 2047 encoded words](https://github.com/mvschwarz/openrig/pull/1317) | +55 / -2 across 2 files | 2 reviews · 3 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4402: fix(commands): parse CRLF frontmatter in command files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402) | +148 / -29 across 5 files | 0 reviews · 2 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize](https://github.com/mvschwarz/openrig/pull/1320) | +41 / -1 across 2 files | 1 reviews · 4 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4389: fix: ignore malformed values in the security config section](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389) | +121 / -15 across 6 files | 5 reviews · 3 comments |
