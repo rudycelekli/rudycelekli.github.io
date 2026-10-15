@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 56,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-15T05:42:23Z",
+      "deletions": 6,
+      "merged_at": "2026-10-15T18:37:09Z",
+      "number": 738,
+      "repository": "Softeria/ms-365-mcp-server",
+      "repository_url": "https://github.com/Softeria/ms-365-mcp-server",
+      "reviews": 0,
+      "title": "fix(logging): keep the email redaction pattern linear on long text runs",
+      "url": "https://github.com/Softeria/ms-365-mcp-server/pull/738"
+    },
+    {
       "additions": 259,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -34973,7 +34989,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2184,
+  "record_count": 2185,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }

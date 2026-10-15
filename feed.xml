@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T16:59:56Z</updated>
+  <updated>2026-10-15T18:37:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Softeria/ms-365-mcp-server #738: fix(logging): keep the email redaction pattern linear on long text runs</title>
+    <id>https://github.com/Softeria/ms-365-mcp-server/pull/738</id>
+    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/738"/>
+    <updated>2026-10-15T18:37:09Z</updated>
+    <summary>Merged public contribution. +56 / -6 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #432: fix(export): preserve CSS-escaped local paint references</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/432</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9777"/>
     <updated>2026-10-15T10:54:23Z</updated>
     <summary>Merged public contribution. +25 / -25 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4390: fix(state-manager): match list and cleanup glob patterns literally</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4390</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4390"/>
-    <updated>2026-10-15T10:28:20Z</updated>
-    <summary>Merged public contribution. +400 / -162 across 5 changed files.</summary>
   </entry>
 </feed>
