@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 315,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 2,
+      "commits": 10,
+      "created_at": "2026-10-15T20:05:39Z",
+      "deletions": 43,
+      "merged_at": "2026-10-15T22:52:36Z",
+      "number": 4403,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 5,
+      "title": "fix(rules-injector): support {a,b} brace alternation in rule globs",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403"
+    },
+    {
       "additions": 15,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -35197,7 +35213,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2198,
+  "record_count": 2199,
   "schema_version": 1,
   "updated_at_utc": "2026-10-15"
 }

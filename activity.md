@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,198**
+Records: **2,199**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4403: fix(rules-injector): support {a,b} brace alternation in rule globs](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403) | +315 / -43 across 6 files | 5 reviews · 2 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1316: fix(daemon): read a CRLF SPEC.md's frontmatter intent](https://github.com/mvschwarz/openrig/pull/1316) | +15 / -2 across 2 files | 1 reviews · 3 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1315: fix(scope): parse CRLF checkbox blocks in the logical-checkbox twin](https://github.com/mvschwarz/openrig/pull/1315) | +54 / -2 across 4 files | 1 reviews · 3 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1314: fix(daemon): parse CRLF PROGRESS.md files in the progress indexer](https://github.com/mvschwarz/openrig/pull/1314) | +22 / -1 across 2 files | 1 reviews · 3 comments |

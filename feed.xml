@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T22:02:06Z</updated>
+  <updated>2026-10-15T22:52:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4403: fix(rules-injector): support {a,b} brace alternation in rule globs</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403"/>
+    <updated>2026-10-15T22:52:36Z</updated>
+    <summary>Merged public contribution. +315 / -43 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1316: fix(daemon): read a CRLF SPEC.md's frontmatter intent</title>
     <id>https://github.com/mvschwarz/openrig/pull/1316</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/wheresryan22/anatomy/pull/67"/>
     <updated>2026-10-15T14:14:34Z</updated>
     <summary>Merged public contribution. +37 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #66: drive.mjs: wait for page load, never hang on Chrome</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/66</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/66"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +53 / -6 across 3 changed files.</summary>
   </entry>
 </feed>
