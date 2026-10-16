@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T13:49:37Z</updated>
+  <updated>2026-10-16T14:05:01Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>kenn-io/agentsview #2281: fix(parser): read zstd-compressed OpenClaw transcript events</title>
+    <id>https://github.com/kenn-io/agentsview/pull/2281</id>
+    <link href="https://github.com/kenn-io/agentsview/pull/2281"/>
+    <updated>2026-10-16T14:05:01Z</updated>
+    <summary>Merged public contribution. +294 / -24 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4407: fix(rules-injector): ignore trailing YAML comments in rule frontmatter</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1114"/>
     <updated>2026-10-16T10:09:55Z</updated>
     <summary>Merged public contribution. +59 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3724: fix(browser): scope snapshots to the requested selector</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3724</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3724"/>
-    <updated>2026-10-16T09:12:16Z</updated>
-    <summary>Merged public contribution. +55 / -5 across 3 changed files.</summary>
   </entry>
 </feed>

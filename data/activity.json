@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 294,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 9,
+      "commits": 4,
+      "created_at": "2026-10-15T05:38:19Z",
+      "deletions": 24,
+      "merged_at": "2026-10-16T14:05:01Z",
+      "number": 2281,
+      "repository": "kenn-io/agentsview",
+      "repository_url": "https://github.com/kenn-io/agentsview",
+      "reviews": 0,
+      "title": "fix(parser): read zstd-compressed OpenClaw transcript events",
+      "url": "https://github.com/kenn-io/agentsview/pull/2281"
+    },
+    {
       "additions": 76,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -37165,7 +37181,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2321,
+  "record_count": 2322,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }

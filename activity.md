@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,321**
+Records: **2,322**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | [#2281: fix(parser): read zstd-compressed OpenClaw transcript events](https://github.com/kenn-io/agentsview/pull/2281) | +294 / -24 across 5 files | 0 reviews · 9 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4407: fix(rules-injector): ignore trailing YAML comments in rule frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407) | +76 / -7 across 3 files | 39 reviews · 2 comments |
 | 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1070: fix(bench): compare run exit statuses alongside test outcomes](https://github.com/tester-army/e2e/pull/1070) | +24 / -2 across 3 files | 2 reviews · 1 comments |
 | 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1071: fix(bench): report instability independently on both builds](https://github.com/tester-army/e2e/pull/1071) | +17 / -2 across 2 files | 2 reviews · 1 comments |
