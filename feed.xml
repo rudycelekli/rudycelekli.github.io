@@ -4,8 +4,211 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T12:58:26Z</updated>
+  <updated>2026-10-16T13:08:18Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2010: fix(schema): bound finite numbers before integer conversion</title>
+    <id>https://github.com/JustVugg/colibri/pull/2010</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2010"/>
+    <updated>2026-10-16T13:08:18Z</updated>
+    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2067: fix: reject incomplete diagnostic smoke runs</title>
+    <id>https://github.com/JustVugg/colibri/pull/2067</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2067"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +100 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2022: fix: validate decision-model weight payloads before RAM estimates</title>
+    <id>https://github.com/JustVugg/colibri/pull/2022</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2022"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +113 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2006: fix(schema): escape decoded controls as JSON in grammar drafts</title>
+    <id>https://github.com/JustVugg/colibri/pull/2006</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2006"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1999: fix(loader): ignore unrepresentable numeric stop ids</title>
+    <id>https://github.com/JustVugg/colibri/pull/1999</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1999"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +64 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1996: fix(api): reject non-object OLMoE fallback history arguments</title>
+    <id>https://github.com/JustVugg/colibri/pull/1996</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1996"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1995: fix(api): reject explicit falsey non-array tools</title>
+    <id>https://github.com/JustVugg/colibri/pull/1995</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1995"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1994: fix(api): return 400 for out-of-range sampling integers</title>
+    <id>https://github.com/JustVugg/colibri/pull/1994</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1994"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1993: fix(setup): honor explicit overrides on a ready saved configuration</title>
+    <id>https://github.com/JustVugg/colibri/pull/1993</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1993"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +78 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #1961: fix(setup): verify cached files against requested download digests</title>
+    <id>https://github.com/JustVugg/colibri/pull/1961</id>
+    <link href="https://github.com/JustVugg/colibri/pull/1961"/>
+    <updated>2026-10-16T13:08:17Z</updated>
+    <summary>Merged public contribution. +49 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2079: fix(setup): require generated tokenizer before reporting ready</title>
+    <id>https://github.com/JustVugg/colibri/pull/2079</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2079"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +167 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2078: fix(cli): recognize complete quoted image paths</title>
+    <id>https://github.com/JustVugg/colibri/pull/2078</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2078"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +95 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2077: fix(glm52): check space on the selected destination filesystem</title>
+    <id>https://github.com/JustVugg/colibri/pull/2077</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2077"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +170 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2076: fix(convert): preserve local checkpoints on output-directory aliases</title>
+    <id>https://github.com/JustVugg/colibri/pull/2076</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2076"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +137 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2074: fix(images): reserve automatic filenames before publication</title>
+    <id>https://github.com/JustVugg/colibri/pull/2074</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2074"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +176 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2073: fix(mtp): refuse incomplete local shards before repair</title>
+    <id>https://github.com/JustVugg/colibri/pull/2073</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2073"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +134 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2072: fix(cli): preserve literal asterisks in inline code</title>
+    <id>https://github.com/JustVugg/colibri/pull/2072</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2072"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2071: fix(serve): apply configured CORS headers to metrics responses</title>
+    <id>https://github.com/JustVugg/colibri/pull/2071</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2071"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +66 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2070: fix(api): return client errors for JSON parsing limits</title>
+    <id>https://github.com/JustVugg/colibri/pull/2070</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2070"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +112 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2066: fix(setup): preserve Unicode paths in printed recovery command</title>
+    <id>https://github.com/JustVugg/colibri/pull/2066</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2066"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +47 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2065: fix(tools): isolate engine modes from inherited shell settings</title>
+    <id>https://github.com/JustVugg/colibri/pull/2065</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2065"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +207 / -4 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2064: fix(diagnostics): discover current engine binaries</title>
+    <id>https://github.com/JustVugg/colibri/pull/2064</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2064"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +97 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2062: fix(benchmarks): reap stalled engines after mux failures</title>
+    <id>https://github.com/JustVugg/colibri/pull/2062</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2062"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +121 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2060: fix(systemone): reject options without log probability scores</title>
+    <id>https://github.com/JustVugg/colibri/pull/2060</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2060"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2023: fix(audio): reject truncated WAV chunks and incomplete frames</title>
+    <id>https://github.com/JustVugg/colibri/pull/2023</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2023"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2021: fix: preserve Unicode separators inside benchmark JSONL prompts</title>
+    <id>https://github.com/JustVugg/colibri/pull/2021</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2021"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2020: fix: verify mirror shards against current model bytes</title>
+    <id>https://github.com/JustVugg/colibri/pull/2020</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2020"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +109 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2019: fix: reject benchmark downloads with no usable rows</title>
+    <id>https://github.com/JustVugg/colibri/pull/2019</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2019"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +80 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2017: fix(experiments): require exact hexadecimal commit and evidence identities</title>
+    <id>https://github.com/JustVugg/colibri/pull/2017</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2017"/>
+    <updated>2026-10-16T13:08:16Z</updated>
+    <summary>Merged public contribution. +42 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>liliang-cn/cortexdb #53: fix(index): read the IVF size under the index lock</title>
     <id>https://github.com/liliang-cn/cortexdb/pull/53</id>
@@ -152,208 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3764"/>
     <updated>2026-10-16T08:35:33Z</updated>
     <summary>Merged public contribution. +77 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3753: fix(skills): preserve installed skills during replacement failures</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3753</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3753"/>
-    <updated>2026-10-16T08:35:10Z</updated>
-    <summary>Merged public contribution. +316 / -49 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3713: fix(mcp): ignore malformed persisted OAuth records</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3713</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3713"/>
-    <updated>2026-10-16T07:56:06Z</updated>
-    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3723: fix(config): tolerate concurrent app data directory creation</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3723</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3723"/>
-    <updated>2026-10-16T07:55:50Z</updated>
-    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3711: fix(skills): normalize list-based names before cataloging</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3711</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3711"/>
-    <updated>2026-10-16T07:55:38Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3707: fix(config): render subscription messages with no chat prefixes</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3707</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3707"/>
-    <updated>2026-10-16T07:55:33Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3698: fix(skills): isolate malformed persisted config entries</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3698</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3698"/>
-    <updated>2026-10-16T07:55:27Z</updated>
-    <summary>Merged public contribution. +24 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3696: fix(skills): honor model visibility in setup hints</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3696</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3696"/>
-    <updated>2026-10-16T07:55:21Z</updated>
-    <summary>Merged public contribution. +19 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3695: fix(skills): validate custom provider credential types</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3695</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3695"/>
-    <updated>2026-10-16T07:55:16Z</updated>
-    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3686: fix(cli): ignore JSON configuration with a non-object root</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3686</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3686"/>
-    <updated>2026-10-16T07:55:10Z</updated>
-    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3685: fix(skills): support UTF-8 BOM in skills and configuration</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3685</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3685"/>
-    <updated>2026-10-16T07:55:03Z</updated>
-    <summary>Merged public contribution. +73 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3734: fix(bridge): retry finished steps after transient history write failures</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3734</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3734"/>
-    <updated>2026-10-16T07:54:57Z</updated>
-    <summary>Merged public contribution. +71 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3733: fix(web): scope request cancellation to the resolved agent</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3733</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3733"/>
-    <updated>2026-10-16T07:54:51Z</updated>
-    <summary>Merged public contribution. +52 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3730: fix(agent): avoid overwriting profiles during concurrent initialization</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3730</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3730"/>
-    <updated>2026-10-16T07:54:44Z</updated>
-    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3727: fix(browser): save screenshots in the current project</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3727</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3727"/>
-    <updated>2026-10-16T07:54:38Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3725: fix(browser): require explicit text before filling inputs</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3725</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3725"/>
-    <updated>2026-10-16T07:54:33Z</updated>
-    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3722: fix(agent): keep onboarding pending for empty profile files</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3722</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3722"/>
-    <updated>2026-10-16T07:54:26Z</updated>
-    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3719: fix(web): resume live log streaming after file truncation</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3719</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3719"/>
-    <updated>2026-10-16T07:54:20Z</updated>
-    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3717: fix(web): serialize log replay failures as valid SSE JSON</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3717</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3717"/>
-    <updated>2026-10-16T07:54:15Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3716: fix(telegram): match complete bot usernames in group mentions</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3716</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3716"/>
-    <updated>2026-10-16T07:54:09Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3715: fix(edit): preserve carriage-return line separators</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3715</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3715"/>
-    <updated>2026-10-16T07:54:03Z</updated>
-    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3689: fix(send): refuse directories and special files</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3689</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3689"/>
-    <updated>2026-10-16T07:53:57Z</updated>
-    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3726: fix(vision): match compressed image bytes and MIME type</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3726</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3726"/>
-    <updated>2026-10-16T07:53:50Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3706: fix(openai): retain image endpoint overrides during retries</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3706</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3706"/>
-    <updated>2026-10-16T07:53:44Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3704: fix(models): detach capability lists returned by catalog readers</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3704</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3704"/>
-    <updated>2026-10-16T07:53:37Z</updated>
-    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3693: fix(models): close native provider streaming responses on every exit</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3693</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3693"/>
-    <updated>2026-10-16T07:53:31Z</updated>
-    <summary>Merged public contribution. +87 / -0 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3692: fix(openai): report truncated Responses tool arguments as length</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3692</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3692"/>
-    <updated>2026-10-16T07:53:25Z</updated>
-    <summary>Merged public contribution. +36 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3691: fix(openai): preserve Responses refusal text</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3691</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3691"/>
-    <updated>2026-10-16T07:53:19Z</updated>
-    <summary>Merged public contribution. +35 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3688: fix(voice): close MiniMax synthesis responses on every exit</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3688</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3688"/>
-    <updated>2026-10-16T07:53:13Z</updated>
-    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3700: fix(voice): return error replies for unreadable Google ASR input</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3700</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3700"/>
-    <updated>2026-10-16T07:53:08Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
