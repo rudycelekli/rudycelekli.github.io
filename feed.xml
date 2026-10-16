@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T00:14:07Z</updated>
+  <updated>2026-10-16T01:20:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>cathrynlavery/diagram-design #446: fix(import): accept whitespace before a Mermaid pipe label</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/446</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/446"/>
+    <updated>2026-10-16T01:20:27Z</updated>
+    <summary>Merged public contribution. +23 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4406: fix(rules-injector): read block lists indented level with their key</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4406</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4406"/>
+    <updated>2026-10-16T01:17:08Z</updated>
+    <summary>Merged public contribution. +29 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>rociiu/talorys #59: fix: resolve a task by its exact title before partial matches</title>
     <id>https://github.com/rociiu/talorys/pull/59</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/wheresryan22/anatomy/pull/74"/>
     <updated>2026-10-15T14:14:34Z</updated>
     <summary>Merged public contribution. +36 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #73: turn-audit: sample clips through their final instant, not past it</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/73</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/73"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +35 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #72: turn-build: ignore repeated vertices when rounding a prism polygon</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/72</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/72"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
