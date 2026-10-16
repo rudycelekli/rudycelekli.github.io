@@ -4,10 +4,20 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,322**
+Records: **2,332**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1887: fix(api): serve shadow reports from the configured runtime root](https://github.com/HKUDS/Vibe-Trading/pull/1887) | +37 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1885: fix(constraints): degrade to equal weights when a min_weight floor cannot be funded](https://github.com/HKUDS/Vibe-Trading/pull/1885) | +11 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1882: fix(pattern): report a flat top or bottom as one extremum](https://github.com/HKUDS/Vibe-Trading/pull/1882) | +30 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1881: fix(journal): read European 1.234,56 amounts instead of 1.23456](https://github.com/HKUDS/Vibe-Trading/pull/1881) | +38 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1880: fix(redaction): scrub Telegram bot tokens, Slack/Discord webhook secrets, Groq and NVIDIA keys](https://github.com/HKUDS/Vibe-Trading/pull/1880) | +63 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1879: fix(backtest): refresh cached bars after local source revisions](https://github.com/HKUDS/Vibe-Trading/pull/1879) | +283 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-10-16 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#898: fix(pi): honor PI_CODING_AGENT_DIR for the extension install, discovery and inventory](https://github.com/Asymptote-Labs/agent-beacon/pull/898) | +130 / -15 across 10 files | 0 reviews · 0 comments |
+| 2026-10-16 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#899: fix(inventory): record every variable the inventory scan follows in the scheduled job](https://github.com/Asymptote-Labs/agent-beacon/pull/899) | +121 / -7 across 5 files | 0 reviews · 0 comments |
+| 2026-10-16 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9802: Validate complete number ranges and clear failed parse state](https://github.com/NationalSecurityAgency/ghidra/pull/9802) | +7 / -2 across 1 files | 0 reviews · 5 comments |
+| 2026-10-16 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9805: Preserve fill and skipped payload integrity in Android sparse images](https://github.com/NationalSecurityAgency/ghidra/pull/9805) | +9 / -11 across 1 files | 0 reviews · 1 comments |
 | 2026-10-16 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | [#2281: fix(parser): read zstd-compressed OpenClaw transcript events](https://github.com/kenn-io/agentsview/pull/2281) | +294 / -24 across 5 files | 0 reviews · 9 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4407: fix(rules-injector): ignore trailing YAML comments in rule frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407) | +76 / -7 across 3 files | 39 reviews · 2 comments |
 | 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1070: fix(bench): compare run exit statuses alongside test outcomes](https://github.com/tester-army/e2e/pull/1070) | +24 / -2 across 3 files | 2 reviews · 1 comments |
