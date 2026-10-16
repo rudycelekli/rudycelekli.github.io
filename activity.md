@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,229**
+Records: **2,231**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [morluto/leantoken](https://github.com/morluto/leantoken) | [#646: fix(bench): reject nonfinite regression thresholds](https://github.com/morluto/leantoken/pull/646) | +33 / -0 across 2 files | 1 reviews · 2 comments |
+| 2026-10-16 | [morluto/leantoken](https://github.com/morluto/leantoken) | [#645: fix(npm): forward signals while the native child is running](https://github.com/morluto/leantoken/pull/645) | +71 / -2 across 2 files | 1 reviews · 1 comments |
 | 2026-10-16 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1054: fix(coverage): resolve relative per-file coverage keys against the project root](https://github.com/proffesor-for-testing/agentic-qe/pull/1054) | +45 / -6 across 4 files | 2 reviews · 0 comments |
 | 2026-10-16 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1085: fix(docs): render nested lists and wrapped list items](https://github.com/openclaw/Peekaboo/pull/1085) | +100 / -9 across 2 files | 1 reviews · 4 comments |
 | 2026-10-16 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1086: fix(docs): keep balanced parentheses inside link destinations](https://github.com/openclaw/Peekaboo/pull/1086) | +17 / -1 across 2 files | 0 reviews · 4 comments |

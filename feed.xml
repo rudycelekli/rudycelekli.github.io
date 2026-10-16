@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T06:43:28Z</updated>
+  <updated>2026-10-16T07:02:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/leantoken #646: fix(bench): reject nonfinite regression thresholds</title>
+    <id>https://github.com/morluto/leantoken/pull/646</id>
+    <link href="https://github.com/morluto/leantoken/pull/646"/>
+    <updated>2026-10-16T07:02:39Z</updated>
+    <summary>Merged public contribution. +33 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/leantoken #645: fix(npm): forward signals while the native child is running</title>
+    <id>https://github.com/morluto/leantoken/pull/645</id>
+    <link href="https://github.com/morluto/leantoken/pull/645"/>
+    <updated>2026-10-16T06:56:49Z</updated>
+    <summary>Merged public contribution. +71 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1054: fix(coverage): resolve relative per-file coverage keys against the project root</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1054</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/cathrynlavery/diagram-design/pull/426"/>
     <updated>2026-10-15T16:33:21Z</updated>
     <summary>Merged public contribution. +42 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #51: fix(pricing): refresh cache entries dated in the future</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/51</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/51"/>
-    <updated>2026-10-15T16:31:31Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #36: fix(verify): preserve all metrics when aggregating an iterator</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/36</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/36"/>
-    <updated>2026-10-15T16:29:58Z</updated>
-    <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
