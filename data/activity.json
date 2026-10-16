@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 55,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-12T13:15:12Z",
+      "deletions": 5,
+      "merged_at": "2026-10-16T09:12:16Z",
+      "number": 3724,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(browser): scope snapshots to the requested selector",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3724"
+    },
+    {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-12T13:04:48Z",
+      "deletions": 0,
+      "merged_at": "2026-10-16T09:12:08Z",
+      "number": 3712,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(vision): fall back after an empty completion",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3712"
+    },
+    {
+      "additions": 58,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 10,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-12T13:05:05Z",
+      "deletions": 15,
+      "merged_at": "2026-10-16T09:12:01Z",
+      "number": 3714,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(voice): isolate output files for repeated identical speech",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3714"
+    },
+    {
       "additions": 49,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -36333,7 +36381,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2269,
+  "record_count": 2272,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }

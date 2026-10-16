@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T08:42:09Z</updated>
+  <updated>2026-10-16T09:12:16Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3724: fix(browser): scope snapshots to the requested selector</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3724</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3724"/>
+    <updated>2026-10-16T09:12:16Z</updated>
+    <summary>Merged public contribution. +55 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3712: fix(vision): fall back after an empty completion</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3712</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3712"/>
+    <updated>2026-10-16T09:12:08Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3714: fix(voice): isolate output files for repeated identical speech</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3714</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3714"/>
+    <updated>2026-10-16T09:12:01Z</updated>
+    <summary>Merged public contribution. +58 / -15 across 10 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3705: fix(search): require explicit anonymous provider opt-in</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3705</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3751"/>
     <updated>2026-10-16T04:24:35Z</updated>
     <summary>Merged public contribution. +106 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3750: fix(weixin): close rejected CDN media responses</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3750</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3750"/>
-    <updated>2026-10-16T04:24:29Z</updated>
-    <summary>Merged public contribution. +136 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3749: fix(workspace): report failed project and session preference saves</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3749</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3749"/>
-    <updated>2026-10-16T04:24:16Z</updated>
-    <summary>Merged public contribution. +113 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3747: fix(workspace): bind editor metadata to the content read</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3747</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3747"/>
-    <updated>2026-10-16T04:24:09Z</updated>
-    <summary>Merged public contribution. +98 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
