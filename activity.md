@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,334**
+Records: **2,336**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#826: fix(site): preserve literal dollar tokens in artifact SEO copy](https://github.com/tt-a1i/archify/pull/826) | +35 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-16 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#903: fix(gitlink): respect wrapped directory changes in shell commands](https://github.com/Asymptote-Labs/agent-beacon/pull/903) | +14 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1887: fix(api): serve shadow reports from the configured runtime root](https://github.com/HKUDS/Vibe-Trading/pull/1887) | +37 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1885: fix(constraints): degrade to equal weights when a min_weight floor cannot be funded](https://github.com/HKUDS/Vibe-Trading/pull/1885) | +11 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-16 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1884: fix(journal): emit strict JSON when a ratio is unbounded](https://github.com/HKUDS/Vibe-Trading/pull/1884) | +68 / -1 across 2 files | 0 reviews · 0 comments |

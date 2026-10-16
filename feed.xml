@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T15:31:31Z</updated>
+  <updated>2026-10-16T16:07:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tt-a1i/archify #826: fix(site): preserve literal dollar tokens in artifact SEO copy</title>
+    <id>https://github.com/tt-a1i/archify/pull/826</id>
+    <link href="https://github.com/tt-a1i/archify/pull/826"/>
+    <updated>2026-10-16T16:07:28Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #903: fix(gitlink): respect wrapped directory changes in shell commands</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/903</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/903"/>
+    <updated>2026-10-16T16:03:07Z</updated>
+    <summary>Merged public contribution. +14 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1887: fix(api): serve shadow reports from the configured runtime root</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1887</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2020"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +109 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2019: fix: reject benchmark downloads with no usable rows</title>
-    <id>https://github.com/JustVugg/colibri/pull/2019</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2019"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +80 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2017: fix(experiments): require exact hexadecimal commit and evidence identities</title>
-    <id>https://github.com/JustVugg/colibri/pull/2017</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2017"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +42 / -8 across 2 changed files.</summary>
   </entry>
 </feed>

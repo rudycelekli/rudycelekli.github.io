@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 35,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-10T17:57:16Z",
+      "deletions": 1,
+      "merged_at": "2026-10-16T16:07:28Z",
+      "number": 826,
+      "repository": "tt-a1i/archify",
+      "repository_url": "https://github.com/tt-a1i/archify",
+      "reviews": 1,
+      "title": "fix(site): preserve literal dollar tokens in artifact SEO copy",
+      "url": "https://github.com/tt-a1i/archify/pull/826"
+    },
+    {
+      "additions": 14,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-16T14:41:02Z",
+      "deletions": 3,
+      "merged_at": "2026-10-16T16:03:07Z",
+      "number": 903,
+      "repository": "Asymptote-Labs/agent-beacon",
+      "repository_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "reviews": 0,
+      "title": "fix(gitlink): respect wrapped directory changes in shell commands",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/903"
+    },
+    {
       "additions": 37,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -37373,7 +37405,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2334,
+  "record_count": 2336,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
