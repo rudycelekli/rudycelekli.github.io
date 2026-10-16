@@ -21,6 +21,20 @@
     <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
   </entry>
   <entry>
+    <title>HKUDS/Vibe-Trading #1884: fix(journal): emit strict JSON when a ratio is unbounded</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1884</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1884"/>
+    <updated>2026-10-16T15:31:31Z</updated>
+    <summary>Merged public contribution. +68 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1883: fix(financial-rigor): stop zero and negative references reading as agreement</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1883</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1883"/>
+    <updated>2026-10-16T15:31:31Z</updated>
+    <summary>Merged public contribution. +46 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
     <title>HKUDS/Vibe-Trading #1882: fix(pattern): report a flat top or bottom as one extremum</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1882</id>
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1882"/>
@@ -341,19 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2017"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +42 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #53: fix(index): read the IVF size under the index lock</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/53</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/53"/>
-    <updated>2026-10-16T12:58:26Z</updated>
-    <summary>Merged public contribution. +40 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #52: fix(index): replace an IVF vector's entry when its ID is added again</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/52</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/52"/>
-    <updated>2026-10-16T12:56:46Z</updated>
-    <summary>Merged public contribution. +118 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
