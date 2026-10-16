@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 6,
+      "created_at": "2026-10-16T19:29:51Z",
+      "deletions": 8,
+      "merged_at": "2026-10-16T21:13:14Z",
+      "number": 4418,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 3,
+      "title": "fix(learner): match glob triggers literally apart from *",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4418"
+    },
+    {
       "additions": 26,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -37453,7 +37469,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2339,
+  "record_count": 2340,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }

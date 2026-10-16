@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T20:46:46Z</updated>
+  <updated>2026-10-16T21:13:14Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4418: fix(learner): match glob triggers literally apart from *</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4418</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4418"/>
+    <updated>2026-10-16T21:13:14Z</updated>
+    <summary>Merged public contribution. +25 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4417: fix(doctor): ignore empty OMC_SKIP_HOOKS entries</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4417</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2062"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +121 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2060: fix(systemone): reject options without log probability scores</title>
-    <id>https://github.com/JustVugg/colibri/pull/2060</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2060"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
