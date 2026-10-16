@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,213**
+Records: **2,224**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3752: fix(tools): refuse special-file targets before reading or replacing them](https://github.com/zhayujie/CowAgent/pull/3752) | +111 / -1 across 4 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3751: fix(api): serialize equivalent default-agent conversation requests](https://github.com/zhayujie/CowAgent/pull/3751) | +106 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3750: fix(weixin): close rejected CDN media responses](https://github.com/zhayujie/CowAgent/pull/3750) | +136 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3749: fix(workspace): report failed project and session preference saves](https://github.com/zhayujie/CowAgent/pull/3749) | +113 / -8 across 3 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3747: fix(workspace): bind editor metadata to the content read](https://github.com/zhayujie/CowAgent/pull/3747) | +98 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3765: fix(slack): do not answer workspace notices as user messages](https://github.com/zhayujie/CowAgent/pull/3765) | +65 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3763: fix(linkai): match group admins by exact id, not substring](https://github.com/zhayujie/CowAgent/pull/3763) | +52 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3755: fix(knowledge): stage document replacements before publication](https://github.com/zhayujie/CowAgent/pull/3755) | +155 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3746: fix(web): revalidate regenerated workspace file responses](https://github.com/zhayujie/CowAgent/pull/3746) | +59 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3745: fix(scheduler): commit migrated reminders before retiring legacy stores](https://github.com/zhayujie/CowAgent/pull/3745) | +117 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3762: fix(dingtalk): keep group file uploads with the member who sent them](https://github.com/zhayujie/CowAgent/pull/3762) | +43 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4405: fix(frontmatter): read YAML block scalar values (>-, \|)](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405) | +301 / -14 across 3 files | 6 reviews · 1 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4409: fix(cli): reject non-integer values for wait and session numeric options](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409) | +183 / -21 across 4 files | 1 reviews · 2 comments |
 | 2026-10-16 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#444: fix(import): skip draw.io cells hidden with visible=0](https://github.com/cathrynlavery/diagram-design/pull/444) | +74 / -2 across 3 files | 1 reviews · 1 comments |

@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T03:49:40Z</updated>
+  <updated>2026-10-16T04:24:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3752: fix(tools): refuse special-file targets before reading or replacing them</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3752</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3752"/>
+    <updated>2026-10-16T04:24:41Z</updated>
+    <summary>Merged public contribution. +111 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3751: fix(api): serialize equivalent default-agent conversation requests</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3751</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3751"/>
+    <updated>2026-10-16T04:24:35Z</updated>
+    <summary>Merged public contribution. +106 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3750: fix(weixin): close rejected CDN media responses</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3750</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3750"/>
+    <updated>2026-10-16T04:24:29Z</updated>
+    <summary>Merged public contribution. +136 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3749: fix(workspace): report failed project and session preference saves</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3749</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3749"/>
+    <updated>2026-10-16T04:24:16Z</updated>
+    <summary>Merged public contribution. +113 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3747: fix(workspace): bind editor metadata to the content read</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3747</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3747"/>
+    <updated>2026-10-16T04:24:09Z</updated>
+    <summary>Merged public contribution. +98 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3765: fix(slack): do not answer workspace notices as user messages</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3765</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3765"/>
+    <updated>2026-10-16T04:24:02Z</updated>
+    <summary>Merged public contribution. +65 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3763: fix(linkai): match group admins by exact id, not substring</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3763</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3763"/>
+    <updated>2026-10-16T04:23:52Z</updated>
+    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3755: fix(knowledge): stage document replacements before publication</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3755</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3755"/>
+    <updated>2026-10-16T04:23:42Z</updated>
+    <summary>Merged public contribution. +155 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3746: fix(web): revalidate regenerated workspace file responses</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3746</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3746"/>
+    <updated>2026-10-16T04:23:36Z</updated>
+    <summary>Merged public contribution. +59 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3745: fix(scheduler): commit migrated reminders before retiring legacy stores</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3745</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3745"/>
+    <updated>2026-10-16T04:23:31Z</updated>
+    <summary>Merged public contribution. +117 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3762: fix(dingtalk): keep group file uploads with the member who sent them</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3762</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3762"/>
+    <updated>2026-10-16T04:23:25Z</updated>
+    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4405: fix(frontmatter): read YAML block scalar values (&gt;-, |)</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/tigerless-labs/autoharness/pull/264"/>
     <updated>2026-10-15T16:21:09Z</updated>
     <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #427: fix(containment): honor important inline declaration priority</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/427</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/427"/>
-    <updated>2026-10-15T16:17:56Z</updated>
-    <summary>Merged public contribution. +244 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #876: fix(claude): honor CLAUDE_CONFIG_DIR for settings, hooks, sessions and inventory</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/876</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/876"/>
-    <updated>2026-10-15T16:10:07Z</updated>
-    <summary>Merged public contribution. +321 / -39 across 24 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #878: fix(copilot): honor COPILOT_HOME for the session store</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/878</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/878"/>
-    <updated>2026-10-15T16:05:56Z</updated>
-    <summary>Merged public contribution. +66 / -10 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1042: fix(imagery): paginate raw CMR pages within the record budget</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1042</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1042"/>
-    <updated>2026-10-15T16:01:24Z</updated>
-    <summary>Merged public contribution. +125 / -9 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #880: fix(gemini): resolve user settings through GEMINI_CLI_HOME</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/880</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/880"/>
-    <updated>2026-10-15T15:49:37Z</updated>
-    <summary>Merged public contribution. +121 / -13 across 11 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1041: fix(imagery): require explicit Data-Present proof before decoding thumbnails</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1041</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1041"/>
-    <updated>2026-10-15T15:43:29Z</updated>
-    <summary>Merged public contribution. +39 / -8 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4388: fix: ignore malformed OMC_CONTEXT_GUARD_THRESHOLD in the context guard</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4388"/>
-    <updated>2026-10-15T15:34:49Z</updated>
-    <summary>Merged public contribution. +57 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #879: fix(cline): honor CLINE_DIR for the plugin, discovery, inventory and sessions</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/879</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/879"/>
-    <updated>2026-10-15T15:34:18Z</updated>
-    <summary>Merged public contribution. +163 / -24 across 13 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #877: fix(hooks): serialize the session state file across hook processes</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/877</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/877"/>
-    <updated>2026-10-15T15:31:46Z</updated>
-    <summary>Merged public contribution. +172 / -38 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1033: chore(ui): harden surface Tab cycling</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1033</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1033"/>
-    <updated>2026-10-15T15:27:25Z</updated>
-    <summary>Merged public contribution. +66 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #881: fix(cursorsession): stop skipping records after a compaction</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/881</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/881"/>
-    <updated>2026-10-15T15:18:04Z</updated>
-    <summary>Merged public contribution. +91 / -7 across 5 changed files.</summary>
   </entry>
 </feed>
