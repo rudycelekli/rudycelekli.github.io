@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T02:45:19Z</updated>
+  <updated>2026-10-16T03:15:42Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4409: fix(cli): reject non-integer values for wait and session numeric options</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409"/>
+    <updated>2026-10-16T03:15:42Z</updated>
+    <summary>Merged public contribution. +183 / -21 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #444: fix(import): skip draw.io cells hidden with visible=0</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/444</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/444"/>
+    <updated>2026-10-16T03:03:17Z</updated>
+    <summary>Merged public contribution. +74 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tt-a1i/archify #849: fix(intake): include all supported diagram types in issue forms</title>
     <id>https://github.com/tt-a1i/archify/pull/849</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1038"/>
     <updated>2026-10-15T15:10:35Z</updated>
     <summary>Merged public contribution. +64 / -17 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #882: fix(endpoint): compact an oversized event instead of failing the sync</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/882</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/882"/>
-    <updated>2026-10-15T15:01:44Z</updated>
-    <summary>Merged public contribution. +120 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1053: fix(test-execution): compare retry evidence by realpath so symlinked targets can clear</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1053</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1053"/>
-    <updated>2026-10-15T14:52:18Z</updated>
-    <summary>Merged public contribution. +65 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

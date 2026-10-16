@@ -8,10 +8,42 @@
   },
   "items": [
     {
+      "additions": 183,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 8,
+      "created_at": "2026-10-16T00:15:39Z",
+      "deletions": 21,
+      "merged_at": "2026-10-16T03:15:42Z",
+      "number": 4409,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 1,
+      "title": "fix(cli): reject non-integer values for wait and session numeric options",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409"
+    },
+    {
+      "additions": 74,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 6,
+      "created_at": "2026-10-16T00:05:35Z",
+      "deletions": 2,
+      "merged_at": "2026-10-16T03:03:17Z",
+      "number": 444,
+      "repository": "cathrynlavery/diagram-design",
+      "repository_url": "https://github.com/cathrynlavery/diagram-design",
+      "reviews": 1,
+      "title": "fix(import): skip draw.io cells hidden with visible=0",
+      "url": "https://github.com/cathrynlavery/diagram-design/pull/444"
+    },
+    {
       "additions": 22,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
-      "comments": 4,
+      "comments": 5,
       "commits": 1,
       "created_at": "2026-10-10T18:07:42Z",
       "deletions": 0,
@@ -27,7 +59,7 @@
       "additions": 10,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
-      "comments": 2,
+      "comments": 3,
       "commits": 2,
       "created_at": "2026-10-10T18:07:37Z",
       "deletions": 4,
@@ -35389,7 +35421,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2210,
+  "record_count": 2212,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
