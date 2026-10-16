@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T04:24:41Z</updated>
+  <updated>2026-10-16T04:45:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4408: fix(frontmatter): accept a leading UTF-8 BOM in skill, command and rule files</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408"/>
+    <updated>2026-10-16T04:45:38Z</updated>
+    <summary>Merged public contribution. +609 / -267 across 26 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3752: fix(tools): refuse special-file targets before reading or replacing them</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3752</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/814"/>
     <updated>2026-10-15T16:21:21Z</updated>
     <summary>Merged public contribution. +41 / -35 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #264: fix(guard): flag recursive rm in any flag order and pipes into sudo shells</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/264</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/264"/>
-    <updated>2026-10-15T16:21:09Z</updated>
-    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 609,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 26,
+      "comments": 1,
+      "commits": 14,
+      "created_at": "2026-10-16T00:11:16Z",
+      "deletions": 267,
+      "merged_at": "2026-10-16T04:45:38Z",
+      "number": 4408,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 7,
+      "title": "fix(frontmatter): accept a leading UTF-8 BOM in skill, command and rule files",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408"
+    },
+    {
       "additions": 111,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -35613,7 +35629,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2224,
+  "record_count": 2225,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
