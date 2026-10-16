@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,225**
+Records: **2,229**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1054: fix(coverage): resolve relative per-file coverage keys against the project root](https://github.com/proffesor-for-testing/agentic-qe/pull/1054) | +45 / -6 across 4 files | 2 reviews · 0 comments |
+| 2026-10-16 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1085: fix(docs): render nested lists and wrapped list items](https://github.com/openclaw/Peekaboo/pull/1085) | +100 / -9 across 2 files | 1 reviews · 4 comments |
+| 2026-10-16 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1086: fix(docs): keep balanced parentheses inside link destinations](https://github.com/openclaw/Peekaboo/pull/1086) | +17 / -1 across 2 files | 0 reviews · 4 comments |
+| 2026-10-16 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1084: fix(docs): strip fence indentation from code lines](https://github.com/openclaw/Peekaboo/pull/1084) | +35 / -6 across 2 files | 0 reviews · 4 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4408: fix(frontmatter): accept a leading UTF-8 BOM in skill, command and rule files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408) | +609 / -267 across 26 files | 7 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3752: fix(tools): refuse special-file targets before reading or replacing them](https://github.com/zhayujie/CowAgent/pull/3752) | +111 / -1 across 4 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3751: fix(api): serialize equivalent default-agent conversation requests](https://github.com/zhayujie/CowAgent/pull/3751) | +106 / -1 across 2 files | 0 reviews · 1 comments |

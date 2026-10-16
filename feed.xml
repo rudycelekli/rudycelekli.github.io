@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T04:45:38Z</updated>
+  <updated>2026-10-16T06:43:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1054: fix(coverage): resolve relative per-file coverage keys against the project root</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1054</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1054"/>
+    <updated>2026-10-16T06:43:28Z</updated>
+    <summary>Merged public contribution. +45 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1085: fix(docs): render nested lists and wrapped list items</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1085</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1085"/>
+    <updated>2026-10-16T06:11:37Z</updated>
+    <summary>Merged public contribution. +100 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1086: fix(docs): keep balanced parentheses inside link destinations</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1086</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1086"/>
+    <updated>2026-10-16T06:11:24Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1084: fix(docs): strip fence indentation from code lines</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1084</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1084"/>
+    <updated>2026-10-16T06:11:11Z</updated>
+    <summary>Merged public contribution. +35 / -6 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4408: fix(frontmatter): accept a leading UTF-8 BOM in skill, command and rule files</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/tigerless-labs/cost-xray/pull/36"/>
     <updated>2026-10-15T16:29:58Z</updated>
     <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #44: fix(analyze): ignore nonpositive context window overrides</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/44</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/44"/>
-    <updated>2026-10-15T16:28:01Z</updated>
-    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #239: fix: resolve relative redaction rule paths before caching</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/239</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/239"/>
-    <updated>2026-10-15T16:22:50Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #266: fix(validate): do not treat a URL to a .py file as a path escaping the skill dir</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/266</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/266"/>
-    <updated>2026-10-15T16:21:34Z</updated>
-    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #814: fix(free-tools): source case examples and stop rewarding unsupported rates</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/814</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/814"/>
-    <updated>2026-10-15T16:21:21Z</updated>
-    <summary>Merged public contribution. +41 / -35 across 7 changed files.</summary>
   </entry>
 </feed>
