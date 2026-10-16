@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 59,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-13T18:20:28Z",
+      "deletions": 0,
+      "merged_at": "2026-10-16T10:09:55Z",
+      "number": 1114,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(bikeshare): preserve unknown availability counts",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1114"
+    },
+    {
       "additions": 55,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -36381,7 +36397,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2272,
+  "record_count": 2273,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
