@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-16T18:53:18Z",
+      "deletions": 1,
+      "merged_at": "2026-10-16T19:22:07Z",
+      "number": 5712,
+      "repository": "heygen-com/hyperframes",
+      "repository_url": "https://github.com/heygen-com/hyperframes",
+      "reviews": 1,
+      "title": "perf(lint): strip stylesheet comments once per canvas zoom scan",
+      "url": "https://github.com/heygen-com/hyperframes/pull/5712"
+    },
+    {
       "additions": 35,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -37405,7 +37421,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2336,
+  "record_count": 2337,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
