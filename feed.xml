@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T10:09:55Z</updated>
+  <updated>2026-10-16T12:58:26Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liliang-cn/cortexdb #53: fix(index): read the IVF size under the index lock</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/53</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/53"/>
+    <updated>2026-10-16T12:58:26Z</updated>
+    <summary>Merged public contribution. +40 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #52: fix(index): replace an IVF vector's entry when its ID is added again</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/52</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/52"/>
+    <updated>2026-10-16T12:56:46Z</updated>
+    <summary>Merged public contribution. +118 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #51: fix(index): load HNSW and IVF snapshots atomically and reject inconsistent ones</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/51</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/51"/>
+    <updated>2026-10-16T12:54:57Z</updated>
+    <summary>Merged public contribution. +204 / -19 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #50: fix(index): replace an LSH vector's bucket entries when its ID is inserted again</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/50</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/50"/>
+    <updated>2026-10-16T12:53:27Z</updated>
+    <summary>Merged public contribution. +74 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #49: fix(quantization): check queries and codes before scoring with a product quantizer</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/49</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/49"/>
+    <updated>2026-10-16T12:51:57Z</updated>
+    <summary>Merged public contribution. +89 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #48: fix(quantization): validate product quantizer sizes and training dimensions</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/48</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/48"/>
+    <updated>2026-10-16T12:51:02Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #47: fix(index): let HNSW re-insert an ID that was deleted</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/47</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/47"/>
+    <updated>2026-10-16T12:49:35Z</updated>
+    <summary>Merged public contribution. +157 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #46: fix(index): return no results for non-positive k instead of panicking</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/46</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/46"/>
+    <updated>2026-10-16T12:48:12Z</updated>
+    <summary>Merged public contribution. +77 / -3 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #45: fix(index): keep IVF inverted lists aligned after Delete</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/45</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/45"/>
+    <updated>2026-10-16T12:46:50Z</updated>
+    <summary>Merged public contribution. +46 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #44: fix(quantization): validate scalar and binary quantizer state on Load</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/44</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/44"/>
+    <updated>2026-10-16T12:46:17Z</updated>
+    <summary>Merged public contribution. +118 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #43: fix(quantization): reject short training vectors before seeding scalar ranges</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/43</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/43"/>
+    <updated>2026-10-16T12:45:43Z</updated>
+    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1114: fix(bikeshare): preserve unknown availability counts</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1114</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3700"/>
     <updated>2026-10-16T07:53:08Z</updated>
     <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3720: fix(voice): reject non-string transcription payloads</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3720</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3720"/>
-    <updated>2026-10-16T07:53:01Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3708: fix(voice): normalize OpenAI audio endpoint trailing slashes</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3708</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3708"/>
-    <updated>2026-10-16T07:52:54Z</updated>
-    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/leantoken #647: fix(bench): enforce MCP readiness response deadline</title>
-    <id>https://github.com/morluto/leantoken/pull/647</id>
-    <link href="https://github.com/morluto/leantoken/pull/647"/>
-    <updated>2026-10-16T07:06:44Z</updated>
-    <summary>Merged public contribution. +326 / -20 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/leantoken #646: fix(bench): reject nonfinite regression thresholds</title>
-    <id>https://github.com/morluto/leantoken/pull/646</id>
-    <link href="https://github.com/morluto/leantoken/pull/646"/>
-    <updated>2026-10-16T07:02:39Z</updated>
-    <summary>Merged public contribution. +33 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/leantoken #645: fix(npm): forward signals while the native child is running</title>
-    <id>https://github.com/morluto/leantoken/pull/645</id>
-    <link href="https://github.com/morluto/leantoken/pull/645"/>
-    <updated>2026-10-16T06:56:49Z</updated>
-    <summary>Merged public contribution. +71 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1054: fix(coverage): resolve relative per-file coverage keys against the project root</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1054</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1054"/>
-    <updated>2026-10-16T06:43:28Z</updated>
-    <summary>Merged public contribution. +45 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1085: fix(docs): render nested lists and wrapped list items</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1085</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1085"/>
-    <updated>2026-10-16T06:11:37Z</updated>
-    <summary>Merged public contribution. +100 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1086: fix(docs): keep balanced parentheses inside link destinations</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1086</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1086"/>
-    <updated>2026-10-16T06:11:24Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1084: fix(docs): strip fence indentation from code lines</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1084</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1084"/>
-    <updated>2026-10-16T06:11:11Z</updated>
-    <summary>Merged public contribution. +35 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4408: fix(frontmatter): accept a leading UTF-8 BOM in skill, command and rule files</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4408"/>
-    <updated>2026-10-16T04:45:38Z</updated>
-    <summary>Merged public contribution. +609 / -267 across 26 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3752: fix(tools): refuse special-file targets before reading or replacing them</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3752</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3752"/>
-    <updated>2026-10-16T04:24:41Z</updated>
-    <summary>Merged public contribution. +111 / -1 across 4 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,273**
+Records: **2,284**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#53: fix(index): read the IVF size under the index lock](https://github.com/liliang-cn/cortexdb/pull/53) | +40 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#52: fix(index): replace an IVF vector's entry when its ID is added again](https://github.com/liliang-cn/cortexdb/pull/52) | +118 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#51: fix(index): load HNSW and IVF snapshots atomically and reject inconsistent ones](https://github.com/liliang-cn/cortexdb/pull/51) | +204 / -19 across 3 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#50: fix(index): replace an LSH vector's bucket entries when its ID is inserted again](https://github.com/liliang-cn/cortexdb/pull/50) | +74 / -12 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#49: fix(quantization): check queries and codes before scoring with a product quantizer](https://github.com/liliang-cn/cortexdb/pull/49) | +89 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#48: fix(quantization): validate product quantizer sizes and training dimensions](https://github.com/liliang-cn/cortexdb/pull/48) | +41 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#47: fix(index): let HNSW re-insert an ID that was deleted](https://github.com/liliang-cn/cortexdb/pull/47) | +157 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#46: fix(index): return no results for non-positive k instead of panicking](https://github.com/liliang-cn/cortexdb/pull/46) | +77 / -3 across 5 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#45: fix(index): keep IVF inverted lists aligned after Delete](https://github.com/liliang-cn/cortexdb/pull/45) | +46 / -7 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#44: fix(quantization): validate scalar and binary quantizer state on Load](https://github.com/liliang-cn/cortexdb/pull/44) | +118 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#43: fix(quantization): reject short training vectors before seeding scalar ranges](https://github.com/liliang-cn/cortexdb/pull/43) | +35 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1114: fix(bikeshare): preserve unknown availability counts](https://github.com/bilawalsidhu/gods-eye-view/pull/1114) | +59 / -0 across 4 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3724: fix(browser): scope snapshots to the requested selector](https://github.com/zhayujie/CowAgent/pull/3724) | +55 / -5 across 3 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3712: fix(vision): fall back after an empty completion](https://github.com/zhayujie/CowAgent/pull/3712) | +36 / -0 across 2 files | 0 reviews · 1 comments |
