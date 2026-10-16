@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 2,
+      "created_at": "2026-10-16T00:58:52Z",
+      "deletions": 7,
+      "merged_at": "2026-10-16T01:49:59Z",
+      "number": 4410,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(wiki): accept a leading UTF-8 BOM in wiki page frontmatter",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410"
+    },
+    {
       "additions": 23,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -35293,7 +35309,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2204,
+  "record_count": 2205,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }

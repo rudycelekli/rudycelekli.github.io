@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,204**
+Records: **2,205**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4410: fix(wiki): accept a leading UTF-8 BOM in wiki page frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410) | +25 / -7 across 3 files | 0 reviews · 4 comments |
 | 2026-10-16 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#446: fix(import): accept whitespace before a Mermaid pipe label](https://github.com/cathrynlavery/diagram-design/pull/446) | +23 / -3 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4406: fix(rules-injector): read block lists indented level with their key](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4406) | +29 / -8 across 3 files | 1 reviews · 2 comments |
 | 2026-10-16 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#59: fix: resolve a task by its exact title before partial matches](https://github.com/rociiu/talorys/pull/59) | +33 / -1 across 2 files | 0 reviews · 1 comments |

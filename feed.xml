@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T01:20:27Z</updated>
+  <updated>2026-10-16T01:49:59Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4410: fix(wiki): accept a leading UTF-8 BOM in wiki page frontmatter</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410"/>
+    <updated>2026-10-16T01:49:59Z</updated>
+    <summary>Merged public contribution. +25 / -7 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #446: fix(import): accept whitespace before a Mermaid pipe label</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/446</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1024"/>
     <updated>2026-10-15T14:15:55Z</updated>
     <summary>Merged public contribution. +53 / -9 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #74: turn-build: reject star polygons as non-convex prisms</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/74</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/74"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +36 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
