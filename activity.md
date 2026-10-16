@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,208**
+Records: **2,210**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#849: fix(intake): include all supported diagram types in issue forms](https://github.com/tt-a1i/archify/pull/849) | +22 / -0 across 3 files | 1 reviews · 4 comments |
+| 2026-10-16 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#847: fix(hermes): describe all supported diagram modes in discovery](https://github.com/tt-a1i/archify/pull/847) | +10 / -4 across 2 files | 1 reviews · 2 comments |
 | 2026-10-16 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#445: fix(import): read Mermaid invisible links without dropping their nodes](https://github.com/cathrynlavery/diagram-design/pull/445) | +52 / -3 across 3 files | 1 reviews · 1 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4411: fix(autoresearch): keep quotes inside an unquoted sandbox.md value](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4411) | +28 / -10 across 3 files | 4 reviews · 2 comments |
 | 2026-10-16 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#447: fix(mermaid): retain single-line state notes](https://github.com/cathrynlavery/diagram-design/pull/447) | +14 / -3 across 3 files | 1 reviews · 1 comments |
