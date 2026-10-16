@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,268**
+Records: **2,269**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3705: fix(search): require explicit anonymous provider opt-in](https://github.com/zhayujie/CowAgent/pull/3705) | +49 / -4 across 3 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3710: fix(voice): reject MiniMax audio streams that finish with an API error](https://github.com/zhayujie/CowAgent/pull/3710) | +37 / -14 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3690: fix(skills): normalize metadata boolean flags](https://github.com/zhayujie/CowAgent/pull/3690) | +37 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3687: fix(cli): retain process IDs when signal permission is denied](https://github.com/zhayujie/CowAgent/pull/3687) | +43 / -1 across 2 files | 0 reviews · 1 comments |

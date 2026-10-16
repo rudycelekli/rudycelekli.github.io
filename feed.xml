@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T08:37:37Z</updated>
+  <updated>2026-10-16T08:42:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3705: fix(search): require explicit anonymous provider opt-in</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3705</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3705"/>
+    <updated>2026-10-16T08:42:09Z</updated>
+    <summary>Merged public contribution. +49 / -4 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3710: fix(voice): reject MiniMax audio streams that finish with an API error</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3710</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3747"/>
     <updated>2026-10-16T04:24:09Z</updated>
     <summary>Merged public contribution. +98 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3765: fix(slack): do not answer workspace notices as user messages</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3765</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3765"/>
-    <updated>2026-10-16T04:24:02Z</updated>
-    <summary>Merged public contribution. +65 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

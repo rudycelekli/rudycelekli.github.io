@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 49,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-12T13:01:21Z",
+      "deletions": 4,
+      "merged_at": "2026-10-16T08:42:09Z",
+      "number": 3705,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(search): require explicit anonymous provider opt-in",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3705"
+    },
+    {
       "additions": 37,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -36317,7 +36333,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2268,
+  "record_count": 2269,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
