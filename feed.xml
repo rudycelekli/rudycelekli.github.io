@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T07:56:06Z</updated>
+  <updated>2026-10-16T08:37:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3710: fix(voice): reject MiniMax audio streams that finish with an API error</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3710</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3710"/>
+    <updated>2026-10-16T08:37:37Z</updated>
+    <summary>Merged public contribution. +37 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3690: fix(skills): normalize metadata boolean flags</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3690</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3690"/>
+    <updated>2026-10-16T08:37:28Z</updated>
+    <summary>Merged public contribution. +37 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3687: fix(cli): retain process IDs when signal permission is denied</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3687</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3687"/>
+    <updated>2026-10-16T08:36:59Z</updated>
+    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3702: fix(openai): surface failed Responses objects as provider errors</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3702</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3702"/>
+    <updated>2026-10-16T08:36:23Z</updated>
+    <summary>Merged public contribution. +59 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3764: fix(discord): refuse oversized inbound attachments before downloading</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3764</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3764"/>
+    <updated>2026-10-16T08:35:33Z</updated>
+    <summary>Merged public contribution. +77 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3753: fix(skills): preserve installed skills during replacement failures</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3753</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3753"/>
+    <updated>2026-10-16T08:35:10Z</updated>
+    <summary>Merged public contribution. +316 / -49 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3713: fix(mcp): ignore malformed persisted OAuth records</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3713</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3765"/>
     <updated>2026-10-16T04:24:02Z</updated>
     <summary>Merged public contribution. +65 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3763: fix(linkai): match group admins by exact id, not substring</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3763</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3763"/>
-    <updated>2026-10-16T04:23:52Z</updated>
-    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3755: fix(knowledge): stage document replacements before publication</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3755</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3755"/>
-    <updated>2026-10-16T04:23:42Z</updated>
-    <summary>Merged public contribution. +155 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3746: fix(web): revalidate regenerated workspace file responses</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3746</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3746"/>
-    <updated>2026-10-16T04:23:36Z</updated>
-    <summary>Merged public contribution. +59 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3745: fix(scheduler): commit migrated reminders before retiring legacy stores</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3745</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3745"/>
-    <updated>2026-10-16T04:23:31Z</updated>
-    <summary>Merged public contribution. +117 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3762: fix(dingtalk): keep group file uploads with the member who sent them</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3762</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3762"/>
-    <updated>2026-10-16T04:23:25Z</updated>
-    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4405: fix(frontmatter): read YAML block scalar values (&gt;-, |)</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405"/>
-    <updated>2026-10-16T03:49:40Z</updated>
-    <summary>Merged public contribution. +301 / -14 across 3 changed files.</summary>
   </entry>
 </feed>

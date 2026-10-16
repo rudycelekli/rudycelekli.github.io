@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,262**
+Records: **2,268**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3710: fix(voice): reject MiniMax audio streams that finish with an API error](https://github.com/zhayujie/CowAgent/pull/3710) | +37 / -14 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3690: fix(skills): normalize metadata boolean flags](https://github.com/zhayujie/CowAgent/pull/3690) | +37 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3687: fix(cli): retain process IDs when signal permission is denied](https://github.com/zhayujie/CowAgent/pull/3687) | +43 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3702: fix(openai): surface failed Responses objects as provider errors](https://github.com/zhayujie/CowAgent/pull/3702) | +59 / -1 across 3 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3764: fix(discord): refuse oversized inbound attachments before downloading](https://github.com/zhayujie/CowAgent/pull/3764) | +77 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3753: fix(skills): preserve installed skills during replacement failures](https://github.com/zhayujie/CowAgent/pull/3753) | +316 / -49 across 6 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3713: fix(mcp): ignore malformed persisted OAuth records](https://github.com/zhayujie/CowAgent/pull/3713) | +24 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3723: fix(config): tolerate concurrent app data directory creation](https://github.com/zhayujie/CowAgent/pull/3723) | +36 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-16 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3711: fix(skills): normalize list-based names before cataloging](https://github.com/zhayujie/CowAgent/pull/3711) | +15 / -1 across 2 files | 0 reviews · 1 comments |
