@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 66,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 5,
+      "created_at": "2026-10-13T18:26:41Z",
+      "deletions": 0,
+      "merged_at": "2026-10-16T21:53:51Z",
+      "number": 1115,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(tools): exclude unknown altitude from requested aircraft bands",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1115"
+    },
+    {
+      "additions": 61,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 9,
+      "created_at": "2026-10-16T19:24:04Z",
+      "deletions": 18,
+      "merged_at": "2026-10-16T21:43:44Z",
+      "number": 4416,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 1,
+      "title": "fix(factcheck): match strict project globs literally",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4416"
+    },
+    {
       "additions": 25,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -37469,7 +37501,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2340,
+  "record_count": 2342,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }
