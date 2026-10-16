@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 301,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 19,
+      "created_at": "2026-10-16T00:07:37Z",
+      "deletions": 14,
+      "merged_at": "2026-10-16T03:49:40Z",
+      "number": 4405,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 6,
+      "title": "fix(frontmatter): read YAML block scalar values (>-, |)",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405"
+    },
+    {
       "additions": 183,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -35421,7 +35437,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2212,
+  "record_count": 2213,
   "schema_version": 1,
   "updated_at_utc": "2026-10-16"
 }

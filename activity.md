@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,212**
+Records: **2,213**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4405: fix(frontmatter): read YAML block scalar values (>-, \|)](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405) | +301 / -14 across 3 files | 6 reviews · 1 comments |
 | 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4409: fix(cli): reject non-integer values for wait and session numeric options](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409) | +183 / -21 across 4 files | 1 reviews · 2 comments |
 | 2026-10-16 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#444: fix(import): skip draw.io cells hidden with visible=0](https://github.com/cathrynlavery/diagram-design/pull/444) | +74 / -2 across 3 files | 1 reviews · 1 comments |
 | 2026-10-16 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#849: fix(intake): include all supported diagram types in issue forms](https://github.com/tt-a1i/archify/pull/849) | +22 / -0 across 3 files | 1 reviews · 5 comments |
