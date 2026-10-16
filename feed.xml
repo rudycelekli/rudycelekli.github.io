@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T07:02:39Z</updated>
+  <updated>2026-10-16T07:06:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/leantoken #647: fix(bench): enforce MCP readiness response deadline</title>
+    <id>https://github.com/morluto/leantoken/pull/647</id>
+    <link href="https://github.com/morluto/leantoken/pull/647"/>
+    <updated>2026-10-16T07:06:44Z</updated>
+    <summary>Merged public contribution. +326 / -20 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/leantoken #646: fix(bench): reject nonfinite regression thresholds</title>
     <id>https://github.com/morluto/leantoken/pull/646</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4393"/>
     <updated>2026-10-15T16:51:43Z</updated>
     <summary>Merged public contribution. +297 / -51 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #426: fix(export): preserve comment-like text in CSS strings</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/426</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/426"/>
-    <updated>2026-10-15T16:33:21Z</updated>
-    <summary>Merged public contribution. +42 / -7 across 4 changed files.</summary>
   </entry>
 </feed>
