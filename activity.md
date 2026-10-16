@@ -1,13 +1,16 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-15 UTC**
+Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,199**
+Records: **2,202**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#59: fix: resolve a task by its exact title before partial matches](https://github.com/rociiu/talorys/pull/59) | +33 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#58: fix: treat a malformed session cookie as signed out](https://github.com/rociiu/talorys/pull/58) | +18 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-16 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#54: fix: describe weekly schedules without repeated weekdays](https://github.com/rociiu/talorys/pull/54) | +16 / -3 across 2 files | 0 reviews · 1 comments |
 | 2026-10-15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4403: fix(rules-injector): support {a,b} brace alternation in rule globs](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403) | +315 / -43 across 6 files | 5 reviews · 2 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1316: fix(daemon): read a CRLF SPEC.md's frontmatter intent](https://github.com/mvschwarz/openrig/pull/1316) | +15 / -2 across 2 files | 1 reviews · 3 comments |
 | 2026-10-15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1315: fix(scope): parse CRLF checkbox blocks in the logical-checkbox twin](https://github.com/mvschwarz/openrig/pull/1315) | +54 / -2 across 4 files | 1 reviews · 3 comments |

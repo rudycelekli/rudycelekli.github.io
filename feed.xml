@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-15T22:52:36Z</updated>
+  <updated>2026-10-16T00:14:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>rociiu/talorys #59: fix: resolve a task by its exact title before partial matches</title>
+    <id>https://github.com/rociiu/talorys/pull/59</id>
+    <link href="https://github.com/rociiu/talorys/pull/59"/>
+    <updated>2026-10-16T00:14:07Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #58: fix: treat a malformed session cookie as signed out</title>
+    <id>https://github.com/rociiu/talorys/pull/58</id>
+    <link href="https://github.com/rociiu/talorys/pull/58"/>
+    <updated>2026-10-16T00:13:59Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #54: fix: describe weekly schedules without repeated weekdays</title>
+    <id>https://github.com/rociiu/talorys/pull/54</id>
+    <link href="https://github.com/rociiu/talorys/pull/54"/>
+    <updated>2026-10-16T00:13:53Z</updated>
+    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4403: fix(rules-injector): support {a,b} brace alternation in rule globs</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/wheresryan22/anatomy/pull/72"/>
     <updated>2026-10-15T14:14:34Z</updated>
     <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #69: capture.mjs: reject option values it cannot use</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/69</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/69"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +35 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #68: publish.mjs: keep the existing figure when a --force publish fails</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/68</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/68"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +105 / -78 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>wheresryan22/anatomy #67: drive.mjs: reject orbit and sheet arguments that yield no frames</title>
-    <id>https://github.com/wheresryan22/anatomy/pull/67</id>
-    <link href="https://github.com/wheresryan22/anatomy/pull/67"/>
-    <updated>2026-10-15T14:14:34Z</updated>
-    <summary>Merged public contribution. +37 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
