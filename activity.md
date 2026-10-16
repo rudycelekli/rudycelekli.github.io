@@ -4,10 +4,18 @@ Evidence timestamp: **2026-10-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,313**
+Records: **2,321**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-16 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4407: fix(rules-injector): ignore trailing YAML comments in rule frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407) | +76 / -7 across 3 files | 39 reviews · 2 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1070: fix(bench): compare run exit statuses alongside test outcomes](https://github.com/tester-army/e2e/pull/1070) | +24 / -2 across 3 files | 2 reviews · 1 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1071: fix(bench): report instability independently on both builds](https://github.com/tester-army/e2e/pull/1071) | +17 / -2 across 2 files | 2 reviews · 1 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#897: fix(eas): validate session minute limits before acquiring devices](https://github.com/tester-army/e2e/pull/897) | +33 / -3 across 4 files | 1 reviews · 7 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1038: fix(github): distinguish API throttling from token permissions](https://github.com/tester-army/e2e/pull/1038) | +50 / -4 across 4 files | 3 reviews · 1 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1035: fix(decision): account for responses received after cancellation](https://github.com/tester-army/e2e/pull/1035) | +38 / -1 across 3 files | 3 reviews · 1 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1029: fix(report): align code frames to terminal display columns](https://github.com/tester-army/e2e/pull/1029) | +67 / -3 across 3 files | 2 reviews · 4 comments |
+| 2026-10-16 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1027: fix(report): keep multiline live titles on one terminal row](https://github.com/tester-army/e2e/pull/1027) | +30 / -1 across 3 files | 2 reviews · 3 comments |
 | 2026-10-16 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2010: fix(schema): bound finite numbers before integer conversion](https://github.com/JustVugg/colibri/pull/2010) | +59 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-16 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2067: fix: reject incomplete diagnostic smoke runs](https://github.com/JustVugg/colibri/pull/2067) | +100 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-16 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2022: fix: validate decision-model weight payloads before RAM estimates](https://github.com/JustVugg/colibri/pull/2022) | +113 / -13 across 2 files | 0 reviews · 0 comments |
