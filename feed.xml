@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T01:49:59Z</updated>
+  <updated>2026-10-16T02:36:12Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>cathrynlavery/diagram-design #445: fix(import): read Mermaid invisible links without dropping their nodes</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/445</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/445"/>
+    <updated>2026-10-16T02:36:12Z</updated>
+    <summary>Merged public contribution. +52 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4411: fix(autoresearch): keep quotes inside an unquoted sandbox.md value</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4411</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4411"/>
+    <updated>2026-10-16T02:20:02Z</updated>
+    <summary>Merged public contribution. +28 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #447: fix(mermaid): retain single-line state notes</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/447</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/447"/>
+    <updated>2026-10-16T02:12:45Z</updated>
+    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4410: fix(wiki): accept a leading UTF-8 BOM in wiki page frontmatter</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4392"/>
     <updated>2026-10-15T14:47:31Z</updated>
     <summary>Merged public contribution. +29 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1043: fix(firms): reject impossible acquisition days in CSV parsing</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1043</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1043"/>
-    <updated>2026-10-15T14:38:44Z</updated>
-    <summary>Merged public contribution. +44 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1031: fix(tools): reject already-cancelled queries before execution</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1031</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1031"/>
-    <updated>2026-10-15T14:25:28Z</updated>
-    <summary>Merged public contribution. +57 / -13 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1024: fix(services): retry malformed capability probes after the existing backoff</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1024</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1024"/>
-    <updated>2026-10-15T14:15:55Z</updated>
-    <summary>Merged public contribution. +53 / -9 across 5 changed files.</summary>
   </entry>
 </feed>
