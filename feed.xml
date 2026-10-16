@@ -4,8 +4,218 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T07:06:44Z</updated>
+  <updated>2026-10-16T07:56:06Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3713: fix(mcp): ignore malformed persisted OAuth records</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3713</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3713"/>
+    <updated>2026-10-16T07:56:06Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3723: fix(config): tolerate concurrent app data directory creation</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3723</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3723"/>
+    <updated>2026-10-16T07:55:50Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3711: fix(skills): normalize list-based names before cataloging</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3711</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3711"/>
+    <updated>2026-10-16T07:55:38Z</updated>
+    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3707: fix(config): render subscription messages with no chat prefixes</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3707</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3707"/>
+    <updated>2026-10-16T07:55:33Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3698: fix(skills): isolate malformed persisted config entries</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3698</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3698"/>
+    <updated>2026-10-16T07:55:27Z</updated>
+    <summary>Merged public contribution. +24 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3696: fix(skills): honor model visibility in setup hints</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3696</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3696"/>
+    <updated>2026-10-16T07:55:21Z</updated>
+    <summary>Merged public contribution. +19 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3695: fix(skills): validate custom provider credential types</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3695</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3695"/>
+    <updated>2026-10-16T07:55:16Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3686: fix(cli): ignore JSON configuration with a non-object root</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3686</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3686"/>
+    <updated>2026-10-16T07:55:10Z</updated>
+    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3685: fix(skills): support UTF-8 BOM in skills and configuration</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3685</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3685"/>
+    <updated>2026-10-16T07:55:03Z</updated>
+    <summary>Merged public contribution. +73 / -5 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3734: fix(bridge): retry finished steps after transient history write failures</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3734</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3734"/>
+    <updated>2026-10-16T07:54:57Z</updated>
+    <summary>Merged public contribution. +71 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3733: fix(web): scope request cancellation to the resolved agent</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3733</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3733"/>
+    <updated>2026-10-16T07:54:51Z</updated>
+    <summary>Merged public contribution. +52 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3730: fix(agent): avoid overwriting profiles during concurrent initialization</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3730</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3730"/>
+    <updated>2026-10-16T07:54:44Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3727: fix(browser): save screenshots in the current project</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3727</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3727"/>
+    <updated>2026-10-16T07:54:38Z</updated>
+    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3725: fix(browser): require explicit text before filling inputs</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3725</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3725"/>
+    <updated>2026-10-16T07:54:33Z</updated>
+    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3722: fix(agent): keep onboarding pending for empty profile files</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3722</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3722"/>
+    <updated>2026-10-16T07:54:26Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3719: fix(web): resume live log streaming after file truncation</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3719</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3719"/>
+    <updated>2026-10-16T07:54:20Z</updated>
+    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3717: fix(web): serialize log replay failures as valid SSE JSON</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3717</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3717"/>
+    <updated>2026-10-16T07:54:15Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3716: fix(telegram): match complete bot usernames in group mentions</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3716</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3716"/>
+    <updated>2026-10-16T07:54:09Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3715: fix(edit): preserve carriage-return line separators</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3715</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3715"/>
+    <updated>2026-10-16T07:54:03Z</updated>
+    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3689: fix(send): refuse directories and special files</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3689</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3689"/>
+    <updated>2026-10-16T07:53:57Z</updated>
+    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3726: fix(vision): match compressed image bytes and MIME type</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3726</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3726"/>
+    <updated>2026-10-16T07:53:50Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3706: fix(openai): retain image endpoint overrides during retries</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3706</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3706"/>
+    <updated>2026-10-16T07:53:44Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3704: fix(models): detach capability lists returned by catalog readers</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3704</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3704"/>
+    <updated>2026-10-16T07:53:37Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3693: fix(models): close native provider streaming responses on every exit</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3693</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3693"/>
+    <updated>2026-10-16T07:53:31Z</updated>
+    <summary>Merged public contribution. +87 / -0 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3692: fix(openai): report truncated Responses tool arguments as length</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3692</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3692"/>
+    <updated>2026-10-16T07:53:25Z</updated>
+    <summary>Merged public contribution. +36 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3691: fix(openai): preserve Responses refusal text</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3691</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3691"/>
+    <updated>2026-10-16T07:53:19Z</updated>
+    <summary>Merged public contribution. +35 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3688: fix(voice): close MiniMax synthesis responses on every exit</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3688</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3688"/>
+    <updated>2026-10-16T07:53:13Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3700: fix(voice): return error replies for unreadable Google ASR input</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3700</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3700"/>
+    <updated>2026-10-16T07:53:08Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3720: fix(voice): reject non-string transcription payloads</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3720</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3720"/>
+    <updated>2026-10-16T07:53:01Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3708: fix(voice): normalize OpenAI audio endpoint trailing slashes</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3708</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3708"/>
+    <updated>2026-10-16T07:52:54Z</updated>
+    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/leantoken #647: fix(bench): enforce MCP readiness response deadline</title>
     <id>https://github.com/morluto/leantoken/pull/647</id>
@@ -145,215 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4405"/>
     <updated>2026-10-16T03:49:40Z</updated>
     <summary>Merged public contribution. +301 / -14 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4409: fix(cli): reject non-integer values for wait and session numeric options</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4409"/>
-    <updated>2026-10-16T03:15:42Z</updated>
-    <summary>Merged public contribution. +183 / -21 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #444: fix(import): skip draw.io cells hidden with visible=0</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/444</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/444"/>
-    <updated>2026-10-16T03:03:17Z</updated>
-    <summary>Merged public contribution. +74 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #849: fix(intake): include all supported diagram types in issue forms</title>
-    <id>https://github.com/tt-a1i/archify/pull/849</id>
-    <link href="https://github.com/tt-a1i/archify/pull/849"/>
-    <updated>2026-10-16T02:45:19Z</updated>
-    <summary>Merged public contribution. +22 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #847: fix(hermes): describe all supported diagram modes in discovery</title>
-    <id>https://github.com/tt-a1i/archify/pull/847</id>
-    <link href="https://github.com/tt-a1i/archify/pull/847"/>
-    <updated>2026-10-16T02:45:19Z</updated>
-    <summary>Merged public contribution. +10 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #445: fix(import): read Mermaid invisible links without dropping their nodes</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/445</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/445"/>
-    <updated>2026-10-16T02:36:12Z</updated>
-    <summary>Merged public contribution. +52 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4411: fix(autoresearch): keep quotes inside an unquoted sandbox.md value</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4411</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4411"/>
-    <updated>2026-10-16T02:20:02Z</updated>
-    <summary>Merged public contribution. +28 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #447: fix(mermaid): retain single-line state notes</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/447</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/447"/>
-    <updated>2026-10-16T02:12:45Z</updated>
-    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4410: fix(wiki): accept a leading UTF-8 BOM in wiki page frontmatter</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4410"/>
-    <updated>2026-10-16T01:49:59Z</updated>
-    <summary>Merged public contribution. +25 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #446: fix(import): accept whitespace before a Mermaid pipe label</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/446</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/446"/>
-    <updated>2026-10-16T01:20:27Z</updated>
-    <summary>Merged public contribution. +23 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4406: fix(rules-injector): read block lists indented level with their key</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4406</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4406"/>
-    <updated>2026-10-16T01:17:08Z</updated>
-    <summary>Merged public contribution. +29 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #59: fix: resolve a task by its exact title before partial matches</title>
-    <id>https://github.com/rociiu/talorys/pull/59</id>
-    <link href="https://github.com/rociiu/talorys/pull/59"/>
-    <updated>2026-10-16T00:14:07Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #58: fix: treat a malformed session cookie as signed out</title>
-    <id>https://github.com/rociiu/talorys/pull/58</id>
-    <link href="https://github.com/rociiu/talorys/pull/58"/>
-    <updated>2026-10-16T00:13:59Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #54: fix: describe weekly schedules without repeated weekdays</title>
-    <id>https://github.com/rociiu/talorys/pull/54</id>
-    <link href="https://github.com/rociiu/talorys/pull/54"/>
-    <updated>2026-10-16T00:13:53Z</updated>
-    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4403: fix(rules-injector): support {a,b} brace alternation in rule globs</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4403"/>
-    <updated>2026-10-15T22:52:36Z</updated>
-    <summary>Merged public contribution. +315 / -43 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1316: fix(daemon): read a CRLF SPEC.md's frontmatter intent</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1316</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1316"/>
-    <updated>2026-10-15T22:02:06Z</updated>
-    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1315: fix(scope): parse CRLF checkbox blocks in the logical-checkbox twin</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1315</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1315"/>
-    <updated>2026-10-15T22:01:45Z</updated>
-    <summary>Merged public contribution. +54 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1314: fix(daemon): parse CRLF PROGRESS.md files in the progress indexer</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1314</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1314"/>
-    <updated>2026-10-15T22:01:22Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1317: fix(daemon): send non-ASCII ntfy titles as RFC 2047 encoded words</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1317</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1317"/>
-    <updated>2026-10-15T21:57:21Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4402: fix(commands): parse CRLF frontmatter in command files</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4402"/>
-    <updated>2026-10-15T21:22:31Z</updated>
-    <summary>Merged public contribution. +148 / -29 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1320: fix(daemon): reject a non-map agent spec profile instead of crashing normalize</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1320</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1320"/>
-    <updated>2026-10-15T20:56:17Z</updated>
-    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4389: fix: ignore malformed values in the security config section</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4389"/>
-    <updated>2026-10-15T20:50:15Z</updated>
-    <summary>Merged public contribution. +121 / -15 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4786: fix(search): reject an unparseable dateStart/dateEnd with 400 INVALID_DATE</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4786</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4786"/>
-    <updated>2026-10-15T20:10:24Z</updated>
-    <summary>Merged public contribution. +178 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4784: fix(context-files): keep CLAUDE.md/AGENTS.md symlinks when refreshing context</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4784</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4784"/>
-    <updated>2026-10-15T19:45:16Z</updated>
-    <summary>Merged public contribution. +206 / -26 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4787: fix(search): validate limit and offset at the search routes (400 instead of unbounded/empty results)</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4787</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4787"/>
-    <updated>2026-10-15T19:43:35Z</updated>
-    <summary>Merged public contribution. +125 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4783: fix(cursor): preserve the user's own hooks.json entries on install/uninstall</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4783</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4783"/>
-    <updated>2026-10-15T19:40:53Z</updated>
-    <summary>Merged public contribution. +408 / -65 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4785: fix(exclusions): make a trailing /** pattern also exclude the directory itself</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4785</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4785"/>
-    <updated>2026-10-15T19:38:26Z</updated>
-    <summary>Merged public contribution. +35 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4780: fix(hooks): skip SessionEnd for sessions that are never tracked</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4780</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4780"/>
-    <updated>2026-10-15T19:37:50Z</updated>
-    <summary>Merged public contribution. +34 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Softeria/ms-365-mcp-server #738: fix(logging): keep the email redaction pattern linear on long text runs</title>
-    <id>https://github.com/Softeria/ms-365-mcp-server/pull/738</id>
-    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/738"/>
-    <updated>2026-10-15T18:37:09Z</updated>
-    <summary>Merged public contribution. +56 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #432: fix(export): preserve CSS-escaped local paint references</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/432</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/432"/>
-    <updated>2026-10-15T16:59:56Z</updated>
-    <summary>Merged public contribution. +259 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4393: fix: keep commas inside quoted inline frontmatter list items</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4393</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4393"/>
-    <updated>2026-10-15T16:51:43Z</updated>
-    <summary>Merged public contribution. +297 / -51 across 8 changed files.</summary>
   </entry>
 </feed>
