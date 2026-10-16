@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T20:15:54Z</updated>
+  <updated>2026-10-16T20:46:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4417: fix(doctor): ignore empty OMC_SKIP_HOOKS entries</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4417</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4417"/>
+    <updated>2026-10-16T20:46:46Z</updated>
+    <summary>Merged public contribution. +26 / -6 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4420: fix(factory): validate listen --port as an integer in 0-65535</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4420</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2060"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2023: fix(audio): reject truncated WAV chunks and incomplete frames</title>
-    <id>https://github.com/JustVugg/colibri/pull/2023</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2023"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
