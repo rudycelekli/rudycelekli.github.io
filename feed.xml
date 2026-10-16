@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T19:22:07Z</updated>
+  <updated>2026-10-16T20:15:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4420: fix(factory): validate listen --port as an integer in 0-65535</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4420</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4420"/>
+    <updated>2026-10-16T20:15:54Z</updated>
+    <summary>Merged public contribution. +56 / -14 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>heygen-com/hyperframes #5712: perf(lint): strip stylesheet comments once per canvas zoom scan</title>
     <id>https://github.com/heygen-com/hyperframes/pull/5712</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2023"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2021: fix: preserve Unicode separators inside benchmark JSONL prompts</title>
-    <id>https://github.com/JustVugg/colibri/pull/2021</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2021"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
