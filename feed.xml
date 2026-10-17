@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T18:04:07Z</updated>
+  <updated>2026-10-17T19:35:58Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #1382: fix(wiki): resolve encoded Markdown destinations once</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1382</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1382"/>
+    <updated>2026-10-17T19:35:58Z</updated>
+    <summary>Merged public contribution. +292 / -16 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1380: fix(wiki): preserve escaped and nested Markdown link labels</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1380</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1380"/>
+    <updated>2026-10-17T19:35:11Z</updated>
+    <summary>Merged public contribution. +138 / -24 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1381: fix(cli): preserve backups when archive downloads fail</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1381</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1381"/>
+    <updated>2026-10-17T19:26:24Z</updated>
+    <summary>Merged public contribution. +379 / -17 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #574: fix(upstream-triage): suggest dependent cherry-picks in ancestry order</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/574</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1887"/>
     <updated>2026-10-16T15:31:31Z</updated>
     <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1885: fix(constraints): degrade to equal weights when a min_weight floor cannot be funded</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1885</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1885"/>
-    <updated>2026-10-16T15:31:31Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1884: fix(journal): emit strict JSON when a ratio is unbounded</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1884</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1884"/>
-    <updated>2026-10-16T15:31:31Z</updated>
-    <summary>Merged public contribution. +68 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1883: fix(financial-rigor): stop zero and negative references reading as agreement</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1883</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1883"/>
-    <updated>2026-10-16T15:31:31Z</updated>
-    <summary>Merged public contribution. +46 / -6 across 2 changed files.</summary>
   </entry>
 </feed>
