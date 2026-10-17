@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T01:31:16Z</updated>
+  <updated>2026-10-17T01:35:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>rociiu/talorys #56: fix: reject rescheduling an automation to a time that has passed</title>
+    <id>https://github.com/rociiu/talorys/pull/56</id>
+    <link href="https://github.com/rociiu/talorys/pull/56"/>
+    <updated>2026-10-17T01:35:09Z</updated>
+    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tt-a1i/archify #833: test: clean up owned renderer fixture directories</title>
     <id>https://github.com/tt-a1i/archify/pull/833</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2074"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +176 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2073: fix(mtp): refuse incomplete local shards before repair</title>
-    <id>https://github.com/JustVugg/colibri/pull/2073</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2073"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +134 / -6 across 2 changed files.</summary>
   </entry>
 </feed>
