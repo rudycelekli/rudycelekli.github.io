@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 55,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 8,
+      "comments": 3,
+      "commits": 7,
+      "created_at": "2026-10-11T15:25:14Z",
+      "deletions": 3,
+      "merged_at": "2026-10-17T13:40:11Z",
+      "number": 1050,
+      "repository": "tester-army/e2e",
+      "repository_url": "https://github.com/tester-army/e2e",
+      "reviews": 3,
+      "title": "feat(web): expose native dialog kinds to handlers",
+      "url": "https://github.com/tester-army/e2e/pull/1050"
+    },
+    {
       "additions": 76,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -37933,7 +37949,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2369,
+  "record_count": 2370,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }

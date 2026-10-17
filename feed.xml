@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T11:36:48Z</updated>
+  <updated>2026-10-17T13:40:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tester-army/e2e #1050: feat(web): expose native dialog kinds to handlers</title>
+    <id>https://github.com/tester-army/e2e/pull/1050</id>
+    <link href="https://github.com/tester-army/e2e/pull/1050"/>
+    <updated>2026-10-17T13:40:11Z</updated>
+    <summary>Merged public contribution. +55 / -3 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1063: fix(crdt): keep a node's later local LWW write within the same millisecond</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1063</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407"/>
     <updated>2026-10-16T13:49:37Z</updated>
     <summary>Merged public contribution. +76 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1070: fix(bench): compare run exit statuses alongside test outcomes</title>
-    <id>https://github.com/tester-army/e2e/pull/1070</id>
-    <link href="https://github.com/tester-army/e2e/pull/1070"/>
-    <updated>2026-10-16T13:46:45Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
