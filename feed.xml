@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T08:24:17Z</updated>
+  <updated>2026-10-17T09:54:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>rociiu/talorys #57: fix: redact bearer tokens and quoted values from installer error details</title>
+    <id>https://github.com/rociiu/talorys/pull/57</id>
+    <link href="https://github.com/rociiu/talorys/pull/57"/>
+    <updated>2026-10-17T09:54:39Z</updated>
+    <summary>Merged public contribution. +46 / -3 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1093: fix(learning): optimize recorded observations instead of fabricated samples</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1093</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tester-army/e2e/pull/1029"/>
     <updated>2026-10-16T13:37:11Z</updated>
     <summary>Merged public contribution. +67 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1027: fix(report): keep multiline live titles on one terminal row</title>
-    <id>https://github.com/tester-army/e2e/pull/1027</id>
-    <link href="https://github.com/tester-army/e2e/pull/1027"/>
-    <updated>2026-10-16T13:36:57Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 3 changed files.</summary>
   </entry>
 </feed>

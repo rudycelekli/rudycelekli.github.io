@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,363**
+Records: **2,364**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#57: fix: redact bearer tokens and quoted values from installer error details](https://github.com/rociiu/talorys/pull/57) | +46 / -3 across 3 files | 0 reviews · 4 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1093: fix(learning): optimize recorded observations instead of fabricated samples](https://github.com/proffesor-for-testing/agentic-qe/pull/1093) | +312 / -51 across 4 files | 1 reviews · 0 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1085: fix(kernel): preserve event delivery during embedder outages](https://github.com/proffesor-for-testing/agentic-qe/pull/1085) | +230 / -5 across 4 files | 1 reviews · 1 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1089: fix(learning): retrieve canonical shared knowledge in its namespace](https://github.com/proffesor-for-testing/agentic-qe/pull/1089) | +114 / -14 across 2 files | 1 reviews · 0 comments |
