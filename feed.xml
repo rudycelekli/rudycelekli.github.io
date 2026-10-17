@@ -4,8 +4,71 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T07:51:34Z</updated>
+  <updated>2026-10-17T08:24:17Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1093: fix(learning): optimize recorded observations instead of fabricated samples</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1093</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1093"/>
+    <updated>2026-10-17T08:24:17Z</updated>
+    <summary>Merged public contribution. +312 / -51 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1085: fix(kernel): preserve event delivery during embedder outages</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1085</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1085"/>
+    <updated>2026-10-17T08:24:01Z</updated>
+    <summary>Merged public contribution. +230 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1089: fix(learning): retrieve canonical shared knowledge in its namespace</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1089</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1089"/>
+    <updated>2026-10-17T08:11:33Z</updated>
+    <summary>Merged public contribution. +114 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1084: fix(learning): read transferred patterns in their domain namespace</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1084</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1084"/>
+    <updated>2026-10-17T08:11:25Z</updated>
+    <summary>Merged public contribution. +35 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1090: fix(llm): skip caching empty completion results</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1090</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1090"/>
+    <updated>2026-10-17T08:08:44Z</updated>
+    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1083: fix(learning): retain prototype-named model validation history</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1083</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1083"/>
+    <updated>2026-10-17T08:08:35Z</updated>
+    <summary>Merged public contribution. +85 / -21 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1065: fix(mcp): give domain tasks one execution owner</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1065</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1065"/>
+    <updated>2026-10-17T08:05:49Z</updated>
+    <summary>Merged public contribution. +330 / -3 across 16 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1036: fix(coverage): use configured workspace root for package targets</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1036</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1036"/>
+    <updated>2026-10-17T08:01:12Z</updated>
+    <summary>Merged public contribution. +753 / -11 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1064: fix: keep CI workflow, claim agent and infra service buckets prototype-safe</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1064</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1064"/>
+    <updated>2026-10-17T08:01:02Z</updated>
+    <summary>Merged public contribution. +119 / -25 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1062: fix(crdt): treat an unwritten LWW register state as the merge identity</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1062</id>
@@ -292,68 +355,5 @@
     <link href="https://github.com/tester-army/e2e/pull/1027"/>
     <updated>2026-10-16T13:36:57Z</updated>
     <summary>Merged public contribution. +30 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2010: fix(schema): bound finite numbers before integer conversion</title>
-    <id>https://github.com/JustVugg/colibri/pull/2010</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2010"/>
-    <updated>2026-10-16T13:08:18Z</updated>
-    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2067: fix: reject incomplete diagnostic smoke runs</title>
-    <id>https://github.com/JustVugg/colibri/pull/2067</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2067"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +100 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2022: fix: validate decision-model weight payloads before RAM estimates</title>
-    <id>https://github.com/JustVugg/colibri/pull/2022</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2022"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +113 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2006: fix(schema): escape decoded controls as JSON in grammar drafts</title>
-    <id>https://github.com/JustVugg/colibri/pull/2006</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2006"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1999: fix(loader): ignore unrepresentable numeric stop ids</title>
-    <id>https://github.com/JustVugg/colibri/pull/1999</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1999"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +64 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1996: fix(api): reject non-object OLMoE fallback history arguments</title>
-    <id>https://github.com/JustVugg/colibri/pull/1996</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1996"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1995: fix(api): reject explicit falsey non-array tools</title>
-    <id>https://github.com/JustVugg/colibri/pull/1995</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1995"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1994: fix(api): return 400 for out-of-range sampling integers</title>
-    <id>https://github.com/JustVugg/colibri/pull/1994</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1994"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1993: fix(setup): honor explicit overrides on a ready saved configuration</title>
-    <id>https://github.com/JustVugg/colibri/pull/1993</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1993"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +78 / -1 across 3 changed files.</summary>
   </entry>
 </feed>

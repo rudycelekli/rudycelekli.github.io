@@ -4,10 +4,19 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,354**
+Records: **2,363**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1093: fix(learning): optimize recorded observations instead of fabricated samples](https://github.com/proffesor-for-testing/agentic-qe/pull/1093) | +312 / -51 across 4 files | 1 reviews · 0 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1085: fix(kernel): preserve event delivery during embedder outages](https://github.com/proffesor-for-testing/agentic-qe/pull/1085) | +230 / -5 across 4 files | 1 reviews · 1 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1089: fix(learning): retrieve canonical shared knowledge in its namespace](https://github.com/proffesor-for-testing/agentic-qe/pull/1089) | +114 / -14 across 2 files | 1 reviews · 0 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1084: fix(learning): read transferred patterns in their domain namespace](https://github.com/proffesor-for-testing/agentic-qe/pull/1084) | +35 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1090: fix(llm): skip caching empty completion results](https://github.com/proffesor-for-testing/agentic-qe/pull/1090) | +109 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1083: fix(learning): retain prototype-named model validation history](https://github.com/proffesor-for-testing/agentic-qe/pull/1083) | +85 / -21 across 2 files | 1 reviews · 0 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1065: fix(mcp): give domain tasks one execution owner](https://github.com/proffesor-for-testing/agentic-qe/pull/1065) | +330 / -3 across 16 files | 2 reviews · 2 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1036: fix(coverage): use configured workspace root for package targets](https://github.com/proffesor-for-testing/agentic-qe/pull/1036) | +753 / -11 across 8 files | 4 reviews · 4 comments |
+| 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1064: fix: keep CI workflow, claim agent and infra service buckets prototype-safe](https://github.com/proffesor-for-testing/agentic-qe/pull/1064) | +119 / -25 across 7 files | 2 reviews · 1 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1062: fix(crdt): treat an unwritten LWW register state as the merge identity](https://github.com/proffesor-for-testing/agentic-qe/pull/1062) | +13 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1342: fix(daemon): answer 400, not 500, when a route's JSON body is null](https://github.com/mvschwarz/openrig/pull/1342) | +53 / -4 across 2 files | 1 reviews · 4 comments |
 | 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1319: fix(daemon): answer client-fixable queue park/close refusals with 400 instead of 500](https://github.com/mvschwarz/openrig/pull/1319) | +95 / -0 across 2 files | 1 reviews · 5 comments |
