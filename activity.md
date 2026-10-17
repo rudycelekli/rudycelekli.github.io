@@ -4,10 +4,17 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,370**
+Records: **2,377**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4235: fix(swarm): preserve urgent messages on queue overflow](https://github.com/ruvnet/ruflo/pull/4235) | +45 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4234: fix(swarm): track acknowledgements per recipient](https://github.com/ruvnet/ruflo/pull/4234) | +103 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4233: fix(swarm): cancel queued subscriber delivery at shutdown](https://github.com/ruvnet/ruflo/pull/4233) | +79 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4244: fix(swarm): keep coordinator cancellation terminal](https://github.com/ruvnet/ruflo/pull/4244) | +114 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4240: fix: serialize learning stats transactions across processes](https://github.com/ruvnet/ruflo/pull/4240) | +359 / -27 across 3 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4236: fix(swarm): release failed and cancelled task workers](https://github.com/ruvnet/ruflo/pull/4236) | +138 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4210: fix(memory): refresh Claude memories across project and worktree roots](https://github.com/ruvnet/ruflo/pull/4210) | +135 / -6 across 2 files | 0 reviews · 0 comments |
 | 2026-10-17 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1050: feat(web): expose native dialog kinds to handlers](https://github.com/tester-army/e2e/pull/1050) | +55 / -3 across 8 files | 3 reviews · 3 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1063: fix(crdt): keep a node's later local LWW write within the same millisecond](https://github.com/proffesor-for-testing/agentic-qe/pull/1063) | +76 / -2 across 2 files | 1 reviews · 2 comments |
 | 2026-10-17 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1886: fix(cli): reject non-positive --limit for list and memory search](https://github.com/HKUDS/Vibe-Trading/pull/1886) | +44 / -2 across 2 files | 0 reviews · 0 comments |

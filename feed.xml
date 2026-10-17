@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T13:40:11Z</updated>
+  <updated>2026-10-17T14:00:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4235: fix(swarm): preserve urgent messages on queue overflow</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4235</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4235"/>
+    <updated>2026-10-17T14:00:48Z</updated>
+    <summary>Merged public contribution. +45 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4234: fix(swarm): track acknowledgements per recipient</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4234</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4234"/>
+    <updated>2026-10-17T14:00:39Z</updated>
+    <summary>Merged public contribution. +103 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4233: fix(swarm): cancel queued subscriber delivery at shutdown</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4233</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4233"/>
+    <updated>2026-10-17T14:00:17Z</updated>
+    <summary>Merged public contribution. +79 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4244: fix(swarm): keep coordinator cancellation terminal</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4244</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4244"/>
+    <updated>2026-10-17T13:59:08Z</updated>
+    <summary>Merged public contribution. +114 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4240: fix: serialize learning stats transactions across processes</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4240</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4240"/>
+    <updated>2026-10-17T13:59:05Z</updated>
+    <summary>Merged public contribution. +359 / -27 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4236: fix(swarm): release failed and cancelled task workers</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4236</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4236"/>
+    <updated>2026-10-17T13:58:56Z</updated>
+    <summary>Merged public contribution. +138 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4210: fix(memory): refresh Claude memories across project and worktree roots</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4210</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4210"/>
+    <updated>2026-10-17T13:58:05Z</updated>
+    <summary>Merged public contribution. +135 / -6 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tester-army/e2e #1050: feat(web): expose native dialog kinds to handlers</title>
     <id>https://github.com/tester-army/e2e/pull/1050</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1880"/>
     <updated>2026-10-16T15:31:31Z</updated>
     <summary>Merged public contribution. +63 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1879: fix(backtest): refresh cached bars after local source revisions</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1879</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1879"/>
-    <updated>2026-10-16T15:31:31Z</updated>
-    <summary>Merged public contribution. +283 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #898: fix(pi): honor PI_CODING_AGENT_DIR for the extension install, discovery and inventory</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/898</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/898"/>
-    <updated>2026-10-16T15:30:51Z</updated>
-    <summary>Merged public contribution. +130 / -15 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #899: fix(inventory): record every variable the inventory scan follows in the scheduled job</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/899</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/899"/>
-    <updated>2026-10-16T15:14:25Z</updated>
-    <summary>Merged public contribution. +121 / -7 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9802: Validate complete number ranges and clear failed parse state</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9802</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9802"/>
-    <updated>2026-10-16T15:07:28Z</updated>
-    <summary>Merged public contribution. +7 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9805: Preserve fill and skipped payload integrity in Android sparse images</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9805</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9805"/>
-    <updated>2026-10-16T15:07:27Z</updated>
-    <summary>Merged public contribution. +9 / -11 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>kenn-io/agentsview #2281: fix(parser): read zstd-compressed OpenClaw transcript events</title>
-    <id>https://github.com/kenn-io/agentsview/pull/2281</id>
-    <link href="https://github.com/kenn-io/agentsview/pull/2281"/>
-    <updated>2026-10-16T14:05:01Z</updated>
-    <summary>Merged public contribution. +294 / -24 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4407: fix(rules-injector): ignore trailing YAML comments in rule frontmatter</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4407"/>
-    <updated>2026-10-16T13:49:37Z</updated>
-    <summary>Merged public contribution. +76 / -7 across 3 changed files.</summary>
   </entry>
 </feed>
