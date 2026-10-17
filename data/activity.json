@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 95,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 5,
+      "commits": 2,
+      "created_at": "2026-10-15T06:52:41Z",
+      "deletions": 0,
+      "merged_at": "2026-10-17T05:41:56Z",
+      "number": 1319,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(daemon): answer client-fixable queue park/close refusals with 400 instead of 500",
+      "url": "https://github.com/mvschwarz/openrig/pull/1319"
+    },
+    {
       "additions": 116,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -37645,7 +37661,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2351,
+  "record_count": 2352,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
