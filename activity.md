@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,350**
+Records: **2,351**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1318: fix(daemon): report a blank YAML list item as a validation error instead of a 500](https://github.com/mvschwarz/openrig/pull/1318) | +116 / -2 across 4 files | 1 reviews · 5 comments |
 | 2026-10-17 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [#2939: fix(supertonic): preserve language identity for full names](https://github.com/debpalash/VoiceStudio/pull/2939) | +123 / -5 across 5 files | 0 reviews · 2 comments |
 | 2026-10-17 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1647: fix(truncate): do not cut multi-byte runes when truncating tool output](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1647) | +60 / -4 across 2 files | 0 reviews · 2 comments |
 | 2026-10-17 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#56: fix: reject rescheduling an automation to a time that has passed](https://github.com/rociiu/talorys/pull/56) | +28 / -0 across 2 files | 0 reviews · 1 comments |

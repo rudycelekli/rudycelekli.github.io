@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 116,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 5,
+      "commits": 2,
+      "created_at": "2026-10-15T06:49:24Z",
+      "deletions": 2,
+      "merged_at": "2026-10-17T05:24:38Z",
+      "number": 1318,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(daemon): report a blank YAML list item as a validation error instead of a 500",
+      "url": "https://github.com/mvschwarz/openrig/pull/1318"
+    },
+    {
       "additions": 123,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -37629,7 +37645,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2350,
+  "record_count": 2351,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
