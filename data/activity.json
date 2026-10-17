@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 48,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 5,
+      "commits": 4,
+      "created_at": "2026-10-16T19:24:18Z",
+      "deletions": 9,
+      "merged_at": "2026-10-17T16:14:20Z",
+      "number": 1186,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(launches): keep null pad and landing coordinates unknown instead of 0",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1186"
+    },
+    {
       "additions": 45,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -38061,7 +38077,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2377,
+  "record_count": 2378,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }

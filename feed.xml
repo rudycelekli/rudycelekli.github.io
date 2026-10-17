@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T14:00:48Z</updated>
+  <updated>2026-10-17T16:14:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1186: fix(launches): keep null pad and landing coordinates unknown instead of 0</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1186</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1186"/>
+    <updated>2026-10-17T16:14:20Z</updated>
+    <summary>Merged public contribution. +48 / -9 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/ruflo #4235: fix(swarm): preserve urgent messages on queue overflow</title>
     <id>https://github.com/ruvnet/ruflo/pull/4235</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1881"/>
     <updated>2026-10-16T15:31:31Z</updated>
     <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1880: fix(redaction): scrub Telegram bot tokens, Slack/Discord webhook secrets, Groq and NVIDIA keys</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1880</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1880"/>
-    <updated>2026-10-16T15:31:31Z</updated>
-    <summary>Merged public contribution. +63 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
