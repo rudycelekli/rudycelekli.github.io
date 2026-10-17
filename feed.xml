@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-16T22:34:26Z</updated>
+  <updated>2026-10-17T00:06:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1118: fix(tools): identify historical camera fallback imagery</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1118</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1118"/>
+    <updated>2026-10-17T00:06:34Z</updated>
+    <summary>Merged public contribution. +256 / -10 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1117: fix(street-level): release superseded and unmounted Google viewer work</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1117</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2070"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +112 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2066: fix(setup): preserve Unicode paths in printed recovery command</title>
-    <id>https://github.com/JustVugg/colibri/pull/2066</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2066"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +47 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
