@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,344**
+Records: **2,347**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#833: test: clean up owned renderer fixture directories](https://github.com/tt-a1i/archify/pull/833) | +68 / -49 across 6 files | 1 reviews · 2 comments |
+| 2026-10-17 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#846: test(evidence): clean fixture-owned temporary repositories](https://github.com/tt-a1i/archify/pull/846) | +41 / -0 across 2 files | 1 reviews · 2 comments |
+| 2026-10-17 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#55: fix: keep reminder and AI automation messages required when editing](https://github.com/rociiu/talorys/pull/55) | +27 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-10-17 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1118: fix(tools): identify historical camera fallback imagery](https://github.com/bilawalsidhu/gods-eye-view/pull/1118) | +256 / -10 across 7 files | 0 reviews · 2 comments |
 | 2026-10-16 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1117: fix(street-level): release superseded and unmounted Google viewer work](https://github.com/bilawalsidhu/gods-eye-view/pull/1117) | +76 / -1 across 4 files | 0 reviews · 2 comments |
 | 2026-10-16 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1115: fix(tools): exclude unknown altitude from requested aircraft bands](https://github.com/bilawalsidhu/gods-eye-view/pull/1115) | +66 / -0 across 4 files | 0 reviews · 2 comments |

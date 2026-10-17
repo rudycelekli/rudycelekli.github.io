@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T00:06:34Z</updated>
+  <updated>2026-10-17T01:31:16Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tt-a1i/archify #833: test: clean up owned renderer fixture directories</title>
+    <id>https://github.com/tt-a1i/archify/pull/833</id>
+    <link href="https://github.com/tt-a1i/archify/pull/833"/>
+    <updated>2026-10-17T01:31:16Z</updated>
+    <summary>Merged public contribution. +68 / -49 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tt-a1i/archify #846: test(evidence): clean fixture-owned temporary repositories</title>
+    <id>https://github.com/tt-a1i/archify/pull/846</id>
+    <link href="https://github.com/tt-a1i/archify/pull/846"/>
+    <updated>2026-10-17T01:29:06Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #55: fix: keep reminder and AI automation messages required when editing</title>
+    <id>https://github.com/rociiu/talorys/pull/55</id>
+    <link href="https://github.com/rociiu/talorys/pull/55"/>
+    <updated>2026-10-17T01:27:34Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1118: fix(tools): identify historical camera fallback imagery</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1118</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2073"/>
     <updated>2026-10-16T13:08:16Z</updated>
     <summary>Merged public contribution. +134 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2072: fix(cli): preserve literal asterisks in inline code</title>
-    <id>https://github.com/JustVugg/colibri/pull/2072</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2072"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2071: fix(serve): apply configured CORS headers to metrics responses</title>
-    <id>https://github.com/JustVugg/colibri/pull/2071</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2071"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +66 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2070: fix(api): return client errors for JSON parsing limits</title>
-    <id>https://github.com/JustVugg/colibri/pull/2070</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2070"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +112 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
