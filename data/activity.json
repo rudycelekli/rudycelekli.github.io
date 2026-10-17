@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 194,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-17T04:06:12Z",
+      "deletions": 12,
+      "merged_at": "2026-10-17T16:41:20Z",
+      "number": 4245,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(swarm): honor shared worker reservations in agent pools",
+      "url": "https://github.com/ruvnet/ruflo/pull/4245"
+    },
+    {
       "additions": 48,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -38077,7 +38093,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2378,
+  "record_count": 2379,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
