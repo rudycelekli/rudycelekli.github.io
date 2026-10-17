@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 30,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-17T21:50:09Z",
+      "deletions": 10,
+      "merged_at": "2026-10-17T23:02:00Z",
+      "number": 4439,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 2,
+      "title": "fix(featured-contributors): reject invalid --min-stars values",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439"
+    },
+    {
       "additions": 194,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 14,
@@ -38173,7 +38189,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2384,
+  "record_count": 2385,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }

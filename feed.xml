@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T20:02:40Z</updated>
+  <updated>2026-10-17T23:02:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4439: fix(featured-contributors): reject invalid --min-stars values</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439"/>
+    <updated>2026-10-17T23:02:00Z</updated>
+    <summary>Merged public contribution. +30 / -10 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1402: fix: share CRLF frontmatter boundaries across policy and review readers</title>
     <id>https://github.com/mvschwarz/openrig/pull/1402</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tt-a1i/archify/pull/826"/>
     <updated>2026-10-16T16:07:28Z</updated>
     <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #903: fix(gitlink): respect wrapped directory changes in shell commands</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/903</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/903"/>
-    <updated>2026-10-16T16:03:07Z</updated>
-    <summary>Merged public contribution. +14 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

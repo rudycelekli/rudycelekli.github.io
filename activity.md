@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,384**
+Records: **2,385**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4439: fix(featured-contributors): reject invalid --min-stars values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439) | +30 / -10 across 3 files | 2 reviews · 2 comments |
 | 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1402: fix: share CRLF frontmatter boundaries across policy and review readers](https://github.com/mvschwarz/openrig/pull/1402) | +194 / -29 across 14 files | 1 reviews · 2 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1382: fix(wiki): resolve encoded Markdown destinations once](https://github.com/akitaonrails/ai-memory/pull/1382) | +292 / -16 across 7 files | 0 reviews · 0 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1380: fix(wiki): preserve escaped and nested Markdown link labels](https://github.com/akitaonrails/ai-memory/pull/1380) | +138 / -24 across 4 files | 0 reviews · 0 comments |
