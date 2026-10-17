@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T06:45:00Z</updated>
+  <updated>2026-10-17T07:51:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1062: fix(crdt): treat an unwritten LWW register state as the merge identity</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1062</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1062"/>
+    <updated>2026-10-17T07:51:34Z</updated>
+    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1342: fix(daemon): answer 400, not 500, when a route's JSON body is null</title>
     <id>https://github.com/mvschwarz/openrig/pull/1342</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/1993"/>
     <updated>2026-10-16T13:08:17Z</updated>
     <summary>Merged public contribution. +78 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #1961: fix(setup): verify cached files against requested download digests</title>
-    <id>https://github.com/JustVugg/colibri/pull/1961</id>
-    <link href="https://github.com/JustVugg/colibri/pull/1961"/>
-    <updated>2026-10-16T13:08:17Z</updated>
-    <summary>Merged public contribution. +49 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
