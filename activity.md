@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,364**
+Records: **2,368**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1886: fix(cli): reject non-positive --limit for list and memory search](https://github.com/HKUDS/Vibe-Trading/pull/1886) | +44 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1896: fix(memory): honor VIBE_TRADING_HOME for persistent memory and search index](https://github.com/HKUDS/Vibe-Trading/pull/1896) | +30 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-17 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1897: fix(options-payoff): return an error envelope when the result overflows to inf](https://github.com/HKUDS/Vibe-Trading/pull/1897) | +19 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-17 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1898: fix(factors): make ts_argmax/ts_argmin tie-breaking backend-independent](https://github.com/HKUDS/Vibe-Trading/pull/1898) | +42 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-17 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#57: fix: redact bearer tokens and quoted values from installer error details](https://github.com/rociiu/talorys/pull/57) | +46 / -3 across 3 files | 0 reviews · 4 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1093: fix(learning): optimize recorded observations instead of fabricated samples](https://github.com/proffesor-for-testing/agentic-qe/pull/1093) | +312 / -51 across 4 files | 1 reviews · 0 comments |
 | 2026-10-17 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1085: fix(kernel): preserve event delivery during embedder outages](https://github.com/proffesor-for-testing/agentic-qe/pull/1085) | +230 / -5 across 4 files | 1 reviews · 1 comments |
