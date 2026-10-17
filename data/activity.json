@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 123,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-16T18:47:44Z",
+      "deletions": 5,
+      "merged_at": "2026-10-17T04:29:20Z",
+      "number": 2939,
+      "repository": "debpalash/VoiceStudio",
+      "repository_url": "https://github.com/debpalash/VoiceStudio",
+      "reviews": 0,
+      "title": "fix(supertonic): preserve language identity for full names",
+      "url": "https://github.com/debpalash/VoiceStudio/pull/2939"
+    },
+    {
+      "additions": 60,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-16T21:04:25Z",
+      "deletions": 4,
+      "merged_at": "2026-10-17T04:23:44Z",
+      "number": 1647,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 0,
+      "title": "fix(truncate): do not cut multi-byte runes when truncating tool output",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1647"
+    },
+    {
       "additions": 28,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -37597,7 +37629,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2348,
+  "record_count": 2350,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
