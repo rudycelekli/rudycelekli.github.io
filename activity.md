@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,383**
+Records: **2,384**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1402: fix: share CRLF frontmatter boundaries across policy and review readers](https://github.com/mvschwarz/openrig/pull/1402) | +194 / -29 across 14 files | 1 reviews · 2 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1382: fix(wiki): resolve encoded Markdown destinations once](https://github.com/akitaonrails/ai-memory/pull/1382) | +292 / -16 across 7 files | 0 reviews · 0 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1380: fix(wiki): preserve escaped and nested Markdown link labels](https://github.com/akitaonrails/ai-memory/pull/1380) | +138 / -24 across 4 files | 0 reviews · 0 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1381: fix(cli): preserve backups when archive downloads fail](https://github.com/akitaonrails/ai-memory/pull/1381) | +379 / -17 across 5 files | 0 reviews · 0 comments |
