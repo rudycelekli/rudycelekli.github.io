@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T05:41:56Z</updated>
+  <updated>2026-10-17T06:45:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1342: fix(daemon): answer 400, not 500, when a route's JSON body is null</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1342</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1342"/>
+    <updated>2026-10-17T06:45:00Z</updated>
+    <summary>Merged public contribution. +53 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1319: fix(daemon): answer client-fixable queue park/close refusals with 400 instead of 500</title>
     <id>https://github.com/mvschwarz/openrig/pull/1319</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/1961"/>
     <updated>2026-10-16T13:08:17Z</updated>
     <summary>Merged public contribution. +49 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2079: fix(setup): require generated tokenizer before reporting ready</title>
-    <id>https://github.com/JustVugg/colibri/pull/2079</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2079"/>
-    <updated>2026-10-16T13:08:16Z</updated>
-    <summary>Merged public contribution. +167 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 53,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-16T01:04:51Z",
+      "deletions": 4,
+      "merged_at": "2026-10-17T06:45:00Z",
+      "number": 1342,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(daemon): answer 400, not 500, when a route's JSON body is null",
+      "url": "https://github.com/mvschwarz/openrig/pull/1342"
+    },
+    {
       "additions": 95,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -37661,7 +37677,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2352,
+  "record_count": 2353,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
