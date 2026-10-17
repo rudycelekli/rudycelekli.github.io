@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,379**
+Records: **2,380**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#574: fix(upstream-triage): suggest dependent cherry-picks in ancestry order](https://github.com/MadsLorentzen/ai-job-search/pull/574) | +31 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4245: fix(swarm): honor shared worker reservations in agent pools](https://github.com/ruvnet/ruflo/pull/4245) | +194 / -12 across 3 files | 0 reviews · 0 comments |
 | 2026-10-17 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1186: fix(launches): keep null pad and landing coordinates unknown instead of 0](https://github.com/bilawalsidhu/gods-eye-view/pull/1186) | +48 / -9 across 4 files | 0 reviews · 5 comments |
 | 2026-10-17 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4235: fix(swarm): preserve urgent messages on queue overflow](https://github.com/ruvnet/ruflo/pull/4235) | +45 / -2 across 2 files | 0 reviews · 0 comments |

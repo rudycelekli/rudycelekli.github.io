@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 31,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-16T13:31:05Z",
+      "deletions": 2,
+      "merged_at": "2026-10-17T18:04:07Z",
+      "number": 574,
+      "repository": "MadsLorentzen/ai-job-search",
+      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "reviews": 0,
+      "title": "fix(upstream-triage): suggest dependent cherry-picks in ancestry order",
+      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/574"
+    },
+    {
       "additions": 194,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -38093,7 +38109,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2379,
+  "record_count": 2380,
   "schema_version": 1,
   "updated_at_utc": "2026-10-17"
 }
