@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 66,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 5,
+      "commits": 3,
+      "created_at": "2026-10-18T15:51:53Z",
+      "deletions": 11,
+      "merged_at": "2026-10-18T20:11:47Z",
+      "number": 1473,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 2,
+      "title": "fix(daemon): rate a provider window only within its current window",
+      "url": "https://github.com/mvschwarz/openrig/pull/1473"
+    },
+    {
       "additions": 16,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -39968,7 +39984,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2496,
+  "record_count": 2497,
   "schema_version": 1,
   "updated_at_utc": "2026-10-18"
 }
