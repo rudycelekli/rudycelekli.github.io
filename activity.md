@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,437**
+Records: **2,442**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1088: fix(defects): record public predictions for background workers](https://github.com/proffesor-for-testing/agentic-qe/pull/1088) | +630 / -59 across 10 files | 1 reviews · 2 comments |
+| 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1092: fix(security): fail DAST scans when target access fails](https://github.com/proffesor-for-testing/agentic-qe/pull/1092) | +568 / -275 across 11 files | 1 reviews · 2 comments |
+| 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1132: fix(infra-healing): make recovery-playbook lookups prototype-safe](https://github.com/proffesor-for-testing/agentic-qe/pull/1132) | +66 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1086: fix(code-intelligence): execute public index-code tasks](https://github.com/proffesor-for-testing/agentic-qe/pull/1086) | +150 / -3 across 5 files | 1 reviews · 2 comments |
+| 2026-10-18 | [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) | [#158: fix(permissions): classify branch and remote mutations correctly](https://github.com/Anil-matcha/open-dots/pull/158) | +141 / -11 across 4 files | 0 reviews · 1 comments |
 | 2026-10-18 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1664: fix: do not cut multi-byte runes when truncating error and diagnostic text](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664) | +105 / -7 across 9 files | 0 reviews · 2 comments |
 | 2026-10-18 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#6: fix: report an unknown MCP method as "Method not found"](https://github.com/Graphicle-AI/graphicle/pull/6) | +17 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#5: fix: answer MCP initialize with a protocol version the engine speaks](https://github.com/Graphicle-AI/graphicle/pull/5) | +35 / -1 across 2 files | 0 reviews · 1 comments |

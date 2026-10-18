@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T07:13:01Z</updated>
+  <updated>2026-10-18T08:15:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1088: fix(defects): record public predictions for background workers</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1088</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1088"/>
+    <updated>2026-10-18T08:15:00Z</updated>
+    <summary>Merged public contribution. +630 / -59 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1092: fix(security): fail DAST scans when target access fails</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1092</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1092"/>
+    <updated>2026-10-18T08:12:27Z</updated>
+    <summary>Merged public contribution. +568 / -275 across 11 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1132: fix(infra-healing): make recovery-playbook lookups prototype-safe</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1132</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1132"/>
+    <updated>2026-10-18T08:12:16Z</updated>
+    <summary>Merged public contribution. +66 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1086: fix(code-intelligence): execute public index-code tasks</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1086</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1086"/>
+    <updated>2026-10-18T08:04:03Z</updated>
+    <summary>Merged public contribution. +150 / -3 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-dots #158: fix(permissions): classify branch and remote mutations correctly</title>
+    <id>https://github.com/Anil-matcha/open-dots/pull/158</id>
+    <link href="https://github.com/Anil-matcha/open-dots/pull/158"/>
+    <updated>2026-10-18T08:02:02Z</updated>
+    <summary>Merged public contribution. +141 / -11 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>smart-mcp-proxy/mcpproxy-go #1664: fix: do not cut multi-byte runes when truncating error and diagnostic text</title>
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1904"/>
     <updated>2026-10-18T04:08:04Z</updated>
     <summary>Merged public contribution. +42 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4442: fix(team): reject non-integer numeric CLI flag values</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4442</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4442"/>
-    <updated>2026-10-18T02:10:03Z</updated>
-    <summary>Merged public contribution. +21 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #823: fix(evidence): preserve whitespace in Git top-level paths</title>
-    <id>https://github.com/tt-a1i/archify/pull/823</id>
-    <link href="https://github.com/tt-a1i/archify/pull/823"/>
-    <updated>2026-10-18T01:38:48Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4441: fix(ralphthon): reject invalid --max-waves and --poll-interval values</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441"/>
-    <updated>2026-10-18T01:37:54Z</updated>
-    <summary>Merged public contribution. +54 / -26 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #68: fix: don't split an emoji when truncating conversation titles and reminder names</title>
-    <id>https://github.com/rociiu/talorys/pull/68</id>
-    <link href="https://github.com/rociiu/talorys/pull/68"/>
-    <updated>2026-10-18T01:32:57Z</updated>
-    <summary>Merged public contribution. +37 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #67: fix(notes): retain project filtering during searches</title>
-    <id>https://github.com/rociiu/talorys/pull/67</id>
-    <link href="https://github.com/rociiu/talorys/pull/67"/>
-    <updated>2026-10-18T01:32:51Z</updated>
-    <summary>Merged public contribution. +40 / -5 across 3 changed files.</summary>
   </entry>
 </feed>
