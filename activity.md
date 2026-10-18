@@ -9,7 +9,7 @@ Records: **2,496**
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
 | 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4452: fix(autoresearch): accept a leading UTF-8 BOM in sandbox.md frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4452) | +16 / -9 across 3 files | 0 reviews · 3 comments |
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1472: fix(daemon): keep emoji whole in shortened notification bodies, slice stories and history excerpts](https://github.com/mvschwarz/openrig/pull/1472) | +41 / -3 across 6 files | 2 reviews · 1 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1472: fix(daemon): keep emoji whole in shortened notification bodies, slice stories and history excerpts](https://github.com/mvschwarz/openrig/pull/1472) | +41 / -3 across 6 files | 2 reviews · 2 comments |
 | 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4451: fix(agents): read agent frontmatter by line-anchored delimiters and after a BOM](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4451) | +56 / -23 across 3 files | 1 reviews · 3 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1464: fix(daemon): keep a member's mechanic when re-serializing a rig spec](https://github.com/mvschwarz/openrig/pull/1464) | +12 / -0 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1471: fix(tui): keep combining marks when matching heading anchors](https://github.com/mvschwarz/openrig/pull/1471) | +11 / -1 across 2 files | 1 reviews · 2 comments |
