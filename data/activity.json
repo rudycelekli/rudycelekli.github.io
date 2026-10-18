@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 103,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 4,
+      "created_at": "2026-10-12T13:03:25Z",
+      "deletions": 9,
+      "merged_at": "2026-10-18T09:24:33Z",
+      "number": 3709,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(cli): detach standard input when starting the background service",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3709"
+    },
+    {
+      "additions": 118,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-13T16:02:05Z",
+      "deletions": 3,
+      "merged_at": "2026-10-18T09:24:18Z",
+      "number": 3754,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(skills): report failed enable/disable and restore the previous choice",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3754"
+    },
+    {
+      "additions": 211,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-17T18:47:43Z",
+      "deletions": 5,
+      "merged_at": "2026-10-18T09:23:43Z",
+      "number": 3784,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(web): preserve running settings when a config save fails",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3784"
+    },
+    {
       "additions": 172,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -39277,7 +39325,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2453,
+  "record_count": 2456,
   "schema_version": 1,
   "updated_at_utc": "2026-10-18"
 }

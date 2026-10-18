@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,453**
+Records: **2,456**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3709: fix(cli): detach standard input when starting the background service](https://github.com/zhayujie/CowAgent/pull/3709) | +103 / -9 across 2 files | 0 reviews · 3 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3754: fix(skills): report failed enable/disable and restore the previous choice](https://github.com/zhayujie/CowAgent/pull/3754) | +118 / -3 across 2 files | 0 reviews · 3 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3784: fix(web): preserve running settings when a config save fails](https://github.com/zhayujie/CowAgent/pull/3784) | +211 / -5 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3748: fix(web): keep system-file fallbacks in the requested agent workspace](https://github.com/zhayujie/CowAgent/pull/3748) | +172 / -11 across 2 files | 0 reviews · 2 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3782: fix(scheduler): report rejected operations as failed calls](https://github.com/zhayujie/CowAgent/pull/3782) | +112 / -29 across 2 files | 0 reviews · 0 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3781: fix: report MCP transport failures as failed tool calls](https://github.com/zhayujie/CowAgent/pull/3781) | +111 / -12 across 4 files | 0 reviews · 0 comments |

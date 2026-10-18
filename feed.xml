@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T08:52:44Z</updated>
+  <updated>2026-10-18T09:24:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3709: fix(cli): detach standard input when starting the background service</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3709</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3709"/>
+    <updated>2026-10-18T09:24:33Z</updated>
+    <summary>Merged public contribution. +103 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3754: fix(skills): report failed enable/disable and restore the previous choice</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3754</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3754"/>
+    <updated>2026-10-18T09:24:18Z</updated>
+    <summary>Merged public contribution. +118 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3784: fix(web): preserve running settings when a config save fails</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3784</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3784"/>
+    <updated>2026-10-18T09:23:43Z</updated>
+    <summary>Merged public contribution. +211 / -5 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3748: fix(web): keep system-file fallbacks in the requested agent workspace</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3748</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/571"/>
     <updated>2026-10-18T05:14:26Z</updated>
     <summary>Merged public contribution. +61 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #590: fix(salary): skip chart-only workbook tabs</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/590</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/590"/>
-    <updated>2026-10-18T05:11:57Z</updated>
-    <summary>Merged public contribution. +72 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #584: fix(salary): distinguish absent indexes from suppression</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/584</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/584"/>
-    <updated>2026-10-18T05:09:28Z</updated>
-    <summary>Merged public contribution. +76 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #576: fix(salary): skip whitespace-only workbook company rows</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/576</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/576"/>
-    <updated>2026-10-18T05:07:18Z</updated>
-    <summary>Merged public contribution. +56 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
