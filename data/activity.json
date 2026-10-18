@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-18T15:35:07Z",
+      "deletions": 2,
+      "merged_at": "2026-10-18T16:52:05Z",
+      "number": 1465,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(daemon): allow literal dots in agent-image file paths",
+      "url": "https://github.com/mvschwarz/openrig/pull/1465"
+    },
+    {
       "additions": 13,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -39565,7 +39581,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2471,
+  "record_count": 2472,
   "schema_version": 1,
   "updated_at_utc": "2026-10-18"
 }

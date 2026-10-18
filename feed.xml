@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T15:09:42Z</updated>
+  <updated>2026-10-18T16:52:05Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1465: fix(daemon): allow literal dots in agent-image file paths</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1465</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1465"/>
+    <updated>2026-10-18T16:52:05Z</updated>
+    <summary>Merged public contribution. +36 / -2 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1454: fix(ui): keep emoji whole in shortened activity event previews</title>
     <id>https://github.com/mvschwarz/openrig/pull/1454</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/anmolkapil/plexo/pull/125"/>
     <updated>2026-10-18T05:50:23Z</updated>
     <summary>Merged public contribution. +37 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #124: fix: parse complete Content-Disposition filename parameters</title>
-    <id>https://github.com/anmolkapil/plexo/pull/124</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/124"/>
-    <updated>2026-10-18T05:49:43Z</updated>
-    <summary>Merged public contribution. +63 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
