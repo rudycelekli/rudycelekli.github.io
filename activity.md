@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,392**
+Records: **2,396**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1908: fix(swarm): tolerate a half-written final line in read_events](https://github.com/HKUDS/Vibe-Trading/pull/1908) | +56 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1907: fix(etf-holdings): accept Yahoo's .SS suffix for Shanghai-listed funds](https://github.com/HKUDS/Vibe-Trading/pull/1907) | +12 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1906: fix(financial-rigor): honor explicit zero tolerance_pct and years](https://github.com/HKUDS/Vibe-Trading/pull/1906) | +27 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1904: fix(config): honor VIBE_TRADING_HOME for autopilot runs, alpha-bench cache/reports and gildata codes](https://github.com/HKUDS/Vibe-Trading/pull/1904) | +42 / -4 across 4 files | 0 reviews · 1 comments |
 | 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4442: fix(team): reject non-integer numeric CLI flag values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4442) | +21 / -9 across 3 files | 1 reviews · 2 comments |
 | 2026-10-18 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#823: fix(evidence): preserve whitespace in Git top-level paths](https://github.com/tt-a1i/archify/pull/823) | +20 / -2 across 3 files | 4 reviews · 4 comments |
 | 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4441: fix(ralphthon): reject invalid --max-waves and --poll-interval values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441) | +54 / -26 across 3 files | 2 reviews · 2 comments |
