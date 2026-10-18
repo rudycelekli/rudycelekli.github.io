@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T17:59:00Z</updated>
+  <updated>2026-10-18T18:06:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4451: fix(agents): read agent frontmatter by line-anchored delimiters and after a BOM</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4451</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4451"/>
+    <updated>2026-10-18T18:06:39Z</updated>
+    <summary>Merged public contribution. +56 / -23 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1464: fix(daemon): keep a member's mechanic when re-serializing a rig spec</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1464</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1464"/>
+    <updated>2026-10-18T18:05:58Z</updated>
+    <summary>Merged public contribution. +12 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1471: fix(tui): keep combining marks when matching heading anchors</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1471</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1471"/>
+    <updated>2026-10-18T18:05:37Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1463: fix(cli): warn when a watchdog cadence is read as a different number</title>
     <id>https://github.com/mvschwarz/openrig/pull/1463</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3772"/>
     <updated>2026-10-18T08:52:14Z</updated>
     <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3770: fix(edit): preserve fuzzy block indentation after outer newlines</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3770</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3770"/>
-    <updated>2026-10-18T08:52:11Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/nanobot #6183: fix: preserve XLSX grep cell locators with literal tabs</title>
-    <id>https://github.com/HKUDS/nanobot/pull/6183</id>
-    <link href="https://github.com/HKUDS/nanobot/pull/6183"/>
-    <updated>2026-10-18T08:40:44Z</updated>
-    <summary>Merged public contribution. +64 / -10 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1088: fix(defects): record public predictions for background workers</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1088</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1088"/>
-    <updated>2026-10-18T08:15:00Z</updated>
-    <summary>Merged public contribution. +630 / -59 across 10 changed files.</summary>
   </entry>
 </feed>

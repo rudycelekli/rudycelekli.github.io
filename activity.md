@@ -4,13 +4,16 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,491**
+Records: **2,494**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1463: fix(cli): warn when a watchdog cadence is read as a different number](https://github.com/mvschwarz/openrig/pull/1463) | +92 / -7 across 2 files | 1 reviews · 4 comments |
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1469: fix(tui): stop Help palette selection at the last command so up moves after overshooting](https://github.com/mvschwarz/openrig/pull/1469) | +19 / -2 across 2 files | 1 reviews · 1 comments |
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1466: fix(cli): point restore's not-found hint at the real snapshot list syntax](https://github.com/mvschwarz/openrig/pull/1466) | +9 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4451: fix(agents): read agent frontmatter by line-anchored delimiters and after a BOM](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4451) | +56 / -23 across 3 files | 1 reviews · 3 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1464: fix(daemon): keep a member's mechanic when re-serializing a rig spec](https://github.com/mvschwarz/openrig/pull/1464) | +12 / -0 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1471: fix(tui): keep combining marks when matching heading anchors](https://github.com/mvschwarz/openrig/pull/1471) | +11 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1463: fix(cli): warn when a watchdog cadence is read as a different number](https://github.com/mvschwarz/openrig/pull/1463) | +92 / -7 across 2 files | 1 reviews · 5 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1469: fix(tui): stop Help palette selection at the last command so up moves after overshooting](https://github.com/mvschwarz/openrig/pull/1469) | +19 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1466: fix(cli): point restore's not-found hint at the real snapshot list syntax](https://github.com/mvschwarz/openrig/pull/1466) | +9 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1407: fix(core): refuse DOS device names with spaces or superscript digits](https://github.com/akitaonrails/ai-memory/pull/1407) | +17 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-18 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1406: fix(store): strip workstream search column prefixes only at word starts](https://github.com/akitaonrails/ai-memory/pull/1406) | +116 / -4 across 3 files | 0 reviews · 0 comments |
 | 2026-10-18 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1405: fix(store): keep title and body column filters on punctuated terms](https://github.com/akitaonrails/ai-memory/pull/1405) | +66 / -0 across 3 files | 0 reviews · 0 comments |
