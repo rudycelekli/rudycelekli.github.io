@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T14:43:11Z</updated>
+  <updated>2026-10-18T15:09:42Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1454: fix(ui): keep emoji whole in shortened activity event previews</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1454</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1454"/>
+    <updated>2026-10-18T15:09:42Z</updated>
+    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1461: fix(scope): pair a proof drop's folded evidence refs in the Scopes view</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1461</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1461"/>
+    <updated>2026-10-18T15:01:34Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1460: fix(scope): read 1) mini-requirements in the Scopes view like 1. ones</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1460</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1460"/>
+    <updated>2026-10-18T15:00:37Z</updated>
+    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1458: fix(tui): ignore horizontal wheel notches instead of scrolling vertically</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1458</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1458"/>
+    <updated>2026-10-18T14:59:33Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1457: fix(daemon): probe IPv6 http hosts without URL brackets in GET /api/hosts</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1457</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1457"/>
+    <updated>2026-10-18T14:58:55Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1455: fix(daemon): match chat search keywords literally, not as LIKE wildcards</title>
     <id>https://github.com/mvschwarz/openrig/pull/1455</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/anmolkapil/plexo/pull/124"/>
     <updated>2026-10-18T05:49:43Z</updated>
     <summary>Merged public contribution. +63 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #484: gemini: the three copies of the tool-schema repair agree, and a test keeps them agreeing</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/484</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/484"/>
-    <updated>2026-10-18T05:49:02Z</updated>
-    <summary>Merged public contribution. +116 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #483: relay: a route's totals are folded and read under one lock</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/483</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/483"/>
-    <updated>2026-10-18T05:46:12Z</updated>
-    <summary>Merged public contribution. +186 / -19 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #482: docs: the self-hosting guide no longer says max_cost_usd caps a turn</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/482</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/482"/>
-    <updated>2026-10-18T05:43:02Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #586: fix(jobnet-search): preserve full occupation identifiers in tables</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/586</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/586"/>
-    <updated>2026-10-18T05:36:47Z</updated>
-    <summary>Merged public contribution. +82 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #578: fix(framework-version): distinguish marker changes from YAML formatting</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/578</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/578"/>
-    <updated>2026-10-18T05:36:14Z</updated>
-    <summary>Merged public contribution. +62 / -7 across 3 changed files.</summary>
   </entry>
 </feed>

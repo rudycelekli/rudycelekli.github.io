@@ -4,13 +4,18 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,466**
+Records: **2,471**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1455: fix(daemon): match chat search keywords literally, not as LIKE wildcards](https://github.com/mvschwarz/openrig/pull/1455) | +15 / -2 across 2 files | 1 reviews · 1 comments |
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1453: fix(tui): keep emoji whole when Scopes, Pulse and Execution rows are cut to width](https://github.com/mvschwarz/openrig/pull/1453) | +58 / -10 across 5 files | 2 reviews · 1 comments |
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1452: fix(daemon): read an empty compose ps JSON array as no services](https://github.com/mvschwarz/openrig/pull/1452) | +12 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1454: fix(ui): keep emoji whole in shortened activity event previews](https://github.com/mvschwarz/openrig/pull/1454) | +13 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1461: fix(scope): pair a proof drop's folded evidence refs in the Scopes view](https://github.com/mvschwarz/openrig/pull/1461) | +30 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1460: fix(scope): read 1) mini-requirements in the Scopes view like 1. ones](https://github.com/mvschwarz/openrig/pull/1460) | +12 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1458: fix(tui): ignore horizontal wheel notches instead of scrolling vertically](https://github.com/mvschwarz/openrig/pull/1458) | +18 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1457: fix(daemon): probe IPv6 http hosts without URL brackets in GET /api/hosts](https://github.com/mvschwarz/openrig/pull/1457) | +22 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1455: fix(daemon): match chat search keywords literally, not as LIKE wildcards](https://github.com/mvschwarz/openrig/pull/1455) | +15 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1453: fix(tui): keep emoji whole when Scopes, Pulse and Execution rows are cut to width](https://github.com/mvschwarz/openrig/pull/1453) | +58 / -10 across 5 files | 2 reviews · 2 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1452: fix(daemon): read an empty compose ps JSON array as no services](https://github.com/mvschwarz/openrig/pull/1452) | +12 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#60: perf(quantization): sort SearchBinary results in O(n log n)](https://github.com/liliang-cn/cortexdb/pull/60) | +35 / -8 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#59: fix(quantization): keep an empty k-means cluster at its previous centroid](https://github.com/liliang-cn/cortexdb/pull/59) | +39 / -8 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#58: fix(index): return no results for non-positive k from MultiIndex and HybridIndex](https://github.com/liliang-cn/cortexdb/pull/58) | +67 / -0 across 2 files | 0 reviews · 1 comments |
