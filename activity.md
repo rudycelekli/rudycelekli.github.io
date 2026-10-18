@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,413**
+Records: **2,424**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#485: sql: a result the row cap cut short says truncated](https://github.com/HarnessRouter/harnessrouter/pull/485) | +37 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#125: fix: reject exhausted redirect chains during link probing](https://github.com/anmolkapil/plexo/pull/125) | +37 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#124: fix: parse complete Content-Disposition filename parameters](https://github.com/anmolkapil/plexo/pull/124) | +63 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#484: gemini: the three copies of the tool-schema repair agree, and a test keeps them agreeing](https://github.com/HarnessRouter/harnessrouter/pull/484) | +116 / -0 across 3 files | 1 reviews · 1 comments |
+| 2026-10-18 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#483: relay: a route's totals are folded and read under one lock](https://github.com/HarnessRouter/harnessrouter/pull/483) | +186 / -19 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#482: docs: the self-hosting guide no longer says max_cost_usd caps a turn](https://github.com/HarnessRouter/harnessrouter/pull/482) | +16 / -2 across 2 files | 2 reviews · 1 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#586: fix(jobnet-search): preserve full occupation identifiers in tables](https://github.com/MadsLorentzen/ai-job-search/pull/586) | +82 / -2 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#578: fix(framework-version): distinguish marker changes from YAML formatting](https://github.com/MadsLorentzen/ai-job-search/pull/578) | +62 / -7 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#481: responses: a request's max_output_tokens is named in metadata.ignored_fields](https://github.com/HarnessRouter/harnessrouter/pull/481) | +57 / -4 across 3 files | 1 reviews · 1 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#580: fix(reset): clear document entries while preserving scaffolds](https://github.com/MadsLorentzen/ai-job-search/pull/580) | +170 / -20 across 4 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#579: docs(jobindex-search): align search examples with the actual CLI contract](https://github.com/MadsLorentzen/ai-job-search/pull/579) | +115 / -38 across 4 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#570: fix(salary): preserve Unicode company identity in lookups](https://github.com/MadsLorentzen/ai-job-search/pull/570) | +82 / -7 across 3 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#591: fix(upstream): preserve selected refs in companion commands](https://github.com/MadsLorentzen/ai-job-search/pull/591) | +76 / -5 across 4 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#585: fix(upstream): distinguish new paths from fork deletions](https://github.com/MadsLorentzen/ai-job-search/pull/585) | +63 / -15 across 3 files | 1 reviews · 2 comments |

@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T05:28:43Z</updated>
+  <updated>2026-10-18T05:52:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HarnessRouter/harnessrouter #485: sql: a result the row cap cut short says truncated</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/485</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/485"/>
+    <updated>2026-10-18T05:52:28Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #125: fix: reject exhausted redirect chains during link probing</title>
+    <id>https://github.com/anmolkapil/plexo/pull/125</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/125"/>
+    <updated>2026-10-18T05:50:23Z</updated>
+    <summary>Merged public contribution. +37 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #124: fix: parse complete Content-Disposition filename parameters</title>
+    <id>https://github.com/anmolkapil/plexo/pull/124</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/124"/>
+    <updated>2026-10-18T05:49:43Z</updated>
+    <summary>Merged public contribution. +63 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #484: gemini: the three copies of the tool-schema repair agree, and a test keeps them agreeing</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/484</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/484"/>
+    <updated>2026-10-18T05:49:02Z</updated>
+    <summary>Merged public contribution. +116 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #483: relay: a route's totals are folded and read under one lock</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/483</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/483"/>
+    <updated>2026-10-18T05:46:12Z</updated>
+    <summary>Merged public contribution. +186 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #482: docs: the self-hosting guide no longer says max_cost_usd caps a turn</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/482</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/482"/>
+    <updated>2026-10-18T05:43:02Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #586: fix(jobnet-search): preserve full occupation identifiers in tables</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/586</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/586"/>
+    <updated>2026-10-18T05:36:47Z</updated>
+    <summary>Merged public contribution. +82 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #578: fix(framework-version): distinguish marker changes from YAML formatting</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/578</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/578"/>
+    <updated>2026-10-18T05:36:14Z</updated>
+    <summary>Merged public contribution. +62 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #481: responses: a request's max_output_tokens is named in metadata.ignored_fields</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/481</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/481"/>
+    <updated>2026-10-18T05:36:00Z</updated>
+    <summary>Merged public contribution. +57 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #580: fix(reset): clear document entries while preserving scaffolds</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/580</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/580"/>
+    <updated>2026-10-18T05:33:42Z</updated>
+    <summary>Merged public contribution. +170 / -20 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #579: docs(jobindex-search): align search examples with the actual CLI contract</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/579</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/579"/>
+    <updated>2026-10-18T05:31:13Z</updated>
+    <summary>Merged public contribution. +115 / -38 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #570: fix(salary): preserve Unicode company identity in lookups</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/570</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/ruvnet/ruflo/pull/4233"/>
     <updated>2026-10-17T14:00:17Z</updated>
     <summary>Merged public contribution. +79 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4244: fix(swarm): keep coordinator cancellation terminal</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4244</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4244"/>
-    <updated>2026-10-17T13:59:08Z</updated>
-    <summary>Merged public contribution. +114 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4240: fix: serialize learning stats transactions across processes</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4240</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4240"/>
-    <updated>2026-10-17T13:59:05Z</updated>
-    <summary>Merged public contribution. +359 / -27 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4236: fix(swarm): release failed and cancelled task workers</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4236</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4236"/>
-    <updated>2026-10-17T13:58:56Z</updated>
-    <summary>Merged public contribution. +138 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4210: fix(memory): refresh Claude memories across project and worktree roots</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4210</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4210"/>
-    <updated>2026-10-17T13:58:05Z</updated>
-    <summary>Merged public contribution. +135 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1050: feat(web): expose native dialog kinds to handlers</title>
-    <id>https://github.com/tester-army/e2e/pull/1050</id>
-    <link href="https://github.com/tester-army/e2e/pull/1050"/>
-    <updated>2026-10-17T13:40:11Z</updated>
-    <summary>Merged public contribution. +55 / -3 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1063: fix(crdt): keep a node's later local LWW write within the same millisecond</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1063</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1063"/>
-    <updated>2026-10-17T11:36:48Z</updated>
-    <summary>Merged public contribution. +76 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1886: fix(cli): reject non-positive --limit for list and memory search</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1886</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1886"/>
-    <updated>2026-10-17T11:02:07Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1896: fix(memory): honor VIBE_TRADING_HOME for persistent memory and search index</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1896</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1896"/>
-    <updated>2026-10-17T11:02:02Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1897: fix(options-payoff): return an error envelope when the result overflows to inf</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1897</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1897"/>
-    <updated>2026-10-17T11:01:57Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1898: fix(factors): make ts_argmax/ts_argmin tie-breaking backend-independent</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1898</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1898"/>
-    <updated>2026-10-17T11:01:53Z</updated>
-    <summary>Merged public contribution. +42 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #57: fix: redact bearer tokens and quoted values from installer error details</title>
-    <id>https://github.com/rociiu/talorys/pull/57</id>
-    <link href="https://github.com/rociiu/talorys/pull/57"/>
-    <updated>2026-10-17T09:54:39Z</updated>
-    <summary>Merged public contribution. +46 / -3 across 3 changed files.</summary>
   </entry>
 </feed>
