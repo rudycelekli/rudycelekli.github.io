@@ -8,7 +8,7 @@ Records: **2,471**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1454: fix(ui): keep emoji whole in shortened activity event previews](https://github.com/mvschwarz/openrig/pull/1454) | +13 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1454: fix(ui): keep emoji whole in shortened activity event previews](https://github.com/mvschwarz/openrig/pull/1454) | +13 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1461: fix(scope): pair a proof drop's folded evidence refs in the Scopes view](https://github.com/mvschwarz/openrig/pull/1461) | +30 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1460: fix(scope): read 1) mini-requirements in the Scopes view like 1. ones](https://github.com/mvschwarz/openrig/pull/1460) | +12 / -2 across 2 files | 1 reviews · 2 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1458: fix(tui): ignore horizontal wheel notches instead of scrolling vertically](https://github.com/mvschwarz/openrig/pull/1458) | +18 / -1 across 2 files | 1 reviews · 2 comments |
