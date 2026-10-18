@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,396**
+Records: **2,399**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#567: fix(linkedin-search): preserve description paragraph and list breaks](https://github.com/MadsLorentzen/ai-job-search/pull/567) | +146 / -1 across 5 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#577: fix(jobbank-search): retain all documented repeated filter values](https://github.com/MadsLorentzen/ai-job-search/pull/577) | +92 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#589: docs(portal-clis): correct Danish CLI installation paths](https://github.com/MadsLorentzen/ai-job-search/pull/589) | +6 / -4 across 5 files | 1 reviews · 2 comments |
 | 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1908: fix(swarm): tolerate a half-written final line in read_events](https://github.com/HKUDS/Vibe-Trading/pull/1908) | +56 / -3 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1907: fix(etf-holdings): accept Yahoo's .SS suffix for Shanghai-listed funds](https://github.com/HKUDS/Vibe-Trading/pull/1907) | +12 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1906: fix(financial-rigor): honor explicit zero tolerance_pct and years](https://github.com/HKUDS/Vibe-Trading/pull/1906) | +27 / -2 across 2 files | 0 reviews · 1 comments |

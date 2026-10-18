@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T04:08:04Z</updated>
+  <updated>2026-10-18T04:55:15Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #567: fix(linkedin-search): preserve description paragraph and list breaks</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/567</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/567"/>
+    <updated>2026-10-18T04:55:15Z</updated>
+    <summary>Merged public contribution. +146 / -1 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #577: fix(jobbank-search): retain all documented repeated filter values</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/577</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/577"/>
+    <updated>2026-10-18T04:52:47Z</updated>
+    <summary>Merged public contribution. +92 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #589: docs(portal-clis): correct Danish CLI installation paths</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/589</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/589"/>
+    <updated>2026-10-18T04:50:18Z</updated>
+    <summary>Merged public contribution. +6 / -4 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1908: fix(swarm): tolerate a half-written final line in read_events</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1908</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/debpalash/VoiceStudio/pull/2939"/>
     <updated>2026-10-17T04:29:20Z</updated>
     <summary>Merged public contribution. +123 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1647: fix(truncate): do not cut multi-byte runes when truncating tool output</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1647</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1647"/>
-    <updated>2026-10-17T04:23:44Z</updated>
-    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #56: fix: reject rescheduling an automation to a time that has passed</title>
-    <id>https://github.com/rociiu/talorys/pull/56</id>
-    <link href="https://github.com/rociiu/talorys/pull/56"/>
-    <updated>2026-10-17T01:35:09Z</updated>
-    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #833: test: clean up owned renderer fixture directories</title>
-    <id>https://github.com/tt-a1i/archify/pull/833</id>
-    <link href="https://github.com/tt-a1i/archify/pull/833"/>
-    <updated>2026-10-17T01:31:16Z</updated>
-    <summary>Merged public contribution. +68 / -49 across 6 changed files.</summary>
   </entry>
 </feed>
