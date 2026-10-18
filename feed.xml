@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T16:52:05Z</updated>
+  <updated>2026-10-18T17:02:45Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1470: fix: treat an empty OPENRIG_HOME as unset in the TUI socket, terminal token and crash-cart</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1470</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1470"/>
+    <updated>2026-10-18T17:02:45Z</updated>
+    <summary>Merged public contribution. +46 / -8 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1465: fix(daemon): allow literal dots in agent-image file paths</title>
     <id>https://github.com/mvschwarz/openrig/pull/1465</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HarnessRouter/harnessrouter/pull/485"/>
     <updated>2026-10-18T05:52:28Z</updated>
     <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #125: fix: reject exhausted redirect chains during link probing</title>
-    <id>https://github.com/anmolkapil/plexo/pull/125</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/125"/>
-    <updated>2026-10-18T05:50:23Z</updated>
-    <summary>Merged public contribution. +37 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
