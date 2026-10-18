@@ -4,10 +4,17 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,456**
+Records: **2,463**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#60: perf(quantization): sort SearchBinary results in O(n log n)](https://github.com/liliang-cn/cortexdb/pull/60) | +35 / -8 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#59: fix(quantization): keep an empty k-means cluster at its previous centroid](https://github.com/liliang-cn/cortexdb/pull/59) | +39 / -8 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#58: fix(index): return no results for non-positive k from MultiIndex and HybridIndex](https://github.com/liliang-cn/cortexdb/pull/58) | +67 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#57: fix(index): keep the primary distance when MultiIndex reranks](https://github.com/liliang-cn/cortexdb/pull/57) | +88 / -13 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#56: fix(index): reject a FlatIndex batch whole when one vector has the wrong dimension](https://github.com/liliang-cn/cortexdb/pull/56) | +37 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#55: fix(index): validate HNSW batch dimensions before insertion](https://github.com/liliang-cn/cortexdb/pull/55) | +99 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#54: fix(geo): keep antipodal search distances finite](https://github.com/liliang-cn/cortexdb/pull/54) | +46 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3709: fix(cli): detach standard input when starting the background service](https://github.com/zhayujie/CowAgent/pull/3709) | +103 / -9 across 2 files | 0 reviews · 3 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3754: fix(skills): report failed enable/disable and restore the previous choice](https://github.com/zhayujie/CowAgent/pull/3754) | +118 / -3 across 2 files | 0 reviews · 3 comments |
 | 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3784: fix(web): preserve running settings when a config save fails](https://github.com/zhayujie/CowAgent/pull/3784) | +211 / -5 across 2 files | 0 reviews · 1 comments |

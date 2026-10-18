@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T09:24:33Z</updated>
+  <updated>2026-10-18T14:22:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liliang-cn/cortexdb #60: perf(quantization): sort SearchBinary results in O(n log n)</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/60</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/60"/>
+    <updated>2026-10-18T14:22:33Z</updated>
+    <summary>Merged public contribution. +35 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #59: fix(quantization): keep an empty k-means cluster at its previous centroid</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/59</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/59"/>
+    <updated>2026-10-18T14:22:23Z</updated>
+    <summary>Merged public contribution. +39 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #58: fix(index): return no results for non-positive k from MultiIndex and HybridIndex</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/58</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/58"/>
+    <updated>2026-10-18T14:22:16Z</updated>
+    <summary>Merged public contribution. +67 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #57: fix(index): keep the primary distance when MultiIndex reranks</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/57</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/57"/>
+    <updated>2026-10-18T14:22:05Z</updated>
+    <summary>Merged public contribution. +88 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #56: fix(index): reject a FlatIndex batch whole when one vector has the wrong dimension</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/56</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/56"/>
+    <updated>2026-10-18T14:21:57Z</updated>
+    <summary>Merged public contribution. +37 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #55: fix(index): validate HNSW batch dimensions before insertion</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/55</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/55"/>
+    <updated>2026-10-18T14:21:37Z</updated>
+    <summary>Merged public contribution. +99 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #54: fix(geo): keep antipodal search distances finite</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/54</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/54"/>
+    <updated>2026-10-18T14:21:28Z</updated>
+    <summary>Merged public contribution. +46 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3709: fix(cli): detach standard input when starting the background service</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3709</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/579"/>
     <updated>2026-10-18T05:31:13Z</updated>
     <summary>Merged public contribution. +115 / -38 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #570: fix(salary): preserve Unicode company identity in lookups</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/570</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/570"/>
-    <updated>2026-10-18T05:28:43Z</updated>
-    <summary>Merged public contribution. +82 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #591: fix(upstream): preserve selected refs in companion commands</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/591</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/591"/>
-    <updated>2026-10-18T05:26:11Z</updated>
-    <summary>Merged public contribution. +76 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #585: fix(upstream): distinguish new paths from fork deletions</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/585</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/585"/>
-    <updated>2026-10-18T05:24:01Z</updated>
-    <summary>Merged public contribution. +63 / -15 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #583: fix(upstream): flag incomplete framework comparisons</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/583</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/583"/>
-    <updated>2026-10-18T05:21:32Z</updated>
-    <summary>Merged public contribution. +36 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #572: fix(salary): reject non-finite workbook numbers</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/572</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/572"/>
-    <updated>2026-10-18T05:19:24Z</updated>
-    <summary>Merged public contribution. +65 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #592: fix(salary): parse Unicode whitespace grouping</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/592</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/592"/>
-    <updated>2026-10-18T05:16:55Z</updated>
-    <summary>Merged public contribution. +68 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #571: fix(salary): prefer exact workbook identity headers</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/571</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/571"/>
-    <updated>2026-10-18T05:14:26Z</updated>
-    <summary>Merged public contribution. +61 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
