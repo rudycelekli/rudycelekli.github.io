@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T06:49:50Z</updated>
+  <updated>2026-10-18T07:13:01Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1664: fix: do not cut multi-byte runes when truncating error and diagnostic text</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664"/>
+    <updated>2026-10-18T07:13:01Z</updated>
+    <summary>Merged public contribution. +105 / -7 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>Graphicle-AI/graphicle #6: fix: report an unknown MCP method as "Method not found"</title>
     <id>https://github.com/Graphicle-AI/graphicle/pull/6</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/rociiu/talorys/pull/67"/>
     <updated>2026-10-18T01:32:51Z</updated>
     <summary>Merged public contribution. +40 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #66: fix(tasks): reject impossible dates in offset timestamps</title>
-    <id>https://github.com/rociiu/talorys/pull/66</id>
-    <link href="https://github.com/rociiu/talorys/pull/66"/>
-    <updated>2026-10-18T01:32:44Z</updated>
-    <summary>Merged public contribution. +43 / -2 across 3 changed files.</summary>
   </entry>
 </feed>

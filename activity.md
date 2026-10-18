@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,436**
+Records: **2,437**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1664: fix: do not cut multi-byte runes when truncating error and diagnostic text](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664) | +105 / -7 across 9 files | 0 reviews · 2 comments |
 | 2026-10-18 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#6: fix: report an unknown MCP method as "Method not found"](https://github.com/Graphicle-AI/graphicle/pull/6) | +17 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#5: fix: answer MCP initialize with a protocol version the engine speaks](https://github.com/Graphicle-AI/graphicle/pull/5) | +35 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#4: fix: cut a long conversation opening on a character boundary](https://github.com/Graphicle-AI/graphicle/pull/4) | +23 / -3 across 1 files | 0 reviews · 1 comments |
