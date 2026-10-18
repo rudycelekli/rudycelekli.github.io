@@ -4,8 +4,106 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T04:55:15Z</updated>
+  <updated>2026-10-18T05:28:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #570: fix(salary): preserve Unicode company identity in lookups</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/570</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/570"/>
+    <updated>2026-10-18T05:28:43Z</updated>
+    <summary>Merged public contribution. +82 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #591: fix(upstream): preserve selected refs in companion commands</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/591</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/591"/>
+    <updated>2026-10-18T05:26:11Z</updated>
+    <summary>Merged public contribution. +76 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #585: fix(upstream): distinguish new paths from fork deletions</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/585</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/585"/>
+    <updated>2026-10-18T05:24:01Z</updated>
+    <summary>Merged public contribution. +63 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #583: fix(upstream): flag incomplete framework comparisons</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/583</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/583"/>
+    <updated>2026-10-18T05:21:32Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #572: fix(salary): reject non-finite workbook numbers</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/572</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/572"/>
+    <updated>2026-10-18T05:19:24Z</updated>
+    <summary>Merged public contribution. +65 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #592: fix(salary): parse Unicode whitespace grouping</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/592</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/592"/>
+    <updated>2026-10-18T05:16:55Z</updated>
+    <summary>Merged public contribution. +68 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #571: fix(salary): prefer exact workbook identity headers</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/571</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/571"/>
+    <updated>2026-10-18T05:14:26Z</updated>
+    <summary>Merged public contribution. +61 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #590: fix(salary): skip chart-only workbook tabs</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/590</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/590"/>
+    <updated>2026-10-18T05:11:57Z</updated>
+    <summary>Merged public contribution. +72 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #584: fix(salary): distinguish absent indexes from suppression</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/584</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/584"/>
+    <updated>2026-10-18T05:09:28Z</updated>
+    <summary>Merged public contribution. +76 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #576: fix(salary): skip whitespace-only workbook company rows</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/576</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/576"/>
+    <updated>2026-10-18T05:07:18Z</updated>
+    <summary>Merged public contribution. +56 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #575: fix(salary): validate metadata before rendering lookups</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/575</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/575"/>
+    <updated>2026-10-18T05:05:10Z</updated>
+    <summary>Merged public contribution. +73 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #573: fix(portal-clis): reject missing Danish option values before dispatch</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/573</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/573"/>
+    <updated>2026-10-18T05:02:41Z</updated>
+    <summary>Merged public contribution. +330 / -0 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #568: fix(freehire-search): require values for named search options</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/568</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/568"/>
+    <updated>2026-10-18T05:00:13Z</updated>
+    <summary>Merged public contribution. +93 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #581: test(portal-clis): isolate valid flag controls from live services</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/581</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/581"/>
+    <updated>2026-10-18T04:57:44Z</updated>
+    <summary>Merged public contribution. +104 / -16 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #567: fix(linkedin-search): preserve description paragraph and list breaks</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/567</id>
@@ -257,103 +355,5 @@
     <link href="https://github.com/rociiu/talorys/pull/57"/>
     <updated>2026-10-17T09:54:39Z</updated>
     <summary>Merged public contribution. +46 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1093: fix(learning): optimize recorded observations instead of fabricated samples</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1093</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1093"/>
-    <updated>2026-10-17T08:24:17Z</updated>
-    <summary>Merged public contribution. +312 / -51 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1085: fix(kernel): preserve event delivery during embedder outages</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1085</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1085"/>
-    <updated>2026-10-17T08:24:01Z</updated>
-    <summary>Merged public contribution. +230 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1089: fix(learning): retrieve canonical shared knowledge in its namespace</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1089</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1089"/>
-    <updated>2026-10-17T08:11:33Z</updated>
-    <summary>Merged public contribution. +114 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1084: fix(learning): read transferred patterns in their domain namespace</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1084</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1084"/>
-    <updated>2026-10-17T08:11:25Z</updated>
-    <summary>Merged public contribution. +35 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1090: fix(llm): skip caching empty completion results</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1090</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1090"/>
-    <updated>2026-10-17T08:08:44Z</updated>
-    <summary>Merged public contribution. +109 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1083: fix(learning): retain prototype-named model validation history</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1083</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1083"/>
-    <updated>2026-10-17T08:08:35Z</updated>
-    <summary>Merged public contribution. +85 / -21 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1065: fix(mcp): give domain tasks one execution owner</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1065</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1065"/>
-    <updated>2026-10-17T08:05:49Z</updated>
-    <summary>Merged public contribution. +330 / -3 across 16 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1036: fix(coverage): use configured workspace root for package targets</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1036</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1036"/>
-    <updated>2026-10-17T08:01:12Z</updated>
-    <summary>Merged public contribution. +753 / -11 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1064: fix: keep CI workflow, claim agent and infra service buckets prototype-safe</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1064</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1064"/>
-    <updated>2026-10-17T08:01:02Z</updated>
-    <summary>Merged public contribution. +119 / -25 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1062: fix(crdt): treat an unwritten LWW register state as the merge identity</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1062</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1062"/>
-    <updated>2026-10-17T07:51:34Z</updated>
-    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1342: fix(daemon): answer 400, not 500, when a route's JSON body is null</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1342</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1342"/>
-    <updated>2026-10-17T06:45:00Z</updated>
-    <summary>Merged public contribution. +53 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1319: fix(daemon): answer client-fixable queue park/close refusals with 400 instead of 500</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1319</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1319"/>
-    <updated>2026-10-17T05:41:56Z</updated>
-    <summary>Merged public contribution. +95 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1318: fix(daemon): report a blank YAML list item as a validation error instead of a 500</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1318</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1318"/>
-    <updated>2026-10-17T05:24:38Z</updated>
-    <summary>Merged public contribution. +116 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>debpalash/VoiceStudio #2939: fix(supertonic): preserve language identity for full names</title>
-    <id>https://github.com/debpalash/VoiceStudio/pull/2939</id>
-    <link href="https://github.com/debpalash/VoiceStudio/pull/2939"/>
-    <updated>2026-10-17T04:29:20Z</updated>
-    <summary>Merged public contribution. +123 / -5 across 5 changed files.</summary>
   </entry>
 </feed>

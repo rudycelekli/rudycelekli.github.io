@@ -4,10 +4,24 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,399**
+Records: **2,413**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#570: fix(salary): preserve Unicode company identity in lookups](https://github.com/MadsLorentzen/ai-job-search/pull/570) | +82 / -7 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#591: fix(upstream): preserve selected refs in companion commands](https://github.com/MadsLorentzen/ai-job-search/pull/591) | +76 / -5 across 4 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#585: fix(upstream): distinguish new paths from fork deletions](https://github.com/MadsLorentzen/ai-job-search/pull/585) | +63 / -15 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#583: fix(upstream): flag incomplete framework comparisons](https://github.com/MadsLorentzen/ai-job-search/pull/583) | +36 / -1 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#572: fix(salary): reject non-finite workbook numbers](https://github.com/MadsLorentzen/ai-job-search/pull/572) | +65 / -2 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#592: fix(salary): parse Unicode whitespace grouping](https://github.com/MadsLorentzen/ai-job-search/pull/592) | +68 / -1 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#571: fix(salary): prefer exact workbook identity headers](https://github.com/MadsLorentzen/ai-job-search/pull/571) | +61 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#590: fix(salary): skip chart-only workbook tabs](https://github.com/MadsLorentzen/ai-job-search/pull/590) | +72 / -4 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#584: fix(salary): distinguish absent indexes from suppression](https://github.com/MadsLorentzen/ai-job-search/pull/584) | +76 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#576: fix(salary): skip whitespace-only workbook company rows](https://github.com/MadsLorentzen/ai-job-search/pull/576) | +56 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#575: fix(salary): validate metadata before rendering lookups](https://github.com/MadsLorentzen/ai-job-search/pull/575) | +73 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#573: fix(portal-clis): reject missing Danish option values before dispatch](https://github.com/MadsLorentzen/ai-job-search/pull/573) | +330 / -0 across 9 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#568: fix(freehire-search): require values for named search options](https://github.com/MadsLorentzen/ai-job-search/pull/568) | +93 / -0 across 3 files | 1 reviews · 2 comments |
+| 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#581: test(portal-clis): isolate valid flag controls from live services](https://github.com/MadsLorentzen/ai-job-search/pull/581) | +104 / -16 across 6 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#567: fix(linkedin-search): preserve description paragraph and list breaks](https://github.com/MadsLorentzen/ai-job-search/pull/567) | +146 / -1 across 5 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#577: fix(jobbank-search): retain all documented repeated filter values](https://github.com/MadsLorentzen/ai-job-search/pull/577) | +92 / -0 across 3 files | 1 reviews · 2 comments |
 | 2026-10-18 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#589: docs(portal-clis): correct Danish CLI installation paths](https://github.com/MadsLorentzen/ai-job-search/pull/589) | +6 / -4 across 5 files | 1 reviews · 2 comments |
