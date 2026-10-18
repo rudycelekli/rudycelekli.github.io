@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,442**
+Records: **2,453**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3748: fix(web): keep system-file fallbacks in the requested agent workspace](https://github.com/zhayujie/CowAgent/pull/3748) | +172 / -11 across 2 files | 0 reviews · 2 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3782: fix(scheduler): report rejected operations as failed calls](https://github.com/zhayujie/CowAgent/pull/3782) | +112 / -29 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3781: fix: report MCP transport failures as failed tool calls](https://github.com/zhayujie/CowAgent/pull/3781) | +111 / -12 across 4 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3780: fix: preserve stdout ownership when resetting logger](https://github.com/zhayujie/CowAgent/pull/3780) | +92 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3779: fix: preserve complete Bash output after line truncation](https://github.com/zhayujie/CowAgent/pull/3779) | +74 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3778: fix: preserve executable skill permissions on restore](https://github.com/zhayujie/CowAgent/pull/3778) | +234 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3777: fix: read merged Word table cells once](https://github.com/zhayujie/CowAgent/pull/3777) | +99 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3773: fix: read XLSX cells beyond stale worksheet dimensions](https://github.com/zhayujie/CowAgent/pull/3773) | +41 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3772: fix(search): honor directory filters without ripgrep](https://github.com/zhayujie/CowAgent/pull/3772) | +55 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3770: fix(edit): preserve fuzzy block indentation after outer newlines](https://github.com/zhayujie/CowAgent/pull/3770) | +57 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-18 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | [#6183: fix: preserve XLSX grep cell locators with literal tabs](https://github.com/HKUDS/nanobot/pull/6183) | +64 / -10 across 4 files | 1 reviews · 0 comments |
 | 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1088: fix(defects): record public predictions for background workers](https://github.com/proffesor-for-testing/agentic-qe/pull/1088) | +630 / -59 across 10 files | 1 reviews · 2 comments |
 | 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1092: fix(security): fail DAST scans when target access fails](https://github.com/proffesor-for-testing/agentic-qe/pull/1092) | +568 / -275 across 11 files | 1 reviews · 2 comments |
 | 2026-10-18 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1132: fix(infra-healing): make recovery-playbook lookups prototype-safe](https://github.com/proffesor-for-testing/agentic-qe/pull/1132) | +66 / -3 across 2 files | 0 reviews · 1 comments |

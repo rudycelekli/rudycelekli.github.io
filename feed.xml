@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T08:15:00Z</updated>
+  <updated>2026-10-18T08:52:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3748: fix(web): keep system-file fallbacks in the requested agent workspace</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3748</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3748"/>
+    <updated>2026-10-18T08:52:44Z</updated>
+    <summary>Merged public contribution. +172 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3782: fix(scheduler): report rejected operations as failed calls</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3782</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3782"/>
+    <updated>2026-10-18T08:52:39Z</updated>
+    <summary>Merged public contribution. +112 / -29 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3781: fix: report MCP transport failures as failed tool calls</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3781</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3781"/>
+    <updated>2026-10-18T08:52:36Z</updated>
+    <summary>Merged public contribution. +111 / -12 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3780: fix: preserve stdout ownership when resetting logger</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3780</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3780"/>
+    <updated>2026-10-18T08:52:32Z</updated>
+    <summary>Merged public contribution. +92 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3779: fix: preserve complete Bash output after line truncation</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3779</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3779"/>
+    <updated>2026-10-18T08:52:29Z</updated>
+    <summary>Merged public contribution. +74 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3778: fix: preserve executable skill permissions on restore</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3778</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3778"/>
+    <updated>2026-10-18T08:52:26Z</updated>
+    <summary>Merged public contribution. +234 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3777: fix: read merged Word table cells once</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3777</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3777"/>
+    <updated>2026-10-18T08:52:22Z</updated>
+    <summary>Merged public contribution. +99 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3773: fix: read XLSX cells beyond stale worksheet dimensions</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3773</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3773"/>
+    <updated>2026-10-18T08:52:18Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3772: fix(search): honor directory filters without ripgrep</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3772</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3772"/>
+    <updated>2026-10-18T08:52:14Z</updated>
+    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3770: fix(edit): preserve fuzzy block indentation after outer newlines</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3770</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3770"/>
+    <updated>2026-10-18T08:52:11Z</updated>
+    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/nanobot #6183: fix: preserve XLSX grep cell locators with literal tabs</title>
+    <id>https://github.com/HKUDS/nanobot/pull/6183</id>
+    <link href="https://github.com/HKUDS/nanobot/pull/6183"/>
+    <updated>2026-10-18T08:40:44Z</updated>
+    <summary>Merged public contribution. +64 / -10 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1088: fix(defects): record public predictions for background workers</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1088</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/576"/>
     <updated>2026-10-18T05:07:18Z</updated>
     <summary>Merged public contribution. +56 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #575: fix(salary): validate metadata before rendering lookups</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/575</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/575"/>
-    <updated>2026-10-18T05:05:10Z</updated>
-    <summary>Merged public contribution. +73 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #573: fix(portal-clis): reject missing Danish option values before dispatch</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/573</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/573"/>
-    <updated>2026-10-18T05:02:41Z</updated>
-    <summary>Merged public contribution. +330 / -0 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #568: fix(freehire-search): require values for named search options</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/568</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/568"/>
-    <updated>2026-10-18T05:00:13Z</updated>
-    <summary>Merged public contribution. +93 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #581: test(portal-clis): isolate valid flag controls from live services</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/581</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/581"/>
-    <updated>2026-10-18T04:57:44Z</updated>
-    <summary>Merged public contribution. +104 / -16 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #567: fix(linkedin-search): preserve description paragraph and list breaks</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/567</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/567"/>
-    <updated>2026-10-18T04:55:15Z</updated>
-    <summary>Merged public contribution. +146 / -1 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #577: fix(jobbank-search): retain all documented repeated filter values</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/577</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/577"/>
-    <updated>2026-10-18T04:52:47Z</updated>
-    <summary>Merged public contribution. +92 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #589: docs(portal-clis): correct Danish CLI installation paths</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/589</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/589"/>
-    <updated>2026-10-18T04:50:18Z</updated>
-    <summary>Merged public contribution. +6 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1908: fix(swarm): tolerate a half-written final line in read_events</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1908</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1908"/>
-    <updated>2026-10-18T04:08:04Z</updated>
-    <summary>Merged public contribution. +56 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1907: fix(etf-holdings): accept Yahoo's .SS suffix for Shanghai-listed funds</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1907</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1907"/>
-    <updated>2026-10-18T04:08:04Z</updated>
-    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1906: fix(financial-rigor): honor explicit zero tolerance_pct and years</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1906</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1906"/>
-    <updated>2026-10-18T04:08:04Z</updated>
-    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1904: fix(config): honor VIBE_TRADING_HOME for autopilot runs, alpha-bench cache/reports and gildata codes</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1904</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1904"/>
-    <updated>2026-10-18T04:08:04Z</updated>
-    <summary>Merged public contribution. +42 / -4 across 4 changed files.</summary>
   </entry>
 </feed>
