@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,385**
+Records: **2,386**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-17 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4440: fix(session-end): never let OMC_DAILY_CHAIN_LIMIT floor to zero](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4440) | +25 / -9 across 3 files | 0 reviews · 2 comments |
 | 2026-10-17 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4439: fix(featured-contributors): reject invalid --min-stars values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439) | +30 / -10 across 3 files | 2 reviews · 2 comments |
 | 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1402: fix: share CRLF frontmatter boundaries across policy and review readers](https://github.com/mvschwarz/openrig/pull/1402) | +194 / -29 across 14 files | 1 reviews · 2 comments |
 | 2026-10-17 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1382: fix(wiki): resolve encoded Markdown destinations once](https://github.com/akitaonrails/ai-memory/pull/1382) | +292 / -16 across 7 files | 0 reviews · 0 comments |
@@ -668,15 +669,15 @@ Records: **2,385**
 | 2026-10-12 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#365: fix(validate): keep finite extreme dumbbell domains and coordinates](https://github.com/cathrynlavery/diagram-design/pull/365) | +29 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-10-12 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#944: fix(core): recheck cached session expiry before restore](https://github.com/tester-army/e2e/pull/944) | +35 / -5 across 3 files | 2 reviews · 4 comments |
 | 2026-10-12 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#932: fix(core): stop surviving app-command descendants](https://github.com/tester-army/e2e/pull/932) | +99 / -7 across 3 files | 2 reviews · 5 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1007: fix(scope): prevent parallel slice creates from reusing IDs](https://github.com/mvschwarz/openrig/pull/1007) | +640 / -42 across 5 files | 16 reviews · 11 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1007: fix(scope): prevent parallel slice creates from reusing IDs](https://github.com/mvschwarz/openrig/pull/1007) | +640 / -42 across 5 files | 16 reviews · 12 comments |
 | 2026-10-12 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#235: fix: accept CRLF skill frontmatter consistently](https://github.com/tigerless-labs/autoharness/pull/235) | +21 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-12 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#230: fix(lib): read persisted skill state consistently as UTF-8](https://github.com/tigerless-labs/autoharness/pull/230) | +25 / -4 across 5 files | 0 reviews · 1 comments |
 | 2026-10-12 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#229: fix(atomic): preserve existing file permissions on replacement](https://github.com/tigerless-labs/autoharness/pull/229) | +31 / -0 across 2 files | 0 reviews · 0 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1133: fix(discovery): match agent executable names exactly](https://github.com/mvschwarz/openrig/pull/1133) | +29 / -5 across 2 files | 1 reviews · 5 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1131: fix(watchdog): validate all scheduler cadences before persistence](https://github.com/mvschwarz/openrig/pull/1131) | +122 / -7 across 3 files | 5 reviews · 7 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1129: fix(wake): refuse generations that cannot index a tenure](https://github.com/mvschwarz/openrig/pull/1129) | +46 / -2 across 2 files | 1 reviews · 5 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1122: fix(daemon): validate chat request envelopes before persistence](https://github.com/mvschwarz/openrig/pull/1122) | +91 / -4 across 2 files | 4 reviews · 7 comments |
-| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1109: fix(ci): run portability reports through symlinked paths](https://github.com/mvschwarz/openrig/pull/1109) | +47 / -2 across 2 files | 1 reviews · 7 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1133: fix(discovery): match agent executable names exactly](https://github.com/mvschwarz/openrig/pull/1133) | +29 / -5 across 2 files | 1 reviews · 6 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1131: fix(watchdog): validate all scheduler cadences before persistence](https://github.com/mvschwarz/openrig/pull/1131) | +122 / -7 across 3 files | 5 reviews · 8 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1129: fix(wake): refuse generations that cannot index a tenure](https://github.com/mvschwarz/openrig/pull/1129) | +46 / -2 across 2 files | 1 reviews · 6 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1122: fix(daemon): validate chat request envelopes before persistence](https://github.com/mvschwarz/openrig/pull/1122) | +91 / -4 across 2 files | 4 reviews · 8 comments |
+| 2026-10-12 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1109: fix(ci): run portability reports through symlinked paths](https://github.com/mvschwarz/openrig/pull/1109) | +47 / -2 across 2 files | 1 reviews · 8 comments |
 | 2026-10-12 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#890: fix(metrics): collect expanded Vitest cases before counting](https://github.com/proffesor-for-testing/agentic-qe/pull/890) | +422 / -49 across 3 files | 4 reviews · 3 comments |
 | 2026-10-12 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#951: fix(scheduler): disable invalid legacy cron entries on load](https://github.com/proffesor-for-testing/agentic-qe/pull/951) | +153 / -2 across 4 files | 2 reviews · 1 comments |
 | 2026-10-12 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | [#100: Edit saved connection refresh schedules without replacing credentials](https://github.com/HelixDB/helix-foundry/pull/100) | +878 / -20 across 10 files | 0 reviews · 0 comments |
