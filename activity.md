@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,386**
+Records: **2,390**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4441: fix(ralphthon): reject invalid --max-waves and --poll-interval values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441) | +54 / -26 across 3 files | 2 reviews · 2 comments |
+| 2026-10-18 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#68: fix: don't split an emoji when truncating conversation titles and reminder names](https://github.com/rociiu/talorys/pull/68) | +37 / -2 across 4 files | 0 reviews · 1 comments |
+| 2026-10-18 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#67: fix(notes): retain project filtering during searches](https://github.com/rociiu/talorys/pull/67) | +40 / -5 across 3 files | 0 reviews · 1 comments |
+| 2026-10-18 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#66: fix(tasks): reject impossible dates in offset timestamps](https://github.com/rociiu/talorys/pull/66) | +43 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-10-17 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4440: fix(session-end): never let OMC_DAILY_CHAIN_LIMIT floor to zero](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4440) | +25 / -9 across 3 files | 0 reviews · 2 comments |
 | 2026-10-17 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4439: fix(featured-contributors): reject invalid --min-stars values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439) | +30 / -10 across 3 files | 2 reviews · 2 comments |
 | 2026-10-17 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1402: fix: share CRLF frontmatter boundaries across policy and review readers](https://github.com/mvschwarz/openrig/pull/1402) | +194 / -29 across 14 files | 1 reviews · 2 comments |

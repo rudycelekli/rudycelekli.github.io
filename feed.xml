@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-17T23:33:15Z</updated>
+  <updated>2026-10-18T01:37:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4441: fix(ralphthon): reject invalid --max-waves and --poll-interval values</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4441"/>
+    <updated>2026-10-18T01:37:54Z</updated>
+    <summary>Merged public contribution. +54 / -26 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #68: fix: don't split an emoji when truncating conversation titles and reminder names</title>
+    <id>https://github.com/rociiu/talorys/pull/68</id>
+    <link href="https://github.com/rociiu/talorys/pull/68"/>
+    <updated>2026-10-18T01:32:57Z</updated>
+    <summary>Merged public contribution. +37 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #67: fix(notes): retain project filtering during searches</title>
+    <id>https://github.com/rociiu/talorys/pull/67</id>
+    <link href="https://github.com/rociiu/talorys/pull/67"/>
+    <updated>2026-10-18T01:32:51Z</updated>
+    <summary>Merged public contribution. +40 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #66: fix(tasks): reject impossible dates in offset timestamps</title>
+    <id>https://github.com/rociiu/talorys/pull/66</id>
+    <link href="https://github.com/rociiu/talorys/pull/66"/>
+    <updated>2026-10-18T01:32:44Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4440: fix(session-end): never let OMC_DAILY_CHAIN_LIMIT floor to zero</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4440</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4416"/>
     <updated>2026-10-16T21:43:44Z</updated>
     <summary>Merged public contribution. +61 / -18 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4418: fix(learner): match glob triggers literally apart from *</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4418</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4418"/>
-    <updated>2026-10-16T21:13:14Z</updated>
-    <summary>Merged public contribution. +25 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4417: fix(doctor): ignore empty OMC_SKIP_HOOKS entries</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4417</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4417"/>
-    <updated>2026-10-16T20:46:46Z</updated>
-    <summary>Merged public contribution. +26 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4420: fix(factory): validate listen --port as an integer in 0-65535</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4420</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4420"/>
-    <updated>2026-10-16T20:15:54Z</updated>
-    <summary>Merged public contribution. +56 / -14 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>heygen-com/hyperframes #5712: perf(lint): strip stylesheet comments once per canvas zoom scan</title>
-    <id>https://github.com/heygen-com/hyperframes/pull/5712</id>
-    <link href="https://github.com/heygen-com/hyperframes/pull/5712"/>
-    <updated>2026-10-16T19:22:07Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
