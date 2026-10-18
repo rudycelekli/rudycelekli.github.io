@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T06:17:28Z</updated>
+  <updated>2026-10-18T06:49:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Graphicle-AI/graphicle #6: fix: report an unknown MCP method as "Method not found"</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/6</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/6"/>
+    <updated>2026-10-18T06:49:50Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #5: fix: answer MCP initialize with a protocol version the engine speaks</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/5</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/5"/>
+    <updated>2026-10-18T06:49:50Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #4: fix: cut a long conversation opening on a character boundary</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/4</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/4"/>
+    <updated>2026-10-18T06:49:50Z</updated>
+    <summary>Merged public contribution. +23 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #3: fix: read a Codex config whose multi-line string holds non-ASCII text</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/3</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/3"/>
+    <updated>2026-10-18T06:49:50Z</updated>
+    <summary>Merged public contribution. +13 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>HarnessRouter/harnessrouter #492: zeroclaw: a tool result without rawOutput is its content, not the word "null"</title>
     <id>https://github.com/HarnessRouter/harnessrouter/pull/492</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/rociiu/talorys/pull/66"/>
     <updated>2026-10-18T01:32:44Z</updated>
     <summary>Merged public contribution. +43 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4440: fix(session-end): never let OMC_DAILY_CHAIN_LIMIT floor to zero</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4440</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4440"/>
-    <updated>2026-10-17T23:33:15Z</updated>
-    <summary>Merged public contribution. +25 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4439: fix(featured-contributors): reject invalid --min-stars values</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4439"/>
-    <updated>2026-10-17T23:02:00Z</updated>
-    <summary>Merged public contribution. +30 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1402: fix: share CRLF frontmatter boundaries across policy and review readers</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1402</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1402"/>
-    <updated>2026-10-17T20:02:40Z</updated>
-    <summary>Merged public contribution. +194 / -29 across 14 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1382: fix(wiki): resolve encoded Markdown destinations once</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1382</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1382"/>
-    <updated>2026-10-17T19:35:58Z</updated>
-    <summary>Merged public contribution. +292 / -16 across 7 changed files.</summary>
   </entry>
 </feed>
