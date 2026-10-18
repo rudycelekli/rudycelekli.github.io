@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 21,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-18T00:42:24Z",
+      "deletions": 9,
+      "merged_at": "2026-10-18T02:10:03Z",
+      "number": 4442,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 1,
+      "title": "fix(team): reject non-integer numeric CLI flag values",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4442"
+    },
+    {
       "additions": 20,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -38285,7 +38301,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 8
   },
-  "record_count": 2391,
+  "record_count": 2392,
   "schema_version": 1,
   "updated_at_utc": "2026-10-18"
 }
