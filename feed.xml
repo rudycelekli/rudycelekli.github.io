@@ -4,8 +4,134 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T17:02:45Z</updated>
+  <updated>2026-10-18T17:59:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1463: fix(cli): warn when a watchdog cadence is read as a different number</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1463</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1463"/>
+    <updated>2026-10-18T17:59:00Z</updated>
+    <summary>Merged public contribution. +92 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1469: fix(tui): stop Help palette selection at the last command so up moves after overshooting</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1469</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1469"/>
+    <updated>2026-10-18T17:54:28Z</updated>
+    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1466: fix(cli): point restore's not-found hint at the real snapshot list syntax</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1466</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1466"/>
+    <updated>2026-10-18T17:54:07Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1407: fix(core): refuse DOS device names with spaces or superscript digits</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1407</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1407"/>
+    <updated>2026-10-18T17:48:41Z</updated>
+    <summary>Merged public contribution. +17 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1406: fix(store): strip workstream search column prefixes only at word starts</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1406</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1406"/>
+    <updated>2026-10-18T17:48:41Z</updated>
+    <summary>Merged public contribution. +116 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1405: fix(store): keep title and body column filters on punctuated terms</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1405</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1405"/>
+    <updated>2026-10-18T17:48:41Z</updated>
+    <summary>Merged public contribution. +66 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1403: fix(wiki): skip fenced code when deriving a page title from its H1</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1403</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1403"/>
+    <updated>2026-10-18T17:48:41Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1402: fix(wiki): recognize a closing frontmatter fence at end of file</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1402</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1402"/>
+    <updated>2026-10-18T17:48:41Z</updated>
+    <summary>Merged public contribution. +50 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1413: fix(mcp): answer malformed handoff and message ids with invalid params</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1413</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1413"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +133 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1412: fix(hooks): keep Antigravity step output around invalid UTF-8 bytes</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1412</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1412"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +61 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1411: fix(hooks): treat a Windows drive root as a broad session anchor</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1411</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1411"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1410: fix(hooks): match acknowledgment compounds by whole phrases</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1410</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1410"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +70 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1409: fix(llm): find the Cursor agent's JSON answer inside bracketed prose</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1409</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1409"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +34 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1408: fix(llm): strip reasoning that ends in an unopened closing tag</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1408</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1408"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1404: fix(store): keep the FTS5 prefix operator on punctuated search terms</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1404</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1404"/>
+    <updated>2026-10-18T17:48:40Z</updated>
+    <summary>Merged public contribution. +63 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1456: fix(daemon): answer 400, not 500, for an unbindable limit on queue overdue and usage series</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1456</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1456"/>
+    <updated>2026-10-18T17:45:36Z</updated>
+    <summary>Merged public contribution. +60 / -3 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>retentioneering/retentioneering-tools #178: fix(cluster_analysis): parse string nmf_components like n_clusters</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/178</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/178"/>
+    <updated>2026-10-18T17:45:12Z</updated>
+    <summary>Merged public contribution. +127 / -31 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4450: fix(auto-slash-command): keep the plugin namespace when parsing slash commands</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4450</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4450"/>
+    <updated>2026-10-18T17:35:16Z</updated>
+    <summary>Merged public contribution. +60 / -16 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1470: fix: treat an empty OPENRIG_HOME as unset in the TUI socket, terminal token and crash-cart</title>
     <id>https://github.com/mvschwarz/openrig/pull/1470</id>
@@ -229,131 +355,5 @@
     <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1088"/>
     <updated>2026-10-18T08:15:00Z</updated>
     <summary>Merged public contribution. +630 / -59 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1092: fix(security): fail DAST scans when target access fails</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1092</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1092"/>
-    <updated>2026-10-18T08:12:27Z</updated>
-    <summary>Merged public contribution. +568 / -275 across 11 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1132: fix(infra-healing): make recovery-playbook lookups prototype-safe</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1132</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1132"/>
-    <updated>2026-10-18T08:12:16Z</updated>
-    <summary>Merged public contribution. +66 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1086: fix(code-intelligence): execute public index-code tasks</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1086</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1086"/>
-    <updated>2026-10-18T08:04:03Z</updated>
-    <summary>Merged public contribution. +150 / -3 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-dots #158: fix(permissions): classify branch and remote mutations correctly</title>
-    <id>https://github.com/Anil-matcha/open-dots/pull/158</id>
-    <link href="https://github.com/Anil-matcha/open-dots/pull/158"/>
-    <updated>2026-10-18T08:02:02Z</updated>
-    <summary>Merged public contribution. +141 / -11 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1664: fix: do not cut multi-byte runes when truncating error and diagnostic text</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1664"/>
-    <updated>2026-10-18T07:13:01Z</updated>
-    <summary>Merged public contribution. +105 / -7 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #6: fix: report an unknown MCP method as "Method not found"</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/6</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/6"/>
-    <updated>2026-10-18T06:49:50Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #5: fix: answer MCP initialize with a protocol version the engine speaks</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/5</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/5"/>
-    <updated>2026-10-18T06:49:50Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #4: fix: cut a long conversation opening on a character boundary</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/4</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/4"/>
-    <updated>2026-10-18T06:49:50Z</updated>
-    <summary>Merged public contribution. +23 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #3: fix: read a Codex config whose multi-line string holds non-ASCII text</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/3</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/3"/>
-    <updated>2026-10-18T06:49:50Z</updated>
-    <summary>Merged public contribution. +13 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #492: zeroclaw: a tool result without rawOutput is its content, not the word "null"</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/492</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/492"/>
-    <updated>2026-10-18T06:17:28Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #626: fix(job-key): report a non-object state file in --audit instead of a traceback</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/626</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/626"/>
-    <updated>2026-10-18T06:14:09Z</updated>
-    <summary>Merged public contribution. +32 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #491: Environments: an npm range is a name with no pin, so its check does not call it unpublished</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/491</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/491"/>
-    <updated>2026-10-18T06:13:45Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #490: cheetahclaws: a failure reason that names a path is kept</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/490</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/490"/>
-    <updated>2026-10-18T06:10:16Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #489: aider: a small binary file is not taken for text</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/489</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/489"/>
-    <updated>2026-10-18T06:06:38Z</updated>
-    <summary>Merged public contribution. +24 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #488: aider: an answer line that starts with a shell's name is kept, not read as a fence</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/488</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/488"/>
-    <updated>2026-10-18T06:03:11Z</updated>
-    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #487: media: an empty answer says what was missing, not that the provider answered HTTP 200</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/487</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/487"/>
-    <updated>2026-10-18T05:59:43Z</updated>
-    <summary>Merged public contribution. +40 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #486: sql: a MySQL statement's own LIMIT offset, count is respected</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/486</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/486"/>
-    <updated>2026-10-18T05:56:12Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #485: sql: a result the row cap cut short says truncated</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/485</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/485"/>
-    <updated>2026-10-18T05:52:28Z</updated>
-    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
