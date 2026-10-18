@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T14:22:33Z</updated>
+  <updated>2026-10-18T14:43:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvschwarz/openrig #1455: fix(daemon): match chat search keywords literally, not as LIKE wildcards</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1455</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1455"/>
+    <updated>2026-10-18T14:43:11Z</updated>
+    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1453: fix(tui): keep emoji whole when Scopes, Pulse and Execution rows are cut to width</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1453</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1453"/>
+    <updated>2026-10-18T14:37:08Z</updated>
+    <summary>Merged public contribution. +58 / -10 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvschwarz/openrig #1452: fix(daemon): read an empty compose ps JSON array as no services</title>
+    <id>https://github.com/mvschwarz/openrig/pull/1452</id>
+    <link href="https://github.com/mvschwarz/openrig/pull/1452"/>
+    <updated>2026-10-18T14:36:28Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>liliang-cn/cortexdb #60: perf(quantization): sort SearchBinary results in O(n log n)</title>
     <id>https://github.com/liliang-cn/cortexdb/pull/60</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/578"/>
     <updated>2026-10-18T05:36:14Z</updated>
     <summary>Merged public contribution. +62 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #481: responses: a request's max_output_tokens is named in metadata.ignored_fields</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/481</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/481"/>
-    <updated>2026-10-18T05:36:00Z</updated>
-    <summary>Merged public contribution. +57 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #580: fix(reset): clear document entries while preserving scaffolds</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/580</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/580"/>
-    <updated>2026-10-18T05:33:42Z</updated>
-    <summary>Merged public contribution. +170 / -20 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #579: docs(jobindex-search): align search examples with the actual CLI contract</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/579</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/579"/>
-    <updated>2026-10-18T05:31:13Z</updated>
-    <summary>Merged public contribution. +115 / -38 across 4 changed files.</summary>
   </entry>
 </feed>
