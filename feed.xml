@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T20:52:41Z</updated>
+  <updated>2026-10-19T21:22:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4268: fix(workflow): list, status, stop and run read the shape and errors the workflow tools return</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4268</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4268"/>
+    <updated>2026-10-19T21:22:36Z</updated>
+    <summary>Merged public contribution. +179 / -35 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4207: fix(memory): memory export reports the tool error instead of crashing (#4204)</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4207</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4207"/>
+    <updated>2026-10-19T21:07:07Z</updated>
+    <summary>Merged public contribution. +51 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/ruflo #4208: fix(hooks): worker dispatch prints the status the tool returned (#4196)</title>
     <id>https://github.com/ruvnet/ruflo/pull/4208</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1159"/>
     <updated>2026-10-19T16:47:38Z</updated>
     <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1158: fix(appsec): accept npm's moderate audit severity</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1158</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1158"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1157: fix(ui-designer): escape responsive grid selectors once</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1157</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1157"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
   </entry>
 </feed>

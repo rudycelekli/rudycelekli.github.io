@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 179,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-18T05:03:39Z",
+      "deletions": 35,
+      "merged_at": "2026-10-19T21:22:36Z",
+      "number": 4268,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(workflow): list, status, stop and run read the shape and errors the workflow tools return",
+      "url": "https://github.com/ruvnet/ruflo/pull/4268"
+    },
+    {
+      "additions": 51,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-14T23:09:10Z",
+      "deletions": 0,
+      "merged_at": "2026-10-19T21:07:07Z",
+      "number": 4207,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(memory): memory export reports the tool error instead of crashing (#4204)",
+      "url": "https://github.com/ruvnet/ruflo/pull/4207"
+    },
+    {
       "additions": 72,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -41872,7 +41904,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2615,
+  "record_count": 2617,
   "schema_version": 1,
   "updated_at_utc": "2026-10-19"
 }
