@@ -4,8 +4,148 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T23:33:24Z</updated>
+  <updated>2026-10-19T06:54:10Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #4902: fix(cli): print search results text instead of the raw MCP wrapper</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4902</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4902"/>
+    <updated>2026-10-19T06:54:10Z</updated>
+    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4883: fix(search): treat type="all" as every category instead of an observation type</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4883</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4883"/>
+    <updated>2026-10-19T06:52:42Z</updated>
+    <summary>Merged public contribution. +53 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4886: fix(folder-claude-md): keep newest-first day order when rewriting the by-file timeline</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4886</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4886"/>
+    <updated>2026-10-19T06:40:57Z</updated>
+    <summary>Merged public contribution. +64 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4884: fix(logs): read the viewer's worker log from the effective data directory</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4884</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4884"/>
+    <updated>2026-10-19T06:39:52Z</updated>
+    <summary>Merged public contribution. +57 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4899: fix(privacy): never store a fully private prompt as the session's user_prompt</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4899</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4899"/>
+    <updated>2026-10-19T06:38:35Z</updated>
+    <summary>Merged public contribution. +12 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4898: fix(env): read credentials from a BOM-prefixed ~/.claude-mem/.env</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4898</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4898"/>
+    <updated>2026-10-19T06:36:12Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4859: fix: reject unsupported tree-sitter CLI versions</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4859</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4859"/>
+    <updated>2026-10-19T06:34:12Z</updated>
+    <summary>Merged public contribution. +26 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4892: fix(redaction): redact GitHub ghu_ user-to-server tokens</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4892</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4892"/>
+    <updated>2026-10-19T06:34:03Z</updated>
+    <summary>Merged public contribution. +3 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4894: fix(uninstall): name the fish PATH line the installer wrote</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4894</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4894"/>
+    <updated>2026-10-19T06:33:11Z</updated>
+    <summary>Merged public contribution. +27 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4882: fix(search): keep Chroma relevance order for session summaries and prompts</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4882</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4882"/>
+    <updated>2026-10-19T06:32:18Z</updated>
+    <summary>Merged public contribution. +75 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4897: fix(privacy): strip memory tags with whitespace before the closing &gt; in server payloads</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4897</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4897"/>
+    <updated>2026-10-19T06:29:01Z</updated>
+    <summary>Merged public contribution. +17 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4881: fix(openclaw): render the worker's text results in search, recent and timeline commands</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4881</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4881"/>
+    <updated>2026-10-19T06:27:06Z</updated>
+    <summary>Merged public contribution. +48 / -27 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4896: fix(mcp): find .mcp.json at the installed plugin root for status and toggle</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4896</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4896"/>
+    <updated>2026-10-19T06:24:27Z</updated>
+    <summary>Merged public contribution. +52 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4891: fix(context): show both savings amount and percent in the model's stats line</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4891</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4891"/>
+    <updated>2026-10-19T06:15:37Z</updated>
+    <summary>Merged public contribution. +15 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4885: fix(viewer): show merged worktree rows under the selected project</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4885</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4885"/>
+    <updated>2026-10-19T06:14:53Z</updated>
+    <summary>Merged public contribution. +69 / -2 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4890: fix(claude-md): include absolute-path evidence when generating folder CLAUDE.md</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4890</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4890"/>
+    <updated>2026-10-19T06:12:04Z</updated>
+    <summary>Merged public contribution. +150 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4887: fix(folder-claude-md): keep titles that contain a pipe when rewriting the timeline</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4887</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4887"/>
+    <updated>2026-10-19T06:10:53Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4888: fix(folder-claude-md): check unsafe directory names only below the project root</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4888</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4888"/>
+    <updated>2026-10-19T06:10:11Z</updated>
+    <summary>Merged public contribution. +31 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4895: fix(cursor): refuse to overwrite an unparseable mcp.json instead of dropping other servers</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4895</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4895"/>
+    <updated>2026-10-19T06:08:51Z</updated>
+    <summary>Merged public contribution. +11 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4900: fix(server): return 400/413 for malformed or oversized JSON bodies instead of 500</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4900</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4900"/>
+    <updated>2026-10-19T06:07:03Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>liliang-cn/cortexdb #65: fix(index): reject IVF training vectors of the wrong dimension</title>
     <id>https://github.com/liliang-cn/cortexdb/pull/65</id>
@@ -215,145 +355,5 @@
     <link href="https://github.com/mvschwarz/openrig/pull/1454"/>
     <updated>2026-10-18T15:09:42Z</updated>
     <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1461: fix(scope): pair a proof drop's folded evidence refs in the Scopes view</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1461</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1461"/>
-    <updated>2026-10-18T15:01:34Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1460: fix(scope): read 1) mini-requirements in the Scopes view like 1. ones</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1460</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1460"/>
-    <updated>2026-10-18T15:00:37Z</updated>
-    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1458: fix(tui): ignore horizontal wheel notches instead of scrolling vertically</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1458</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1458"/>
-    <updated>2026-10-18T14:59:33Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1457: fix(daemon): probe IPv6 http hosts without URL brackets in GET /api/hosts</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1457</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1457"/>
-    <updated>2026-10-18T14:58:55Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1455: fix(daemon): match chat search keywords literally, not as LIKE wildcards</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1455</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1455"/>
-    <updated>2026-10-18T14:43:11Z</updated>
-    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1453: fix(tui): keep emoji whole when Scopes, Pulse and Execution rows are cut to width</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1453</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1453"/>
-    <updated>2026-10-18T14:37:08Z</updated>
-    <summary>Merged public contribution. +58 / -10 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1452: fix(daemon): read an empty compose ps JSON array as no services</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1452</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1452"/>
-    <updated>2026-10-18T14:36:28Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #60: perf(quantization): sort SearchBinary results in O(n log n)</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/60</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/60"/>
-    <updated>2026-10-18T14:22:33Z</updated>
-    <summary>Merged public contribution. +35 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #59: fix(quantization): keep an empty k-means cluster at its previous centroid</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/59</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/59"/>
-    <updated>2026-10-18T14:22:23Z</updated>
-    <summary>Merged public contribution. +39 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #58: fix(index): return no results for non-positive k from MultiIndex and HybridIndex</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/58</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/58"/>
-    <updated>2026-10-18T14:22:16Z</updated>
-    <summary>Merged public contribution. +67 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #57: fix(index): keep the primary distance when MultiIndex reranks</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/57</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/57"/>
-    <updated>2026-10-18T14:22:05Z</updated>
-    <summary>Merged public contribution. +88 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #56: fix(index): reject a FlatIndex batch whole when one vector has the wrong dimension</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/56</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/56"/>
-    <updated>2026-10-18T14:21:57Z</updated>
-    <summary>Merged public contribution. +37 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #55: fix(index): validate HNSW batch dimensions before insertion</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/55</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/55"/>
-    <updated>2026-10-18T14:21:37Z</updated>
-    <summary>Merged public contribution. +99 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #54: fix(geo): keep antipodal search distances finite</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/54</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/54"/>
-    <updated>2026-10-18T14:21:28Z</updated>
-    <summary>Merged public contribution. +46 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3709: fix(cli): detach standard input when starting the background service</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3709</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3709"/>
-    <updated>2026-10-18T09:24:33Z</updated>
-    <summary>Merged public contribution. +103 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3754: fix(skills): report failed enable/disable and restore the previous choice</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3754</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3754"/>
-    <updated>2026-10-18T09:24:18Z</updated>
-    <summary>Merged public contribution. +118 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3784: fix(web): preserve running settings when a config save fails</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3784</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3784"/>
-    <updated>2026-10-18T09:23:43Z</updated>
-    <summary>Merged public contribution. +211 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3748: fix(web): keep system-file fallbacks in the requested agent workspace</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3748</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3748"/>
-    <updated>2026-10-18T08:52:44Z</updated>
-    <summary>Merged public contribution. +172 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3782: fix(scheduler): report rejected operations as failed calls</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3782</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3782"/>
-    <updated>2026-10-18T08:52:39Z</updated>
-    <summary>Merged public contribution. +112 / -29 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3781: fix: report MCP transport failures as failed tool calls</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3781</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3781"/>
-    <updated>2026-10-18T08:52:36Z</updated>
-    <summary>Merged public contribution. +111 / -12 across 4 changed files.</summary>
   </entry>
 </feed>
