@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,551**
+Records: **2,554**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-19 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1442: fix(store): keep column filters inside parenthesised search groups](https://github.com/akitaonrails/ai-memory/pull/1442) | +69 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-10-19 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1438: fix(okf): encode directory links in generated bundle indexes](https://github.com/akitaonrails/ai-memory/pull/1438) | +158 / -9 across 5 files | 0 reviews · 0 comments |
+| 2026-10-19 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1109: fix(window): treat an exited owner as a closed window](https://github.com/openclaw/Peekaboo/pull/1109) | +64 / -1 across 3 files | 0 reviews · 4 comments |
 | 2026-10-19 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1041: feat(web): clear all browser fixture routes](https://github.com/tester-army/e2e/pull/1041) | +57 / -11 across 8 files | 4 reviews · 2 comments |
 | 2026-10-19 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1054: fix(tui): show open human updates in Feed](https://github.com/mvschwarz/openrig/pull/1054) | +374 / -6 across 7 files | 7 reviews · 7 comments |
 | 2026-10-19 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1199: fix(launches): report cached fallback missions as stale](https://github.com/bilawalsidhu/gods-eye-view/pull/1199) | +340 / -4 across 8 files | 1 reviews · 1 comments |

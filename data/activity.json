@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 69,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-19T15:12:29Z",
+      "deletions": 0,
+      "merged_at": "2026-10-19T16:31:00Z",
+      "number": 1442,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(store): keep column filters inside parenthesised search groups",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1442"
+    },
+    {
+      "additions": 158,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-19T13:36:25Z",
+      "deletions": 9,
+      "merged_at": "2026-10-19T16:30:42Z",
+      "number": 1438,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(okf): encode directory links in generated bundle indexes",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1438"
+    },
+    {
+      "additions": 64,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-17T22:24:59Z",
+      "deletions": 1,
+      "merged_at": "2026-10-19T16:30:40Z",
+      "number": 1109,
+      "repository": "openclaw/Peekaboo",
+      "repository_url": "https://github.com/openclaw/Peekaboo",
+      "reviews": 0,
+      "title": "fix(window): treat an exited owner as a closed window",
+      "url": "https://github.com/openclaw/Peekaboo/pull/1109"
+    },
+    {
       "additions": 57,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 8,
@@ -40848,7 +40896,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2551,
+  "record_count": 2554,
   "schema_version": 1,
   "updated_at_utc": "2026-10-19"
 }

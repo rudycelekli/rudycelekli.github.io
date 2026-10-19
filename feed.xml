@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T13:57:16Z</updated>
+  <updated>2026-10-19T16:31:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #1442: fix(store): keep column filters inside parenthesised search groups</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1442</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1442"/>
+    <updated>2026-10-19T16:31:00Z</updated>
+    <summary>Merged public contribution. +69 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1438: fix(okf): encode directory links in generated bundle indexes</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1438</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1438"/>
+    <updated>2026-10-19T16:30:42Z</updated>
+    <summary>Merged public contribution. +158 / -9 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1109: fix(window): treat an exited owner as a closed window</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1109</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1109"/>
+    <updated>2026-10-19T16:30:40Z</updated>
+    <summary>Merged public contribution. +64 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tester-army/e2e #1041: feat(web): clear all browser fixture routes</title>
     <id>https://github.com/tester-army/e2e/pull/1041</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/4890"/>
     <updated>2026-10-19T06:12:04Z</updated>
     <summary>Merged public contribution. +150 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4887: fix(folder-claude-md): keep titles that contain a pipe when rewriting the timeline</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4887</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4887"/>
-    <updated>2026-10-19T06:10:53Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4888: fix(folder-claude-md): check unsafe directory names only below the project root</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4888</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4888"/>
-    <updated>2026-10-19T06:10:11Z</updated>
-    <summary>Merged public contribution. +31 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4895: fix(cursor): refuse to overwrite an unparseable mcp.json instead of dropping other servers</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4895</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4895"/>
-    <updated>2026-10-19T06:08:51Z</updated>
-    <summary>Merged public contribution. +11 / -12 across 2 changed files.</summary>
   </entry>
 </feed>
