@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,584**
+Records: **2,588**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#635: fix(rank): report malformed scoring results in apply instead of a traceback](https://github.com/MadsLorentzen/ai-job-search/pull/635) | +40 / -1 across 3 files | 1 reviews · 0 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#634: fix(job-key): report a non-string url in --audit instead of a traceback](https://github.com/MadsLorentzen/ai-job-search/pull/634) | +17 / -0 across 3 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#648: fix(freehire-search): reject --description-format on detail instead of ignoring it](https://github.com/MadsLorentzen/ai-job-search/pull/648) | +84 / -2 across 3 files | 1 reviews · 1 comments |
+| 2026-10-19 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#832: fix(onesignal): validate audience payload shapes and filter limits](https://github.com/coreyhaines31/marketingskills/pull/832) | +48 / -3 across 6 files | 0 reviews · 1 comments |
 | 2026-10-19 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [#1133: fix(inventory): preserve the EOQ annual ordering cost model](https://github.com/msitarzewski/agency-agents/pull/1133) | +4 / -2 across 1 files | 0 reviews · 0 comments |
 | 2026-10-19 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [#1097: fix(analytics): separate reachable churn-risk segments](https://github.com/msitarzewski/agency-agents/pull/1097) | +10 / -4 across 1 files | 0 reviews · 2 comments |
 | 2026-10-19 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | [#1173: fix(incident): correct the 14.4x burn-rate exhaustion time](https://github.com/msitarzewski/agency-agents/pull/1173) | +1 / -1 across 1 files | 0 reviews · 0 comments |

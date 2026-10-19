@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T16:47:39Z</updated>
+  <updated>2026-10-19T17:31:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #635: fix(rank): report malformed scoring results in apply instead of a traceback</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/635</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/635"/>
+    <updated>2026-10-19T17:31:35Z</updated>
+    <summary>Merged public contribution. +40 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #634: fix(job-key): report a non-string url in --audit instead of a traceback</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/634</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/634"/>
+    <updated>2026-10-19T17:30:02Z</updated>
+    <summary>Merged public contribution. +17 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #648: fix(freehire-search): reject --description-format on detail instead of ignoring it</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/648</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/648"/>
+    <updated>2026-10-19T17:22:33Z</updated>
+    <summary>Merged public contribution. +84 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #832: fix(onesignal): validate audience payload shapes and filter limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/832</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/832"/>
+    <updated>2026-10-19T17:02:48Z</updated>
+    <summary>Merged public contribution. +48 / -3 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>msitarzewski/agency-agents #1133: fix(inventory): preserve the EOQ annual ordering cost model</title>
     <id>https://github.com/msitarzewski/agency-agents/pull/1133</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1920"/>
     <updated>2026-10-19T10:43:13Z</updated>
     <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1917: fix(financials): derive fiscal Q4 only for additive units, not share counts or EPS</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1917</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1917"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1914: fix(symbols): resolve Beijing 920/4/8 codes to .BJ in search and Tushare fallback</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1914</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1914"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +35 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1913: fix(china-a): apply board price limits to 301, 689 and Beijing 920 codes</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1913</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1913"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +11 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1912: fix(factors): weight the most recent bar heaviest in decay_linear</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1912</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1912"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +74 / -63 across 4 changed files.</summary>
   </entry>
 </feed>
