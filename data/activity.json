@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 72,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-14T23:09:13Z",
+      "deletions": 1,
+      "merged_at": "2026-10-19T20:52:41Z",
+      "number": 4208,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(hooks): worker dispatch prints the status the tool returned (#4196)",
+      "url": "https://github.com/ruvnet/ruflo/pull/4208"
+    },
+    {
       "additions": 29,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -41856,7 +41872,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2614,
+  "record_count": 2615,
   "schema_version": 1,
   "updated_at_utc": "2026-10-19"
 }
