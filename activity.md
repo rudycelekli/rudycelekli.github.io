@@ -4,10 +4,17 @@ Evidence timestamp: **2026-10-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,603**
+Records: **2,610**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-19 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1112: fix(docs): keep intraword underscores out of emphasis](https://github.com/openclaw/Peekaboo/pull/1112) | +21 / -1 across 3 files | 0 reviews · 4 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#656: fix(upstream-triage): skip new upstream files inside a directory the fork removed](https://github.com/MadsLorentzen/ai-job-search/pull/656) | +64 / -2 across 3 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#650: fix(jobdanmark-search): filter search by the administrative regions locations returns](https://github.com/MadsLorentzen/ai-job-search/pull/650) | +101 / -5 across 5 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#649: fix(jobnet-search): filter search by the ESCO occupation that occupations prints](https://github.com/MadsLorentzen/ai-job-search/pull/649) | +107 / -4 across 5 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#647: fix(jobindex-search): reject a --sort other than score or date instead of sending it to the portal](https://github.com/MadsLorentzen/ai-job-search/pull/647) | +86 / -1 across 3 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#646: fix(linkedin-search): require a value for --query instead of dropping the keywords](https://github.com/MadsLorentzen/ai-job-search/pull/646) | +60 / -0 across 3 files | 1 reviews · 1 comments |
+| 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#645: fix(linkedin-search): reject an unknown --remote mode instead of searching every workplace type](https://github.com/MadsLorentzen/ai-job-search/pull/645) | +63 / -0 across 3 files | 2 reviews · 1 comments |
 | 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#644: fix(salary): skip prose notes tabs instead of listing sentences as companies](https://github.com/MadsLorentzen/ai-job-search/pull/644) | +97 / -0 across 3 files | 1 reviews · 1 comments |
 | 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#643: fix(salary): collapse line breaks in wrapped workbook headers](https://github.com/MadsLorentzen/ai-job-search/pull/643) | +60 / -2 across 3 files | 1 reviews · 1 comments |
 | 2026-10-19 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#641: fix(rank): keep every --exclude key out of the sweep when the list has spaces](https://github.com/MadsLorentzen/ai-job-search/pull/641) | +23 / -1 across 3 files | 2 reviews · 1 comments |

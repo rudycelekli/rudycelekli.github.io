@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T17:52:23Z</updated>
+  <updated>2026-10-19T18:35:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>openclaw/Peekaboo #1112: fix(docs): keep intraword underscores out of emphasis</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1112</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1112"/>
+    <updated>2026-10-19T18:35:22Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #656: fix(upstream-triage): skip new upstream files inside a directory the fork removed</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/656</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/656"/>
+    <updated>2026-10-19T18:04:44Z</updated>
+    <summary>Merged public contribution. +64 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #650: fix(jobdanmark-search): filter search by the administrative regions locations returns</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/650</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/650"/>
+    <updated>2026-10-19T18:03:10Z</updated>
+    <summary>Merged public contribution. +101 / -5 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #649: fix(jobnet-search): filter search by the ESCO occupation that occupations prints</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/649</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/649"/>
+    <updated>2026-10-19T18:01:09Z</updated>
+    <summary>Merged public contribution. +107 / -4 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #647: fix(jobindex-search): reject a --sort other than score or date instead of sending it to the portal</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/647</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/647"/>
+    <updated>2026-10-19T17:59:11Z</updated>
+    <summary>Merged public contribution. +86 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #646: fix(linkedin-search): require a value for --query instead of dropping the keywords</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/646</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/646"/>
+    <updated>2026-10-19T17:57:08Z</updated>
+    <summary>Merged public contribution. +60 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #645: fix(linkedin-search): reject an unknown --remote mode instead of searching every workplace type</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/645</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/645"/>
+    <updated>2026-10-19T17:55:32Z</updated>
+    <summary>Merged public contribution. +63 / -0 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #644: fix(salary): skip prose notes tabs instead of listing sentences as companies</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/644</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1137"/>
     <updated>2026-10-19T16:47:38Z</updated>
     <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1136: fix(analytics): count distinct purchases in order-line RFM data</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1136</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1136"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +4 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1135: fix(data): preserve physical source provenance through metadata collisions</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1135</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1135"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +5 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1134: fix(recruitment): honor explicitly selected zero identifiers</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1134</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1134"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1132: fix(security): normalize indicators before private IP filtering</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1132</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1132"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1174: fix(grant-writer): use the current 15% de minimis indirect rate</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1174</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1174"/>
-    <updated>2026-10-19T16:47:37Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1455: fix(consolidate): leave the previous lint report out of the LLM lint pass</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1455</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1455"/>
-    <updated>2026-10-19T16:39:53Z</updated>
-    <summary>Merged public contribution. +90 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1442: fix(store): keep column filters inside parenthesised search groups</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1442</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1442"/>
-    <updated>2026-10-19T16:31:00Z</updated>
-    <summary>Merged public contribution. +69 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
