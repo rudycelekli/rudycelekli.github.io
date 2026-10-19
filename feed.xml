@@ -4,8 +4,113 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T17:31:35Z</updated>
+  <updated>2026-10-19T17:52:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #644: fix(salary): skip prose notes tabs instead of listing sentences as companies</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/644</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/644"/>
+    <updated>2026-10-19T17:52:23Z</updated>
+    <summary>Merged public contribution. +97 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #643: fix(salary): collapse line breaks in wrapped workbook headers</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/643</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/643"/>
+    <updated>2026-10-19T17:50:54Z</updated>
+    <summary>Merged public contribution. +60 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #641: fix(rank): keep every --exclude key out of the sweep when the list has spaces</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/641</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/641"/>
+    <updated>2026-10-19T17:49:25Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1457: fix(cli): keep a BOM from hiding a marker's first-line key or flag</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1457</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1457"/>
+    <updated>2026-10-19T17:40:07Z</updated>
+    <summary>Merged public contribution. +55 / -11 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1453: fix(cli): keep a user hook that shares our matcher group on re-install</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1453</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1453"/>
+    <updated>2026-10-19T17:39:09Z</updated>
+    <summary>Merged public contribution. +46 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1452: fix(wikisync): accept a UTF-8 BOM before an imported page's frontmatter</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1452</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1452"/>
+    <updated>2026-10-19T17:38:07Z</updated>
+    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1451: fix(importer): skip fenced code when deriving a page title</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1451</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1451"/>
+    <updated>2026-10-19T17:37:30Z</updated>
+    <summary>Merged public contribution. +63 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1450: fix(importer): recognize a closing frontmatter fence at end of file</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1450</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1450"/>
+    <updated>2026-10-19T17:36:24Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1449: fix(importer): encode a space in URL path segments as %20</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1449</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1449"/>
+    <updated>2026-10-19T17:36:00Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1448: fix(hooks): treat an exclamation mark as acknowledgment punctuation</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1448</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1448"/>
+    <updated>2026-10-19T17:35:37Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1447: fix(mcp): read a blank auto-improve session_id as omitted</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1447</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1447"/>
+    <updated>2026-10-19T17:35:13Z</updated>
+    <summary>Merged public contribution. +63 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1445: fix(mcp): answer bad page paths, tiers and scopes with invalid params</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1445</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1445"/>
+    <updated>2026-10-19T17:34:49Z</updated>
+    <summary>Merged public contribution. +96 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1444: fix(wiki): recognize an empty frontmatter block</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1444</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1444"/>
+    <updated>2026-10-19T17:34:25Z</updated>
+    <summary>Merged public contribution. +34 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1456: fix(wiki): keep a literal percent in exported wikilink targets</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1456</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1456"/>
+    <updated>2026-10-19T17:33:16Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #639: fix(rank): report a tracker that is not UTF-8 instead of a traceback</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/639</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/639"/>
+    <updated>2026-10-19T17:33:00Z</updated>
+    <summary>Merged public contribution. +29 / -5 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #635: fix(rank): report malformed scoring results in apply instead of a traceback</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/635</id>
@@ -250,110 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1442"/>
     <updated>2026-10-19T16:31:00Z</updated>
     <summary>Merged public contribution. +69 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1438: fix(okf): encode directory links in generated bundle indexes</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1438</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1438"/>
-    <updated>2026-10-19T16:30:42Z</updated>
-    <summary>Merged public contribution. +158 / -9 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1109: fix(window): treat an exited owner as a closed window</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1109</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1109"/>
-    <updated>2026-10-19T16:30:40Z</updated>
-    <summary>Merged public contribution. +64 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1041: feat(web): clear all browser fixture routes</title>
-    <id>https://github.com/tester-army/e2e/pull/1041</id>
-    <link href="https://github.com/tester-army/e2e/pull/1041"/>
-    <updated>2026-10-19T13:57:16Z</updated>
-    <summary>Merged public contribution. +57 / -11 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1054: fix(tui): show open human updates in Feed</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1054</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1054"/>
-    <updated>2026-10-19T13:56:27Z</updated>
-    <summary>Merged public contribution. +374 / -6 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1199: fix(launches): report cached fallback missions as stale</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1199</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1199"/>
-    <updated>2026-10-19T12:30:28Z</updated>
-    <summary>Merged public contribution. +340 / -4 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1197: fix(space): align Launch Library requests with provider guidance</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1197</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1197"/>
-    <updated>2026-10-19T12:11:59Z</updated>
-    <summary>Merged public contribution. +281 / -18 across 14 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1765: fix(display): render text-only dataset samples</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1765</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1765"/>
-    <updated>2026-10-19T11:53:08Z</updated>
-    <summary>Merged public contribution. +122 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #38: fix(linux): escape double quotes correctly in the default-browser desktop Exec</title>
-    <id>https://github.com/liseami/CCBaga/pull/38</id>
-    <link href="https://github.com/liseami/CCBaga/pull/38"/>
-    <updated>2026-10-19T10:44:29Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #37: fix(skill): reject mistyped IPv4 literals as VPS or proxy hostnames</title>
-    <id>https://github.com/liseami/CCBaga/pull/37</id>
-    <link href="https://github.com/liseami/CCBaga/pull/37"/>
-    <updated>2026-10-19T10:44:29Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #36: fix(skill): reject scoped IPv6 literals as VPS, proxy host or exit IP</title>
-    <id>https://github.com/liseami/CCBaga/pull/36</id>
-    <link href="https://github.com/liseami/CCBaga/pull/36"/>
-    <updated>2026-10-19T10:44:29Z</updated>
-    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #35: fix(linux): escape double quotes correctly in desktop Exec paths</title>
-    <id>https://github.com/liseami/CCBaga/pull/35</id>
-    <link href="https://github.com/liseami/CCBaga/pull/35"/>
-    <updated>2026-10-19T10:44:29Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1928: fix(factormodel): reject negative specific variances instead of clipping them to zero</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1928</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1928"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +43 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1925: fix(indicators): stop rounding Bollinger and MACD to zero for sub-penny prices</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1925</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1925"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +61 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1922: fix(portfolio): read Futu market-prefixed codes in the risk x-ray and holdings merge</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1922</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1922"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +66 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1920: fix(eventstudy): keep the estimation window before the event for post-event windows</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1920</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1920"/>
-    <updated>2026-10-19T10:43:13Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
