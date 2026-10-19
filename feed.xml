@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T18:35:22Z</updated>
+  <updated>2026-10-19T18:51:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4209: fix(memory): memory_migrate reports what it migrated; force clears the marker that is checked (#4194)</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4209</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4209"/>
+    <updated>2026-10-19T18:51:35Z</updated>
+    <summary>Merged public contribution. +124 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4267: fix(memory): memory import reports the tool error and partial failures instead of crashing</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4267</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4267"/>
+    <updated>2026-10-19T18:51:25Z</updated>
+    <summary>Merged public contribution. +87 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>openclaw/Peekaboo #1112: fix(docs): keep intraword underscores out of emphasis</title>
     <id>https://github.com/openclaw/Peekaboo/pull/1112</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1139"/>
     <updated>2026-10-19T16:47:38Z</updated>
     <summary>Merged public contribution. +4 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1138: fix(support): exclude missing status from overdue outreach</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1138</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1138"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1137: fix(identity): implement default exact record comparison</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1137</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1137"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
   </entry>
 </feed>

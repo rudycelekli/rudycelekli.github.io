@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 124,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-14T23:09:15Z",
+      "deletions": 8,
+      "merged_at": "2026-10-19T18:51:35Z",
+      "number": 4209,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(memory): memory_migrate reports what it migrated; force clears the marker that is checked (#4194)",
+      "url": "https://github.com/ruvnet/ruflo/pull/4209"
+    },
+    {
+      "additions": 87,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-18T04:57:03Z",
+      "deletions": 0,
+      "merged_at": "2026-10-19T18:51:25Z",
+      "number": 4267,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(memory): memory import reports the tool error and partial failures instead of crashing",
+      "url": "https://github.com/ruvnet/ruflo/pull/4267"
+    },
+    {
       "additions": 21,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -41792,7 +41824,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2610,
+  "record_count": 2612,
   "schema_version": 1,
   "updated_at_utc": "2026-10-19"
 }
