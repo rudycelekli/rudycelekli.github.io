@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T07:29:14Z</updated>
+  <updated>2026-10-19T08:52:32Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1776: fix(tallyqa): retain signs and decimal parts when extracting counts</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1776</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1776"/>
+    <updated>2026-10-19T08:52:32Z</updated>
+    <summary>Merged public contribution. +75 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Softeria/ms-365-mcp-server #747: fix(signoff): sign the PascalCase body keys the generated mail tool schemas use</title>
     <id>https://github.com/Softeria/ms-365-mcp-server/pull/747</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1411"/>
     <updated>2026-10-18T17:48:40Z</updated>
     <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1410: fix(hooks): match acknowledgment compounds by whole phrases</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1410</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1410"/>
-    <updated>2026-10-18T17:48:40Z</updated>
-    <summary>Merged public contribution. +70 / -8 across 2 changed files.</summary>
   </entry>
 </feed>

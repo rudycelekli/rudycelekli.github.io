@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,529**
+Records: **2,530**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-19 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1776: fix(tallyqa): retain signs and decimal parts when extracting counts](https://github.com/open-compass/VLMEvalKit/pull/1776) | +75 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-19 | [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | [#747: fix(signoff): sign the PascalCase body keys the generated mail tool schemas use](https://github.com/Softeria/ms-365-mcp-server/pull/747) | +49 / -7 across 2 files | 0 reviews · 2 comments |
 | 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4864: fix(codex): sweep app-server workdirs a dead worker left in the temp directory (#4788)](https://github.com/thedotmack/claude-mem/pull/4864) | +163 / -1 across 2 files | 2 reviews · 4 comments |
 | 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4893: fix(launcher): run project-scoped subcommands in the caller's directory](https://github.com/thedotmack/claude-mem/pull/4893) | +62 / -0 across 2 files | 0 reviews · 4 comments |
