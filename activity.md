@@ -4,10 +4,19 @@ Evidence timestamp: **2026-10-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,520**
+Records: **2,529**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-19 | [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | [#747: fix(signoff): sign the PascalCase body keys the generated mail tool schemas use](https://github.com/Softeria/ms-365-mcp-server/pull/747) | +49 / -7 across 2 files | 0 reviews · 2 comments |
+| 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4864: fix(codex): sweep app-server workdirs a dead worker left in the temp directory (#4788)](https://github.com/thedotmack/claude-mem/pull/4864) | +163 / -1 across 2 files | 2 reviews · 4 comments |
+| 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4893: fix(launcher): run project-scoped subcommands in the caller's directory](https://github.com/thedotmack/claude-mem/pull/4893) | +62 / -0 across 2 files | 0 reviews · 4 comments |
+| 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4828: fix(teambrain): reserve UTF-16 space for complete briefs](https://github.com/thedotmack/claude-mem/pull/4828) | +43 / -15 across 3 files | 0 reviews · 4 comments |
+| 2026-10-19 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2068: fix(convert): validate and cache fmt4 resume receipts](https://github.com/JustVugg/colibri/pull/2068) | +554 / -48 across 2 files | 0 reviews · 2 comments |
+| 2026-10-19 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2151: fix(setup): require the advertised release checksum before download](https://github.com/JustVugg/colibri/pull/2151) | +69 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-19 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2146: fix(setup): verify reused split-drive shard digests](https://github.com/JustVugg/colibri/pull/2146) | +43 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-19 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2145: fix(inkling): exclude pinned slots from acquisition rounds](https://github.com/JustVugg/colibri/pull/2145) | +150 / -7 across 2 files | 0 reviews · 0 comments |
+| 2026-10-19 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2125: fix(olmoe): guard unused dense-FP16 state in portable adapters](https://github.com/JustVugg/colibri/pull/2125) | +3 / -1 across 1 files | 0 reviews · 0 comments |
 | 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4902: fix(cli): print search results text instead of the raw MCP wrapper](https://github.com/thedotmack/claude-mem/pull/4902) | +65 / -1 across 2 files | 0 reviews · 3 comments |
 | 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4883: fix(search): treat type="all" as every category instead of an observation type](https://github.com/thedotmack/claude-mem/pull/4883) | +53 / -2 across 2 files | 1 reviews · 3 comments |
 | 2026-10-19 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4886: fix(folder-claude-md): keep newest-first day order when rewriting the by-file timeline](https://github.com/thedotmack/claude-mem/pull/4886) | +64 / -2 across 4 files | 0 reviews · 3 comments |

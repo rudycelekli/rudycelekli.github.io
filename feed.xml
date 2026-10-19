@@ -4,8 +4,71 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T06:54:10Z</updated>
+  <updated>2026-10-19T07:29:14Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Softeria/ms-365-mcp-server #747: fix(signoff): sign the PascalCase body keys the generated mail tool schemas use</title>
+    <id>https://github.com/Softeria/ms-365-mcp-server/pull/747</id>
+    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/747"/>
+    <updated>2026-10-19T07:29:14Z</updated>
+    <summary>Merged public contribution. +49 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4864: fix(codex): sweep app-server workdirs a dead worker left in the temp directory (#4788)</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4864</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4864"/>
+    <updated>2026-10-19T07:21:26Z</updated>
+    <summary>Merged public contribution. +163 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4893: fix(launcher): run project-scoped subcommands in the caller's directory</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4893</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4893"/>
+    <updated>2026-10-19T07:18:35Z</updated>
+    <summary>Merged public contribution. +62 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #4828: fix(teambrain): reserve UTF-16 space for complete briefs</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4828</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4828"/>
+    <updated>2026-10-19T07:07:16Z</updated>
+    <summary>Merged public contribution. +43 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2068: fix(convert): validate and cache fmt4 resume receipts</title>
+    <id>https://github.com/JustVugg/colibri/pull/2068</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2068"/>
+    <updated>2026-10-19T07:02:52Z</updated>
+    <summary>Merged public contribution. +554 / -48 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2151: fix(setup): require the advertised release checksum before download</title>
+    <id>https://github.com/JustVugg/colibri/pull/2151</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2151"/>
+    <updated>2026-10-19T07:02:44Z</updated>
+    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2146: fix(setup): verify reused split-drive shard digests</title>
+    <id>https://github.com/JustVugg/colibri/pull/2146</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2146"/>
+    <updated>2026-10-19T07:02:40Z</updated>
+    <summary>Merged public contribution. +43 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2145: fix(inkling): exclude pinned slots from acquisition rounds</title>
+    <id>https://github.com/JustVugg/colibri/pull/2145</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2145"/>
+    <updated>2026-10-19T07:02:37Z</updated>
+    <summary>Merged public contribution. +150 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2125: fix(olmoe): guard unused dense-FP16 state in portable adapters</title>
+    <id>https://github.com/JustVugg/colibri/pull/2125</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2125"/>
+    <updated>2026-10-19T07:02:12Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4902: fix(cli): print search results text instead of the raw MCP wrapper</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4902</id>
@@ -292,68 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1410"/>
     <updated>2026-10-18T17:48:40Z</updated>
     <summary>Merged public contribution. +70 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1409: fix(llm): find the Cursor agent's JSON answer inside bracketed prose</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1409</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1409"/>
-    <updated>2026-10-18T17:48:40Z</updated>
-    <summary>Merged public contribution. +34 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1408: fix(llm): strip reasoning that ends in an unopened closing tag</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1408</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1408"/>
-    <updated>2026-10-18T17:48:40Z</updated>
-    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1404: fix(store): keep the FTS5 prefix operator on punctuated search terms</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1404</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1404"/>
-    <updated>2026-10-18T17:48:40Z</updated>
-    <summary>Merged public contribution. +63 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1456: fix(daemon): answer 400, not 500, for an unbindable limit on queue overdue and usage series</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1456</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1456"/>
-    <updated>2026-10-18T17:45:36Z</updated>
-    <summary>Merged public contribution. +60 / -3 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #178: fix(cluster_analysis): parse string nmf_components like n_clusters</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/178</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/178"/>
-    <updated>2026-10-18T17:45:12Z</updated>
-    <summary>Merged public contribution. +127 / -31 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4450: fix(auto-slash-command): keep the plugin namespace when parsing slash commands</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4450</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4450"/>
-    <updated>2026-10-18T17:35:16Z</updated>
-    <summary>Merged public contribution. +60 / -16 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1470: fix: treat an empty OPENRIG_HOME as unset in the TUI socket, terminal token and crash-cart</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1470</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1470"/>
-    <updated>2026-10-18T17:02:45Z</updated>
-    <summary>Merged public contribution. +46 / -8 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1465: fix(daemon): allow literal dots in agent-image file paths</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1465</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1465"/>
-    <updated>2026-10-18T16:52:05Z</updated>
-    <summary>Merged public contribution. +36 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1454: fix(ui): keep emoji whole in shortened activity event previews</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1454</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1454"/>
-    <updated>2026-10-18T15:09:42Z</updated>
-    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
