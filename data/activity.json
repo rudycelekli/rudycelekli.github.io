@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 20,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-19T19:45:25Z",
+      "deletions": 0,
+      "merged_at": "2026-10-19T19:56:11Z",
+      "number": 1465,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(run): ignore a UTF-8 BOM at the start of an --env-file",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1465"
+    },
+    {
       "additions": 124,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -41824,7 +41840,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2612,
+  "record_count": 2613,
   "schema_version": 1,
   "updated_at_utc": "2026-10-19"
 }
