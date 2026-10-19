@@ -4,8 +4,218 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-19T16:31:00Z</updated>
+  <updated>2026-10-19T16:47:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>msitarzewski/agency-agents #1133: fix(inventory): preserve the EOQ annual ordering cost model</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1133</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1133"/>
+    <updated>2026-10-19T16:47:39Z</updated>
+    <summary>Merged public contribution. +4 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1097: fix(analytics): separate reachable churn-risk segments</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1097</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1097"/>
+    <updated>2026-10-19T16:47:39Z</updated>
+    <summary>Merged public contribution. +10 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1173: fix(incident): correct the 14.4x burn-rate exhaustion time</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1173</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1173"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1172: fix(feishu): pass the approval instance id as a path parameter</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1172</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1172"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1171: fix(mobile-release): drop the iOS-only symbol upload from the Android lane</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1171</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1171"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1170: fix(roblox): pass analytics metrics as LogCustomEvent values</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1170</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1170"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +7 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1169: fix(godot): emit died only once per death</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1169</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1169"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1168: fix(godot): keep the outline colour off sprite interiors</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1168</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1168"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1167: fix(godot): blend water normal maps in encoded space</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1167</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1167"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1166: fix(unity): seed the server position from the spawn point</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1166</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1166"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1165: fix(godot): accept damage RPCs only from the server</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1165</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1165"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1164: fix(roblox): don't save defaults over data that failed to load</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1164</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1164"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +7 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1163: fix(network): let routing protocols through the Junos RE filter</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1163</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1163"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +6 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1162: fix(frontend): position virtualized table rows in a sized container</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1162</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1162"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +24 / -18 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1161: fix(devops): push the image tag the build job creates</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1161</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1161"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1160: fix(detection): run the rule pipeline over nested detections</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1160</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1160"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +6 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1159: fix(backups): pass --batch so gpg uses the passphrase file</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1159</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1159"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1158: fix(appsec): accept npm's moderate audit severity</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1158</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1158"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1157: fix(ui-designer): escape responsive grid selectors once</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1157</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1157"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1156: fix(ui-designer): define the color tokens the components use</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1156</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1156"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +3 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1155: fix(secrets): pass GITHUB_TOKEN to the gitleaks PR scan</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1155</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1155"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1139: fix(model-qa): use prediction fallback for SHAP regressors</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1139</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1139"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +4 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1138: fix(support): exclude missing status from overdue outreach</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1138</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1138"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1137: fix(identity): implement default exact record comparison</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1137</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1137"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1136: fix(analytics): count distinct purchases in order-line RFM data</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1136</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1136"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +4 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1135: fix(data): preserve physical source provenance through metadata collisions</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1135</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1135"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +5 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1134: fix(recruitment): honor explicitly selected zero identifiers</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1134</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1134"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1132: fix(security): normalize indicators before private IP filtering</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1132</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1132"/>
+    <updated>2026-10-19T16:47:38Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>msitarzewski/agency-agents #1174: fix(grant-writer): use the current 15% de minimis indirect rate</title>
+    <id>https://github.com/msitarzewski/agency-agents/pull/1174</id>
+    <link href="https://github.com/msitarzewski/agency-agents/pull/1174"/>
+    <updated>2026-10-19T16:47:37Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1455: fix(consolidate): leave the previous lint report out of the LLM lint pass</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1455</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1455"/>
+    <updated>2026-10-19T16:39:53Z</updated>
+    <summary>Merged public contribution. +90 / -0 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #1442: fix(store): keep column filters inside parenthesised search groups</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/1442</id>
@@ -145,215 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1912"/>
     <updated>2026-10-19T10:43:13Z</updated>
     <summary>Merged public contribution. +74 / -63 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9818: Use available negative values when adding signed enum entries</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9818</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9818"/>
-    <updated>2026-10-19T09:56:57Z</updated>
-    <summary>Merged public contribution. +13 / -21 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9788: Compare remaining float scan values after matching NaNs</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9788</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9788"/>
-    <updated>2026-10-19T09:56:57Z</updated>
-    <summary>Merged public contribution. +4 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9784: Preserve live cache replacements during reference cleanup</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9784</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9784"/>
-    <updated>2026-10-19T09:56:57Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>areal-project/AReaL #1803: fix(infra): keep commas and equals in local scheduler env var values</title>
-    <id>https://github.com/areal-project/AReaL/pull/1803</id>
-    <link href="https://github.com/areal-project/AReaL/pull/1803"/>
-    <updated>2026-10-19T09:30:51Z</updated>
-    <summary>Merged public contribution. +47 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1776: fix(tallyqa): retain signs and decimal parts when extracting counts</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1776</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1776"/>
-    <updated>2026-10-19T08:52:32Z</updated>
-    <summary>Merged public contribution. +75 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Softeria/ms-365-mcp-server #747: fix(signoff): sign the PascalCase body keys the generated mail tool schemas use</title>
-    <id>https://github.com/Softeria/ms-365-mcp-server/pull/747</id>
-    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/747"/>
-    <updated>2026-10-19T07:29:14Z</updated>
-    <summary>Merged public contribution. +49 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4864: fix(codex): sweep app-server workdirs a dead worker left in the temp directory (#4788)</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4864</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4864"/>
-    <updated>2026-10-19T07:21:26Z</updated>
-    <summary>Merged public contribution. +163 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4893: fix(launcher): run project-scoped subcommands in the caller's directory</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4893</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4893"/>
-    <updated>2026-10-19T07:18:35Z</updated>
-    <summary>Merged public contribution. +62 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4828: fix(teambrain): reserve UTF-16 space for complete briefs</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4828</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4828"/>
-    <updated>2026-10-19T07:07:16Z</updated>
-    <summary>Merged public contribution. +43 / -15 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2068: fix(convert): validate and cache fmt4 resume receipts</title>
-    <id>https://github.com/JustVugg/colibri/pull/2068</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2068"/>
-    <updated>2026-10-19T07:02:52Z</updated>
-    <summary>Merged public contribution. +554 / -48 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2151: fix(setup): require the advertised release checksum before download</title>
-    <id>https://github.com/JustVugg/colibri/pull/2151</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2151"/>
-    <updated>2026-10-19T07:02:44Z</updated>
-    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2146: fix(setup): verify reused split-drive shard digests</title>
-    <id>https://github.com/JustVugg/colibri/pull/2146</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2146"/>
-    <updated>2026-10-19T07:02:40Z</updated>
-    <summary>Merged public contribution. +43 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2145: fix(inkling): exclude pinned slots from acquisition rounds</title>
-    <id>https://github.com/JustVugg/colibri/pull/2145</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2145"/>
-    <updated>2026-10-19T07:02:37Z</updated>
-    <summary>Merged public contribution. +150 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2125: fix(olmoe): guard unused dense-FP16 state in portable adapters</title>
-    <id>https://github.com/JustVugg/colibri/pull/2125</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2125"/>
-    <updated>2026-10-19T07:02:12Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4902: fix(cli): print search results text instead of the raw MCP wrapper</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4902</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4902"/>
-    <updated>2026-10-19T06:54:10Z</updated>
-    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4883: fix(search): treat type="all" as every category instead of an observation type</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4883</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4883"/>
-    <updated>2026-10-19T06:52:42Z</updated>
-    <summary>Merged public contribution. +53 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4886: fix(folder-claude-md): keep newest-first day order when rewriting the by-file timeline</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4886</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4886"/>
-    <updated>2026-10-19T06:40:57Z</updated>
-    <summary>Merged public contribution. +64 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4884: fix(logs): read the viewer's worker log from the effective data directory</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4884</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4884"/>
-    <updated>2026-10-19T06:39:52Z</updated>
-    <summary>Merged public contribution. +57 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4899: fix(privacy): never store a fully private prompt as the session's user_prompt</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4899</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4899"/>
-    <updated>2026-10-19T06:38:35Z</updated>
-    <summary>Merged public contribution. +12 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4898: fix(env): read credentials from a BOM-prefixed ~/.claude-mem/.env</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4898</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4898"/>
-    <updated>2026-10-19T06:36:12Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4859: fix: reject unsupported tree-sitter CLI versions</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4859</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4859"/>
-    <updated>2026-10-19T06:34:12Z</updated>
-    <summary>Merged public contribution. +26 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4892: fix(redaction): redact GitHub ghu_ user-to-server tokens</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4892</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4892"/>
-    <updated>2026-10-19T06:34:03Z</updated>
-    <summary>Merged public contribution. +3 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4894: fix(uninstall): name the fish PATH line the installer wrote</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4894</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4894"/>
-    <updated>2026-10-19T06:33:11Z</updated>
-    <summary>Merged public contribution. +27 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4882: fix(search): keep Chroma relevance order for session summaries and prompts</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4882</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4882"/>
-    <updated>2026-10-19T06:32:18Z</updated>
-    <summary>Merged public contribution. +75 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4897: fix(privacy): strip memory tags with whitespace before the closing &gt; in server payloads</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4897</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4897"/>
-    <updated>2026-10-19T06:29:01Z</updated>
-    <summary>Merged public contribution. +17 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4881: fix(openclaw): render the worker's text results in search, recent and timeline commands</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4881</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4881"/>
-    <updated>2026-10-19T06:27:06Z</updated>
-    <summary>Merged public contribution. +48 / -27 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4896: fix(mcp): find .mcp.json at the installed plugin root for status and toggle</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4896</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4896"/>
-    <updated>2026-10-19T06:24:27Z</updated>
-    <summary>Merged public contribution. +52 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4891: fix(context): show both savings amount and percent in the model's stats line</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4891</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4891"/>
-    <updated>2026-10-19T06:15:37Z</updated>
-    <summary>Merged public contribution. +15 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4885: fix(viewer): show merged worktree rows under the selected project</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4885</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4885"/>
-    <updated>2026-10-19T06:14:53Z</updated>
-    <summary>Merged public contribution. +69 / -2 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #4890: fix(claude-md): include absolute-path evidence when generating folder CLAUDE.md</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/4890</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/4890"/>
-    <updated>2026-10-19T06:12:04Z</updated>
-    <summary>Merged public contribution. +150 / -11 across 3 changed files.</summary>
   </entry>
 </feed>
