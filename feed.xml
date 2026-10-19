@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-18T20:11:47Z</updated>
+  <updated>2026-10-18T23:33:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liliang-cn/cortexdb #65: fix(index): reject IVF training vectors of the wrong dimension</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/65</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/65"/>
+    <updated>2026-10-18T23:33:24Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #64: fix(httpapi): hold every spelling of a scope field to a key's confinement</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/64</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/64"/>
+    <updated>2026-10-18T23:33:08Z</updated>
+    <summary>Merged public contribution. +61 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #63: fix(quantization): return nil from OptimizedBinaryQuantizer.Project for an overlong vector</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/63</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/63"/>
+    <updated>2026-10-18T23:33:02Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1473: fix(daemon): rate a provider window only within its current window</title>
     <id>https://github.com/mvschwarz/openrig/pull/1473</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3781"/>
     <updated>2026-10-18T08:52:36Z</updated>
     <summary>Merged public contribution. +111 / -12 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3780: fix: preserve stdout ownership when resetting logger</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3780</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3780"/>
-    <updated>2026-10-18T08:52:32Z</updated>
-    <summary>Merged public contribution. +92 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3779: fix: preserve complete Bash output after line truncation</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3779</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3779"/>
-    <updated>2026-10-18T08:52:29Z</updated>
-    <summary>Merged public contribution. +74 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3778: fix: preserve executable skill permissions on restore</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3778</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3778"/>
-    <updated>2026-10-18T08:52:26Z</updated>
-    <summary>Merged public contribution. +234 / -5 across 2 changed files.</summary>
   </entry>
 </feed>

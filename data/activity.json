@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 27,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-18T16:23:05Z",
+      "deletions": 0,
+      "merged_at": "2026-10-18T23:33:24Z",
+      "number": 65,
+      "repository": "liliang-cn/cortexdb",
+      "repository_url": "https://github.com/liliang-cn/cortexdb",
+      "reviews": 0,
+      "title": "fix(index): reject IVF training vectors of the wrong dimension",
+      "url": "https://github.com/liliang-cn/cortexdb/pull/65"
+    },
+    {
+      "additions": 61,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-18T16:22:01Z",
+      "deletions": 1,
+      "merged_at": "2026-10-18T23:33:08Z",
+      "number": 64,
+      "repository": "liliang-cn/cortexdb",
+      "repository_url": "https://github.com/liliang-cn/cortexdb",
+      "reviews": 0,
+      "title": "fix(httpapi): hold every spelling of a scope field to a key's confinement",
+      "url": "https://github.com/liliang-cn/cortexdb/pull/64"
+    },
+    {
+      "additions": 28,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-18T16:18:37Z",
+      "deletions": 1,
+      "merged_at": "2026-10-18T23:33:02Z",
+      "number": 63,
+      "repository": "liliang-cn/cortexdb",
+      "repository_url": "https://github.com/liliang-cn/cortexdb",
+      "reviews": 0,
+      "title": "fix(quantization): return nil from OptimizedBinaryQuantizer.Project for an overlong vector",
+      "url": "https://github.com/liliang-cn/cortexdb/pull/63"
+    },
+    {
       "additions": 66,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -39984,7 +40032,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2497,
+  "record_count": 2500,
   "schema_version": 1,
   "updated_at_utc": "2026-10-18"
 }

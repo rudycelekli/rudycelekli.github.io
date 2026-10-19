@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,497**
+Records: **2,500**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#65: fix(index): reject IVF training vectors of the wrong dimension](https://github.com/liliang-cn/cortexdb/pull/65) | +27 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#64: fix(httpapi): hold every spelling of a scope field to a key's confinement](https://github.com/liliang-cn/cortexdb/pull/64) | +61 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-18 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#63: fix(quantization): return nil from OptimizedBinaryQuantizer.Project for an overlong vector](https://github.com/liliang-cn/cortexdb/pull/63) | +28 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1473: fix(daemon): rate a provider window only within its current window](https://github.com/mvschwarz/openrig/pull/1473) | +66 / -11 across 4 files | 2 reviews · 5 comments |
 | 2026-10-18 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4452: fix(autoresearch): accept a leading UTF-8 BOM in sandbox.md frontmatter](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4452) | +16 / -9 across 3 files | 0 reviews · 3 comments |
 | 2026-10-18 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1472: fix(daemon): keep emoji whole in shortened notification bodies, slice stories and history excerpts](https://github.com/mvschwarz/openrig/pull/1472) | +41 / -3 across 6 files | 2 reviews · 2 comments |
