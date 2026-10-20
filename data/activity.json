@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 62,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-20T02:16:26Z",
+      "deletions": 5,
+      "merged_at": "2026-10-20T04:58:17Z",
+      "number": 938,
+      "repository": "Asymptote-Labs/agent-beacon",
+      "repository_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "reviews": 0,
+      "title": "fix(dashboard): count reasoning inside output token totals",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/938"
+    },
+    {
       "additions": 84,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -41984,7 +42000,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2622,
+  "record_count": 2623,
   "schema_version": 1,
   "updated_at_utc": "2026-10-20"
 }
