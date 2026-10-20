@@ -4,10 +4,18 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,648**
+Records: **2,656**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1915: fix(validation): annualise standalone revalidation with the run's bars per year](https://github.com/HKUDS/Vibe-Trading/pull/1915) | +116 / -1 across 5 files | 1 reviews · 1 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1916: fix(journal): classify .US and .SS suffixed symbols by market](https://github.com/HKUDS/Vibe-Trading/pull/1916) | +45 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1919: fix(fundmath): reject non-finite hurdle and waterfall inputs](https://github.com/HKUDS/Vibe-Trading/pull/1919) | +62 / -8 across 2 files | 1 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1921: fix(financial-rigor): report undefined three-scenario upside instead of 0% at a zero price](https://github.com/HKUDS/Vibe-Trading/pull/1921) | +59 / -3 across 2 files | 2 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1923: fix(pattern): return a JSON error for malformed tool arguments instead of raising](https://github.com/HKUDS/Vibe-Trading/pull/1923) | +104 / -6 across 2 files | 1 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1924: fix(journal): reject an unsupported filter instead of reporting it as applied](https://github.com/HKUDS/Vibe-Trading/pull/1924) | +58 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1926: fix(cli): switch to the next unit when formatted numbers round up](https://github.com/HKUDS/Vibe-Trading/pull/1926) | +41 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1927: fix(fund-nav): clamp an explicit zero limit instead of returning the 2000-row default](https://github.com/HKUDS/Vibe-Trading/pull/1927) | +29 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1760: fix(spatial): reject tagged answer labels embedded in words](https://github.com/open-compass/VLMEvalKit/pull/1760) | +49 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1747: fix(smp): create remote table cache before downloading](https://github.com/open-compass/VLMEvalKit/pull/1747) | +30 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1759: fix(caption): apply official COCO tokenization before scoring](https://github.com/open-compass/VLMEvalKit/pull/1759) | +60 / -2 across 3 files | 0 reviews · 0 comments |

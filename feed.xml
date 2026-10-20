@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T11:53:45Z</updated>
+  <updated>2026-10-20T13:02:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1915: fix(validation): annualise standalone revalidation with the run's bars per year</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1915</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1915"/>
+    <updated>2026-10-20T13:02:03Z</updated>
+    <summary>Merged public contribution. +116 / -1 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1916: fix(journal): classify .US and .SS suffixed symbols by market</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1916</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1916"/>
+    <updated>2026-10-20T12:57:46Z</updated>
+    <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1919: fix(fundmath): reject non-finite hurdle and waterfall inputs</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1919</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1919"/>
+    <updated>2026-10-20T12:57:40Z</updated>
+    <summary>Merged public contribution. +62 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1921: fix(financial-rigor): report undefined three-scenario upside instead of 0% at a zero price</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1921</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1921"/>
+    <updated>2026-10-20T12:57:33Z</updated>
+    <summary>Merged public contribution. +59 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1923: fix(pattern): return a JSON error for malformed tool arguments instead of raising</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1923</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1923"/>
+    <updated>2026-10-20T12:57:27Z</updated>
+    <summary>Merged public contribution. +104 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1924: fix(journal): reject an unsupported filter instead of reporting it as applied</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1924</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1924"/>
+    <updated>2026-10-20T12:57:22Z</updated>
+    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1926: fix(cli): switch to the next unit when formatted numbers round up</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1926</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1926"/>
+    <updated>2026-10-20T12:57:15Z</updated>
+    <summary>Merged public contribution. +41 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1927: fix(fund-nav): clamp an explicit zero limit instead of returning the 2000-row default</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1927</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1927"/>
+    <updated>2026-10-20T12:56:27Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1760: fix(spatial): reject tagged answer labels embedded in words</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1760</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/649"/>
     <updated>2026-10-19T18:01:09Z</updated>
     <summary>Merged public contribution. +107 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #647: fix(jobindex-search): reject a --sort other than score or date instead of sending it to the portal</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/647</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/647"/>
-    <updated>2026-10-19T17:59:11Z</updated>
-    <summary>Merged public contribution. +86 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #646: fix(linkedin-search): require a value for --query instead of dropping the keywords</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/646</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/646"/>
-    <updated>2026-10-19T17:57:08Z</updated>
-    <summary>Merged public contribution. +60 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #645: fix(linkedin-search): reject an unknown --remote mode instead of searching every workplace type</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/645</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/645"/>
-    <updated>2026-10-19T17:55:32Z</updated>
-    <summary>Merged public contribution. +63 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #644: fix(salary): skip prose notes tabs instead of listing sentences as companies</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/644</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/644"/>
-    <updated>2026-10-19T17:52:23Z</updated>
-    <summary>Merged public contribution. +97 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #643: fix(salary): collapse line breaks in wrapped workbook headers</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/643</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/643"/>
-    <updated>2026-10-19T17:50:54Z</updated>
-    <summary>Merged public contribution. +60 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #641: fix(rank): keep every --exclude key out of the sweep when the list has spaces</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/641</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/641"/>
-    <updated>2026-10-19T17:49:25Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1457: fix(cli): keep a BOM from hiding a marker's first-line key or flag</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1457</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1457"/>
-    <updated>2026-10-19T17:40:07Z</updated>
-    <summary>Merged public contribution. +55 / -11 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1453: fix(cli): keep a user hook that shares our matcher group on re-install</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1453</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1453"/>
-    <updated>2026-10-19T17:39:09Z</updated>
-    <summary>Merged public contribution. +46 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
