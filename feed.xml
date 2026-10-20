@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T13:02:03Z</updated>
+  <updated>2026-10-20T13:06:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1910: fix(alpha-bench): reject top=0 instead of silently using 20</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1910</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1910"/>
+    <updated>2026-10-20T13:06:36Z</updated>
+    <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1911: fix(journal): reject an unknown analysis_type instead of returning an empty ok result</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1911</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1911"/>
+    <updated>2026-10-20T13:06:27Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1918: fix(alpha-bench): skip insufficient IC samples instead of emitting NaN</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1918</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1918"/>
+    <updated>2026-10-20T13:06:20Z</updated>
+    <summary>Merged public contribution. +86 / -6 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1915: fix(validation): annualise standalone revalidation with the run's bars per year</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1915</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/openclaw/Peekaboo/pull/1112"/>
     <updated>2026-10-19T18:35:22Z</updated>
     <summary>Merged public contribution. +21 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #656: fix(upstream-triage): skip new upstream files inside a directory the fork removed</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/656</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/656"/>
-    <updated>2026-10-19T18:04:44Z</updated>
-    <summary>Merged public contribution. +64 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #650: fix(jobdanmark-search): filter search by the administrative regions locations returns</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/650</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/650"/>
-    <updated>2026-10-19T18:03:10Z</updated>
-    <summary>Merged public contribution. +101 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #649: fix(jobnet-search): filter search by the ESCO occupation that occupations prints</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/649</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/649"/>
-    <updated>2026-10-19T18:01:09Z</updated>
-    <summary>Merged public contribution. +107 / -4 across 5 changed files.</summary>
   </entry>
 </feed>

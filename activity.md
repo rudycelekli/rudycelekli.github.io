@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,656**
+Records: **2,659**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1910: fix(alpha-bench): reject top=0 instead of silently using 20](https://github.com/HKUDS/Vibe-Trading/pull/1910) | +37 / -3 across 2 files | 1 reviews · 1 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1911: fix(journal): reject an unknown analysis_type instead of returning an empty ok result](https://github.com/HKUDS/Vibe-Trading/pull/1911) | +37 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1918: fix(alpha-bench): skip insufficient IC samples instead of emitting NaN](https://github.com/HKUDS/Vibe-Trading/pull/1918) | +86 / -6 across 4 files | 1 reviews · 0 comments |
 | 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1915: fix(validation): annualise standalone revalidation with the run's bars per year](https://github.com/HKUDS/Vibe-Trading/pull/1915) | +116 / -1 across 5 files | 1 reviews · 1 comments |
 | 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1916: fix(journal): classify .US and .SS suffixed symbols by market](https://github.com/HKUDS/Vibe-Trading/pull/1916) | +45 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-20 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1919: fix(fundmath): reject non-finite hurdle and waterfall inputs](https://github.com/HKUDS/Vibe-Trading/pull/1919) | +62 / -8 across 2 files | 1 reviews · 0 comments |
