@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,623**
+Records: **2,624**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1767: fix(video): bypass frame extraction for raw LongVideoBench prompts](https://github.com/open-compass/VLMEvalKit/pull/1767) | +159 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#938: fix(dashboard): count reasoning inside output token totals](https://github.com/Asymptote-Labs/agent-beacon/pull/938) | +62 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1763: fix(gmai): prepare validation TSV before loading](https://github.com/open-compass/VLMEvalKit/pull/1763) | +84 / -8 across 3 files | 0 reviews · 0 comments |
 | 2026-10-20 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#3681: fix(embeddings): use collision-resistant persistent cache keys](https://github.com/ruvnet/ruflo/pull/3681) | +48 / -7 across 2 files | 0 reviews · 0 comments |

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T04:58:17Z</updated>
+  <updated>2026-10-20T06:15:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1767: fix(video): bypass frame extraction for raw LongVideoBench prompts</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1767</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1767"/>
+    <updated>2026-10-20T06:15:29Z</updated>
+    <summary>Merged public contribution. +159 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #938: fix(dashboard): count reasoning inside output token totals</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/938</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1166"/>
     <updated>2026-10-19T16:47:38Z</updated>
     <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1165: fix(godot): accept damage RPCs only from the server</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1165</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1165"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
