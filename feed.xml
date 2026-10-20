@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T00:00:42Z</updated>
+  <updated>2026-10-20T01:46:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #3681: fix(embeddings): use collision-resistant persistent cache keys</title>
+    <id>https://github.com/ruvnet/ruflo/pull/3681</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/3681"/>
+    <updated>2026-10-20T01:46:31Z</updated>
+    <summary>Merged public contribution. +48 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #3685: fix(embeddings): serialize persistent cache initialization</title>
+    <id>https://github.com/ruvnet/ruflo/pull/3685</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/3685"/>
+    <updated>2026-10-20T01:46:22Z</updated>
+    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #314: fix(export): preserve stylesheet media conditions</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/314</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/msitarzewski/agency-agents/pull/1163"/>
     <updated>2026-10-19T16:47:38Z</updated>
     <summary>Merged public contribution. +6 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1162: fix(frontend): position virtualized table rows in a sized container</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1162</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1162"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +24 / -18 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1161: fix(devops): push the image tag the build job creates</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1161</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1161"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
