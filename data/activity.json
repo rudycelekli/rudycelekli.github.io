@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 49,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-13T20:09:25Z",
+      "deletions": 0,
+      "merged_at": "2026-10-20T11:53:45Z",
+      "number": 1760,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(spatial): reject tagged answer labels embedded in words",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1760"
+    },
+    {
+      "additions": 30,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-10T20:12:15Z",
+      "deletions": 0,
+      "merged_at": "2026-10-20T11:35:41Z",
+      "number": 1747,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(smp): create remote table cache before downloading",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1747"
+    },
+    {
       "additions": 60,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -42368,7 +42400,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2646,
+  "record_count": 2648,
   "schema_version": 1,
   "updated_at_utc": "2026-10-20"
 }
