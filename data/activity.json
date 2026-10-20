@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 828,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 26,
+      "commits": 22,
+      "created_at": "2026-10-06T19:35:56Z",
+      "deletions": 31,
+      "merged_at": "2026-10-20T00:00:42Z",
+      "number": 314,
+      "repository": "cathrynlavery/diagram-design",
+      "repository_url": "https://github.com/cathrynlavery/diagram-design",
+      "reviews": 20,
+      "title": "fix(export): preserve stylesheet media conditions",
+      "url": "https://github.com/cathrynlavery/diagram-design/pull/314"
+    },
+    {
       "additions": 19,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -41913,14 +41929,14 @@
       "project_inclusion": "A project is included when GitHub verifies at least one attribution signal: Contributors API listing, contribution-graph commit credit, an authored commit present on the default branch, or an authored merged pull request on any branch.",
       "release_discovery": "The newest public, non-draft GitHub release or prerelease is discovered for every owned public project. A recent release adds a decaying 150-day launch signal and is linked directly in the profile.",
       "repository_reach": "Stars and forks are current repository-level context, not personal contribution credit or historical growth.",
-      "upstream_timeline": "Daily cumulative project breadth, merged pull requests, and accepted line changes are rebuilt from individual merged-PR receipts. Repository stars are shown only as current point-in-time reach because historical star observations are not available.",
+      "upstream_timeline": "Daily cumulative project breadth, merged pull requests, and accepted line changes are rebuilt from individual merged-PR receipts. The dated open queue is reconstructed from accepted and currently open PR receipts, with the current point replaced by the exhaustive GitHub open-PR count. Repository reach is persisted as point-in-time observations on each refresh; dates before observation began remain unknown rather than backfilled.",
       "verification_tiers": "Evidence upgrades automatically from merged-PR verified or GitHub-graph verified, to default-branch commit verified, to GitHub-listed contributor as stronger GitHub attribution becomes available."
     },
     "source": "https://raw.githubusercontent.com/rudycelekli/rudycelekli/main/data/contributions.json",
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2618,
+  "record_count": 2619,
   "schema_version": 1,
-  "updated_at_utc": "2026-10-19"
+  "updated_at_utc": "2026-10-20"
 }
