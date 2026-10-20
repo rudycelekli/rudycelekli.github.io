@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T09:13:51Z</updated>
+  <updated>2026-10-20T10:30:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1284: fix(flights): bound route labels to the scheduled leg</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1284</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1284"/>
+    <updated>2026-10-20T10:30:48Z</updated>
+    <summary>Merged public contribution. +213 / -1 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>NationalSecurityAgency/ghidra #9773: Fix rounding above half the minimum subnormal</title>
     <id>https://github.com/NationalSecurityAgency/ghidra/pull/9773</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1449"/>
     <updated>2026-10-19T17:36:00Z</updated>
     <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1448: fix(hooks): treat an exclamation mark as acknowledgment punctuation</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1448</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1448"/>
-    <updated>2026-10-19T17:35:37Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
