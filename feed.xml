@@ -4,8 +4,127 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T07:27:55Z</updated>
+  <updated>2026-10-20T08:58:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1608: fix(skill): skip LLM preflight for prepared narration and visuals</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1608</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1608"/>
+    <updated>2026-10-20T08:58:44Z</updated>
+    <summary>Merged public contribution. +55 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1620: fix(video): preserve grayscale brightness across pixel depths</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1620</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1620"/>
+    <updated>2026-10-20T08:57:43Z</updated>
+    <summary>Merged public contribution. +46 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1690: fix(material): treat plain-text WaveSpeed 4xx submissions as rejected</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1690</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1690"/>
+    <updated>2026-10-20T08:57:27Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1689: fix(voice): exclude separator lines from estimated subtitle timelines</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1689</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1689"/>
+    <updated>2026-10-20T08:57:13Z</updated>
+    <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1688: fix(log): shorten only the complete project root in messages</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1688</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1688"/>
+    <updated>2026-10-20T08:57:00Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1687: fix(api): describe the rejected field in validation errors</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1687</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1687"/>
+    <updated>2026-10-20T08:56:46Z</updated>
+    <summary>Merged public contribution. +58 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1685: fix(material): fall back from infinite AI video duration bounds</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1685</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1685"/>
+    <updated>2026-10-20T08:56:30Z</updated>
+    <summary>Merged public contribution. +44 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1684: fix(api): stream empty artifacts without a Range header</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1684</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1684"/>
+    <updated>2026-10-20T08:56:02Z</updated>
+    <summary>Merged public contribution. +43 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1682: fix(voice): send SiliconFlow volume gain in decibels</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1682</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1682"/>
+    <updated>2026-10-20T08:55:49Z</updated>
+    <summary>Merged public contribution. +59 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1681: fix(voice): recognize pause tags with digits right after CJK keywords</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1681</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1681"/>
+    <updated>2026-10-20T08:55:35Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1680: fix(voice): ignore symbol-only script lines when aligning subtitles</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1680</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1680"/>
+    <updated>2026-10-20T08:55:22Z</updated>
+    <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1679: fix(voice): carry rounded subtitle seconds into minutes</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1679</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1679"/>
+    <updated>2026-10-20T08:55:10Z</updated>
+    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1678: fix(subtitle): round SRT timestamps to the nearest millisecond</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1678</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1678"/>
+    <updated>2026-10-20T08:54:56Z</updated>
+    <summary>Merged public contribution. +39 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1676: fix(subtitle): continue lines after character-split long words</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1676</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1676"/>
+    <updated>2026-10-20T08:54:44Z</updated>
+    <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1673: fix(llm): redact token-only credentials in error URLs</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1673</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1673"/>
+    <updated>2026-10-20T08:54:31Z</updated>
+    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1672: fix(llm): strip reasoning before an unopened think close tag</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1672</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1672"/>
+    <updated>2026-10-20T08:54:18Z</updated>
+    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1671: fix(upload): accept multi-picture camera JPEG materials</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1671</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1671"/>
+    <updated>2026-10-20T08:54:04Z</updated>
+    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1117: fix(daemon): preserve image protection across same-name versions</title>
     <id>https://github.com/mvschwarz/openrig/pull/1117</id>
@@ -236,124 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1447"/>
     <updated>2026-10-19T17:35:13Z</updated>
     <summary>Merged public contribution. +63 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1445: fix(mcp): answer bad page paths, tiers and scopes with invalid params</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1445</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1445"/>
-    <updated>2026-10-19T17:34:49Z</updated>
-    <summary>Merged public contribution. +96 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1444: fix(wiki): recognize an empty frontmatter block</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1444</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1444"/>
-    <updated>2026-10-19T17:34:25Z</updated>
-    <summary>Merged public contribution. +34 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1456: fix(wiki): keep a literal percent in exported wikilink targets</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1456</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1456"/>
-    <updated>2026-10-19T17:33:16Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #639: fix(rank): report a tracker that is not UTF-8 instead of a traceback</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/639</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/639"/>
-    <updated>2026-10-19T17:33:00Z</updated>
-    <summary>Merged public contribution. +29 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #635: fix(rank): report malformed scoring results in apply instead of a traceback</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/635</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/635"/>
-    <updated>2026-10-19T17:31:35Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #634: fix(job-key): report a non-string url in --audit instead of a traceback</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/634</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/634"/>
-    <updated>2026-10-19T17:30:02Z</updated>
-    <summary>Merged public contribution. +17 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #648: fix(freehire-search): reject --description-format on detail instead of ignoring it</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/648</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/648"/>
-    <updated>2026-10-19T17:22:33Z</updated>
-    <summary>Merged public contribution. +84 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #832: fix(onesignal): validate audience payload shapes and filter limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/832</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/832"/>
-    <updated>2026-10-19T17:02:48Z</updated>
-    <summary>Merged public contribution. +48 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1133: fix(inventory): preserve the EOQ annual ordering cost model</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1133</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1133"/>
-    <updated>2026-10-19T16:47:39Z</updated>
-    <summary>Merged public contribution. +4 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1097: fix(analytics): separate reachable churn-risk segments</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1097</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1097"/>
-    <updated>2026-10-19T16:47:39Z</updated>
-    <summary>Merged public contribution. +10 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1173: fix(incident): correct the 14.4x burn-rate exhaustion time</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1173</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1173"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1172: fix(feishu): pass the approval instance id as a path parameter</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1172</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1172"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1171: fix(mobile-release): drop the iOS-only symbol upload from the Android lane</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1171</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1171"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1170: fix(roblox): pass analytics metrics as LogCustomEvent values</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1170</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1170"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +7 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1169: fix(godot): emit died only once per death</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1169</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1169"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1168: fix(godot): keep the outline colour off sprite interiors</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1168</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1168"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>msitarzewski/agency-agents #1167: fix(godot): blend water normal maps in encoded space</title>
-    <id>https://github.com/msitarzewski/agency-agents/pull/1167</id>
-    <link href="https://github.com/msitarzewski/agency-agents/pull/1167"/>
-    <updated>2026-10-19T16:47:38Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
