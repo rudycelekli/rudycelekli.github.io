@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T13:06:36Z</updated>
+  <updated>2026-10-20T14:30:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>antchfx/xpath #162: Make position() agree with numeric predicates</title>
+    <id>https://github.com/antchfx/xpath/pull/162</id>
+    <link href="https://github.com/antchfx/xpath/pull/162"/>
+    <updated>2026-10-20T14:30:37Z</updated>
+    <summary>Merged public contribution. +51 / -2 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1910: fix(alpha-bench): reject top=0 instead of silently using 20</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1910</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ruvnet/ruflo/pull/4267"/>
     <updated>2026-10-19T18:51:25Z</updated>
     <summary>Merged public contribution. +87 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1112: fix(docs): keep intraword underscores out of emphasis</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1112</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1112"/>
-    <updated>2026-10-19T18:35:22Z</updated>
-    <summary>Merged public contribution. +21 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
