@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 124,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 5,
+      "commits": 1,
+      "created_at": "2026-10-11T14:36:35Z",
+      "deletions": 6,
+      "merged_at": "2026-10-20T09:13:51Z",
+      "number": 9773,
+      "repository": "NationalSecurityAgency/ghidra",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "reviews": 0,
+      "title": "Fix rounding above half the minimum subnormal",
+      "url": "https://github.com/NationalSecurityAgency/ghidra/pull/9773"
+    },
+    {
       "additions": 55,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -42304,7 +42320,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2642,
+  "record_count": 2643,
   "schema_version": 1,
   "updated_at_utc": "2026-10-20"
 }

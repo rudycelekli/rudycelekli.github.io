@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,642**
+Records: **2,643**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9773: Fix rounding above half the minimum subnormal](https://github.com/NationalSecurityAgency/ghidra/pull/9773) | +124 / -6 across 2 files | 0 reviews · 5 comments |
 | 2026-10-20 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1608: fix(skill): skip LLM preflight for prepared narration and visuals](https://github.com/harry0703/MoneyPrinterTurbo/pull/1608) | +55 / -3 across 2 files | 0 reviews · 1 comments |
 | 2026-10-20 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1620: fix(video): preserve grayscale brightness across pixel depths](https://github.com/harry0703/MoneyPrinterTurbo/pull/1620) | +46 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-10-20 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1690: fix(material): treat plain-text WaveSpeed 4xx submissions as rejected](https://github.com/harry0703/MoneyPrinterTurbo/pull/1690) | +36 / -0 across 2 files | 0 reviews · 1 comments |
