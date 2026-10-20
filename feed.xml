@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T10:30:48Z</updated>
+  <updated>2026-10-20T11:18:10Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1759: fix(caption): apply official COCO tokenization before scoring</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1759</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1759"/>
+    <updated>2026-10-20T11:18:10Z</updated>
+    <summary>Merged public contribution. +60 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1283: fix(satellites): retain cached catalog provenance</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1283</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1283"/>
+    <updated>2026-10-20T11:03:55Z</updated>
+    <summary>Merged public contribution. +316 / -5 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1284: fix(flights): bound route labels to the scheduled leg</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1284</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1451"/>
     <updated>2026-10-19T17:37:30Z</updated>
     <summary>Merged public contribution. +63 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1450: fix(importer): recognize a closing frontmatter fence at end of file</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1450</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1450"/>
-    <updated>2026-10-19T17:36:24Z</updated>
-    <summary>Merged public contribution. +40 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1449: fix(importer): encode a space in URL path segments as %20</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1449</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1449"/>
-    <updated>2026-10-19T17:36:00Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

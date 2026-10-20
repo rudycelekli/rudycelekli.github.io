@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,644**
+Records: **2,646**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1759: fix(caption): apply official COCO tokenization before scoring](https://github.com/open-compass/VLMEvalKit/pull/1759) | +60 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-20 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1283: fix(satellites): retain cached catalog provenance](https://github.com/bilawalsidhu/gods-eye-view/pull/1283) | +316 / -5 across 9 files | 0 reviews · 1 comments |
 | 2026-10-20 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1284: fix(flights): bound route labels to the scheduled leg](https://github.com/bilawalsidhu/gods-eye-view/pull/1284) | +213 / -1 across 5 files | 0 reviews · 1 comments |
 | 2026-10-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9773: Fix rounding above half the minimum subnormal](https://github.com/NationalSecurityAgency/ghidra/pull/9773) | +124 / -6 across 2 files | 0 reviews · 5 comments |
 | 2026-10-20 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1608: fix(skill): skip LLM preflight for prepared narration and visuals](https://github.com/harry0703/MoneyPrinterTurbo/pull/1608) | +55 / -3 across 2 files | 0 reviews · 1 comments |
