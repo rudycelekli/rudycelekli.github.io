@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,624**
+Records: **2,625**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#1117: fix(daemon): preserve image protection across same-name versions](https://github.com/mvschwarz/openrig/pull/1117) | +49 / -3 across 3 files | 1 reviews · 3 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1767: fix(video): bypass frame extraction for raw LongVideoBench prompts](https://github.com/open-compass/VLMEvalKit/pull/1767) | +159 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#938: fix(dashboard): count reasoning inside output token totals](https://github.com/Asymptote-Labs/agent-beacon/pull/938) | +62 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1763: fix(gmai): prepare validation TSV before loading](https://github.com/open-compass/VLMEvalKit/pull/1763) | +84 / -8 across 3 files | 0 reviews · 0 comments |
