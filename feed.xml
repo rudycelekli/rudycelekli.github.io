@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T14:30:37Z</updated>
+  <updated>2026-10-20T16:24:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #1474: fix: omit compaction footer from CRLF SessionStart excerpts</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1474</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1474"/>
+    <updated>2026-10-20T16:24:34Z</updated>
+    <summary>Merged public contribution. +48 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1475: fix: preserve dotted Windows executable names in PATHEXT lookup</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1475</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1475"/>
+    <updated>2026-10-20T16:24:33Z</updated>
+    <summary>Merged public contribution. +59 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>benbjohnson/litestream #1579: fix(db): keep read lock alive after caller context is cancelled</title>
+    <id>https://github.com/benbjohnson/litestream/pull/1579</id>
+    <link href="https://github.com/benbjohnson/litestream/pull/1579"/>
+    <updated>2026-10-20T16:17:18Z</updated>
+    <summary>Merged public contribution. +83 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/xpath #162: Make position() agree with numeric predicates</title>
     <id>https://github.com/antchfx/xpath/pull/162</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/cathrynlavery/diagram-design/pull/455"/>
     <updated>2026-10-19T20:29:21Z</updated>
     <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1465: fix(run): ignore a UTF-8 BOM at the start of an --env-file</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1465</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1465"/>
-    <updated>2026-10-19T19:56:11Z</updated>
-    <summary>Merged public contribution. +20 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4209: fix(memory): memory_migrate reports what it migrated; force clears the marker that is checked (#4194)</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4209</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4209"/>
-    <updated>2026-10-19T18:51:35Z</updated>
-    <summary>Merged public contribution. +124 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4267: fix(memory): memory import reports the tool error and partial failures instead of crashing</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4267</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4267"/>
-    <updated>2026-10-19T18:51:25Z</updated>
-    <summary>Merged public contribution. +87 / -0 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 48,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-20T02:37:02Z",
+      "deletions": 1,
+      "merged_at": "2026-10-20T16:24:34Z",
+      "number": 1474,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix: omit compaction footer from CRLF SessionStart excerpts",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1474"
+    },
+    {
+      "additions": 59,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-20T03:05:59Z",
+      "deletions": 1,
+      "merged_at": "2026-10-20T16:24:33Z",
+      "number": 1475,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix: preserve dotted Windows executable names in PATHEXT lookup",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1475"
+    },
+    {
+      "additions": 83,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-17T22:33:03Z",
+      "deletions": 2,
+      "merged_at": "2026-10-20T16:17:18Z",
+      "number": 1579,
+      "repository": "benbjohnson/litestream",
+      "repository_url": "https://github.com/benbjohnson/litestream",
+      "reviews": 0,
+      "title": "fix(db): keep read lock alive after caller context is cancelled",
+      "url": "https://github.com/benbjohnson/litestream/pull/1579"
+    },
+    {
       "additions": 51,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -42592,7 +42640,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2660,
+  "record_count": 2663,
   "schema_version": 1,
   "updated_at_utc": "2026-10-20"
 }
