@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,621**
+Records: **2,622**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-20 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1763: fix(gmai): prepare validation TSV before loading](https://github.com/open-compass/VLMEvalKit/pull/1763) | +84 / -8 across 3 files | 0 reviews · 0 comments |
 | 2026-10-20 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#3681: fix(embeddings): use collision-resistant persistent cache keys](https://github.com/ruvnet/ruflo/pull/3681) | +48 / -7 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#3685: fix(embeddings): serialize persistent cache initialization](https://github.com/ruvnet/ruflo/pull/3685) | +55 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#314: fix(export): preserve stylesheet media conditions](https://github.com/cathrynlavery/diagram-design/pull/314) | +828 / -31 across 4 files | 20 reviews · 26 comments |
