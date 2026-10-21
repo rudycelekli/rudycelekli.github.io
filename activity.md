@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,677**
+Records: **2,681**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1103: fix(server): process the final stdio message when it has no trailing newline](https://github.com/mark3labs/mcp-go/pull/1103) | +27 / -0 across 2 files | 1 reviews · 2 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1101: fix(otel): leave nil _meta nil when there is no trace context to inject](https://github.com/mark3labs/mcp-go/pull/1101) | +21 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1072: fix(server): replace resource and prompt registries atomically](https://github.com/mark3labs/mcp-go/pull/1072) | +100 / -3 across 2 files | 1 reviews · 5 comments |
+| 2026-10-21 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1746: fix(images): honor localization worker count](https://github.com/open-compass/VLMEvalKit/pull/1746) | +18 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-21 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1087: fix(crdt): reject non-finite LWW register timestamps](https://github.com/proffesor-for-testing/agentic-qe/pull/1087) | +164 / -2 across 4 files | 3 reviews · 1 comments |
 | 2026-10-21 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1091: fix(learning): recommend stored strategies from their write namespace](https://github.com/proffesor-for-testing/agentic-qe/pull/1091) | +192 / -6 across 4 files | 3 reviews · 1 comments |
 | 2026-10-21 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4474: fix(hooks): fall back from blank shell config directory overrides](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4474) | +32 / -8 across 3 files | 2 reviews · 2 comments |

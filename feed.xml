@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T07:59:43Z</updated>
+  <updated>2026-10-21T08:12:18Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mark3labs/mcp-go #1103: fix(server): process the final stdio message when it has no trailing newline</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1103</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1103"/>
+    <updated>2026-10-21T08:12:18Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1101: fix(otel): leave nil _meta nil when there is no trace context to inject</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1101</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1101"/>
+    <updated>2026-10-21T08:12:04Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1072: fix(server): replace resource and prompt registries atomically</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1072</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1072"/>
+    <updated>2026-10-21T08:10:10Z</updated>
+    <summary>Merged public contribution. +100 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1746: fix(images): honor localization worker count</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1746</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1746"/>
+    <updated>2026-10-21T08:07:41Z</updated>
+    <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1087: fix(crdt): reject non-finite LWW register timestamps</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1087</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1680"/>
     <updated>2026-10-20T08:55:22Z</updated>
     <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1679: fix(voice): carry rounded subtitle seconds into minutes</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1679</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1679"/>
-    <updated>2026-10-20T08:55:10Z</updated>
-    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1678: fix(subtitle): round SRT timestamps to the nearest millisecond</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1678</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1678"/>
-    <updated>2026-10-20T08:54:56Z</updated>
-    <summary>Merged public contribution. +39 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1676: fix(subtitle): continue lines after character-split long words</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1676</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1676"/>
-    <updated>2026-10-20T08:54:44Z</updated>
-    <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1673: fix(llm): redact token-only credentials in error URLs</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1673</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1673"/>
-    <updated>2026-10-20T08:54:31Z</updated>
-    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
