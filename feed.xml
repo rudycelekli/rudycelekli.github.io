@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T08:12:18Z</updated>
+  <updated>2026-10-21T09:22:08Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3811: fix(bash): preserve short multiline Python commands on Windows</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3811</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3811"/>
+    <updated>2026-10-21T09:22:08Z</updated>
+    <summary>Merged public contribution. +266 / -12 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mark3labs/mcp-go #1103: fix(server): process the final stdio message when it has no trailing newline</title>
     <id>https://github.com/mark3labs/mcp-go/pull/1103</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1681"/>
     <updated>2026-10-20T08:55:35Z</updated>
     <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1680: fix(voice): ignore symbol-only script lines when aligning subtitles</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1680</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1680"/>
-    <updated>2026-10-20T08:55:22Z</updated>
-    <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

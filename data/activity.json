@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 266,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-21T06:09:18Z",
+      "deletions": 12,
+      "merged_at": "2026-10-21T09:22:08Z",
+      "number": 3811,
+      "repository": "zhayujie/CowAgent",
+      "repository_url": "https://github.com/zhayujie/CowAgent",
+      "reviews": 0,
+      "title": "fix(bash): preserve short multiline Python commands on Windows",
+      "url": "https://github.com/zhayujie/CowAgent/pull/3811"
+    },
+    {
       "additions": 27,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -42928,7 +42944,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2681,
+  "record_count": 2682,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }
