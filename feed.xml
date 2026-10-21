@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T07:14:24Z</updated>
+  <updated>2026-10-21T07:59:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1087: fix(crdt): reject non-finite LWW register timestamps</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1087</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1087"/>
+    <updated>2026-10-21T07:59:43Z</updated>
+    <summary>Merged public contribution. +164 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1091: fix(learning): recommend stored strategies from their write namespace</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1091</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1091"/>
+    <updated>2026-10-21T07:57:32Z</updated>
+    <summary>Merged public contribution. +192 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4474: fix(hooks): fall back from blank shell config directory overrides</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4474</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4474"/>
+    <updated>2026-10-21T07:50:34Z</updated>
+    <summary>Merged public contribution. +32 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4473: fix(hooks): honor trailing commas in agent model JSONC</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4473</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1673"/>
     <updated>2026-10-20T08:54:31Z</updated>
     <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1672: fix(llm): strip reasoning before an unopened think close tag</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1672</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1672"/>
-    <updated>2026-10-20T08:54:18Z</updated>
-    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1671: fix(upload): accept multi-picture camera JPEG materials</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1671</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1671"/>
-    <updated>2026-10-20T08:54:04Z</updated>
-    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1117: fix(daemon): preserve image protection across same-name versions</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1117</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1117"/>
-    <updated>2026-10-20T07:27:55Z</updated>
-    <summary>Merged public contribution. +49 / -3 across 3 changed files.</summary>
   </entry>
 </feed>

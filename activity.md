@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,674**
+Records: **2,677**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1087: fix(crdt): reject non-finite LWW register timestamps](https://github.com/proffesor-for-testing/agentic-qe/pull/1087) | +164 / -2 across 4 files | 3 reviews · 1 comments |
+| 2026-10-21 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1091: fix(learning): recommend stored strategies from their write namespace](https://github.com/proffesor-for-testing/agentic-qe/pull/1091) | +192 / -6 across 4 files | 3 reviews · 1 comments |
+| 2026-10-21 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4474: fix(hooks): fall back from blank shell config directory overrides](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4474) | +32 / -8 across 3 files | 2 reviews · 2 comments |
 | 2026-10-21 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4473: fix(hooks): honor trailing commas in agent model JSONC](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4473) | +72 / -6 across 3 files | 0 reviews · 2 comments |
 | 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1948: fix(attribution): honor the recorded run annualisation](https://github.com/HKUDS/Vibe-Trading/pull/1948) | +89 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1943: fix(quantlib): scale Carino coincidence by remaining wealth](https://github.com/HKUDS/Vibe-Trading/pull/1943) | +50 / -7 across 2 files | 1 reviews · 0 comments |

@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 164,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-16T21:39:37Z",
+      "deletions": 2,
+      "merged_at": "2026-10-21T07:59:43Z",
+      "number": 1087,
+      "repository": "proffesor-for-testing/agentic-qe",
+      "repository_url": "https://github.com/proffesor-for-testing/agentic-qe",
+      "reviews": 3,
+      "title": "fix(crdt): reject non-finite LWW register timestamps",
+      "url": "https://github.com/proffesor-for-testing/agentic-qe/pull/1087"
+    },
+    {
+      "additions": 192,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-17T03:50:38Z",
+      "deletions": 6,
+      "merged_at": "2026-10-21T07:57:32Z",
+      "number": 1091,
+      "repository": "proffesor-for-testing/agentic-qe",
+      "repository_url": "https://github.com/proffesor-for-testing/agentic-qe",
+      "reviews": 3,
+      "title": "fix(learning): recommend stored strategies from their write namespace",
+      "url": "https://github.com/proffesor-for-testing/agentic-qe/pull/1091"
+    },
+    {
+      "additions": 32,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-21T06:32:45Z",
+      "deletions": 8,
+      "merged_at": "2026-10-21T07:50:34Z",
+      "number": 4474,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 2,
+      "title": "fix(hooks): fall back from blank shell config directory overrides",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4474"
+    },
+    {
       "additions": 72,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -42816,7 +42864,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2674,
+  "record_count": 2677,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }
