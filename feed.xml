@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T11:32:50Z</updated>
+  <updated>2026-10-21T11:35:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #141: fix(image_to_structured_data): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141"/>
+    <updated>2026-10-21T11:35:24Z</updated>
+    <summary>Merged public contribution. +0 / -30 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #142: fix(medical_prescription_digitizer): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/142</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/142"/>
+    <updated>2026-10-21T11:34:58Z</updated>
+    <summary>Merged public contribution. +0 / -23 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #143: fix(agent_discovery_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/143</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/143"/>
+    <updated>2026-10-21T11:34:37Z</updated>
+    <summary>Merged public contribution. +0 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #144: fix(ai_travel_planning_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/144</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/144"/>
+    <updated>2026-10-21T11:34:22Z</updated>
+    <summary>Merged public contribution. +0 / -47 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #145: fix(cal_scheduling_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/145</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/145"/>
+    <updated>2026-10-21T11:34:06Z</updated>
+    <summary>Merged public contribution. +0 / -17 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #146: fix(competitive_intelligence_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/146</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/146"/>
+    <updated>2026-10-21T11:33:45Z</updated>
+    <summary>Merged public contribution. +0 / -40 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #147: fix(daily-news-digest): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/147</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/147"/>
+    <updated>2026-10-21T11:33:17Z</updated>
+    <summary>Merged public contribution. +0 / -13 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Sumanth077/Hands-On-AI-Engineering #148: fix(finagent): remove unresolved merge conflict markers</title>
     <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/148</id>
@@ -19,6 +68,13 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/149"/>
     <updated>2026-10-21T11:32:27Z</updated>
     <summary>Merged public contribution. +0 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1758: fix(vizwiz): request short and unanswerable responses</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1758</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1758"/>
+    <updated>2026-10-21T11:32:27Z</updated>
+    <summary>Merged public contribution. +52 / -0 across 2 changed files.</summary>
   </entry>
   <entry>
     <title>Sumanth077/Hands-On-AI-Engineering #150: fix(multi_agent_financial_analyst): remove unresolved merge conflict markers</title>
@@ -299,61 +355,5 @@
     <link href="https://github.com/MadsLorentzen/ai-job-search/pull/569"/>
     <updated>2026-10-21T05:21:41Z</updated>
     <summary>Merged public contribution. +70 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1474: fix: omit compaction footer from CRLF SessionStart excerpts</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1474</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1474"/>
-    <updated>2026-10-20T16:24:34Z</updated>
-    <summary>Merged public contribution. +48 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1475: fix: preserve dotted Windows executable names in PATHEXT lookup</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1475</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1475"/>
-    <updated>2026-10-20T16:24:33Z</updated>
-    <summary>Merged public contribution. +59 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>benbjohnson/litestream #1579: fix(db): keep read lock alive after caller context is cancelled</title>
-    <id>https://github.com/benbjohnson/litestream/pull/1579</id>
-    <link href="https://github.com/benbjohnson/litestream/pull/1579"/>
-    <updated>2026-10-20T16:17:18Z</updated>
-    <summary>Merged public contribution. +83 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xpath #162: Make position() agree with numeric predicates</title>
-    <id>https://github.com/antchfx/xpath/pull/162</id>
-    <link href="https://github.com/antchfx/xpath/pull/162"/>
-    <updated>2026-10-20T14:30:37Z</updated>
-    <summary>Merged public contribution. +51 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1910: fix(alpha-bench): reject top=0 instead of silently using 20</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1910</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1910"/>
-    <updated>2026-10-20T13:06:36Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1911: fix(journal): reject an unknown analysis_type instead of returning an empty ok result</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1911</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1911"/>
-    <updated>2026-10-20T13:06:27Z</updated>
-    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1918: fix(alpha-bench): skip insufficient IC samples instead of emitting NaN</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1918</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1918"/>
-    <updated>2026-10-20T13:06:20Z</updated>
-    <summary>Merged public contribution. +86 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1915: fix(validation): annualise standalone revalidation with the run's bars per year</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1915</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1915"/>
-    <updated>2026-10-20T13:02:03Z</updated>
-    <summary>Merged public contribution. +116 / -1 across 5 changed files.</summary>
   </entry>
 </feed>
