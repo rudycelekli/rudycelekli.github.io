@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 110,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-21T05:16:04Z",
+      "deletions": 5,
+      "merged_at": "2026-10-21T21:53:52Z",
+      "number": 955,
+      "repository": "Asymptote-Labs/agent-beacon",
+      "repository_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "reviews": 0,
+      "title": "fix(dashboard): preserve explicit facet selections across loads",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/955"
+    },
+    {
+      "additions": 149,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-17T15:41:50Z",
+      "deletions": 3,
+      "merged_at": "2026-10-21T21:36:10Z",
+      "number": 917,
+      "repository": "Asymptote-Labs/agent-beacon",
+      "repository_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "reviews": 0,
+      "title": "fix(sdk): close unconsumed query streams and end their spans",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/917"
+    },
+    {
       "additions": 76,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -43696,7 +43728,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2729,
+  "record_count": 2731,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }

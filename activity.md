@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,729**
+Records: **2,731**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#955: fix(dashboard): preserve explicit facet selections across loads](https://github.com/Asymptote-Labs/agent-beacon/pull/955) | +110 / -5 across 3 files | 0 reviews · 1 comments |
+| 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#917: fix(sdk): close unconsumed query streams and end their spans](https://github.com/Asymptote-Labs/agent-beacon/pull/917) | +149 / -3 across 3 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#956: fix(dashboard): use native links for session navigation](https://github.com/Asymptote-Labs/agent-beacon/pull/956) | +76 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#919: fix(sdk): preserve span context during deferred stream work](https://github.com/Asymptote-Labs/agent-beacon/pull/919) | +92 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4494: fix(jsonc): accept a leading UTF-8 BOM in JSONC config files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4494) | +229 / -24 across 10 files | 8 reviews · 5 comments |

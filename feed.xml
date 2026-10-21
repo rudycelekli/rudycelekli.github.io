@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T21:30:23Z</updated>
+  <updated>2026-10-21T21:53:52Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #955: fix(dashboard): preserve explicit facet selections across loads</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/955</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/955"/>
+    <updated>2026-10-21T21:53:52Z</updated>
+    <summary>Merged public contribution. +110 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #917: fix(sdk): close unconsumed query streams and end their spans</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/917</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/917"/>
+    <updated>2026-10-21T21:36:10Z</updated>
+    <summary>Merged public contribution. +149 / -3 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #956: fix(dashboard): use native links for session navigation</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/956</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3811"/>
     <updated>2026-10-21T09:22:08Z</updated>
     <summary>Merged public contribution. +266 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1103: fix(server): process the final stdio message when it has no trailing newline</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1103</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1103"/>
-    <updated>2026-10-21T08:12:18Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1101: fix(otel): leave nil _meta nil when there is no trace context to inject</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1101</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1101"/>
-    <updated>2026-10-21T08:12:04Z</updated>
-    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
