@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 92,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-21T06:23:54Z",
+      "deletions": 6,
+      "merged_at": "2026-10-21T17:24:53Z",
+      "number": 1951,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(report-audit): exclude fenced examples from financial claims",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1951"
+    },
+    {
+      "additions": 76,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-21T05:19:51Z",
+      "deletions": 3,
+      "merged_at": "2026-10-21T17:24:28Z",
+      "number": 1949,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(valuation): preserve literal text in workbook exports",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1949"
+    },
+    {
+      "additions": 56,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-21T06:18:12Z",
+      "deletions": 20,
+      "merged_at": "2026-10-21T17:23:50Z",
+      "number": 1950,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(quantlib): keep decimal tail probabilities at their documented rank",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1950"
+    },
+    {
       "additions": 22,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -865,11 +913,11 @@
       "deletions": 0,
       "merged_at": "2026-10-21T05:27:22Z",
       "number": 640,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 2,
       "title": "fix(rank): reject an unknown veto verdict instead of shortlisting the job",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/640"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/640"
     },
     {
       "additions": 62,
@@ -881,11 +929,11 @@
       "deletions": 3,
       "merged_at": "2026-10-21T05:25:27Z",
       "number": 588,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(rank): round weighted scores without binary drift",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/588"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/588"
     },
     {
       "additions": 55,
@@ -897,11 +945,11 @@
       "deletions": 1,
       "merged_at": "2026-10-21T05:23:32Z",
       "number": 587,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream): use UTF-8 for framework version checks",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/587"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/587"
     },
     {
       "additions": 70,
@@ -913,11 +961,11 @@
       "deletions": 4,
       "merged_at": "2026-10-21T05:21:41Z",
       "number": 569,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream-triage): distinguish subject hints from patch matches",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/569"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/569"
     },
     {
       "additions": 48,
@@ -1793,11 +1841,11 @@
       "deletions": 2,
       "merged_at": "2026-10-19T18:04:44Z",
       "number": 656,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream-triage): skip new upstream files inside a directory the fork removed",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/656"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/656"
     },
     {
       "additions": 101,
@@ -1809,11 +1857,11 @@
       "deletions": 5,
       "merged_at": "2026-10-19T18:03:10Z",
       "number": 650,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(jobdanmark-search): filter search by the administrative regions locations returns",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/650"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/650"
     },
     {
       "additions": 107,
@@ -1825,11 +1873,11 @@
       "deletions": 4,
       "merged_at": "2026-10-19T18:01:09Z",
       "number": 649,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(jobnet-search): filter search by the ESCO occupation that occupations prints",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/649"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/649"
     },
     {
       "additions": 86,
@@ -1841,11 +1889,11 @@
       "deletions": 1,
       "merged_at": "2026-10-19T17:59:11Z",
       "number": 647,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(jobindex-search): reject a --sort other than score or date instead of sending it to the portal",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/647"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/647"
     },
     {
       "additions": 60,
@@ -1857,11 +1905,11 @@
       "deletions": 0,
       "merged_at": "2026-10-19T17:57:08Z",
       "number": 646,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(linkedin-search): require a value for --query instead of dropping the keywords",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/646"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/646"
     },
     {
       "additions": 63,
@@ -1873,11 +1921,11 @@
       "deletions": 0,
       "merged_at": "2026-10-19T17:55:32Z",
       "number": 645,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 2,
       "title": "fix(linkedin-search): reject an unknown --remote mode instead of searching every workplace type",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/645"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/645"
     },
     {
       "additions": 97,
@@ -1889,11 +1937,11 @@
       "deletions": 0,
       "merged_at": "2026-10-19T17:52:23Z",
       "number": 644,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): skip prose notes tabs instead of listing sentences as companies",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/644"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/644"
     },
     {
       "additions": 60,
@@ -1905,11 +1953,11 @@
       "deletions": 2,
       "merged_at": "2026-10-19T17:50:54Z",
       "number": 643,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): collapse line breaks in wrapped workbook headers",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/643"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/643"
     },
     {
       "additions": 23,
@@ -1921,11 +1969,11 @@
       "deletions": 1,
       "merged_at": "2026-10-19T17:49:25Z",
       "number": 641,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 2,
       "title": "fix(rank): keep every --exclude key out of the sweep when the list has spaces",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/641"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/641"
     },
     {
       "additions": 55,
@@ -2113,11 +2161,11 @@
       "deletions": 5,
       "merged_at": "2026-10-19T17:33:00Z",
       "number": 639,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 2,
       "title": "fix(rank): report a tracker that is not UTF-8 instead of a traceback",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/639"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/639"
     },
     {
       "additions": 40,
@@ -2129,11 +2177,11 @@
       "deletions": 1,
       "merged_at": "2026-10-19T17:31:35Z",
       "number": 635,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(rank): report malformed scoring results in apply instead of a traceback",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/635"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/635"
     },
     {
       "additions": 17,
@@ -2145,11 +2193,11 @@
       "deletions": 0,
       "merged_at": "2026-10-19T17:30:02Z",
       "number": 634,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(job-key): report a non-string url in --audit instead of a traceback",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/634"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/634"
     },
     {
       "additions": 84,
@@ -2161,11 +2209,11 @@
       "deletions": 2,
       "merged_at": "2026-10-19T17:22:33Z",
       "number": 648,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(freehire-search): reject --description-format on detail instead of ignoring it",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/648"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/648"
     },
     {
       "additions": 48,
@@ -4641,11 +4689,11 @@
       "deletions": 1,
       "merged_at": "2026-10-18T06:14:09Z",
       "number": 626,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 0,
       "title": "fix(job-key): report a non-object state file in --audit instead of a traceback",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/626"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/626"
     },
     {
       "additions": 23,
@@ -4849,11 +4897,11 @@
       "deletions": 2,
       "merged_at": "2026-10-18T05:36:47Z",
       "number": 586,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(jobnet-search): preserve full occupation identifiers in tables",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/586"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/586"
     },
     {
       "additions": 62,
@@ -4865,11 +4913,11 @@
       "deletions": 7,
       "merged_at": "2026-10-18T05:36:14Z",
       "number": 578,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(framework-version): distinguish marker changes from YAML formatting",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/578"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/578"
     },
     {
       "additions": 57,
@@ -4897,11 +4945,11 @@
       "deletions": 20,
       "merged_at": "2026-10-18T05:33:42Z",
       "number": 580,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(reset): clear document entries while preserving scaffolds",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/580"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/580"
     },
     {
       "additions": 115,
@@ -4913,11 +4961,11 @@
       "deletions": 38,
       "merged_at": "2026-10-18T05:31:13Z",
       "number": 579,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "docs(jobindex-search): align search examples with the actual CLI contract",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/579"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/579"
     },
     {
       "additions": 82,
@@ -4929,11 +4977,11 @@
       "deletions": 7,
       "merged_at": "2026-10-18T05:28:43Z",
       "number": 570,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): preserve Unicode company identity in lookups",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/570"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/570"
     },
     {
       "additions": 76,
@@ -4945,11 +4993,11 @@
       "deletions": 5,
       "merged_at": "2026-10-18T05:26:11Z",
       "number": 591,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream): preserve selected refs in companion commands",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/591"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/591"
     },
     {
       "additions": 63,
@@ -4961,11 +5009,11 @@
       "deletions": 15,
       "merged_at": "2026-10-18T05:24:01Z",
       "number": 585,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream): distinguish new paths from fork deletions",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/585"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/585"
     },
     {
       "additions": 36,
@@ -4977,11 +5025,11 @@
       "deletions": 1,
       "merged_at": "2026-10-18T05:21:32Z",
       "number": 583,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(upstream): flag incomplete framework comparisons",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/583"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/583"
     },
     {
       "additions": 65,
@@ -4993,11 +5041,11 @@
       "deletions": 2,
       "merged_at": "2026-10-18T05:19:24Z",
       "number": 572,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): reject non-finite workbook numbers",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/572"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/572"
     },
     {
       "additions": 68,
@@ -5009,11 +5057,11 @@
       "deletions": 1,
       "merged_at": "2026-10-18T05:16:55Z",
       "number": 592,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): parse Unicode whitespace grouping",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/592"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/592"
     },
     {
       "additions": 61,
@@ -5025,11 +5073,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:14:26Z",
       "number": 571,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): prefer exact workbook identity headers",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/571"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/571"
     },
     {
       "additions": 72,
@@ -5041,11 +5089,11 @@
       "deletions": 4,
       "merged_at": "2026-10-18T05:11:57Z",
       "number": 590,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): skip chart-only workbook tabs",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/590"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/590"
     },
     {
       "additions": 76,
@@ -5057,11 +5105,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:09:28Z",
       "number": 584,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): distinguish absent indexes from suppression",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/584"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/584"
     },
     {
       "additions": 56,
@@ -5073,11 +5121,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:07:18Z",
       "number": 576,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): skip whitespace-only workbook company rows",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/576"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/576"
     },
     {
       "additions": 73,
@@ -5089,11 +5137,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:05:10Z",
       "number": 575,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(salary): validate metadata before rendering lookups",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/575"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/575"
     },
     {
       "additions": 330,
@@ -5105,11 +5153,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:02:41Z",
       "number": 573,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(portal-clis): reject missing Danish option values before dispatch",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/573"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/573"
     },
     {
       "additions": 93,
@@ -5121,11 +5169,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T05:00:13Z",
       "number": 568,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(freehire-search): require values for named search options",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/568"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/568"
     },
     {
       "additions": 104,
@@ -5137,11 +5185,11 @@
       "deletions": 16,
       "merged_at": "2026-10-18T04:57:44Z",
       "number": 581,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "test(portal-clis): isolate valid flag controls from live services",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/581"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/581"
     },
     {
       "additions": 146,
@@ -5153,11 +5201,11 @@
       "deletions": 1,
       "merged_at": "2026-10-18T04:55:15Z",
       "number": 567,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(linkedin-search): preserve description paragraph and list breaks",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/567"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/567"
     },
     {
       "additions": 92,
@@ -5169,11 +5217,11 @@
       "deletions": 0,
       "merged_at": "2026-10-18T04:52:47Z",
       "number": 577,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "fix(jobbank-search): retain all documented repeated filter values",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/577"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/577"
     },
     {
       "additions": 6,
@@ -5185,11 +5233,11 @@
       "deletions": 4,
       "merged_at": "2026-10-18T04:50:18Z",
       "number": 589,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 1,
       "title": "docs(portal-clis): correct Danish CLI installation paths",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/589"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/589"
     },
     {
       "additions": 56,
@@ -5457,11 +5505,11 @@
       "deletions": 2,
       "merged_at": "2026-10-17T18:04:07Z",
       "number": 574,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 0,
       "title": "fix(upstream-triage): suggest dependent cherry-picks in ancestry order",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/574"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/574"
     },
     {
       "additions": 194,
@@ -9537,11 +9585,11 @@
       "deletions": 1,
       "merged_at": "2026-10-15T09:39:11Z",
       "number": 560,
-      "repository": "MadsLorentzen/ai-job-search",
-      "repository_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
       "reviews": 0,
       "title": "fix(rank): expire preserved past deadlines before shortlisting",
-      "url": "https://github.com/MadsLorentzen/ai-job-search/pull/560"
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/560"
     },
     {
       "additions": 8,
@@ -43552,7 +43600,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2720,
+  "record_count": 2723,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }

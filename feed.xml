@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T16:51:25Z</updated>
+  <updated>2026-10-21T17:24:53Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1951: fix(report-audit): exclude fenced examples from financial claims</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1951</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1951"/>
+    <updated>2026-10-21T17:24:53Z</updated>
+    <summary>Merged public contribution. +92 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1949: fix(valuation): preserve literal text in workbook exports</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1949</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1949"/>
+    <updated>2026-10-21T17:24:28Z</updated>
+    <summary>Merged public contribution. +76 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1950: fix(quantlib): keep decimal tail probabilities at their documented rank</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1950</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1950"/>
+    <updated>2026-10-21T17:23:50Z</updated>
+    <summary>Merged public contribution. +56 / -20 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #1118: fix(cli): check bundle references have the expected file kind</title>
     <id>https://github.com/mvschwarz/openrig/pull/1118</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4473"/>
     <updated>2026-10-21T07:14:24Z</updated>
     <summary>Merged public contribution. +72 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1948: fix(attribution): honor the recorded run annualisation</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1948</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1948"/>
-    <updated>2026-10-21T06:44:20Z</updated>
-    <summary>Merged public contribution. +89 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1943: fix(quantlib): scale Carino coincidence by remaining wealth</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1943</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1943"/>
-    <updated>2026-10-21T06:43:06Z</updated>
-    <summary>Merged public contribution. +50 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1946: fix(tools): return structured directory listing errors</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1946</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1946"/>
-    <updated>2026-10-21T06:34:46Z</updated>
-    <summary>Merged public contribution. +64 / -18 across 2 changed files.</summary>
   </entry>
 </feed>
