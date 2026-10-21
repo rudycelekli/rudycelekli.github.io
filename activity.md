@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,667**
+Records: **2,673**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1948: fix(attribution): honor the recorded run annualisation](https://github.com/HKUDS/Vibe-Trading/pull/1948) | +89 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1943: fix(quantlib): scale Carino coincidence by remaining wealth](https://github.com/HKUDS/Vibe-Trading/pull/1943) | +50 / -7 across 2 files | 1 reviews · 0 comments |
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1946: fix(tools): return structured directory listing errors](https://github.com/HKUDS/Vibe-Trading/pull/1946) | +64 / -18 across 2 files | 1 reviews · 0 comments |
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1945: fix(api): remove unpublished uploads when cancelled](https://github.com/HKUDS/Vibe-Trading/pull/1945) | +103 / -7 across 2 files | 1 reviews · 0 comments |
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1947: fix(backtest): warn about settings unused by selected engine](https://github.com/HKUDS/Vibe-Trading/pull/1947) | +133 / -0 across 3 files | 1 reviews · 0 comments |
+| 2026-10-21 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1757: fix(zerobench): require complete final answer matches](https://github.com/open-compass/VLMEvalKit/pull/1757) | +51 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#640: fix(rank): reject an unknown veto verdict instead of shortlisting the job](https://github.com/MadsLorentzen/ai-job-search/pull/640) | +26 / -0 across 3 files | 2 reviews · 2 comments |
 | 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#588: fix(rank): round weighted scores without binary drift](https://github.com/MadsLorentzen/ai-job-search/pull/588) | +62 / -3 across 3 files | 1 reviews · 3 comments |
 | 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#587: fix(upstream): use UTF-8 for framework version checks](https://github.com/MadsLorentzen/ai-job-search/pull/587) | +55 / -1 across 3 files | 1 reviews · 3 comments |

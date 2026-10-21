@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T05:27:22Z</updated>
+  <updated>2026-10-21T06:44:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1948: fix(attribution): honor the recorded run annualisation</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1948</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1948"/>
+    <updated>2026-10-21T06:44:20Z</updated>
+    <summary>Merged public contribution. +89 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1943: fix(quantlib): scale Carino coincidence by remaining wealth</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1943</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1943"/>
+    <updated>2026-10-21T06:43:06Z</updated>
+    <summary>Merged public contribution. +50 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1946: fix(tools): return structured directory listing errors</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1946</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1946"/>
+    <updated>2026-10-21T06:34:46Z</updated>
+    <summary>Merged public contribution. +64 / -18 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1945: fix(api): remove unpublished uploads when cancelled</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1945</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1945"/>
+    <updated>2026-10-21T06:34:17Z</updated>
+    <summary>Merged public contribution. +103 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1947: fix(backtest): warn about settings unused by selected engine</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1947</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1947"/>
+    <updated>2026-10-21T06:33:35Z</updated>
+    <summary>Merged public contribution. +133 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1757: fix(zerobench): require complete final answer matches</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1757</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1757"/>
+    <updated>2026-10-21T06:04:12Z</updated>
+    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>MadsLorentzen/ai-job-search #640: fix(rank): reject an unknown veto verdict instead of shortlisting the job</title>
     <id>https://github.com/MadsLorentzen/ai-job-search/pull/640</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/open-compass/VLMEvalKit/pull/1767"/>
     <updated>2026-10-20T06:15:29Z</updated>
     <summary>Merged public contribution. +159 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #938: fix(dashboard): count reasoning inside output token totals</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/938</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/938"/>
-    <updated>2026-10-20T04:58:17Z</updated>
-    <summary>Merged public contribution. +62 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1763: fix(gmai): prepare validation TSV before loading</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1763</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1763"/>
-    <updated>2026-10-20T03:19:27Z</updated>
-    <summary>Merged public contribution. +84 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #3681: fix(embeddings): use collision-resistant persistent cache keys</title>
-    <id>https://github.com/ruvnet/ruflo/pull/3681</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/3681"/>
-    <updated>2026-10-20T01:46:31Z</updated>
-    <summary>Merged public contribution. +48 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #3685: fix(embeddings): serialize persistent cache initialization</title>
-    <id>https://github.com/ruvnet/ruflo/pull/3685</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/3685"/>
-    <updated>2026-10-20T01:46:22Z</updated>
-    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #314: fix(export): preserve stylesheet media conditions</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/314</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/314"/>
-    <updated>2026-10-20T00:00:42Z</updated>
-    <summary>Merged public contribution. +828 / -31 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>jaredwray/cacheable #1744: utils - fix: reject malformed numbers in shorthandToMilliseconds</title>
-    <id>https://github.com/jaredwray/cacheable/pull/1744</id>
-    <link href="https://github.com/jaredwray/cacheable/pull/1744"/>
-    <updated>2026-10-19T22:09:34Z</updated>
-    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
