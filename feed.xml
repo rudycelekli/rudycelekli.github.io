@@ -4,8 +4,169 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T09:22:08Z</updated>
+  <updated>2026-10-21T11:32:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #148: fix(finagent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/148</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/148"/>
+    <updated>2026-10-21T11:32:50Z</updated>
+    <summary>Merged public contribution. +0 / -75 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #149: fix(github_intelligence_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/149</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/149"/>
+    <updated>2026-10-21T11:32:27Z</updated>
+    <summary>Merged public contribution. +0 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #150: fix(multi_agent_financial_analyst): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/150</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/150"/>
+    <updated>2026-10-21T11:32:11Z</updated>
+    <summary>Merged public contribution. +0 / -41 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #151: fix(multi_agent_research_assistant_ag2): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/151</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/151"/>
+    <updated>2026-10-21T11:31:47Z</updated>
+    <summary>Merged public contribution. +0 / -77 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #152: fix(research_team): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/152</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/152"/>
+    <updated>2026-10-21T11:31:24Z</updated>
+    <summary>Merged public contribution. +0 / -27 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #153: fix(smolagents_code_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/153</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/153"/>
+    <updated>2026-10-21T11:31:03Z</updated>
+    <summary>Merged public contribution. +0 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #154: fix(startup_analyst): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/154</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/154"/>
+    <updated>2026-10-21T11:30:33Z</updated>
+    <summary>Merged public contribution. +0 / -58 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #155: fix(stock_portfolio_analyst): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/155</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/155"/>
+    <updated>2026-10-21T11:30:01Z</updated>
+    <summary>Merged public contribution. +0 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #156: fix(music_explorer): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/156</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/156"/>
+    <updated>2026-10-21T11:29:14Z</updated>
+    <summary>Merged public contribution. +0 / -22 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #157: fix(image_question_answering): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/157</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/157"/>
+    <updated>2026-10-21T11:28:54Z</updated>
+    <summary>Merged public contribution. +0 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #158: fix(multimodal_rag): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/158</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/158"/>
+    <updated>2026-10-21T11:28:15Z</updated>
+    <summary>Merged public contribution. +0 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #159: fix(multimodal_weather_app): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/159</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/159"/>
+    <updated>2026-10-21T11:27:44Z</updated>
+    <summary>Merged public contribution. +0 / -35 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #160: fix(video_understanding_agent): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/160</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/160"/>
+    <updated>2026-10-21T11:26:58Z</updated>
+    <summary>Merged public contribution. +0 / -27 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #161: fix(clinical_rag_with_ade): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/161</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/161"/>
+    <updated>2026-10-21T11:26:34Z</updated>
+    <summary>Merged public contribution. +0 / -24 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #162: fix(graphrag_knowledge_system): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/162</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/162"/>
+    <updated>2026-10-21T11:25:19Z</updated>
+    <summary>Merged public contribution. +0 / -176 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #163: fix(hybrid_rag_system): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/163</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/163"/>
+    <updated>2026-10-21T11:24:51Z</updated>
+    <summary>Merged public contribution. +0 / -87 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #164: fix(hyde_rag): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/164</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/164"/>
+    <updated>2026-10-21T11:23:26Z</updated>
+    <summary>Merged public contribution. +0 / -64 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #165: fix(rag_agent_with_database_routing): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/165</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/165"/>
+    <updated>2026-10-21T11:22:47Z</updated>
+    <summary>Merged public contribution. +0 / -9 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #166: fix(vision_rag): remove unresolved merge conflict markers</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/166</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/166"/>
+    <updated>2026-10-21T11:22:06Z</updated>
+    <summary>Merged public contribution. +0 / -58 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #185: docs(github_intelligence_agent): fix pip install command</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/185</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/185"/>
+    <updated>2026-10-21T11:12:20Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #190: chore: untrack committed bytecode and ADK session database</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/190</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/190"/>
+    <updated>2026-10-21T11:01:39Z</updated>
+    <summary>Merged public contribution. +1 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #191: docs(image_to_structured_data): fix broken sample receipt image</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/191</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/191"/>
+    <updated>2026-10-21T11:00:58Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Sumanth077/Hands-On-AI-Engineering #192: chore(self_evolving_code_review_agent): remove duplicate LocalLLM import</title>
+    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/192</id>
+    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/192"/>
+    <updated>2026-10-21T11:00:00Z</updated>
+    <summary>Merged public contribution. +0 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3811: fix(bash): preserve short multiline Python commands on Windows</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3811</id>
@@ -194,166 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1915"/>
     <updated>2026-10-20T13:02:03Z</updated>
     <summary>Merged public contribution. +116 / -1 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1916: fix(journal): classify .US and .SS suffixed symbols by market</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1916</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1916"/>
-    <updated>2026-10-20T12:57:46Z</updated>
-    <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1919: fix(fundmath): reject non-finite hurdle and waterfall inputs</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1919</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1919"/>
-    <updated>2026-10-20T12:57:40Z</updated>
-    <summary>Merged public contribution. +62 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1921: fix(financial-rigor): report undefined three-scenario upside instead of 0% at a zero price</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1921</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1921"/>
-    <updated>2026-10-20T12:57:33Z</updated>
-    <summary>Merged public contribution. +59 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1923: fix(pattern): return a JSON error for malformed tool arguments instead of raising</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1923</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1923"/>
-    <updated>2026-10-20T12:57:27Z</updated>
-    <summary>Merged public contribution. +104 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1924: fix(journal): reject an unsupported filter instead of reporting it as applied</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1924</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1924"/>
-    <updated>2026-10-20T12:57:22Z</updated>
-    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1926: fix(cli): switch to the next unit when formatted numbers round up</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1926</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1926"/>
-    <updated>2026-10-20T12:57:15Z</updated>
-    <summary>Merged public contribution. +41 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1927: fix(fund-nav): clamp an explicit zero limit instead of returning the 2000-row default</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1927</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1927"/>
-    <updated>2026-10-20T12:56:27Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1760: fix(spatial): reject tagged answer labels embedded in words</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1760</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1760"/>
-    <updated>2026-10-20T11:53:45Z</updated>
-    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1747: fix(smp): create remote table cache before downloading</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1747</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1747"/>
-    <updated>2026-10-20T11:35:41Z</updated>
-    <summary>Merged public contribution. +30 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1759: fix(caption): apply official COCO tokenization before scoring</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1759</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1759"/>
-    <updated>2026-10-20T11:18:10Z</updated>
-    <summary>Merged public contribution. +60 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1283: fix(satellites): retain cached catalog provenance</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1283</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1283"/>
-    <updated>2026-10-20T11:03:55Z</updated>
-    <summary>Merged public contribution. +316 / -5 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1284: fix(flights): bound route labels to the scheduled leg</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1284</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1284"/>
-    <updated>2026-10-20T10:30:48Z</updated>
-    <summary>Merged public contribution. +213 / -1 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9773: Fix rounding above half the minimum subnormal</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9773</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9773"/>
-    <updated>2026-10-20T09:13:51Z</updated>
-    <summary>Merged public contribution. +124 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1608: fix(skill): skip LLM preflight for prepared narration and visuals</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1608</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1608"/>
-    <updated>2026-10-20T08:58:44Z</updated>
-    <summary>Merged public contribution. +55 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1620: fix(video): preserve grayscale brightness across pixel depths</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1620</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1620"/>
-    <updated>2026-10-20T08:57:43Z</updated>
-    <summary>Merged public contribution. +46 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1690: fix(material): treat plain-text WaveSpeed 4xx submissions as rejected</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1690</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1690"/>
-    <updated>2026-10-20T08:57:27Z</updated>
-    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1689: fix(voice): exclude separator lines from estimated subtitle timelines</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1689</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1689"/>
-    <updated>2026-10-20T08:57:13Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1688: fix(log): shorten only the complete project root in messages</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1688</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1688"/>
-    <updated>2026-10-20T08:57:00Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1687: fix(api): describe the rejected field in validation errors</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1687</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1687"/>
-    <updated>2026-10-20T08:56:46Z</updated>
-    <summary>Merged public contribution. +58 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1685: fix(material): fall back from infinite AI video duration bounds</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1685</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1685"/>
-    <updated>2026-10-20T08:56:30Z</updated>
-    <summary>Merged public contribution. +44 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1684: fix(api): stream empty artifacts without a Range header</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1684</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1684"/>
-    <updated>2026-10-20T08:56:02Z</updated>
-    <summary>Merged public contribution. +43 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1682: fix(voice): send SiliconFlow volume gain in decibels</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1682</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1682"/>
-    <updated>2026-10-20T08:55:49Z</updated>
-    <summary>Merged public contribution. +59 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1681: fix(voice): recognize pause tags with digits right after CJK keywords</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1681</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1681"/>
-    <updated>2026-10-20T08:55:35Z</updated>
-    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
