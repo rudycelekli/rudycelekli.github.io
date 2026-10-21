@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 7,
+      "commits": 3,
+      "created_at": "2026-10-10T16:44:58Z",
+      "deletions": 5,
+      "merged_at": "2026-10-21T16:51:25Z",
+      "number": 1118,
+      "repository": "mvschwarz/openrig",
+      "repository_url": "https://github.com/mvschwarz/openrig",
+      "reviews": 1,
+      "title": "fix(cli): check bundle references have the expected file kind",
+      "url": "https://github.com/mvschwarz/openrig/pull/1118"
+    },
+    {
       "additions": 2,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -43536,7 +43552,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2719,
+  "record_count": 2720,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }
