@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T11:35:24Z</updated>
+  <updated>2026-10-21T15:32:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>xerj-org/xerj #2053: Add 'rudycelekli' to contributors list</title>
+    <id>https://github.com/xerj-org/xerj/pull/2053</id>
+    <link href="https://github.com/xerj-org/xerj/pull/2053"/>
+    <updated>2026-10-21T15:32:41Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1104: fix(transport): reset the SSE event type after an event with no data</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1104</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1104"/>
+    <updated>2026-10-21T14:29:14Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1068: fix(server): invoke middleware factories outside registration lock</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1068</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1068"/>
+    <updated>2026-10-21T14:28:27Z</updated>
+    <summary>Merged public contribution. +53 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1062: fix(server): avoid overflow with large positive pagination limits</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1062</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1062"/>
+    <updated>2026-10-21T14:28:12Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1058: fix(mcp): recognize pointer protocol errors in classification helpers</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1058</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1058"/>
+    <updated>2026-10-21T14:27:57Z</updated>
+    <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1056: fix(mcp): retain fixed array lengths in schema tag fallback</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1056</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1056"/>
+    <updated>2026-10-21T14:27:41Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Sumanth077/Hands-On-AI-Engineering #141: fix(image_to_structured_data): remove unresolved merge conflict markers</title>
     <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/1945"/>
     <updated>2026-10-21T06:34:17Z</updated>
     <summary>Merged public contribution. +103 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1947: fix(backtest): warn about settings unused by selected engine</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1947</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1947"/>
-    <updated>2026-10-21T06:33:35Z</updated>
-    <summary>Merged public contribution. +133 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1757: fix(zerobench): require complete final answer matches</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1757</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1757"/>
-    <updated>2026-10-21T06:04:12Z</updated>
-    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #640: fix(rank): reject an unknown veto verdict instead of shortlisting the job</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/640</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/640"/>
-    <updated>2026-10-21T05:27:22Z</updated>
-    <summary>Merged public contribution. +26 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #588: fix(rank): round weighted scores without binary drift</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/588</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/588"/>
-    <updated>2026-10-21T05:25:27Z</updated>
-    <summary>Merged public contribution. +62 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #587: fix(upstream): use UTF-8 for framework version checks</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/587</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/587"/>
-    <updated>2026-10-21T05:23:32Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>MadsLorentzen/ai-job-search #569: fix(upstream-triage): distinguish subject hints from patch matches</title>
-    <id>https://github.com/MadsLorentzen/ai-job-search/pull/569</id>
-    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/569"/>
-    <updated>2026-10-21T05:21:41Z</updated>
-    <summary>Merged public contribution. +70 / -4 across 3 changed files.</summary>
   </entry>
 </feed>

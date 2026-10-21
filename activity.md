@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,713**
+Records: **2,719**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | [#2053: Add 'rudycelekli' to contributors list](https://github.com/xerj-org/xerj/pull/2053) | +2 / -1 across 1 files | 0 reviews · 5 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1104: fix(transport): reset the SSE event type after an event with no data](https://github.com/mark3labs/mcp-go/pull/1104) | +38 / -2 across 4 files | 0 reviews · 2 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1068: fix(server): invoke middleware factories outside registration lock](https://github.com/mark3labs/mcp-go/pull/1068) | +53 / -4 across 2 files | 0 reviews · 4 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1062: fix(server): avoid overflow with large positive pagination limits](https://github.com/mark3labs/mcp-go/pull/1062) | +21 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1058: fix(mcp): recognize pointer protocol errors in classification helpers](https://github.com/mark3labs/mcp-go/pull/1058) | +37 / -3 across 2 files | 0 reviews · 2 comments |
+| 2026-10-21 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1056: fix(mcp): retain fixed array lengths in schema tag fallback](https://github.com/mark3labs/mcp-go/pull/1056) | +35 / -1 across 2 files | 1 reviews · 3 comments |
 | 2026-10-21 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | [#141: fix(image_to_structured_data): remove unresolved merge conflict markers](https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141) | +0 / -30 across 4 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | [#142: fix(medical_prescription_digitizer): remove unresolved merge conflict markers](https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/142) | +0 / -23 across 2 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | [#143: fix(agent_discovery_agent): remove unresolved merge conflict markers](https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/143) | +0 / -10 across 2 files | 0 reviews · 1 comments |
