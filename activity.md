@@ -4,10 +4,22 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,732**
+Records: **2,744**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1528: fix(consolidate): cluster a cold set of exactly min_pts near-duplicates](https://github.com/akitaonrails/ai-memory/pull/1528) | +111 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1526: fix(store): ignore links from superseded or expired pages in health orphans](https://github.com/akitaonrails/ai-memory/pull/1526) | +95 / -3 across 3 files | 0 reviews · 1 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1525: fix(backup): flush and fsync the pre-migration archive before verifying it](https://github.com/akitaonrails/ai-memory/pull/1525) | +17 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1524: fix(wiki): keep in-flight atomic staging files out of the commit](https://github.com/akitaonrails/ai-memory/pull/1524) | +77 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1523: fix(hooks): accept a hook payload with a leading UTF-8 BOM](https://github.com/akitaonrails/ai-memory/pull/1523) | +51 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1521: fix(store): keep a known column filter whose term holds a second colon](https://github.com/akitaonrails/ai-memory/pull/1521) | +26 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1520: fix(llm): treat a throttled or overloaded token endpoint as transient](https://github.com/akitaonrails/ai-memory/pull/1520) | +96 / -1 across 4 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1519: fix(mcp): refuse as_of combined with global instead of ignoring it](https://github.com/akitaonrails/ai-memory/pull/1519) | +25 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1518: fix(mcp): answer an exhausted auto-improve queue with invalid params](https://github.com/akitaonrails/ai-memory/pull/1518) | +12 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1517: fix(hooks): keep the shell bundle's requests off environment proxies](https://github.com/akitaonrails/ai-memory/pull/1517) | +69 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1516: test(hooks): parenthesise the case patterns bash 3.2 cannot parse](https://github.com/akitaonrails/ai-memory/pull/1516) | +8 / -8 across 1 files | 0 reviews · 0 comments |
+| 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1513: fix(embed): bound the embedding input on the Gemini and Voyage embedders](https://github.com/akitaonrails/ai-memory/pull/1513) | +67 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-21 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4497: fix(notifications): reject non-positive reply poll interval and rate limit](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497) | +88 / -11 across 3 files | 1 reviews · 1 comments |
 | 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#955: fix(dashboard): preserve explicit facet selections across loads](https://github.com/Asymptote-Labs/agent-beacon/pull/955) | +110 / -5 across 3 files | 0 reviews · 1 comments |
 | 2026-10-21 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#917: fix(sdk): close unconsumed query streams and end their spans](https://github.com/Asymptote-Labs/agent-beacon/pull/917) | +149 / -3 across 3 files | 0 reviews · 1 comments |

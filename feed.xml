@@ -4,8 +4,92 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T22:14:03Z</updated>
+  <updated>2026-10-21T22:37:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #1528: fix(consolidate): cluster a cold set of exactly min_pts near-duplicates</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1528</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1528"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +111 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1526: fix(store): ignore links from superseded or expired pages in health orphans</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1526</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1526"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +95 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1525: fix(backup): flush and fsync the pre-migration archive before verifying it</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1525</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1525"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1524: fix(wiki): keep in-flight atomic staging files out of the commit</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1524</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1524"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +77 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1523: fix(hooks): accept a hook payload with a leading UTF-8 BOM</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1523</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1523"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +51 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1521: fix(store): keep a known column filter whose term holds a second colon</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1521</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1521"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1520: fix(llm): treat a throttled or overloaded token endpoint as transient</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1520</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1520"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +96 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1519: fix(mcp): refuse as_of combined with global instead of ignoring it</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1519</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1519"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +25 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1518: fix(mcp): answer an exhausted auto-improve queue with invalid params</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1518</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1518"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1517: fix(hooks): keep the shell bundle's requests off environment proxies</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1517</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1517"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +69 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1516: test(hooks): parenthesise the case patterns bash 3.2 cannot parse</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1516</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1516"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +8 / -8 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1513: fix(embed): bound the embedding input on the Gemini and Voyage embedders</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1513</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1513"/>
+    <updated>2026-10-21T22:37:30Z</updated>
+    <summary>Merged public contribution. +67 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4497: fix(notifications): reject non-positive reply poll interval and rate limit</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497</id>
@@ -271,89 +355,5 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/158"/>
     <updated>2026-10-21T11:28:15Z</updated>
     <summary>Merged public contribution. +0 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #159: fix(multimodal_weather_app): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/159</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/159"/>
-    <updated>2026-10-21T11:27:44Z</updated>
-    <summary>Merged public contribution. +0 / -35 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #160: fix(video_understanding_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/160</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/160"/>
-    <updated>2026-10-21T11:26:58Z</updated>
-    <summary>Merged public contribution. +0 / -27 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #161: fix(clinical_rag_with_ade): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/161</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/161"/>
-    <updated>2026-10-21T11:26:34Z</updated>
-    <summary>Merged public contribution. +0 / -24 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #162: fix(graphrag_knowledge_system): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/162</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/162"/>
-    <updated>2026-10-21T11:25:19Z</updated>
-    <summary>Merged public contribution. +0 / -176 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #163: fix(hybrid_rag_system): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/163</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/163"/>
-    <updated>2026-10-21T11:24:51Z</updated>
-    <summary>Merged public contribution. +0 / -87 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #164: fix(hyde_rag): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/164</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/164"/>
-    <updated>2026-10-21T11:23:26Z</updated>
-    <summary>Merged public contribution. +0 / -64 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #165: fix(rag_agent_with_database_routing): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/165</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/165"/>
-    <updated>2026-10-21T11:22:47Z</updated>
-    <summary>Merged public contribution. +0 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #166: fix(vision_rag): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/166</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/166"/>
-    <updated>2026-10-21T11:22:06Z</updated>
-    <summary>Merged public contribution. +0 / -58 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #185: docs(github_intelligence_agent): fix pip install command</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/185</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/185"/>
-    <updated>2026-10-21T11:12:20Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #190: chore: untrack committed bytecode and ADK session database</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/190</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/190"/>
-    <updated>2026-10-21T11:01:39Z</updated>
-    <summary>Merged public contribution. +1 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #191: docs(image_to_structured_data): fix broken sample receipt image</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/191</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/191"/>
-    <updated>2026-10-21T11:00:58Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #192: chore(self_evolving_code_review_agent): remove duplicate LocalLLM import</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/192</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/192"/>
-    <updated>2026-10-21T11:00:00Z</updated>
-    <summary>Merged public contribution. +0 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
