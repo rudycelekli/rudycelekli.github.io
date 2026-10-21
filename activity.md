@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,663**
+Records: **2,667**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#640: fix(rank): reject an unknown veto verdict instead of shortlisting the job](https://github.com/MadsLorentzen/ai-job-search/pull/640) | +26 / -0 across 3 files | 2 reviews · 2 comments |
+| 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#588: fix(rank): round weighted scores without binary drift](https://github.com/MadsLorentzen/ai-job-search/pull/588) | +62 / -3 across 3 files | 1 reviews · 3 comments |
+| 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#587: fix(upstream): use UTF-8 for framework version checks](https://github.com/MadsLorentzen/ai-job-search/pull/587) | +55 / -1 across 3 files | 1 reviews · 3 comments |
+| 2026-10-21 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [#569: fix(upstream-triage): distinguish subject hints from patch matches](https://github.com/MadsLorentzen/ai-job-search/pull/569) | +70 / -4 across 3 files | 1 reviews · 3 comments |
 | 2026-10-20 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1474: fix: omit compaction footer from CRLF SessionStart excerpts](https://github.com/akitaonrails/ai-memory/pull/1474) | +48 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-10-20 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1475: fix: preserve dotted Windows executable names in PATHEXT lookup](https://github.com/akitaonrails/ai-memory/pull/1475) | +59 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-20 | [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | [#1579: fix(db): keep read lock alive after caller context is cancelled](https://github.com/benbjohnson/litestream/pull/1579) | +83 / -2 across 2 files | 0 reviews · 0 comments |

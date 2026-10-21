@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-20T16:24:34Z</updated>
+  <updated>2026-10-21T05:27:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #640: fix(rank): reject an unknown veto verdict instead of shortlisting the job</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/640</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/640"/>
+    <updated>2026-10-21T05:27:22Z</updated>
+    <summary>Merged public contribution. +26 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #588: fix(rank): round weighted scores without binary drift</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/588</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/588"/>
+    <updated>2026-10-21T05:25:27Z</updated>
+    <summary>Merged public contribution. +62 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #587: fix(upstream): use UTF-8 for framework version checks</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/587</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/587"/>
+    <updated>2026-10-21T05:23:32Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>MadsLorentzen/ai-job-search #569: fix(upstream-triage): distinguish subject hints from patch matches</title>
+    <id>https://github.com/MadsLorentzen/ai-job-search/pull/569</id>
+    <link href="https://github.com/MadsLorentzen/ai-job-search/pull/569"/>
+    <updated>2026-10-21T05:21:41Z</updated>
+    <summary>Merged public contribution. +70 / -4 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #1474: fix: omit compaction footer from CRLF SessionStart excerpts</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/1474</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/jaredwray/cacheable/pull/1744"/>
     <updated>2026-10-19T22:09:34Z</updated>
     <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4268: fix(workflow): list, status, stop and run read the shape and errors the workflow tools return</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4268</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4268"/>
-    <updated>2026-10-19T21:22:36Z</updated>
-    <summary>Merged public contribution. +179 / -35 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4207: fix(memory): memory export reports the tool error instead of crashing (#4204)</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4207</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4207"/>
-    <updated>2026-10-19T21:07:07Z</updated>
-    <summary>Merged public contribution. +51 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4208: fix(hooks): worker dispatch prints the status the tool returned (#4196)</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4208</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4208"/>
-    <updated>2026-10-19T20:52:41Z</updated>
-    <summary>Merged public contribution. +72 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #455: fix(import): keep Mermaid flowchart statements after the header semicolon</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/455</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/455"/>
-    <updated>2026-10-19T20:29:21Z</updated>
-    <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
