@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,723**
+Records: **2,725**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1960: fix(impact): refuse container inputs instead of broadcasting them](https://github.com/HKUDS/Vibe-Trading/pull/1960) | +136 / -17 across 2 files | 1 reviews · 0 comments |
+| 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1959: fix(combination): normalise the equal-weight fallback to 1/n](https://github.com/HKUDS/Vibe-Trading/pull/1959) | +57 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1951: fix(report-audit): exclude fenced examples from financial claims](https://github.com/HKUDS/Vibe-Trading/pull/1951) | +92 / -6 across 2 files | 1 reviews · 0 comments |
 | 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1949: fix(valuation): preserve literal text in workbook exports](https://github.com/HKUDS/Vibe-Trading/pull/1949) | +76 / -3 across 2 files | 1 reviews · 0 comments |
 | 2026-10-21 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1950: fix(quantlib): keep decimal tail probabilities at their documented rank](https://github.com/HKUDS/Vibe-Trading/pull/1950) | +56 / -20 across 3 files | 1 reviews · 0 comments |

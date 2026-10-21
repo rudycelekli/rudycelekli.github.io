@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 136,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-21T20:23:11Z",
+      "deletions": 17,
+      "merged_at": "2026-10-21T20:58:20Z",
+      "number": 1960,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(impact): refuse container inputs instead of broadcasting them",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1960"
+    },
+    {
+      "additions": 57,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-21T20:17:02Z",
+      "deletions": 1,
+      "merged_at": "2026-10-21T20:55:54Z",
+      "number": 1959,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(combination): normalise the equal-weight fallback to 1/n",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1959"
+    },
+    {
       "additions": 92,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -43600,7 +43632,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2723,
+  "record_count": 2725,
   "schema_version": 1,
   "updated_at_utc": "2026-10-21"
 }
