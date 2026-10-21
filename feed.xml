@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T21:53:52Z</updated>
+  <updated>2026-10-21T22:14:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4497: fix(notifications): reject non-positive reply poll interval and rate limit</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497"/>
+    <updated>2026-10-21T22:14:03Z</updated>
+    <summary>Merged public contribution. +88 / -11 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #955: fix(dashboard): preserve explicit facet selections across loads</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/955</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/192"/>
     <updated>2026-10-21T11:00:00Z</updated>
     <summary>Merged public contribution. +0 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3811: fix(bash): preserve short multiline Python commands on Windows</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3811</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3811"/>
-    <updated>2026-10-21T09:22:08Z</updated>
-    <summary>Merged public contribution. +266 / -12 across 2 changed files.</summary>
   </entry>
 </feed>
