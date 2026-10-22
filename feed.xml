@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T07:39:24Z</updated>
+  <updated>2026-10-22T08:38:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1728: fix(codescripts): name the real character in a script-name refusal</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728"/>
+    <updated>2026-10-22T08:38:56Z</updated>
+    <summary>Merged public contribution. +104 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1726: fix: keep the last raw-byte truncations on a rune boundary</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726"/>
+    <updated>2026-10-22T08:38:10Z</updated>
+    <summary>Merged public contribution. +159 / -14 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9828: Preserve PDB enum underlying widths and signed values</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9828</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9828"/>
+    <updated>2026-10-22T08:25:53Z</updated>
+    <summary>Merged public contribution. +13 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9814: Resolve PDB complex primitive widths and decode their listing values</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9814</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9814"/>
+    <updated>2026-10-22T08:25:53Z</updated>
+    <summary>Merged public contribution. +10 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HarnessRouter/harnessrouter #567: conformance: an unavailable validator stops at the share mint, so the R-series still measures Sessions §5</title>
     <id>https://github.com/HarnessRouter/harnessrouter/pull/567</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4511"/>
     <updated>2026-10-22T04:51:27Z</updated>
     <summary>Merged public contribution. +323 / -56 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4493: fix(think-mode): match multilingual think keywords as whole words</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4493</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4493"/>
-    <updated>2026-10-22T04:29:20Z</updated>
-    <summary>Merged public contribution. +638 / -24 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4499: fix(json): accept a leading UTF-8 BOM in hand-authored JSON files</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499"/>
-    <updated>2026-10-22T03:45:42Z</updated>
-    <summary>Merged public contribution. +163 / -15 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1748: fix(smp): preserve table format for remote query URLs</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1748</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1748"/>
-    <updated>2026-10-22T03:00:16Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1751: fix(matching): require standalone labels in verbose answers</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1751</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1751"/>
-    <updated>2026-10-22T02:54:29Z</updated>
-    <summary>Merged public contribution. +69 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

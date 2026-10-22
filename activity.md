@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,801**
+Records: **2,805**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1728: fix(codescripts): name the real character in a script-name refusal](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728) | +104 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1726: fix: keep the last raw-byte truncations on a rune boundary](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726) | +159 / -14 across 6 files | 1 reviews · 2 comments |
+| 2026-10-22 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9828: Preserve PDB enum underlying widths and signed values](https://github.com/NationalSecurityAgency/ghidra/pull/9828) | +13 / -2 across 1 files | 0 reviews · 4 comments |
+| 2026-10-22 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9814: Resolve PDB complex primitive widths and decode their listing values](https://github.com/NationalSecurityAgency/ghidra/pull/9814) | +10 / -4 across 2 files | 0 reviews · 3 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#567: conformance: an unavailable validator stops at the share mint, so the R-series still measures Sessions §5](https://github.com/HarnessRouter/harnessrouter/pull/567) | +67 / -3 across 3 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#566: conformance: R-07 deletes at the path §6 names, so a published link outliving its session is reported](https://github.com/HarnessRouter/harnessrouter/pull/566) | +52 / -8 across 3 files | 1 reviews · 1 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#565: gateway: a published package's declared plugs are attached, as on every other install route](https://github.com/HarnessRouter/harnessrouter/pull/565) | +20 / -0 across 2 files | 1 reviews · 1 comments |
