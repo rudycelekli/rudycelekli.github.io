@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,784**
+Records: **2,790**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#551: produced files: a non-ASCII name is listed as the agent wrote it, so the gateway can fetch it](https://github.com/HarnessRouter/harnessrouter/pull/551) | +74 / -14 across 2 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#555: produced files: the turn's total counts what it produced, not the inputs the caller attached](https://github.com/HarnessRouter/harnessrouter/pull/555) | +58 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#554: gateway: an archive of a turn's changed files is refused with the names when one cannot be read](https://github.com/HarnessRouter/harnessrouter/pull/554) | +38 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#556: gateway: a trace whose chunk could not be read says so, and is never served as a short transcript](https://github.com/HarnessRouter/harnessrouter/pull/556) | +136 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#557: responses: a turn's record that could not be read is never answered response_not_found](https://github.com/HarnessRouter/harnessrouter/pull/557) | +112 / -3 across 4 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#553: session files: a put refuses the base's own protected machinery, as delete, mkdir and move do](https://github.com/HarnessRouter/harnessrouter/pull/553) | +41 / -6 across 4 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#542: sql: a statement's own LIMIT ALL is respected](https://github.com/HarnessRouter/harnessrouter/pull/542) | +56 / -3 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#543: environments: a pip wildcard pin is a range, so its check does not call it unpublished](https://github.com/HarnessRouter/harnessrouter/pull/543) | +29 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#360: feat(windtunnel): measure which inspections actually detect a seeded governance defect](https://github.com/ifixai-ai/iFixAi/pull/360) | +2,739 / -10 across 21 files | 0 reviews · 0 comments |

@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T05:03:02Z</updated>
+  <updated>2026-10-22T06:45:10Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HarnessRouter/harnessrouter #551: produced files: a non-ASCII name is listed as the agent wrote it, so the gateway can fetch it</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/551</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/551"/>
+    <updated>2026-10-22T06:45:10Z</updated>
+    <summary>Merged public contribution. +74 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #555: produced files: the turn's total counts what it produced, not the inputs the caller attached</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/555</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/555"/>
+    <updated>2026-10-22T06:40:12Z</updated>
+    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #554: gateway: an archive of a turn's changed files is refused with the names when one cannot be read</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/554</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/554"/>
+    <updated>2026-10-22T06:36:59Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #556: gateway: a trace whose chunk could not be read says so, and is never served as a short transcript</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/556</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/556"/>
+    <updated>2026-10-22T06:33:14Z</updated>
+    <summary>Merged public contribution. +136 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #557: responses: a turn's record that could not be read is never answered response_not_found</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/557</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/557"/>
+    <updated>2026-10-22T06:28:24Z</updated>
+    <summary>Merged public contribution. +112 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #553: session files: a put refuses the base's own protected machinery, as delete, mkdir and move do</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/553</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/553"/>
+    <updated>2026-10-22T06:24:54Z</updated>
+    <summary>Merged public contribution. +41 / -6 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>HarnessRouter/harnessrouter #542: sql: a statement's own LIMIT ALL is respected</title>
     <id>https://github.com/HarnessRouter/harnessrouter/pull/542</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1524"/>
     <updated>2026-10-21T22:37:30Z</updated>
     <summary>Merged public contribution. +77 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1523: fix(hooks): accept a hook payload with a leading UTF-8 BOM</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1523</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1523"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +51 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1521: fix(store): keep a known column filter whose term holds a second colon</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1521</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1521"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1520: fix(llm): treat a throttled or overloaded token endpoint as transient</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1520</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1520"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +96 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1519: fix(mcp): refuse as_of combined with global instead of ignoring it</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1519</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1519"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +25 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1518: fix(mcp): answer an exhausted auto-improve queue with invalid params</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1518</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1518"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1517: fix(hooks): keep the shell bundle's requests off environment proxies</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1517</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1517"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +69 / -8 across 3 changed files.</summary>
   </entry>
 </feed>
