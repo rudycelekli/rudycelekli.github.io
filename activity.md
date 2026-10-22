@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,806**
+Records: **2,807**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1699: fix(webui): strip control and bidi characters from download names](https://github.com/harry0703/MoneyPrinterTurbo/pull/1699) | +111 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1727: fix(cli): keep truncated table cells on a rune boundary](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1727) | +119 / -34 across 8 files | 1 reviews · 2 comments |
 | 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1728: fix(codescripts): name the real character in a script-name refusal](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728) | +104 / -2 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1726: fix: keep the last raw-byte truncations on a rune boundary](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726) | +159 / -14 across 6 files | 1 reviews · 2 comments |
