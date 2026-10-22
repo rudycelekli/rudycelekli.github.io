@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 638,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 21,
+      "commits": 57,
+      "created_at": "2026-10-21T19:26:06Z",
+      "deletions": 24,
+      "merged_at": "2026-10-22T04:29:20Z",
+      "number": 4493,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 76,
+      "title": "fix(think-mode): match multilingual think keywords as whole words",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4493"
+    },
+    {
       "additions": 163,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -44096,7 +44112,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2754,
+  "record_count": 2755,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }
