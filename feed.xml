@@ -4,8 +4,155 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T09:18:39Z</updated>
+  <updated>2026-10-22T10:27:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2273: fix(setup): bound fallback ports to the TCP range</title>
+    <id>https://github.com/JustVugg/colibri/pull/2273</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2273"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +126 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2272: mcp: leave install state publication to the admitted child</title>
+    <id>https://github.com/JustVugg/colibri/pull/2272</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2272"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +278 / -12 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2271: run: reject a gateway stream that ends without completion</title>
+    <id>https://github.com/JustVugg/colibri/pull/2271</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2271"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +95 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2181: fix(benchmarks): force primary greedy temperature in UX runs</title>
+    <id>https://github.com/JustVugg/colibri/pull/2181</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2181"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2180: fix(benchmarks): propagate UX engine failures</title>
+    <id>https://github.com/JustVugg/colibri/pull/2180</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2180"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +39 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2179: fix(benchmarks): handle early EOS in serving interference</title>
+    <id>https://github.com/JustVugg/colibri/pull/2179</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2179"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +56 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2178: fix(benchmarks): exclude prefill boundary token from decode rate</title>
+    <id>https://github.com/JustVugg/colibri/pull/2178</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2178"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2177: fix(benchmarks): reap continuous batch engines after failures</title>
+    <id>https://github.com/JustVugg/colibri/pull/2177</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2177"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +17 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2176: fix(doctor): fail decision-model checks when memory is exhausted</title>
+    <id>https://github.com/JustVugg/colibri/pull/2176</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2176"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2175: fix(doctor): respect CPU selection in Vulkan placement</title>
+    <id>https://github.com/JustVugg/colibri/pull/2175</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2175"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2174: fix(experiments): detect hidden null and boolean configuration changes</title>
+    <id>https://github.com/JustVugg/colibri/pull/2174</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2174"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2172: fix(image): validate checkpoint tensor layouts before planning</title>
+    <id>https://github.com/JustVugg/colibri/pull/2172</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2172"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +36 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2171: fix(image): reject unpaired surrogate prompts before generation</title>
+    <id>https://github.com/JustVugg/colibri/pull/2171</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2171"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +23 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2170: fix(image): bound PNG inflation to declared scanline bytes</title>
+    <id>https://github.com/JustVugg/colibri/pull/2170</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2170"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2169: fix(image): count VAE weights as resident float32 allocations</title>
+    <id>https://github.com/JustVugg/colibri/pull/2169</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2169"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +21 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2163: fix(mcp): keep stdio session alive after JSON nesting errors</title>
+    <id>https://github.com/JustVugg/colibri/pull/2163</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2163"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2160: fix(usage): keep prior history when closing a save fails</title>
+    <id>https://github.com/JustVugg/colibri/pull/2160</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2160"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2155: fix(download): repair wrong-sized SDK shards with curl fallback</title>
+    <id>https://github.com/JustVugg/colibri/pull/2155</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2155"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +27 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2153: fix(setup): complete empty files without Windows curl</title>
+    <id>https://github.com/JustVugg/colibri/pull/2153</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2153"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2149: fix(setup): start the intended server and report its selected port</title>
+    <id>https://github.com/JustVugg/colibri/pull/2149</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2149"/>
+    <updated>2026-10-22T10:27:03Z</updated>
+    <summary>Merged public contribution. +133 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mark3labs/mcp-go #1064: fix(client): retain registered resource subscriptions for Listen</title>
+    <id>https://github.com/mark3labs/mcp-go/pull/1064</id>
+    <link href="https://github.com/mark3labs/mcp-go/pull/1064"/>
+    <updated>2026-10-22T10:24:34Z</updated>
+    <summary>Merged public contribution. +160 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1699: fix(webui): strip control and bidi characters from download names</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1699</id>
@@ -208,152 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/352"/>
     <updated>2026-10-22T04:54:06Z</updated>
     <summary>Merged public contribution. +66 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #351: fix(scoring): keep overall scores on a grade boundary from losing the grade to float error</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/351</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/351"/>
-    <updated>2026-10-22T04:54:03Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #347: fix(litellm): surface upstream mid-generation aborts instead of grading partial text</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/347</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/347"/>
-    <updated>2026-10-22T04:53:57Z</updated>
-    <summary>Merged public contribution. +83 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #346: fix(cli): resume full runs when ifixai.yaml saves a default suite</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/346</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/346"/>
-    <updated>2026-10-22T04:53:54Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #344: fix: keep errored judge samples from unscoring FAIL majorities in S02/P13/P22/P27</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/344</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/344"/>
-    <updated>2026-10-22T04:53:51Z</updated>
-    <summary>Merged public contribution. +74 / -4 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #343: fix(reporting): export no grade for runs without an overall score</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/343</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/343"/>
-    <updated>2026-10-22T04:53:47Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #342: fix(judge): match fallback provider keys case-insensitively</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/342</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/342"/>
-    <updated>2026-10-22T04:53:44Z</updated>
-    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #341: fix: compute C02/C05/C11/X04/X11 confidence intervals over the scored subset</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/341</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/341"/>
-    <updated>2026-10-22T04:53:41Z</updated>
-    <summary>Merged public contribution. +53 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #340: fix: keep unselected mandatory minimums out of aborted scoped runs</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/340</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/340"/>
-    <updated>2026-10-22T04:53:38Z</updated>
-    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #339: fix(fixtures): normalize legacy data-source classifications in modern fixtures</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/339</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/339"/>
-    <updated>2026-10-22T04:53:34Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #338: fix(gemini): treat rejected API keys as fatal auth errors</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/338</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/338"/>
-    <updated>2026-10-22T04:53:30Z</updated>
-    <summary>Merged public contribution. +26 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #337: fix(bedrock): honor the AWS region chain instead of pinning us-east-1</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/337</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/337"/>
-    <updated>2026-10-22T04:53:26Z</updated>
-    <summary>Merged public contribution. +95 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #336: fix(bedrock): treat invalid signatures and expired tokens as auth failures</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/336</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/336"/>
-    <updated>2026-10-22T04:53:22Z</updated>
-    <summary>Merged public contribution. +60 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #335: fix(setup): don't save a governance path for the mock agent</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/335</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/335"/>
-    <updated>2026-10-22T04:53:19Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #334: fix(cli): report unreadable config governance paths without a traceback</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/334</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/334"/>
-    <updated>2026-10-22T04:53:15Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #333: fix(cli): create missing parent directories for --artifact-out</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/333</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/333"/>
-    <updated>2026-10-22T04:53:12Z</updated>
-    <summary>Merged public contribution. +14 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #332: fix(reporting): label empty-reply inconclusive results consistently in Markdown</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/332</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/332"/>
-    <updated>2026-10-22T04:53:08Z</updated>
-    <summary>Merged public contribution. +63 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #330: fix(b26): identify each per-tool rate-limit probe</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/330</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/330"/>
-    <updated>2026-10-22T04:53:05Z</updated>
-    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #329: fix(b32): treat the generic fixture domain as unrestricted</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/329</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/329"/>
-    <updated>2026-10-22T04:53:02Z</updated>
-    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #328: fix(b27): name failed session probes after their own user pair</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/328</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/328"/>
-    <updated>2026-10-22T04:52:59Z</updated>
-    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #327: fix(trajectory): refuse invoke before the callable runs at the event bound</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/327</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/327"/>
-    <updated>2026-10-22T04:52:55Z</updated>
-    <summary>Merged public contribution. +14 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #326: fix(trajectory): read JSONL captures containing Unicode line separators</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/326</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/326"/>
-    <updated>2026-10-22T04:52:52Z</updated>
-    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

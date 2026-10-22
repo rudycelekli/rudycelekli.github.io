@@ -4,10 +4,31 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,807**
+Records: **2,828**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2273: fix(setup): bound fallback ports to the TCP range](https://github.com/JustVugg/colibri/pull/2273) | +126 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2272: mcp: leave install state publication to the admitted child](https://github.com/JustVugg/colibri/pull/2272) | +278 / -12 across 5 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2271: run: reject a gateway stream that ends without completion](https://github.com/JustVugg/colibri/pull/2271) | +95 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2181: fix(benchmarks): force primary greedy temperature in UX runs](https://github.com/JustVugg/colibri/pull/2181) | +32 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2180: fix(benchmarks): propagate UX engine failures](https://github.com/JustVugg/colibri/pull/2180) | +39 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2179: fix(benchmarks): handle early EOS in serving interference](https://github.com/JustVugg/colibri/pull/2179) | +56 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2178: fix(benchmarks): exclude prefill boundary token from decode rate](https://github.com/JustVugg/colibri/pull/2178) | +39 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2177: fix(benchmarks): reap continuous batch engines after failures](https://github.com/JustVugg/colibri/pull/2177) | +17 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2176: fix(doctor): fail decision-model checks when memory is exhausted](https://github.com/JustVugg/colibri/pull/2176) | +24 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2175: fix(doctor): respect CPU selection in Vulkan placement](https://github.com/JustVugg/colibri/pull/2175) | +19 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2174: fix(experiments): detect hidden null and boolean configuration changes](https://github.com/JustVugg/colibri/pull/2174) | +36 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2172: fix(image): validate checkpoint tensor layouts before planning](https://github.com/JustVugg/colibri/pull/2172) | +36 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2171: fix(image): reject unpaired surrogate prompts before generation](https://github.com/JustVugg/colibri/pull/2171) | +23 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2170: fix(image): bound PNG inflation to declared scanline bytes](https://github.com/JustVugg/colibri/pull/2170) | +30 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2169: fix(image): count VAE weights as resident float32 allocations](https://github.com/JustVugg/colibri/pull/2169) | +21 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2163: fix(mcp): keep stdio session alive after JSON nesting errors](https://github.com/JustVugg/colibri/pull/2163) | +13 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2160: fix(usage): keep prior history when closing a save fails](https://github.com/JustVugg/colibri/pull/2160) | +33 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2155: fix(download): repair wrong-sized SDK shards with curl fallback](https://github.com/JustVugg/colibri/pull/2155) | +27 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2153: fix(setup): complete empty files without Windows curl](https://github.com/JustVugg/colibri/pull/2153) | +16 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2149: fix(setup): start the intended server and report its selected port](https://github.com/JustVugg/colibri/pull/2149) | +133 / -10 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | [#1064: fix(client): retain registered resource subscriptions for Listen](https://github.com/mark3labs/mcp-go/pull/1064) | +160 / -8 across 2 files | 0 reviews · 4 comments |
 | 2026-10-22 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [#1699: fix(webui): strip control and bidi characters from download names](https://github.com/harry0703/MoneyPrinterTurbo/pull/1699) | +111 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1727: fix(cli): keep truncated table cells on a rune boundary](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1727) | +119 / -34 across 8 files | 1 reviews · 2 comments |
 | 2026-10-22 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1728: fix(codescripts): name the real character in a script-name refusal](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728) | +104 / -2 across 2 files | 1 reviews · 2 comments |
