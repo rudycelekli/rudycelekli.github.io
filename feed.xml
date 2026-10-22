@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T03:00:16Z</updated>
+  <updated>2026-10-22T03:45:42Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4499: fix(json): accept a leading UTF-8 BOM in hand-authored JSON files</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499"/>
+    <updated>2026-10-22T03:45:42Z</updated>
+    <summary>Merged public contribution. +163 / -15 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1748: fix(smp): preserve table format for remote query URLs</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1748</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/149"/>
     <updated>2026-10-21T11:32:27Z</updated>
     <summary>Merged public contribution. +0 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1758: fix(vizwiz): request short and unanswerable responses</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1758</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1758"/>
-    <updated>2026-10-21T11:32:27Z</updated>
-    <summary>Merged public contribution. +52 / -0 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 163,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 4,
+      "commits": 22,
+      "created_at": "2026-10-21T21:44:41Z",
+      "deletions": 15,
+      "merged_at": "2026-10-22T03:45:42Z",
+      "number": 4499,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 4,
+      "title": "fix(json): accept a leading UTF-8 BOM in hand-authored JSON files",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499"
+    },
+    {
       "additions": 40,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -44080,7 +44096,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2753,
+  "record_count": 2754,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }

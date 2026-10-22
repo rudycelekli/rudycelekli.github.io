@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,753**
+Records: **2,754**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4499: fix(json): accept a leading UTF-8 BOM in hand-authored JSON files](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4499) | +163 / -15 across 5 files | 4 reviews · 4 comments |
 | 2026-10-22 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1748: fix(smp): preserve table format for remote query URLs](https://github.com/open-compass/VLMEvalKit/pull/1748) | +40 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-22 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1751: fix(matching): require standalone labels in verbose answers](https://github.com/open-compass/VLMEvalKit/pull/1751) | +69 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#69: fix(notes): ignore todo-looking lines inside fenced code blocks](https://github.com/rociiu/talorys/pull/69) | +35 / -3 across 2 files | 2 reviews · 1 comments |
