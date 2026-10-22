@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T04:54:25Z</updated>
+  <updated>2026-10-22T05:03:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HarnessRouter/harnessrouter #542: sql: a statement's own LIMIT ALL is respected</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/542</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/542"/>
+    <updated>2026-10-22T05:03:02Z</updated>
+    <summary>Merged public contribution. +56 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #543: environments: a pip wildcard pin is a range, so its check does not call it unpublished</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/543</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/543"/>
+    <updated>2026-10-22T04:59:53Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ifixai-ai/iFixAi #360: feat(windtunnel): measure which inspections actually detect a seeded governance defect</title>
     <id>https://github.com/ifixai-ai/iFixAi/pull/360</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1517"/>
     <updated>2026-10-21T22:37:30Z</updated>
     <summary>Merged public contribution. +69 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1516: test(hooks): parenthesise the case patterns bash 3.2 cannot parse</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1516</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1516"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +8 / -8 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1513: fix(embed): bound the embedding input on the Gemini and Voyage embedders</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1513</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1513"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +67 / -2 across 3 changed files.</summary>
   </entry>
 </feed>

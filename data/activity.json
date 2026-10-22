@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 56,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-21T17:12:33Z",
+      "deletions": 3,
+      "merged_at": "2026-10-22T05:03:02Z",
+      "number": 542,
+      "repository": "HarnessRouter/harnessrouter",
+      "repository_url": "https://github.com/HarnessRouter/harnessrouter",
+      "reviews": 1,
+      "title": "sql: a statement's own LIMIT ALL is respected",
+      "url": "https://github.com/HarnessRouter/harnessrouter/pull/542"
+    },
+    {
+      "additions": 29,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-21T17:14:59Z",
+      "deletions": 1,
+      "merged_at": "2026-10-22T04:59:53Z",
+      "number": 543,
+      "repository": "HarnessRouter/harnessrouter",
+      "repository_url": "https://github.com/HarnessRouter/harnessrouter",
+      "reviews": 1,
+      "title": "environments: a pip wildcard pin is a range, so its check does not call it unpublished",
+      "url": "https://github.com/HarnessRouter/harnessrouter/pull/543"
+    },
+    {
       "additions": 2739,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 21,
@@ -5521,11 +5553,11 @@
       "deletions": 11,
       "merged_at": "2026-10-18T08:02:02Z",
       "number": 158,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(permissions): classify branch and remote mutations correctly",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/158"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/158"
     },
     {
       "additions": 105,
@@ -20769,11 +20801,11 @@
       "deletions": 19,
       "merged_at": "2026-10-11T05:48:22Z",
       "number": 143,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(web): refresh scheduled task outcomes without stale overwrites",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/143"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/143"
     },
     {
       "additions": 102,
@@ -20785,11 +20817,11 @@
       "deletions": 4,
       "merged_at": "2026-10-11T05:48:14Z",
       "number": 154,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(dev): stop the stack when a service exits",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/154"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/154"
     },
     {
       "additions": 42,
@@ -20801,11 +20833,11 @@
       "deletions": 0,
       "merged_at": "2026-10-11T05:48:07Z",
       "number": 153,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(dev): validate required permission hook settings upfront",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/153"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/153"
     },
     {
       "additions": 1,
@@ -20817,11 +20849,11 @@
       "deletions": 1,
       "merged_at": "2026-10-11T05:47:59Z",
       "number": 152,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "docs: require supported Node version for web setup",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/152"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/152"
     },
     {
       "additions": 51,
@@ -20833,11 +20865,11 @@
       "deletions": 1,
       "merged_at": "2026-10-11T05:47:50Z",
       "number": 150,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(web): display structured validation error details",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/150"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/150"
     },
     {
       "additions": 99,
@@ -20849,11 +20881,11 @@
       "deletions": 2,
       "merged_at": "2026-10-11T05:47:42Z",
       "number": 147,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(telegram): deliver complete schedule lists within message limits",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/147"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/147"
     },
     {
       "additions": 343,
@@ -20865,11 +20897,11 @@
       "deletions": 0,
       "merged_at": "2026-10-11T05:47:34Z",
       "number": 149,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(tasks): serialize reply admission within a conversation",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/149"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/149"
     },
     {
       "additions": 69,
@@ -20881,11 +20913,11 @@
       "deletions": 0,
       "merged_at": "2026-10-11T05:46:56Z",
       "number": 145,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(tasks): record non-object result output as failed",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/145"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/145"
     },
     {
       "additions": 151,
@@ -20897,11 +20929,11 @@
       "deletions": 3,
       "merged_at": "2026-10-11T05:46:35Z",
       "number": 142,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(tasks): create sessions when replying to pre-launch failures",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/142"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/142"
     },
     {
       "additions": 200,
@@ -27457,11 +27489,11 @@
       "deletions": 1,
       "merged_at": "2026-10-07T08:07:31Z",
       "number": 141,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(tasks): read completed stdout logs before parsing results",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/141"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/141"
     },
     {
       "additions": 156,
@@ -27473,11 +27505,11 @@
       "deletions": 0,
       "merged_at": "2026-10-07T08:07:27Z",
       "number": 140,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(tasks): record failed credential and hook setup",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/140"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/140"
     },
     {
       "additions": 248,
@@ -27489,11 +27521,11 @@
       "deletions": 26,
       "merged_at": "2026-10-07T08:07:22Z",
       "number": 139,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(sandboxes): replace remotely deleted active sandboxes",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/139"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/139"
     },
     {
       "additions": 82,
@@ -27505,11 +27537,11 @@
       "deletions": 0,
       "merged_at": "2026-10-07T08:07:18Z",
       "number": 138,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(permissions): honor decisions in the final polling interval",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/138"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/138"
     },
     {
       "additions": 208,
@@ -27521,11 +27553,11 @@
       "deletions": 7,
       "merged_at": "2026-10-07T08:07:15Z",
       "number": 137,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(telegram): observe tasks for their full execution budget",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/137"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/137"
     },
     {
       "additions": 50,
@@ -27537,11 +27569,11 @@
       "deletions": 10,
       "merged_at": "2026-10-07T08:07:11Z",
       "number": 135,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(database): preserve reserved characters in connection credentials",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/135"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/135"
     },
     {
       "additions": 140,
@@ -27553,11 +27585,11 @@
       "deletions": 1,
       "merged_at": "2026-10-07T08:07:06Z",
       "number": 134,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(schedules): honor standard crontab weekday and restricted-day semantics",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/134"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/134"
     },
     {
       "additions": 95,
@@ -27569,11 +27601,11 @@
       "deletions": 3,
       "merged_at": "2026-10-07T08:06:59Z",
       "number": 136,
-      "repository": "Anil-matcha/open-dots",
-      "repository_url": "https://github.com/Anil-matcha/open-dots",
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
       "reviews": 0,
       "title": "fix(telegram): deliver complete task results within message limits",
-      "url": "https://github.com/Anil-matcha/open-dots/pull/136"
+      "url": "https://github.com/Anil-matcha/open-duet/pull/136"
     },
     {
       "additions": 102,
@@ -44544,7 +44576,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2782,
+  "record_count": 2784,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }
