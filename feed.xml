@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T00:30:23Z</updated>
+  <updated>2026-10-22T02:54:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1751: fix(matching): require standalone labels in verbose answers</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1751</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1751"/>
+    <updated>2026-10-22T02:54:29Z</updated>
+    <summary>Merged public contribution. +69 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #69: fix(notes): ignore todo-looking lines inside fenced code blocks</title>
+    <id>https://github.com/rociiu/talorys/pull/69</id>
+    <link href="https://github.com/rociiu/talorys/pull/69"/>
+    <updated>2026-10-22T02:48:17Z</updated>
+    <summary>Merged public contribution. +35 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #71: fix: say when a monthly schedule falls back to the last day of shorter months</title>
+    <id>https://github.com/rociiu/talorys/pull/71</id>
+    <link href="https://github.com/rociiu/talorys/pull/71"/>
+    <updated>2026-10-22T02:48:11Z</updated>
+    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4510: fix(host-load-gate): stop silently truncating env thresholds</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4510</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4510"/>
+    <updated>2026-10-22T02:48:00Z</updated>
+    <summary>Merged public contribution. +302 / -17 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>liliang-cn/cortexdb #81: fix(observability): refuse a histogram redeclared with different buckets</title>
     <id>https://github.com/liliang-cn/cortexdb/pull/81</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/150"/>
     <updated>2026-10-21T11:32:11Z</updated>
     <summary>Merged public contribution. +0 / -41 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #151: fix(multi_agent_research_assistant_ag2): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/151</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/151"/>
-    <updated>2026-10-21T11:31:47Z</updated>
-    <summary>Merged public contribution. +0 / -77 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #152: fix(research_team): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/152</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/152"/>
-    <updated>2026-10-21T11:31:24Z</updated>
-    <summary>Merged public contribution. +0 / -27 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #153: fix(smolagents_code_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/153</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/153"/>
-    <updated>2026-10-21T11:31:03Z</updated>
-    <summary>Merged public contribution. +0 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #154: fix(startup_analyst): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/154</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/154"/>
-    <updated>2026-10-21T11:30:33Z</updated>
-    <summary>Merged public contribution. +0 / -58 across 3 changed files.</summary>
   </entry>
 </feed>

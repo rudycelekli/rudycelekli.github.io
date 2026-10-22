@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,748**
+Records: **2,752**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1751: fix(matching): require standalone labels in verbose answers](https://github.com/open-compass/VLMEvalKit/pull/1751) | +69 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#69: fix(notes): ignore todo-looking lines inside fenced code blocks](https://github.com/rociiu/talorys/pull/69) | +35 / -3 across 2 files | 2 reviews · 1 comments |
+| 2026-10-22 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#71: fix: say when a monthly schedule falls back to the last day of shorter months](https://github.com/rociiu/talorys/pull/71) | +8 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4510: fix(host-load-gate): stop silently truncating env thresholds](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4510) | +302 / -17 across 5 files | 14 reviews · 4 comments |
 | 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#81: fix(observability): refuse a histogram redeclared with different buckets](https://github.com/liliang-cn/cortexdb/pull/81) | +82 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#80: fix(geo): copy a point's metadata in and out of the index](https://github.com/liliang-cn/cortexdb/pull/80) | +157 / -10 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#79: fix(sqldialect): guard JSONArrayContains against a column holding no JSON](https://github.com/liliang-cn/cortexdb/pull/79) | +84 / -1 across 2 files | 0 reviews · 1 comments |
