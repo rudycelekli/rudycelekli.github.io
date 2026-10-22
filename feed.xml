@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T17:46:43Z</updated>
+  <updated>2026-10-22T18:24:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ifixai-ai/iFixAi #353: fix(b01): keep coverage diagnostics out of the mandatory gate's evidence floor</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/353</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/353"/>
+    <updated>2026-10-22T18:24:41Z</updated>
+    <summary>Merged public contribution. +63 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #348: fix(trajectory): report a defective delegation grant once, not once per use</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/348</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/348"/>
+    <updated>2026-10-22T18:24:14Z</updated>
+    <summary>Merged public contribution. +144 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #216: fix(http): preserve the completed empty-output contract</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/216</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/216"/>
+    <updated>2026-10-22T18:23:45Z</updated>
+    <summary>Merged public contribution. +793 / -43 across 20 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ktwu01/benchmark-radar #869: Keep unreported star counts unknown in the popular-repository ranking</title>
+    <id>https://github.com/ktwu01/benchmark-radar/pull/869</id>
+    <link href="https://github.com/ktwu01/benchmark-radar/pull/869"/>
+    <updated>2026-10-22T18:06:25Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ktwu01/benchmark-radar #826: Add Phi-4 mini reasoning card and complete comparison scores</title>
+    <id>https://github.com/ktwu01/benchmark-radar/pull/826</id>
+    <link href="https://github.com/ktwu01/benchmark-radar/pull/826"/>
+    <updated>2026-10-22T18:04:48Z</updated>
+    <summary>Merged public contribution. +773 / -9 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4971: fix(context): order cached renders by render start</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4971</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2172"/>
     <updated>2026-10-22T10:27:03Z</updated>
     <summary>Merged public contribution. +36 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2171: fix(image): reject unpaired surrogate prompts before generation</title>
-    <id>https://github.com/JustVugg/colibri/pull/2171</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2171"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +23 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2170: fix(image): bound PNG inflation to declared scanline bytes</title>
-    <id>https://github.com/JustVugg/colibri/pull/2170</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2170"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2169: fix(image): count VAE weights as resident float32 allocations</title>
-    <id>https://github.com/JustVugg/colibri/pull/2169</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2169"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +21 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2163: fix(mcp): keep stdio session alive after JSON nesting errors</title>
-    <id>https://github.com/JustVugg/colibri/pull/2163</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2163"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2160: fix(usage): keep prior history when closing a save fails</title>
-    <id>https://github.com/JustVugg/colibri/pull/2160</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2160"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

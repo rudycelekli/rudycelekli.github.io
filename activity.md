@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,861**
+Records: **2,866**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#353: fix(b01): keep coverage diagnostics out of the mandatory gate's evidence floor](https://github.com/ifixai-ai/iFixAi/pull/353) | +63 / -3 across 3 files | 0 reviews · 1 comments |
+| 2026-10-22 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#348: fix(trajectory): report a defective delegation grant once, not once per use](https://github.com/ifixai-ai/iFixAi/pull/348) | +144 / -2 across 4 files | 0 reviews · 1 comments |
+| 2026-10-22 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#216: fix(http): preserve the completed empty-output contract](https://github.com/ifixai-ai/iFixAi/pull/216) | +793 / -43 across 20 files | 0 reviews · 11 comments |
+| 2026-10-22 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#869: Keep unreported star counts unknown in the popular-repository ranking](https://github.com/ktwu01/benchmark-radar/pull/869) | +24 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-22 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#826: Add Phi-4 mini reasoning card and complete comparison scores](https://github.com/ktwu01/benchmark-radar/pull/826) | +773 / -9 across 4 files | 19 reviews · 6 comments |
 | 2026-10-22 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4971: fix(context): order cached renders by render start](https://github.com/thedotmack/claude-mem/pull/4971) | +291 / -7 across 3 files | 1 reviews · 3 comments |
 | 2026-10-22 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4957: docs(smart-explore): remove unsupported custom grammar setup](https://github.com/thedotmack/claude-mem/pull/4957) | +19 / -19 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#96: Require equal episode coverage before licensing benchmark attribution](https://github.com/tigerless-labs/agent-memory/pull/96) | +11,657 / -1,871 across 98 files | 0 reviews · 0 comments |
