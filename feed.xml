@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T10:27:03Z</updated>
+  <updated>2026-10-22T11:18:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3804: fix(memory): keep new messages beyond cleared context boundary</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3804</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3804"/>
+    <updated>2026-10-22T11:18:44Z</updated>
+    <summary>Merged public contribution. +67 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3803: fix(voice): bind manual speech to the clicked message version</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3803</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3803"/>
+    <updated>2026-10-22T11:18:38Z</updated>
+    <summary>Merged public contribution. +321 / -14 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3801: fix(workspace): reject conflicting concurrent console saves</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3801</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3801"/>
+    <updated>2026-10-22T11:18:31Z</updated>
+    <summary>Merged public contribution. +91 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3800: fix(log): keep console fallback when data directory is unwritable</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3800</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3800"/>
+    <updated>2026-10-22T11:18:25Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3799: fix: preserve existing files when fallback encoding fails</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3799</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3799"/>
+    <updated>2026-10-22T11:18:18Z</updated>
+    <summary>Merged public contribution. +51 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3794: fix(read): recover oversized lines at the requested offset</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3794</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3794"/>
+    <updated>2026-10-22T11:18:11Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2273: fix(setup): bound fallback ports to the TCP range</title>
     <id>https://github.com/JustVugg/colibri/pull/2273</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/HarnessRouter/harnessrouter/pull/553"/>
     <updated>2026-10-22T06:24:54Z</updated>
     <summary>Merged public contribution. +41 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #542: sql: a statement's own LIMIT ALL is respected</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/542</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/542"/>
-    <updated>2026-10-22T05:03:02Z</updated>
-    <summary>Merged public contribution. +56 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #543: environments: a pip wildcard pin is a range, so its check does not call it unpublished</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/543</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/543"/>
-    <updated>2026-10-22T04:59:53Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #360: feat(windtunnel): measure which inspections actually detect a seeded governance defect</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/360</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/360"/>
-    <updated>2026-10-22T04:54:25Z</updated>
-    <summary>Merged public contribution. +2739 / -10 across 21 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #359: ci: run the test suite, and stop the documented inspection counts from drifting</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/359</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/359"/>
-    <updated>2026-10-22T04:54:22Z</updated>
-    <summary>Merged public contribution. +289 / -10 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #247: fix: keep malformed provider replies scoped to one probe</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/247</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/247"/>
-    <updated>2026-10-22T04:54:12Z</updated>
-    <summary>Merged public contribution. +338 / -26 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #352: fix(artifact): show the real reason for a withheld score and only claim a cap that applied</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/352</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/352"/>
-    <updated>2026-10-22T04:54:06Z</updated>
-    <summary>Merged public contribution. +66 / -6 across 2 changed files.</summary>
   </entry>
 </feed>

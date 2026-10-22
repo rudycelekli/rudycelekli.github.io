@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,828**
+Records: **2,834**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3804: fix(memory): keep new messages beyond cleared context boundary](https://github.com/zhayujie/CowAgent/pull/3804) | +67 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3803: fix(voice): bind manual speech to the clicked message version](https://github.com/zhayujie/CowAgent/pull/3803) | +321 / -14 across 4 files | 0 reviews · 1 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3801: fix(workspace): reject conflicting concurrent console saves](https://github.com/zhayujie/CowAgent/pull/3801) | +91 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3800: fix(log): keep console fallback when data directory is unwritable](https://github.com/zhayujie/CowAgent/pull/3800) | +32 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3799: fix: preserve existing files when fallback encoding fails](https://github.com/zhayujie/CowAgent/pull/3799) | +51 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3794: fix(read): recover oversized lines at the requested offset](https://github.com/zhayujie/CowAgent/pull/3794) | +39 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2273: fix(setup): bound fallback ports to the TCP range](https://github.com/JustVugg/colibri/pull/2273) | +126 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2272: mcp: leave install state publication to the admitted child](https://github.com/JustVugg/colibri/pull/2272) | +278 / -12 across 5 files | 0 reviews · 0 comments |
 | 2026-10-22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2271: run: reject a gateway stream that ends without completion](https://github.com/JustVugg/colibri/pull/2271) | +95 / -0 across 2 files | 0 reviews · 0 comments |
