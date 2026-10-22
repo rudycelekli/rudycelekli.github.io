@@ -4,10 +4,18 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,793**
+Records: **2,801**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#567: conformance: an unavailable validator stops at the share mint, so the R-series still measures Sessions §5](https://github.com/HarnessRouter/harnessrouter/pull/567) | +67 / -3 across 3 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#566: conformance: R-07 deletes at the path §6 names, so a published link outliving its session is reported](https://github.com/HarnessRouter/harnessrouter/pull/566) | +52 / -8 across 3 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#565: gateway: a published package's declared plugs are attached, as on every other install route](https://github.com/HarnessRouter/harnessrouter/pull/565) | +20 / -0 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#564: gateway: an export refuses a sound whose bytes are gone, as it does a shot and a layer](https://github.com/HarnessRouter/harnessrouter/pull/564) | +56 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#563: media: a canvas read that failed is a failure, and never an empty scene a landing render then writes back](https://github.com/HarnessRouter/harnessrouter/pull/563) | +181 / -4 across 2 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#562: kits: a launch whose harness list could not be read is refused, not provisioned a second time](https://github.com/HarnessRouter/harnessrouter/pull/562) | +54 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-10-22 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4512: fix(mcp-registry): escape unpaired surrogates in Codex TOML output](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4512) | +79 / -5 across 3 files | 6 reviews · 7 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#561: storage usage: a session index that could not be read is never answered as a zero total](https://github.com/HarnessRouter/harnessrouter/pull/561) | +90 / -1 across 2 files | 1 reviews · 1 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#552: environments: an apt version's epoch is part of a package spec](https://github.com/HarnessRouter/harnessrouter/pull/552) | +88 / -2 across 4 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#548: browser: the reaper's idle clock counts the person's takeover, so a human browsing is not stopped under them](https://github.com/HarnessRouter/harnessrouter/pull/548) | +53 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#547: sql: a schema the row cap cut short says truncated](https://github.com/HarnessRouter/harnessrouter/pull/547) | +64 / -1 across 2 files | 1 reviews · 1 comments |

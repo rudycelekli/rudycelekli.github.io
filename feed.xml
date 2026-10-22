@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T06:58:13Z</updated>
+  <updated>2026-10-22T07:39:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HarnessRouter/harnessrouter #567: conformance: an unavailable validator stops at the share mint, so the R-series still measures Sessions §5</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/567</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/567"/>
+    <updated>2026-10-22T07:39:24Z</updated>
+    <summary>Merged public contribution. +67 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #566: conformance: R-07 deletes at the path §6 names, so a published link outliving its session is reported</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/566</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/566"/>
+    <updated>2026-10-22T07:35:09Z</updated>
+    <summary>Merged public contribution. +52 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #565: gateway: a published package's declared plugs are attached, as on every other install route</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/565</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/565"/>
+    <updated>2026-10-22T07:31:54Z</updated>
+    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #564: gateway: an export refuses a sound whose bytes are gone, as it does a shot and a layer</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/564</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/564"/>
+    <updated>2026-10-22T07:28:46Z</updated>
+    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #563: media: a canvas read that failed is a failure, and never an empty scene a landing render then writes back</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/563</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/563"/>
+    <updated>2026-10-22T07:25:00Z</updated>
+    <summary>Merged public contribution. +181 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #562: kits: a launch whose harness list could not be read is refused, not provisioned a second time</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/562</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/562"/>
+    <updated>2026-10-22T07:17:34Z</updated>
+    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4512: fix(mcp-registry): escape unpaired surrogates in Codex TOML output</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4512</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4512"/>
+    <updated>2026-10-22T07:15:14Z</updated>
+    <summary>Merged public contribution. +79 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #561: storage usage: a session index that could not be read is never answered as a zero total</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/561</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/561"/>
+    <updated>2026-10-22T07:13:49Z</updated>
+    <summary>Merged public contribution. +90 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HarnessRouter/harnessrouter #552: environments: an apt version's epoch is part of a package spec</title>
     <id>https://github.com/HarnessRouter/harnessrouter/pull/552</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/open-compass/VLMEvalKit/pull/1751"/>
     <updated>2026-10-22T02:54:29Z</updated>
     <summary>Merged public contribution. +69 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #69: fix(notes): ignore todo-looking lines inside fenced code blocks</title>
-    <id>https://github.com/rociiu/talorys/pull/69</id>
-    <link href="https://github.com/rociiu/talorys/pull/69"/>
-    <updated>2026-10-22T02:48:17Z</updated>
-    <summary>Merged public contribution. +35 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #71: fix: say when a monthly schedule falls back to the last day of shorter months</title>
-    <id>https://github.com/rociiu/talorys/pull/71</id>
-    <link href="https://github.com/rociiu/talorys/pull/71"/>
-    <updated>2026-10-22T02:48:11Z</updated>
-    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4510: fix(host-load-gate): stop silently truncating env thresholds</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4510</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4510"/>
-    <updated>2026-10-22T02:48:00Z</updated>
-    <summary>Merged public contribution. +302 / -17 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #81: fix(observability): refuse a histogram redeclared with different buckets</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/81</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/81"/>
-    <updated>2026-10-22T00:30:23Z</updated>
-    <summary>Merged public contribution. +82 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #80: fix(geo): copy a point's metadata in and out of the index</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/80</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/80"/>
-    <updated>2026-10-22T00:30:16Z</updated>
-    <summary>Merged public contribution. +157 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liliang-cn/cortexdb #79: fix(sqldialect): guard JSONArrayContains against a column holding no JSON</title>
-    <id>https://github.com/liliang-cn/cortexdb/pull/79</id>
-    <link href="https://github.com/liliang-cn/cortexdb/pull/79"/>
-    <updated>2026-10-22T00:30:11Z</updated>
-    <summary>Merged public contribution. +84 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4508: fix(debug): read OMC_DEBUG through one shared convention</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4508</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4508"/>
-    <updated>2026-10-22T00:11:53Z</updated>
-    <summary>Merged public contribution. +1093 / -22 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1528: fix(consolidate): cluster a cold set of exactly min_pts near-duplicates</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1528</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1528"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +111 / -4 across 3 changed files.</summary>
   </entry>
 </feed>
