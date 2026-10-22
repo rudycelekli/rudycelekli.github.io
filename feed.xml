@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-21T22:37:30Z</updated>
+  <updated>2026-10-22T00:30:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liliang-cn/cortexdb #81: fix(observability): refuse a histogram redeclared with different buckets</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/81</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/81"/>
+    <updated>2026-10-22T00:30:23Z</updated>
+    <summary>Merged public contribution. +82 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #80: fix(geo): copy a point's metadata in and out of the index</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/80</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/80"/>
+    <updated>2026-10-22T00:30:16Z</updated>
+    <summary>Merged public contribution. +157 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liliang-cn/cortexdb #79: fix(sqldialect): guard JSONArrayContains against a column holding no JSON</title>
+    <id>https://github.com/liliang-cn/cortexdb/pull/79</id>
+    <link href="https://github.com/liliang-cn/cortexdb/pull/79"/>
+    <updated>2026-10-22T00:30:11Z</updated>
+    <summary>Merged public contribution. +84 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4508: fix(debug): read OMC_DEBUG through one shared convention</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4508</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4508"/>
+    <updated>2026-10-22T00:11:53Z</updated>
+    <summary>Merged public contribution. +1093 / -22 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #1528: fix(consolidate): cluster a cold set of exactly min_pts near-duplicates</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/1528</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/154"/>
     <updated>2026-10-21T11:30:33Z</updated>
     <summary>Merged public contribution. +0 / -58 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #155: fix(stock_portfolio_analyst): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/155</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/155"/>
-    <updated>2026-10-21T11:30:01Z</updated>
-    <summary>Merged public contribution. +0 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #156: fix(music_explorer): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/156</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/156"/>
-    <updated>2026-10-21T11:29:14Z</updated>
-    <summary>Merged public contribution. +0 / -22 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #157: fix(image_question_answering): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/157</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/157"/>
-    <updated>2026-10-21T11:28:54Z</updated>
-    <summary>Merged public contribution. +0 / -19 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #158: fix(multimodal_rag): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/158</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/158"/>
-    <updated>2026-10-21T11:28:15Z</updated>
-    <summary>Merged public contribution. +0 / -3 across 1 changed files.</summary>
   </entry>
 </feed>

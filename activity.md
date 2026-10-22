@@ -1,13 +1,17 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-21 UTC**
+Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,744**
+Records: **2,748**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#81: fix(observability): refuse a histogram redeclared with different buckets](https://github.com/liliang-cn/cortexdb/pull/81) | +82 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#80: fix(geo): copy a point's metadata in and out of the index](https://github.com/liliang-cn/cortexdb/pull/80) | +157 / -10 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | [#79: fix(sqldialect): guard JSONArrayContains against a column holding no JSON](https://github.com/liliang-cn/cortexdb/pull/79) | +84 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-22 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4508: fix(debug): read OMC_DEBUG through one shared convention](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4508) | +1,093 / -22 across 9 files | 3 reviews · 2 comments |
 | 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1528: fix(consolidate): cluster a cold set of exactly min_pts near-duplicates](https://github.com/akitaonrails/ai-memory/pull/1528) | +111 / -4 across 3 files | 0 reviews · 0 comments |
 | 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1526: fix(store): ignore links from superseded or expired pages in health orphans](https://github.com/akitaonrails/ai-memory/pull/1526) | +95 / -3 across 3 files | 0 reviews · 1 comments |
 | 2026-10-21 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1525: fix(backup): flush and fsync the pre-migration archive before verifying it](https://github.com/akitaonrails/ai-memory/pull/1525) | +17 / -2 across 2 files | 0 reviews · 0 comments |
