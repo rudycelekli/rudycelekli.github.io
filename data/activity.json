@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 40,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 4,
+      "created_at": "2026-10-10T20:17:20Z",
+      "deletions": 1,
+      "merged_at": "2026-10-22T03:00:16Z",
+      "number": 1748,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(smp): preserve table format for remote query URLs",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1748"
+    },
+    {
       "additions": 69,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -44064,7 +44080,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2752,
+  "record_count": 2753,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }
