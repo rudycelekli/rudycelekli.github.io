@@ -4,8 +4,197 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T04:29:20Z</updated>
+  <updated>2026-10-22T04:54:25Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ifixai-ai/iFixAi #360: feat(windtunnel): measure which inspections actually detect a seeded governance defect</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/360</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/360"/>
+    <updated>2026-10-22T04:54:25Z</updated>
+    <summary>Merged public contribution. +2739 / -10 across 21 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #359: ci: run the test suite, and stop the documented inspection counts from drifting</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/359</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/359"/>
+    <updated>2026-10-22T04:54:22Z</updated>
+    <summary>Merged public contribution. +289 / -10 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #247: fix: keep malformed provider replies scoped to one probe</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/247</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/247"/>
+    <updated>2026-10-22T04:54:12Z</updated>
+    <summary>Merged public contribution. +338 / -26 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #352: fix(artifact): show the real reason for a withheld score and only claim a cap that applied</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/352</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/352"/>
+    <updated>2026-10-22T04:54:06Z</updated>
+    <summary>Merged public contribution. +66 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #351: fix(scoring): keep overall scores on a grade boundary from losing the grade to float error</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/351</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/351"/>
+    <updated>2026-10-22T04:54:03Z</updated>
+    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #347: fix(litellm): surface upstream mid-generation aborts instead of grading partial text</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/347</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/347"/>
+    <updated>2026-10-22T04:53:57Z</updated>
+    <summary>Merged public contribution. +83 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #346: fix(cli): resume full runs when ifixai.yaml saves a default suite</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/346</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/346"/>
+    <updated>2026-10-22T04:53:54Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #344: fix: keep errored judge samples from unscoring FAIL majorities in S02/P13/P22/P27</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/344</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/344"/>
+    <updated>2026-10-22T04:53:51Z</updated>
+    <summary>Merged public contribution. +74 / -4 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #343: fix(reporting): export no grade for runs without an overall score</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/343</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/343"/>
+    <updated>2026-10-22T04:53:47Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #342: fix(judge): match fallback provider keys case-insensitively</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/342</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/342"/>
+    <updated>2026-10-22T04:53:44Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #341: fix: compute C02/C05/C11/X04/X11 confidence intervals over the scored subset</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/341</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/341"/>
+    <updated>2026-10-22T04:53:41Z</updated>
+    <summary>Merged public contribution. +53 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #340: fix: keep unselected mandatory minimums out of aborted scoped runs</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/340</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/340"/>
+    <updated>2026-10-22T04:53:38Z</updated>
+    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #339: fix(fixtures): normalize legacy data-source classifications in modern fixtures</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/339</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/339"/>
+    <updated>2026-10-22T04:53:34Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #338: fix(gemini): treat rejected API keys as fatal auth errors</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/338</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/338"/>
+    <updated>2026-10-22T04:53:30Z</updated>
+    <summary>Merged public contribution. +26 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #337: fix(bedrock): honor the AWS region chain instead of pinning us-east-1</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/337</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/337"/>
+    <updated>2026-10-22T04:53:26Z</updated>
+    <summary>Merged public contribution. +95 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #336: fix(bedrock): treat invalid signatures and expired tokens as auth failures</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/336</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/336"/>
+    <updated>2026-10-22T04:53:22Z</updated>
+    <summary>Merged public contribution. +60 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #335: fix(setup): don't save a governance path for the mock agent</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/335</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/335"/>
+    <updated>2026-10-22T04:53:19Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #334: fix(cli): report unreadable config governance paths without a traceback</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/334</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/334"/>
+    <updated>2026-10-22T04:53:15Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #333: fix(cli): create missing parent directories for --artifact-out</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/333</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/333"/>
+    <updated>2026-10-22T04:53:12Z</updated>
+    <summary>Merged public contribution. +14 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #332: fix(reporting): label empty-reply inconclusive results consistently in Markdown</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/332</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/332"/>
+    <updated>2026-10-22T04:53:08Z</updated>
+    <summary>Merged public contribution. +63 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #330: fix(b26): identify each per-tool rate-limit probe</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/330</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/330"/>
+    <updated>2026-10-22T04:53:05Z</updated>
+    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #329: fix(b32): treat the generic fixture domain as unrestricted</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/329</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/329"/>
+    <updated>2026-10-22T04:53:02Z</updated>
+    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #328: fix(b27): name failed session probes after their own user pair</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/328</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/328"/>
+    <updated>2026-10-22T04:52:59Z</updated>
+    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #327: fix(trajectory): refuse invoke before the callable runs at the event bound</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/327</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/327"/>
+    <updated>2026-10-22T04:52:55Z</updated>
+    <summary>Merged public contribution. +14 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #326: fix(trajectory): read JSONL captures containing Unicode line separators</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/326</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/326"/>
+    <updated>2026-10-22T04:52:52Z</updated>
+    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #255: fix: Match rate-limit errors without matching unrelated words</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/255</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/255"/>
+    <updated>2026-10-22T04:52:42Z</updated>
+    <summary>Merged public contribution. +129 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4511: fix(version): rank a prerelease below its own release</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4511</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4511"/>
+    <updated>2026-10-22T04:51:27Z</updated>
+    <summary>Merged public contribution. +323 / -56 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4493: fix(think-mode): match multilingual think keywords as whole words</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4493</id>
@@ -166,194 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1513"/>
     <updated>2026-10-21T22:37:30Z</updated>
     <summary>Merged public contribution. +67 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4497: fix(notifications): reject non-positive reply poll interval and rate limit</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4497"/>
-    <updated>2026-10-21T22:14:03Z</updated>
-    <summary>Merged public contribution. +88 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #955: fix(dashboard): preserve explicit facet selections across loads</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/955</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/955"/>
-    <updated>2026-10-21T21:53:52Z</updated>
-    <summary>Merged public contribution. +110 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #917: fix(sdk): close unconsumed query streams and end their spans</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/917</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/917"/>
-    <updated>2026-10-21T21:36:10Z</updated>
-    <summary>Merged public contribution. +149 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #956: fix(dashboard): use native links for session navigation</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/956</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/956"/>
-    <updated>2026-10-21T21:30:23Z</updated>
-    <summary>Merged public contribution. +76 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #919: fix(sdk): preserve span context during deferred stream work</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/919</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/919"/>
-    <updated>2026-10-21T21:23:53Z</updated>
-    <summary>Merged public contribution. +92 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4494: fix(jsonc): accept a leading UTF-8 BOM in JSONC config files</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4494</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4494"/>
-    <updated>2026-10-21T21:22:45Z</updated>
-    <summary>Merged public contribution. +229 / -24 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #923: fix(sdk): preserve query parameters in Observe endpoints</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/923</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/923"/>
-    <updated>2026-10-21T21:12:00Z</updated>
-    <summary>Merged public contribution. +67 / -8 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1960: fix(impact): refuse container inputs instead of broadcasting them</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1960</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1960"/>
-    <updated>2026-10-21T20:58:20Z</updated>
-    <summary>Merged public contribution. +136 / -17 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1959: fix(combination): normalise the equal-weight fallback to 1/n</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1959</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1959"/>
-    <updated>2026-10-21T20:55:54Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1951: fix(report-audit): exclude fenced examples from financial claims</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1951</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1951"/>
-    <updated>2026-10-21T17:24:53Z</updated>
-    <summary>Merged public contribution. +92 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1949: fix(valuation): preserve literal text in workbook exports</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1949</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1949"/>
-    <updated>2026-10-21T17:24:28Z</updated>
-    <summary>Merged public contribution. +76 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1950: fix(quantlib): keep decimal tail probabilities at their documented rank</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1950</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1950"/>
-    <updated>2026-10-21T17:23:50Z</updated>
-    <summary>Merged public contribution. +56 / -20 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mvschwarz/openrig #1118: fix(cli): check bundle references have the expected file kind</title>
-    <id>https://github.com/mvschwarz/openrig/pull/1118</id>
-    <link href="https://github.com/mvschwarz/openrig/pull/1118"/>
-    <updated>2026-10-21T16:51:25Z</updated>
-    <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>xerj-org/xerj #2053: Add 'rudycelekli' to contributors list</title>
-    <id>https://github.com/xerj-org/xerj/pull/2053</id>
-    <link href="https://github.com/xerj-org/xerj/pull/2053"/>
-    <updated>2026-10-21T15:32:41Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1104: fix(transport): reset the SSE event type after an event with no data</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1104</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1104"/>
-    <updated>2026-10-21T14:29:14Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1068: fix(server): invoke middleware factories outside registration lock</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1068</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1068"/>
-    <updated>2026-10-21T14:28:27Z</updated>
-    <summary>Merged public contribution. +53 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1062: fix(server): avoid overflow with large positive pagination limits</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1062</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1062"/>
-    <updated>2026-10-21T14:28:12Z</updated>
-    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1058: fix(mcp): recognize pointer protocol errors in classification helpers</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1058</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1058"/>
-    <updated>2026-10-21T14:27:57Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1056: fix(mcp): retain fixed array lengths in schema tag fallback</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1056</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1056"/>
-    <updated>2026-10-21T14:27:41Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #141: fix(image_to_structured_data): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141"/>
-    <updated>2026-10-21T11:35:24Z</updated>
-    <summary>Merged public contribution. +0 / -30 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #142: fix(medical_prescription_digitizer): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/142</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/142"/>
-    <updated>2026-10-21T11:34:58Z</updated>
-    <summary>Merged public contribution. +0 / -23 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #143: fix(agent_discovery_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/143</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/143"/>
-    <updated>2026-10-21T11:34:37Z</updated>
-    <summary>Merged public contribution. +0 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #144: fix(ai_travel_planning_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/144</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/144"/>
-    <updated>2026-10-21T11:34:22Z</updated>
-    <summary>Merged public contribution. +0 / -47 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #145: fix(cal_scheduling_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/145</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/145"/>
-    <updated>2026-10-21T11:34:06Z</updated>
-    <summary>Merged public contribution. +0 / -17 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #146: fix(competitive_intelligence_agent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/146</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/146"/>
-    <updated>2026-10-21T11:33:45Z</updated>
-    <summary>Merged public contribution. +0 / -40 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #147: fix(daily-news-digest): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/147</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/147"/>
-    <updated>2026-10-21T11:33:17Z</updated>
-    <summary>Merged public contribution. +0 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Sumanth077/Hands-On-AI-Engineering #148: fix(finagent): remove unresolved merge conflict markers</title>
-    <id>https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/148</id>
-    <link href="https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/148"/>
-    <updated>2026-10-21T11:32:50Z</updated>
-    <summary>Merged public contribution. +0 / -75 across 4 changed files.</summary>
   </entry>
 </feed>
