@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T06:45:10Z</updated>
+  <updated>2026-10-22T06:58:13Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HarnessRouter/harnessrouter #552: environments: an apt version's epoch is part of a package spec</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/552</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/552"/>
+    <updated>2026-10-22T06:58:13Z</updated>
+    <summary>Merged public contribution. +88 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #548: browser: the reaper's idle clock counts the person's takeover, so a human browsing is not stopped under them</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/548</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/548"/>
+    <updated>2026-10-22T06:54:02Z</updated>
+    <summary>Merged public contribution. +53 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter #547: sql: a schema the row cap cut short says truncated</title>
+    <id>https://github.com/HarnessRouter/harnessrouter/pull/547</id>
+    <link href="https://github.com/HarnessRouter/harnessrouter/pull/547"/>
+    <updated>2026-10-22T06:50:16Z</updated>
+    <summary>Merged public contribution. +64 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HarnessRouter/harnessrouter #551: produced files: a non-ASCII name is listed as the agent wrote it, so the gateway can fetch it</title>
     <id>https://github.com/HarnessRouter/harnessrouter/pull/551</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1528"/>
     <updated>2026-10-21T22:37:30Z</updated>
     <summary>Merged public contribution. +111 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1526: fix(store): ignore links from superseded or expired pages in health orphans</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1526</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1526"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +95 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1525: fix(backup): flush and fsync the pre-migration archive before verifying it</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1525</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1525"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1524: fix(wiki): keep in-flight atomic staging files out of the commit</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1524</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1524"/>
-    <updated>2026-10-21T22:37:30Z</updated>
-    <summary>Merged public contribution. +77 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

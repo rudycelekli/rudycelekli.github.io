@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,790**
+Records: **2,793**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#552: environments: an apt version's epoch is part of a package spec](https://github.com/HarnessRouter/harnessrouter/pull/552) | +88 / -2 across 4 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#548: browser: the reaper's idle clock counts the person's takeover, so a human browsing is not stopped under them](https://github.com/HarnessRouter/harnessrouter/pull/548) | +53 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#547: sql: a schema the row cap cut short says truncated](https://github.com/HarnessRouter/harnessrouter/pull/547) | +64 / -1 across 2 files | 1 reviews · 1 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#551: produced files: a non-ASCII name is listed as the agent wrote it, so the gateway can fetch it](https://github.com/HarnessRouter/harnessrouter/pull/551) | +74 / -14 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#555: produced files: the turn's total counts what it produced, not the inputs the caller attached](https://github.com/HarnessRouter/harnessrouter/pull/555) | +58 / -1 across 2 files | 1 reviews · 1 comments |
 | 2026-10-22 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#554: gateway: an archive of a turn's changed files is refused with the names when one cannot be read](https://github.com/HarnessRouter/harnessrouter/pull/554) | +38 / -2 across 2 files | 1 reviews · 1 comments |
