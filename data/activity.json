@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 15612,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 353,
+      "comments": 1,
+      "commits": 123,
+      "created_at": "2026-10-17T21:55:56Z",
+      "deletions": 3037,
+      "merged_at": "2026-10-22T12:20:25Z",
+      "number": 1131,
+      "repository": "proffesor-for-testing/agentic-qe",
+      "repository_url": "https://github.com/proffesor-for-testing/agentic-qe",
+      "reviews": 2,
+      "title": "fix(mcp,cli): reject invalid priorities in task_orchestrate and aqe task list (#1117)",
+      "url": "https://github.com/proffesor-for-testing/agentic-qe/pull/1131"
+    },
+    {
       "additions": 97,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -45424,7 +45440,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2837,
+  "record_count": 2838,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }

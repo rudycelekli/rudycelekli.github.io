@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T11:56:52Z</updated>
+  <updated>2026-10-22T12:20:25Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1131: fix(mcp,cli): reject invalid priorities in task_orchestrate and aqe task list (#1117)</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1131</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1131"/>
+    <updated>2026-10-22T12:20:25Z</updated>
+    <summary>Merged public contribution. +15612 / -3037 across 353 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1190: fix(code-intelligence): identify cached code analyses by content</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1190</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HarnessRouter/harnessrouter/pull/555"/>
     <updated>2026-10-22T06:40:12Z</updated>
     <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #554: gateway: an archive of a turn's changed files is refused with the names when one cannot be read</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/554</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/554"/>
-    <updated>2026-10-22T06:36:59Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
