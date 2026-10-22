@@ -4,8 +4,162 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T12:20:25Z</updated>
+  <updated>2026-10-22T17:21:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #4957: docs(smart-explore): remove unsupported custom grammar setup</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4957</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4957"/>
+    <updated>2026-10-22T17:21:11Z</updated>
+    <summary>Merged public contribution. +19 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #96: Require equal episode coverage before licensing benchmark attribution</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/96</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/96"/>
+    <updated>2026-10-22T16:46:46Z</updated>
+    <summary>Merged public contribution. +11657 / -1871 across 98 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #90: Fingerprint complete benchmark episodes rather than identifiers alone</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/90</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/90"/>
+    <updated>2026-10-22T16:42:30Z</updated>
+    <summary>Merged public contribution. +11596 / -1870 across 96 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #996: fix(runner): validate numeric SDK list shards</title>
+    <id>https://github.com/tester-army/e2e/pull/996</id>
+    <link href="https://github.com/tester-army/e2e/pull/996"/>
+    <updated>2026-10-22T16:39:52Z</updated>
+    <summary>Merged public contribution. +65 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #1049: feat(locator): combine alternatives with or</title>
+    <id>https://github.com/tester-army/e2e/pull/1049</id>
+    <link href="https://github.com/tester-army/e2e/pull/1049"/>
+    <updated>2026-10-22T16:39:23Z</updated>
+    <summary>Merged public contribution. +218 / -21 across 18 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #91: Preserve grader failure status when regrading saved runs</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/91</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/91"/>
+    <updated>2026-10-22T16:31:57Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #94: Preserve structured raw message whitespace in session archives</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/94</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/94"/>
+    <updated>2026-10-22T16:29:46Z</updated>
+    <summary>Merged public contribution. +11535 / -1867 across 92 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #900: fix(web): exclude hidden select choices before observation limits</title>
+    <id>https://github.com/tester-army/e2e/pull/900</id>
+    <link href="https://github.com/tester-army/e2e/pull/900"/>
+    <updated>2026-10-22T16:24:00Z</updated>
+    <summary>Merged public contribution. +63 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #916: fix: migrate existing forwarder log paths on upgrade</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/916</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/916"/>
+    <updated>2026-10-22T16:19:57Z</updated>
+    <summary>Merged public contribution. +273 / -28 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #942: fix(exporter): preserve MCP description reversions within batches</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/942</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/942"/>
+    <updated>2026-10-22T16:05:10Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #161: fix: retain future routine occurrences carried across clock gaps</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/161</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/161"/>
+    <updated>2026-10-22T15:57:50Z</updated>
+    <summary>Merged public contribution. +92 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #1072: fix(cache): report eviction only after store deletion succeeds</title>
+    <id>https://github.com/tester-army/e2e/pull/1072</id>
+    <link href="https://github.com/tester-army/e2e/pull/1072"/>
+    <updated>2026-10-22T15:57:16Z</updated>
+    <summary>Merged public contribution. +72 / -5 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #947: fix(dashboard): show inventory read failures and recovery status</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/947</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/947"/>
+    <updated>2026-10-22T15:52:15Z</updated>
+    <summary>Merged public contribution. +89 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #983: fix(telemetry): stop applying MCP alias rules to commands and paths</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/983</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/983"/>
+    <updated>2026-10-22T15:33:24Z</updated>
+    <summary>Merged public contribution. +84 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #950: fix(browser-extension): keep newest permission banner state</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/950</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/950"/>
+    <updated>2026-10-22T15:32:24Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #944: fix(browser-extension): flag truncated tool arguments and results</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/944</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/944"/>
+    <updated>2026-10-22T15:30:27Z</updated>
+    <summary>Merged public contribution. +48 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #924: fix(redaction): redact curl basic-auth credentials and Cookie headers</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/924</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/924"/>
+    <updated>2026-10-22T15:27:09Z</updated>
+    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #943: fix(browser-extension): preserve whole Unicode characters at byte limits</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/943</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/943"/>
+    <updated>2026-10-22T15:26:44Z</updated>
+    <summary>Merged public contribution. +32 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #915: fix(gitlink): preserve unknown shell command and operand positions</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/915</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/915"/>
+    <updated>2026-10-22T15:24:45Z</updated>
+    <summary>Merged public contribution. +48 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #937: fix(dashboard): preserve finding expansion across refreshes</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/937</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/937"/>
+    <updated>2026-10-22T15:23:02Z</updated>
+    <summary>Merged public contribution. +108 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #925: fix(qwen): resolve user settings through QWEN_HOME</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/925</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/925"/>
+    <updated>2026-10-22T15:21:07Z</updated>
+    <summary>Merged public contribution. +225 / -92 across 18 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #928: fix(opencode): resolve the user plugin directory through XDG_CONFIG_HOME</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/928</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/928"/>
+    <updated>2026-10-22T15:16:47Z</updated>
+    <summary>Merged public contribution. +153 / -10 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>proffesor-for-testing/agentic-qe #1131: fix(mcp,cli): reject invalid priorities in task_orchestrate and aqe task list (#1117)</title>
     <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1131</id>
@@ -201,159 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2155"/>
     <updated>2026-10-22T10:27:03Z</updated>
     <summary>Merged public contribution. +27 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2153: fix(setup): complete empty files without Windows curl</title>
-    <id>https://github.com/JustVugg/colibri/pull/2153</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2153"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2149: fix(setup): start the intended server and report its selected port</title>
-    <id>https://github.com/JustVugg/colibri/pull/2149</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2149"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +133 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mark3labs/mcp-go #1064: fix(client): retain registered resource subscriptions for Listen</title>
-    <id>https://github.com/mark3labs/mcp-go/pull/1064</id>
-    <link href="https://github.com/mark3labs/mcp-go/pull/1064"/>
-    <updated>2026-10-22T10:24:34Z</updated>
-    <summary>Merged public contribution. +160 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1699: fix(webui): strip control and bidi characters from download names</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1699</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1699"/>
-    <updated>2026-10-22T09:18:39Z</updated>
-    <summary>Merged public contribution. +111 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1727: fix(cli): keep truncated table cells on a rune boundary</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1727</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1727"/>
-    <updated>2026-10-22T08:50:23Z</updated>
-    <summary>Merged public contribution. +119 / -34 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1728: fix(codescripts): name the real character in a script-name refusal</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1728"/>
-    <updated>2026-10-22T08:38:56Z</updated>
-    <summary>Merged public contribution. +104 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1726: fix: keep the last raw-byte truncations on a rune boundary</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1726"/>
-    <updated>2026-10-22T08:38:10Z</updated>
-    <summary>Merged public contribution. +159 / -14 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9828: Preserve PDB enum underlying widths and signed values</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9828</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9828"/>
-    <updated>2026-10-22T08:25:53Z</updated>
-    <summary>Merged public contribution. +13 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9814: Resolve PDB complex primitive widths and decode their listing values</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9814</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9814"/>
-    <updated>2026-10-22T08:25:53Z</updated>
-    <summary>Merged public contribution. +10 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #567: conformance: an unavailable validator stops at the share mint, so the R-series still measures Sessions §5</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/567</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/567"/>
-    <updated>2026-10-22T07:39:24Z</updated>
-    <summary>Merged public contribution. +67 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #566: conformance: R-07 deletes at the path §6 names, so a published link outliving its session is reported</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/566</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/566"/>
-    <updated>2026-10-22T07:35:09Z</updated>
-    <summary>Merged public contribution. +52 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #565: gateway: a published package's declared plugs are attached, as on every other install route</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/565</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/565"/>
-    <updated>2026-10-22T07:31:54Z</updated>
-    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #564: gateway: an export refuses a sound whose bytes are gone, as it does a shot and a layer</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/564</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/564"/>
-    <updated>2026-10-22T07:28:46Z</updated>
-    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #563: media: a canvas read that failed is a failure, and never an empty scene a landing render then writes back</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/563</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/563"/>
-    <updated>2026-10-22T07:25:00Z</updated>
-    <summary>Merged public contribution. +181 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #562: kits: a launch whose harness list could not be read is refused, not provisioned a second time</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/562</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/562"/>
-    <updated>2026-10-22T07:17:34Z</updated>
-    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4512: fix(mcp-registry): escape unpaired surrogates in Codex TOML output</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4512</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4512"/>
-    <updated>2026-10-22T07:15:14Z</updated>
-    <summary>Merged public contribution. +79 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #561: storage usage: a session index that could not be read is never answered as a zero total</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/561</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/561"/>
-    <updated>2026-10-22T07:13:49Z</updated>
-    <summary>Merged public contribution. +90 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #552: environments: an apt version's epoch is part of a package spec</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/552</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/552"/>
-    <updated>2026-10-22T06:58:13Z</updated>
-    <summary>Merged public contribution. +88 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #548: browser: the reaper's idle clock counts the person's takeover, so a human browsing is not stopped under them</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/548</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/548"/>
-    <updated>2026-10-22T06:54:02Z</updated>
-    <summary>Merged public contribution. +53 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #547: sql: a schema the row cap cut short says truncated</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/547</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/547"/>
-    <updated>2026-10-22T06:50:16Z</updated>
-    <summary>Merged public contribution. +64 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #551: produced files: a non-ASCII name is listed as the agent wrote it, so the gateway can fetch it</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/551</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/551"/>
-    <updated>2026-10-22T06:45:10Z</updated>
-    <summary>Merged public contribution. +74 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #555: produced files: the turn's total counts what it produced, not the inputs the caller attached</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/555</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/555"/>
-    <updated>2026-10-22T06:40:12Z</updated>
-    <summary>Merged public contribution. +58 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
