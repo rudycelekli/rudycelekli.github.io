@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T17:21:11Z</updated>
+  <updated>2026-10-22T17:46:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #4971: fix(context): order cached renders by render start</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/4971</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/4971"/>
+    <updated>2026-10-22T17:46:43Z</updated>
+    <summary>Merged public contribution. +291 / -7 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #4957: docs(smart-explore): remove unsupported custom grammar setup</title>
     <id>https://github.com/thedotmack/claude-mem/pull/4957</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2160"/>
     <updated>2026-10-22T10:27:03Z</updated>
     <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2155: fix(download): repair wrong-sized SDK shards with curl fallback</title>
-    <id>https://github.com/JustVugg/colibri/pull/2155</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2155"/>
-    <updated>2026-10-22T10:27:03Z</updated>
-    <summary>Merged public contribution. +27 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

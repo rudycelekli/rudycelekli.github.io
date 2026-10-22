@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 291,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-21T19:14:50Z",
+      "deletions": 7,
+      "merged_at": "2026-10-22T17:46:43Z",
+      "number": 4971,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 1,
+      "title": "fix(context): order cached renders by render start",
+      "url": "https://github.com/thedotmack/claude-mem/pull/4971"
+    },
+    {
       "additions": 19,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -45792,7 +45808,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2860,
+  "record_count": 2861,
   "schema_version": 1,
   "updated_at_utc": "2026-10-22"
 }

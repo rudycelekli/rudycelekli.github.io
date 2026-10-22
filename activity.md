@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,860**
+Records: **2,861**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4971: fix(context): order cached renders by render start](https://github.com/thedotmack/claude-mem/pull/4971) | +291 / -7 across 3 files | 1 reviews · 3 comments |
 | 2026-10-22 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#4957: docs(smart-explore): remove unsupported custom grammar setup](https://github.com/thedotmack/claude-mem/pull/4957) | +19 / -19 across 2 files | 1 reviews · 2 comments |
 | 2026-10-22 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#96: Require equal episode coverage before licensing benchmark attribution](https://github.com/tigerless-labs/agent-memory/pull/96) | +11,657 / -1,871 across 98 files | 0 reviews · 0 comments |
 | 2026-10-22 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#90: Fingerprint complete benchmark episodes rather than identifiers alone](https://github.com/tigerless-labs/agent-memory/pull/90) | +11,596 / -1,870 across 96 files | 0 reviews · 0 comments |
