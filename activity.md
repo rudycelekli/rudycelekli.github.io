@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,834**
+Records: **2,837**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-22 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1190: fix(code-intelligence): identify cached code analyses by content](https://github.com/proffesor-for-testing/agentic-qe/pull/1190) | +97 / -7 across 2 files | 1 reviews · 0 comments |
+| 2026-10-22 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1189: fix(infra-healing): strip the infra agent prefix literally](https://github.com/proffesor-for-testing/agentic-qe/pull/1189) | +78 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3783: fix(delegate): honor the configured local run deadline](https://github.com/zhayujie/CowAgent/pull/3783) | +298 / -23 across 8 files | 0 reviews · 2 comments |
 | 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3804: fix(memory): keep new messages beyond cleared context boundary](https://github.com/zhayujie/CowAgent/pull/3804) | +67 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3803: fix(voice): bind manual speech to the clicked message version](https://github.com/zhayujie/CowAgent/pull/3803) | +321 / -14 across 4 files | 0 reviews · 1 comments |
 | 2026-10-22 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3801: fix(workspace): reject conflicting concurrent console saves](https://github.com/zhayujie/CowAgent/pull/3801) | +91 / -1 across 2 files | 0 reviews · 1 comments |

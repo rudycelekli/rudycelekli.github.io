@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-22T11:18:44Z</updated>
+  <updated>2026-10-22T11:56:52Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1190: fix(code-intelligence): identify cached code analyses by content</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1190</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1190"/>
+    <updated>2026-10-22T11:56:52Z</updated>
+    <summary>Merged public contribution. +97 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1189: fix(infra-healing): strip the infra agent prefix literally</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1189</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1189"/>
+    <updated>2026-10-22T11:56:47Z</updated>
+    <summary>Merged public contribution. +78 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3783: fix(delegate): honor the configured local run deadline</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3783</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3783"/>
+    <updated>2026-10-22T11:55:45Z</updated>
+    <summary>Merged public contribution. +298 / -23 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3804: fix(memory): keep new messages beyond cleared context boundary</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3804</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HarnessRouter/harnessrouter/pull/554"/>
     <updated>2026-10-22T06:36:59Z</updated>
     <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #556: gateway: a trace whose chunk could not be read says so, and is never served as a short transcript</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/556</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/556"/>
-    <updated>2026-10-22T06:33:14Z</updated>
-    <summary>Merged public contribution. +136 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #557: responses: a turn's record that could not be read is never answered response_not_found</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/557</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/557"/>
-    <updated>2026-10-22T06:28:24Z</updated>
-    <summary>Merged public contribution. +112 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #553: session files: a put refuses the base's own protected machinery, as delete, mkdir and move do</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/553</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/553"/>
-    <updated>2026-10-22T06:24:54Z</updated>
-    <summary>Merged public contribution. +41 / -6 across 4 changed files.</summary>
   </entry>
 </feed>
