@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T08:57:20Z</updated>
+  <updated>2026-10-23T15:38:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #240: fix: retain distinct evidence slices with a full content hash</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/240</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/240"/>
+    <updated>2026-10-23T15:38:37Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #227: fix(ledger): validate archived symbol names before reading</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/227</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/227"/>
+    <updated>2026-10-23T15:38:02Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #219: fix(dispatch): ignore valid JSON that is not a hook object</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/219</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/219"/>
+    <updated>2026-10-23T15:37:27Z</updated>
+    <summary>Merged public contribution. +24 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>debpalash/OpenGTM #102: fix(leads): analyze a clean hostname in the domain-intel endpoint</title>
     <id>https://github.com/debpalash/OpenGTM/pull/102</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1559"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +58 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1558: fix(hooks): check grok subagent markers as payload keys, not raw substrings</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1558</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1558"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +105 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1557: fix(okf): conform a nested index.md instead of skipping it as the bundle index</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1557</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1557"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1556: fix(consolidate): drop the merged-away page's summary from its merge stub</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1556</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1556"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +358 / -0 across 5 changed files.</summary>
   </entry>
 </feed>
