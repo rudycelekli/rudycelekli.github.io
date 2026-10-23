@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 109,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 1,
+      "commits": 4,
+      "created_at": "2026-10-23T03:58:36Z",
+      "deletions": 7,
+      "merged_at": "2026-10-23T21:23:24Z",
+      "number": 573,
+      "repository": "HarnessRouter/harnessrouter",
+      "repository_url": "https://github.com/HarnessRouter/harnessrouter",
+      "reviews": 1,
+      "title": "share: a share link survives a transient index failure instead of 404ing for ten seconds",
+      "url": "https://github.com/HarnessRouter/harnessrouter/pull/573"
+    },
+    {
+      "additions": 27,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-23T03:27:56Z",
+      "deletions": 3,
+      "merged_at": "2026-10-23T21:20:10Z",
+      "number": 572,
+      "repository": "HarnessRouter/harnessrouter",
+      "repository_url": "https://github.com/HarnessRouter/harnessrouter",
+      "reviews": 1,
+      "title": "dsh: the relay reads a tool-call delta on an SSE line with no space after the colon",
+      "url": "https://github.com/HarnessRouter/harnessrouter/pull/572"
+    },
+    {
       "additions": 106,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -47216,7 +47248,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2949,
+  "record_count": 2951,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }

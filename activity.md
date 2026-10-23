@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,949**
+Records: **2,951**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#573: share: a share link survives a transient index failure instead of 404ing for ten seconds](https://github.com/HarnessRouter/harnessrouter/pull/573) | +109 / -7 across 5 files | 1 reviews · 1 comments |
+| 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#572: dsh: the relay reads a tool-call delta on an SSE line with no space after the colon](https://github.com/HarnessRouter/harnessrouter/pull/572) | +27 / -3 across 2 files | 1 reviews · 1 comments |
 | 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#297: fix(ingest): reject incomplete XML instead of loading partial records](https://github.com/fabio-rovai/open-ontologies/pull/297) | +106 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#309: Accept reported blank-node graphs in Horn graph selection](https://github.com/fabio-rovai/open-ontologies/pull/309) | +35 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#308: Project RDF triple-term objects in Python query results](https://github.com/fabio-rovai/open-ontologies/pull/308) | +57 / -2 across 3 files | 0 reviews · 0 comments |
