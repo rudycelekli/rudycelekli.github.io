@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,914**
+Records: **2,917**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1964: fix(entities): read dot digit grouping the way comma grouping is read](https://github.com/HKUDS/Vibe-Trading/pull/1964) | +29 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-23 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1963: fix(combination): report no IC spread for a single observation](https://github.com/HKUDS/Vibe-Trading/pull/1963) | +93 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-23 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1962: fix(governance): verify the whole history before sealing a ledger segment](https://github.com/HKUDS/Vibe-Trading/pull/1962) | +38 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-22 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1551: fix(hooks): wrap the PowerShell session-start handoff in its harness envelope](https://github.com/akitaonrails/ai-memory/pull/1551) | +67 / -5 across 6 files | 0 reviews · 0 comments |
 | 2026-10-22 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1549: fix(anthropic): refuse a structured tool_use cut off at max_tokens](https://github.com/akitaonrails/ai-memory/pull/1549) | +89 / -0 across 3 files | 0 reviews · 0 comments |
 | 2026-10-22 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1548: fix(store): keep title and body column filters on the CJK stream](https://github.com/akitaonrails/ai-memory/pull/1548) | +116 / -10 across 3 files | 0 reviews · 0 comments |
