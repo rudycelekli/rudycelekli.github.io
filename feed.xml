@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T07:19:30Z</updated>
+  <updated>2026-10-23T08:57:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>debpalash/OpenGTM #102: fix(leads): analyze a clean hostname in the domain-intel endpoint</title>
+    <id>https://github.com/debpalash/OpenGTM/pull/102</id>
+    <link href="https://github.com/debpalash/OpenGTM/pull/102"/>
+    <updated>2026-10-23T08:57:20Z</updated>
+    <summary>Merged public contribution. +120 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #187: fix(conversion): count paths, not anchor positions, with occurrence="all"</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/187</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1556"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +358 / -0 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1555: fix(run): keep scanning native args past a non-utf8 argument</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1555</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1555"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +52 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

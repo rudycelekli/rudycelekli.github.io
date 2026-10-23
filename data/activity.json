@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 120,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-14T23:23:55Z",
+      "deletions": 8,
+      "merged_at": "2026-10-23T08:57:20Z",
+      "number": 102,
+      "repository": "debpalash/OpenGTM",
+      "repository_url": "https://github.com/debpalash/OpenGTM",
+      "reviews": 0,
+      "title": "fix(leads): analyze a clean hostname in the domain-intel endpoint",
+      "url": "https://github.com/debpalash/OpenGTM/pull/102"
+    },
+    {
       "additions": 142,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -46800,7 +46816,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2923,
+  "record_count": 2924,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }
