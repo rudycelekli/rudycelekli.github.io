@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,932**
+Records: **2,934**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#234: fix: require exact paths for carried skill subfile pointers](https://github.com/tigerless-labs/autoharness/pull/234) | +64 / -6 across 4 files | 0 reviews · 4 comments |
+| 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#236: fix: report unreadable Python references as validation findings](https://github.com/tigerless-labs/autoharness/pull/236) | +69 / -0 across 3 files | 0 reviews · 3 comments |
 | 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#241: fix(mcp): recover after malformed JSON input](https://github.com/tigerless-labs/autoharness/pull/241) | +79 / -1 across 3 files | 0 reviews · 3 comments |
 | 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#265: fix(config): reject out-of-range integer env knobs instead of applying them](https://github.com/tigerless-labs/autoharness/pull/265) | +50 / -11 across 2 files | 0 reviews · 0 comments |
 | 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#272: fix(redact): redact secrets assigned to a quoted key](https://github.com/tigerless-labs/autoharness/pull/272) | +25 / -1 across 2 files | 0 reviews · 1 comments |
