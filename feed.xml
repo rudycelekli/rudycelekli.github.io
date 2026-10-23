@@ -4,8 +4,106 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T17:11:14Z</updated>
+  <updated>2026-10-23T18:18:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>fabio-rovai/open-ontologies #297: fix(ingest): reject incomplete XML instead of loading partial records</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/297</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/297"/>
+    <updated>2026-10-23T18:18:46Z</updated>
+    <summary>Merged public contribution. +106 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #309: Accept reported blank-node graphs in Horn graph selection</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/309</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/309"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #308: Project RDF triple-term objects in Python query results</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/308</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/308"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +57 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #307: Avoid anonymous blank-node changes when diffing identical RDF text</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/307</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/307"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #306: Keep alignment labels consistent after native insertion rejection</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/306</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/306"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +50 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #305: Report SHACL coverage from targeted shapes and the validation graph</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/305</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/305"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +95 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #304: Preserve zero and false literals in Python SHACL reports</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/304</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/304"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +46 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #303: Launch relative certificate checkers at the verified location</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/303</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/303"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #302: Recognize explicit OWL properties in Python statistics and lint</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/302</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/302"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +45 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #301: Preserve RDF literal identity in KGCL comparisons</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/301</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/301"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +96 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #300: fix(python): handle non-object certificate checker JSON</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/300</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/300"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +59 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #299: fix(python): preserve carriage returns when loading dataframe rows</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/299</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/299"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #298: fix(mapping): encode malformed percent signs in mapped IRIs</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/298</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/298"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +78 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabio-rovai/open-ontologies #294: fix(query): render native SELECT rows in human output</title>
+    <id>https://github.com/fabio-rovai/open-ontologies/pull/294</id>
+    <link href="https://github.com/fabio-rovai/open-ontologies/pull/294"/>
+    <updated>2026-10-23T18:18:45Z</updated>
+    <summary>Merged public contribution. +293 / -11 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1971: fix(metrics): measure the annualisation factor over the fractional span</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1971</id>
@@ -257,103 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1532"/>
     <updated>2026-10-22T22:57:10Z</updated>
     <summary>Merged public contribution. +58 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1531: fix(wikisync): count the final unterminated line in diff summaries</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1531</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1531"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +49 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1530: fix(wikisync): detect core.hooksPath set on a git config section-header line</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1530</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1530"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1529: fix(llm): report an empty Responses answer as empty content, not a serde error</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1529</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1529"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +97 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1595: fix(wiki): conform a page restored from a checkpoint to OKF on disk</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1595</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1595"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +184 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1594: fix(install-mcp): build the printed Codex table with the TOML writer</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1594</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1594"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +184 / -29 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1593: fix(install-mcp): store an explicit key for the FreeBuff bridge instead of writing it into its config</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1593</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1593"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +116 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1581: fix(serve): stop retrying a deterministic provider failure on the session consolidation queue</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1581</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1581"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +221 / -65 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1576: fix(hooks): deliver the compaction recap under an external capture owner</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1576</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1576"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +154 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1575: fix(move-project): keep --force and --on-conflict in the re-run command</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1575</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1575"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +91 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1574: fix(purge-project): keep --force in the re-run command the refusal prints</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1574</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1574"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +80 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1573: fix(status): report the recovery journal error while the server is down</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1573</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1573"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +107 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1572: fix(run): parse the copilot harness name back out of the recovery journal</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1572</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1572"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +68 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1571: fix(api): stop caching an actor-scoped search response</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1571</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1571"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +62 / -21 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1570: fix(workstream): skip an oversized session header instead of failing on its cut character</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1570</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1570"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +215 / -20 across 2 changed files.</summary>
   </entry>
 </feed>

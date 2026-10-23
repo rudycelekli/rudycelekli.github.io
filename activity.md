@@ -4,10 +4,24 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,935**
+Records: **2,949**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#297: fix(ingest): reject incomplete XML instead of loading partial records](https://github.com/fabio-rovai/open-ontologies/pull/297) | +106 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#309: Accept reported blank-node graphs in Horn graph selection](https://github.com/fabio-rovai/open-ontologies/pull/309) | +35 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#308: Project RDF triple-term objects in Python query results](https://github.com/fabio-rovai/open-ontologies/pull/308) | +57 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#307: Avoid anonymous blank-node changes when diffing identical RDF text](https://github.com/fabio-rovai/open-ontologies/pull/307) | +38 / -2 across 4 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#306: Keep alignment labels consistent after native insertion rejection](https://github.com/fabio-rovai/open-ontologies/pull/306) | +50 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#305: Report SHACL coverage from targeted shapes and the validation graph](https://github.com/fabio-rovai/open-ontologies/pull/305) | +95 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#304: Preserve zero and false literals in Python SHACL reports](https://github.com/fabio-rovai/open-ontologies/pull/304) | +46 / -6 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#303: Launch relative certificate checkers at the verified location](https://github.com/fabio-rovai/open-ontologies/pull/303) | +44 / -2 across 3 files | 0 reviews · 1 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#302: Recognize explicit OWL properties in Python statistics and lint](https://github.com/fabio-rovai/open-ontologies/pull/302) | +45 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#301: Preserve RDF literal identity in KGCL comparisons](https://github.com/fabio-rovai/open-ontologies/pull/301) | +96 / -10 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#300: fix(python): handle non-object certificate checker JSON](https://github.com/fabio-rovai/open-ontologies/pull/300) | +59 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#299: fix(python): preserve carriage returns when loading dataframe rows](https://github.com/fabio-rovai/open-ontologies/pull/299) | +38 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#298: fix(mapping): encode malformed percent signs in mapped IRIs](https://github.com/fabio-rovai/open-ontologies/pull/298) | +78 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#294: fix(query): render native SELECT rows in human output](https://github.com/fabio-rovai/open-ontologies/pull/294) | +293 / -11 across 3 files | 0 reviews · 0 comments |
 | 2026-10-23 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1971: fix(metrics): measure the annualisation factor over the fractional span](https://github.com/HKUDS/Vibe-Trading/pull/1971) | +99 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#234: fix: require exact paths for carried skill subfile pointers](https://github.com/tigerless-labs/autoharness/pull/234) | +64 / -6 across 4 files | 0 reviews · 4 comments |
 | 2026-10-23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#236: fix: report unreadable Python references as validation findings](https://github.com/tigerless-labs/autoharness/pull/236) | +69 / -0 across 3 files | 0 reviews · 3 comments |
