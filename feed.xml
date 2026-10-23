@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T06:22:58Z</updated>
+  <updated>2026-10-23T07:08:47Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HelixDB/helix-foundry #128: Keep the answer of a run that finishes while Stop is on its way</title>
+    <id>https://github.com/HelixDB/helix-foundry/pull/128</id>
+    <link href="https://github.com/HelixDB/helix-foundry/pull/128"/>
+    <updated>2026-10-23T07:08:47Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HelixDB/helix-foundry #127: Report the HTTP status when an SDK error response is not JSON</title>
+    <id>https://github.com/HelixDB/helix-foundry/pull/127</id>
+    <link href="https://github.com/HelixDB/helix-foundry/pull/127"/>
+    <updated>2026-10-23T07:08:31Z</updated>
+    <summary>Merged public contribution. +59 / -7 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>debpalash/OpenGTM #101: fix(sheets): store pushed values as text instead of evaluating formulas</title>
     <id>https://github.com/debpalash/OpenGTM/pull/101</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1554"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +106 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1553: fix(core): reject a relation scope the link extractor cannot parse</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1553</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1553"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1552: fix(store): keep the Japanese iteration mark inside a CJK run</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1552</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1552"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +97 / -0 across 3 changed files.</summary>
   </entry>
 </feed>

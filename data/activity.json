@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 34,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-14T23:21:48Z",
+      "deletions": 1,
+      "merged_at": "2026-10-23T07:08:47Z",
+      "number": 128,
+      "repository": "HelixDB/helix-foundry",
+      "repository_url": "https://github.com/HelixDB/helix-foundry",
+      "reviews": 0,
+      "title": "Keep the answer of a run that finishes while Stop is on its way",
+      "url": "https://github.com/HelixDB/helix-foundry/pull/128"
+    },
+    {
+      "additions": 59,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-14T23:19:49Z",
+      "deletions": 7,
+      "merged_at": "2026-10-23T07:08:31Z",
+      "number": 127,
+      "repository": "HelixDB/helix-foundry",
+      "repository_url": "https://github.com/HelixDB/helix-foundry",
+      "reviews": 0,
+      "title": "Report the HTTP status when an SDK error response is not JSON",
+      "url": "https://github.com/HelixDB/helix-foundry/pull/127"
+    },
+    {
       "additions": 81,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -46752,7 +46784,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2920,
+  "record_count": 2922,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }
