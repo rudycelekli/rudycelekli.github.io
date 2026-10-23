@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 81,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-14T23:14:42Z",
+      "deletions": 2,
+      "merged_at": "2026-10-23T06:22:58Z",
+      "number": 101,
+      "repository": "debpalash/OpenGTM",
+      "repository_url": "https://github.com/debpalash/OpenGTM",
+      "reviews": 0,
+      "title": "fix(sheets): store pushed values as text instead of evaluating formulas",
+      "url": "https://github.com/debpalash/OpenGTM/pull/101"
+    },
+    {
+      "additions": 126,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-14T23:12:06Z",
+      "deletions": 5,
+      "merged_at": "2026-10-23T06:16:51Z",
+      "number": 100,
+      "repository": "debpalash/OpenGTM",
+      "repository_url": "https://github.com/debpalash/OpenGTM",
+      "reviews": 0,
+      "title": "fix(leads): neutralize spreadsheet formulas in lead CSV exports",
+      "url": "https://github.com/debpalash/OpenGTM/pull/100"
+    },
+    {
+      "additions": 49,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-17T03:56:38Z",
+      "deletions": 1,
+      "merged_at": "2026-10-23T06:14:38Z",
+      "number": 108,
+      "repository": "debpalash/OpenGTM",
+      "repository_url": "https://github.com/debpalash/OpenGTM",
+      "reviews": 0,
+      "title": "fix(enrichment): preserve overlong international phone numbers",
+      "url": "https://github.com/debpalash/OpenGTM/pull/108"
+    },
+    {
       "additions": 29,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -46704,7 +46752,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2917,
+  "record_count": 2920,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }

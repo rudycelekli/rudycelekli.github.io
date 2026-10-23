@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T04:32:14Z</updated>
+  <updated>2026-10-23T06:22:58Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>debpalash/OpenGTM #101: fix(sheets): store pushed values as text instead of evaluating formulas</title>
+    <id>https://github.com/debpalash/OpenGTM/pull/101</id>
+    <link href="https://github.com/debpalash/OpenGTM/pull/101"/>
+    <updated>2026-10-23T06:22:58Z</updated>
+    <summary>Merged public contribution. +81 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>debpalash/OpenGTM #100: fix(leads): neutralize spreadsheet formulas in lead CSV exports</title>
+    <id>https://github.com/debpalash/OpenGTM/pull/100</id>
+    <link href="https://github.com/debpalash/OpenGTM/pull/100"/>
+    <updated>2026-10-23T06:16:51Z</updated>
+    <summary>Merged public contribution. +126 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>debpalash/OpenGTM #108: fix(enrichment): preserve overlong international phone numbers</title>
+    <id>https://github.com/debpalash/OpenGTM/pull/108</id>
+    <link href="https://github.com/debpalash/OpenGTM/pull/108"/>
+    <updated>2026-10-23T06:14:38Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1964: fix(entities): read dot digit grouping the way comma grouping is read</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1964</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1552"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +97 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1550: fix(embed): count abstract-only pages in the dry-run report</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1550</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1550"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +141 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1546: fix(opencode): mark a subagent session's end so it cannot hand over a baton</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1546</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1546"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +48 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1544: fix(mcp): answer a missing memory_read_page target with invalid params</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1544</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1544"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +106 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
