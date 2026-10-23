@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T15:38:37Z</updated>
+  <updated>2026-10-23T16:34:58Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #241: fix(mcp): recover after malformed JSON input</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/241</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/241"/>
+    <updated>2026-10-23T16:34:58Z</updated>
+    <summary>Merged public contribution. +79 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #265: fix(config): reject out-of-range integer env knobs instead of applying them</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/265</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/265"/>
+    <updated>2026-10-23T16:34:35Z</updated>
+    <summary>Merged public contribution. +50 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #272: fix(redact): redact secrets assigned to a quoted key</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/272</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/272"/>
+    <updated>2026-10-23T16:34:09Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #271: fix(validate): read only top-level frontmatter fields</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/271</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/271"/>
+    <updated>2026-10-23T16:32:00Z</updated>
+    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #273: fix(redact): redact fine-grained GitHub personal access tokens</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/273</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/273"/>
+    <updated>2026-10-23T16:31:29Z</updated>
+    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #240: fix: retain distinct evidence slices with a full content hash</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/240</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1567"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +128 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1566: fix(consolidate): run the cross-scope link guard on dream-pass merges</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1566</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1566"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +149 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1564: fix(cli): size the grants table columns by display width, not bytes</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1564</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1564"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +87 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1563: fix(cli): keep a popped message's own text from forging the untrusted-body fence</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1563</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1563"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +161 / -15 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1562: fix(compact): roll a size up a unit instead of printing 1024.0 KiB</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1562</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1562"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1559: fix(cli): size list-projects columns by characters, not bytes</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1559</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1559"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +58 / -6 across 2 changed files.</summary>
   </entry>
 </feed>
