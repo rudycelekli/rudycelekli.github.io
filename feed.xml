@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T16:35:45Z</updated>
+  <updated>2026-10-23T17:11:14Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1971: fix(metrics): measure the annualisation factor over the fractional span</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1971</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1971"/>
+    <updated>2026-10-23T17:11:14Z</updated>
+    <summary>Merged public contribution. +99 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #234: fix: require exact paths for carried skill subfile pointers</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/234</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1570"/>
     <updated>2026-10-22T22:57:09Z</updated>
     <summary>Merged public contribution. +215 / -20 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1569: fix(importer): skip a workbook's non-worksheet sheets instead of failing the import</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1569</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1569"/>
-    <updated>2026-10-22T22:57:09Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

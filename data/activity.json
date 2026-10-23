@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 99,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-23T04:43:41Z",
+      "deletions": 2,
+      "merged_at": "2026-10-23T17:11:14Z",
+      "number": 1971,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 0,
+      "title": "fix(metrics): measure the annualisation factor over the fractional span",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/1971"
+    },
+    {
       "additions": 64,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -46976,7 +46992,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2934,
+  "record_count": 2935,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }
