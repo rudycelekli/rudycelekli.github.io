@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-10-23T22:34:44Z",
+      "deletions": 12,
+      "merged_at": "2026-10-23T23:12:58Z",
+      "number": 4542,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(teleport): read PR and issue URLs with a trailing slash or sub-page",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542"
+    },
+    {
       "additions": 109,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -47248,7 +47264,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2951,
+  "record_count": 2952,
   "schema_version": 1,
   "updated_at_utc": "2026-10-23"
 }

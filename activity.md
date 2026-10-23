@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,951**
+Records: **2,952**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4542: fix(teleport): read PR and issue URLs with a trailing slash or sub-page](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542) | +36 / -12 across 3 files | 0 reviews · 2 comments |
 | 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#573: share: a share link survives a transient index failure instead of 404ing for ten seconds](https://github.com/HarnessRouter/harnessrouter/pull/573) | +109 / -7 across 5 files | 1 reviews · 1 comments |
 | 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#572: dsh: the relay reads a tool-call delta on an SSE line with no space after the colon](https://github.com/HarnessRouter/harnessrouter/pull/572) | +27 / -3 across 2 files | 1 reviews · 1 comments |
 | 2026-10-23 | [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) | [#297: fix(ingest): reject incomplete XML instead of loading partial records](https://github.com/fabio-rovai/open-ontologies/pull/297) | +106 / -1 across 3 files | 0 reviews · 0 comments |
