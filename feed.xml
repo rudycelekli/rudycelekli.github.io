@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T10:06:12Z</updated>
+  <updated>2026-10-24T11:22:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>rociiu/talorys #92: Redact an unlabeled provider key in installer output</title>
+    <id>https://github.com/rociiu/talorys/pull/92</id>
+    <link href="https://github.com/rociiu/talorys/pull/92"/>
+    <updated>2026-10-24T11:22:03Z</updated>
+    <summary>Merged public contribution. +12 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #91: Don't split a family emoji when a conversation title is cut</title>
+    <id>https://github.com/rociiu/talorys/pull/91</id>
+    <link href="https://github.com/rociiu/talorys/pull/91"/>
+    <updated>2026-10-24T11:21:55Z</updated>
+    <summary>Merged public contribution. +21 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #89: fix(agent): keep each IPv4-mapped client on its own login limit</title>
+    <id>https://github.com/rociiu/talorys/pull/89</id>
+    <link href="https://github.com/rociiu/talorys/pull/89"/>
+    <updated>2026-10-24T11:21:46Z</updated>
+    <summary>Merged public contribution. +58 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #88: fix(memory): delete the activity line of a memory that was edited</title>
+    <id>https://github.com/rociiu/talorys/pull/88</id>
+    <link href="https://github.com/rociiu/talorys/pull/88"/>
+    <updated>2026-10-24T11:21:37Z</updated>
+    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #87: fix: pause a one-off automation whose time passes after a timezone change</title>
+    <id>https://github.com/rociiu/talorys/pull/87</id>
+    <link href="https://github.com/rociiu/talorys/pull/87"/>
+    <updated>2026-10-24T11:21:30Z</updated>
+    <summary>Merged public contribution. +29 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>heygen-com/hyperframes #5328: fix(sdk): release owned persistence subscriptions on disposal</title>
     <id>https://github.com/heygen-com/hyperframes/pull/5328</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/fabio-rovai/open-ontologies/pull/302"/>
     <updated>2026-10-23T18:18:45Z</updated>
     <summary>Merged public contribution. +45 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #301: Preserve RDF literal identity in KGCL comparisons</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/301</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/301"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +96 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #300: fix(python): handle non-object certificate checker JSON</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/300</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/300"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +59 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #299: fix(python): preserve carriage returns when loading dataframe rows</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/299</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/299"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #298: fix(mapping): encode malformed percent signs in mapped IRIs</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/298</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/298"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +78 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #294: fix(query): render native SELECT rows in human output</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/294</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/294"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +293 / -11 across 3 changed files.</summary>
   </entry>
 </feed>

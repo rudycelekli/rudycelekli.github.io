@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,985**
+Records: **2,990**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#92: Redact an unlabeled provider key in installer output](https://github.com/rociiu/talorys/pull/92) | +12 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#91: Don't split a family emoji when a conversation title is cut](https://github.com/rociiu/talorys/pull/91) | +21 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#89: fix(agent): keep each IPv4-mapped client on its own login limit](https://github.com/rociiu/talorys/pull/89) | +58 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#88: fix(memory): delete the activity line of a memory that was edited](https://github.com/rociiu/talorys/pull/88) | +17 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#87: fix: pause a one-off automation whose time passes after a timezone change](https://github.com/rociiu/talorys/pull/87) | +29 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5328: fix(sdk): release owned persistence subscriptions on disposal](https://github.com/heygen-com/hyperframes/pull/5328) | +162 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5315: fix(cli): preserve authored clip length when moving](https://github.com/heygen-com/hyperframes/pull/5315) | +89 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5314: fix(lint): reject parser-invalid variable defaults](https://github.com/heygen-com/hyperframes/pull/5314) | +76 / -1 across 2 files | 1 reviews · 0 comments |
