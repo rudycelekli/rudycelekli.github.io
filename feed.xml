@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T09:17:29Z</updated>
+  <updated>2026-10-24T10:06:12Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>heygen-com/hyperframes #5328: fix(sdk): release owned persistence subscriptions on disposal</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5328</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5328"/>
+    <updated>2026-10-24T10:06:12Z</updated>
+    <summary>Merged public contribution. +162 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>heygen-com/hyperframes #5315: fix(cli): preserve authored clip length when moving</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5315</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5315"/>
+    <updated>2026-10-24T10:06:12Z</updated>
+    <summary>Merged public contribution. +89 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>heygen-com/hyperframes #5314: fix(lint): reject parser-invalid variable defaults</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5314</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5314"/>
+    <updated>2026-10-24T10:06:12Z</updated>
+    <summary>Merged public contribution. +76 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>heygen-com/hyperframes #5723: fix(cli): preserve string fallback for non-JSON error values</title>
     <id>https://github.com/heygen-com/hyperframes/pull/5723</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/fabio-rovai/open-ontologies/pull/294"/>
     <updated>2026-10-23T18:18:45Z</updated>
     <summary>Merged public contribution. +293 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1971: fix(metrics): measure the annualisation factor over the fractional span</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1971</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1971"/>
-    <updated>2026-10-23T17:11:14Z</updated>
-    <summary>Merged public contribution. +99 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #234: fix: require exact paths for carried skill subfile pointers</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/234</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/234"/>
-    <updated>2026-10-23T16:35:45Z</updated>
-    <summary>Merged public contribution. +64 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #236: fix: report unreadable Python references as validation findings</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/236</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/236"/>
-    <updated>2026-10-23T16:35:25Z</updated>
-    <summary>Merged public contribution. +69 / -0 across 3 changed files.</summary>
   </entry>
 </feed>

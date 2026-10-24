@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,982**
+Records: **2,985**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5328: fix(sdk): release owned persistence subscriptions on disposal](https://github.com/heygen-com/hyperframes/pull/5328) | +162 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5315: fix(cli): preserve authored clip length when moving](https://github.com/heygen-com/hyperframes/pull/5315) | +89 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5314: fix(lint): reject parser-invalid variable defaults](https://github.com/heygen-com/hyperframes/pull/5314) | +76 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5723: fix(cli): preserve string fallback for non-JSON error values](https://github.com/heygen-com/hyperframes/pull/5723) | +10 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5721: fix(cli): prevent feedback URL crashes at emoji truncation boundaries](https://github.com/heygen-com/hyperframes/pull/5721) | +16 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5725: fix(cli): preserve UTF-8 BOM project configuration settings](https://github.com/heygen-com/hyperframes/pull/5725) | +86 / -5 across 2 files | 1 reviews · 0 comments |
