@@ -4,10 +4,23 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,998**
+Records: **3,011**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2352: fix(setup): keep prerelease suffixes out of release numbers](https://github.com/JustVugg/colibri/pull/2352) | +17 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2351: fix(audio): ignore WAV chunks past the declared RIFF size](https://github.com/JustVugg/colibri/pull/2351) | +20 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2350: fix(api): render non-string DeepSeek V4.1 tool descriptions](https://github.com/JustVugg/colibri/pull/2350) | +16 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2349: fix(api): stringify a deferred Muse tool's non-string description](https://github.com/JustVugg/colibri/pull/2349) | +12 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2347: fix(api): keep Muse tool-result lookup on malformed history](https://github.com/JustVugg/colibri/pull/2347) | +34 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2346: fix(api): reject a non-string Inkling message role](https://github.com/JustVugg/colibri/pull/2346) | +11 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2345: fix(api): reject non-string GLM-5.3 message content](https://github.com/JustVugg/colibri/pull/2345) | +18 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2344: fix(api): ignore non-string DeepSeek V4.1 tool-call ids](https://github.com/JustVugg/colibri/pull/2344) | +26 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2343: fix(api): reject a non-string text part in a continued assistant turn](https://github.com/JustVugg/colibri/pull/2343) | +20 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2342: fix(api): reject NaN and Infinity in request bodies](https://github.com/JustVugg/colibri/pull/2342) | +22 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2341: fix(lora): refuse adapter targets with a negative or implausible layer index](https://github.com/JustVugg/colibri/pull/2341) | +13 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2340: fix(grammar): keep GBNF rule names whole instead of truncating at 63 bytes](https://github.com/JustVugg/colibri/pull/2340) | +22 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2339: fix(schema): write fractional const and enum numbers in shortest form](https://github.com/JustVugg/colibri/pull/2339) | +11 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-24 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1233: fix(graph): normalize modularity by undirected edge weight](https://github.com/ruvnet/RuVector/pull/1233) | +50 / -2 across 4 files | 0 reviews · 0 comments |
 | 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4297: fix(mcp): accept the JSONC opencode config that wrap and install already accept](https://github.com/headroomlabs-ai/headroom/pull/4297) | +62 / -17 across 2 files | 5 reviews · 4 comments |
 | 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4298: fix(proxy): count output tokens from CRLF-framed SSE streams too](https://github.com/headroomlabs-ai/headroom/pull/4298) | +24 / -2 across 2 files | 4 reviews · 4 comments |

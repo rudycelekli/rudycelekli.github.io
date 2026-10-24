@@ -4,8 +4,99 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T20:30:44Z</updated>
+  <updated>2026-10-24T20:43:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2352: fix(setup): keep prerelease suffixes out of release numbers</title>
+    <id>https://github.com/JustVugg/colibri/pull/2352</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2352"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2351: fix(audio): ignore WAV chunks past the declared RIFF size</title>
+    <id>https://github.com/JustVugg/colibri/pull/2351</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2351"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +20 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2350: fix(api): render non-string DeepSeek V4.1 tool descriptions</title>
+    <id>https://github.com/JustVugg/colibri/pull/2350</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2350"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2349: fix(api): stringify a deferred Muse tool's non-string description</title>
+    <id>https://github.com/JustVugg/colibri/pull/2349</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2349"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2347: fix(api): keep Muse tool-result lookup on malformed history</title>
+    <id>https://github.com/JustVugg/colibri/pull/2347</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2347"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2346: fix(api): reject a non-string Inkling message role</title>
+    <id>https://github.com/JustVugg/colibri/pull/2346</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2346"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2345: fix(api): reject non-string GLM-5.3 message content</title>
+    <id>https://github.com/JustVugg/colibri/pull/2345</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2345"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2344: fix(api): ignore non-string DeepSeek V4.1 tool-call ids</title>
+    <id>https://github.com/JustVugg/colibri/pull/2344</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2344"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +26 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2343: fix(api): reject a non-string text part in a continued assistant turn</title>
+    <id>https://github.com/JustVugg/colibri/pull/2343</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2343"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2342: fix(api): reject NaN and Infinity in request bodies</title>
+    <id>https://github.com/JustVugg/colibri/pull/2342</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2342"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2341: fix(lora): refuse adapter targets with a negative or implausible layer index</title>
+    <id>https://github.com/JustVugg/colibri/pull/2341</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2341"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2340: fix(grammar): keep GBNF rule names whole instead of truncating at 63 bytes</title>
+    <id>https://github.com/JustVugg/colibri/pull/2340</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2340"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +22 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2339: fix(schema): write fractional const and enum numbers in shortest form</title>
+    <id>https://github.com/JustVugg/colibri/pull/2339</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2339"/>
+    <updated>2026-10-24T20:43:37Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/RuVector #1233: fix(graph): normalize modularity by undirected edge weight</title>
     <id>https://github.com/ruvnet/RuVector/pull/1233</id>
@@ -264,96 +355,5 @@
     <link href="https://github.com/calesthio/OpenMontage/pull/798"/>
     <updated>2026-10-23T23:36:36Z</updated>
     <summary>Merged public contribution. +137 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #796: fix(video): include local processing controls in cache identity</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/796</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/796"/>
-    <updated>2026-10-23T23:36:26Z</updated>
-    <summary>Merged public contribution. +407 / -9 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #795: fix(reframe): preserve anamorphic crop and export geometry</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/795</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/795"/>
-    <updated>2026-10-23T23:36:17Z</updated>
-    <summary>Merged public contribution. +301 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #794: fix(audio): include rendered inputs in cache identity</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/794</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/794"/>
-    <updated>2026-10-23T23:36:08Z</updated>
-    <summary>Merged public contribution. +170 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #791: fix(audio): choose muxable enhancement output containers</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/791</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/791"/>
-    <updated>2026-10-23T23:35:57Z</updated>
-    <summary>Merged public contribution. +134 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #790: fix(audio): respect millisecond ducking attack and release settings</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/790</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/790"/>
-    <updated>2026-10-23T23:35:48Z</updated>
-    <summary>Merged public contribution. +111 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #788: fix(video): isolate temporary workspaces for parallel local renders</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/788</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/788"/>
-    <updated>2026-10-23T23:35:39Z</updated>
-    <summary>Merged public contribution. +333 / -31 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #793: fix(cache): distinguish encoded destination containers</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/793</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/793"/>
-    <updated>2026-10-23T23:35:30Z</updated>
-    <summary>Merged public contribution. +87 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #789: fix(cache): bypass artifact restoration during documented dry runs</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/789</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/789"/>
-    <updated>2026-10-23T23:35:21Z</updated>
-    <summary>Merged public contribution. +88 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #787: fix(cache): rebind restored local output references to the destination</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/787</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/787"/>
-    <updated>2026-10-23T23:35:07Z</updated>
-    <summary>Merged public contribution. +137 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4542: fix(teleport): read PR and issue URLs with a trailing slash or sub-page</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542"/>
-    <updated>2026-10-23T23:12:58Z</updated>
-    <summary>Merged public contribution. +36 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #573: share: a share link survives a transient index failure instead of 404ing for ten seconds</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/573</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/573"/>
-    <updated>2026-10-23T21:23:24Z</updated>
-    <summary>Merged public contribution. +109 / -7 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HarnessRouter/harnessrouter #572: dsh: the relay reads a tool-call delta on an SSE line with no space after the colon</title>
-    <id>https://github.com/HarnessRouter/harnessrouter/pull/572</id>
-    <link href="https://github.com/HarnessRouter/harnessrouter/pull/572"/>
-    <updated>2026-10-23T21:20:10Z</updated>
-    <summary>Merged public contribution. +27 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #297: fix(ingest): reject incomplete XML instead of loading partial records</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/297</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/297"/>
-    <updated>2026-10-23T18:18:46Z</updated>
-    <summary>Merged public contribution. +106 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
