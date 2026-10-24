@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T23:12:58Z</updated>
+  <updated>2026-10-23T23:48:49Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4543: fix(lsp): read whole integer timeouts from the environment</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543"/>
+    <updated>2026-10-23T23:48:49Z</updated>
+    <summary>Merged public contribution. +103 / -17 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #798: fix(video): preserve source intervals during silence speed-up</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/798</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/798"/>
+    <updated>2026-10-23T23:36:36Z</updated>
+    <summary>Merged public contribution. +137 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #796: fix(video): include local processing controls in cache identity</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/796</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/796"/>
+    <updated>2026-10-23T23:36:26Z</updated>
+    <summary>Merged public contribution. +407 / -9 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #795: fix(reframe): preserve anamorphic crop and export geometry</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/795</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/795"/>
+    <updated>2026-10-23T23:36:17Z</updated>
+    <summary>Merged public contribution. +301 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #794: fix(audio): include rendered inputs in cache identity</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/794</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/794"/>
+    <updated>2026-10-23T23:36:08Z</updated>
+    <summary>Merged public contribution. +170 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #791: fix(audio): choose muxable enhancement output containers</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/791</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/791"/>
+    <updated>2026-10-23T23:35:57Z</updated>
+    <summary>Merged public contribution. +134 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #790: fix(audio): respect millisecond ducking attack and release settings</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/790</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/790"/>
+    <updated>2026-10-23T23:35:48Z</updated>
+    <summary>Merged public contribution. +111 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #788: fix(video): isolate temporary workspaces for parallel local renders</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/788</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/788"/>
+    <updated>2026-10-23T23:35:39Z</updated>
+    <summary>Merged public contribution. +333 / -31 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #793: fix(cache): distinguish encoded destination containers</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/793</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/793"/>
+    <updated>2026-10-23T23:35:30Z</updated>
+    <summary>Merged public contribution. +87 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #789: fix(cache): bypass artifact restoration during documented dry runs</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/789</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/789"/>
+    <updated>2026-10-23T23:35:21Z</updated>
+    <summary>Merged public contribution. +88 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>calesthio/OpenMontage #787: fix(cache): rebind restored local output references to the destination</title>
+    <id>https://github.com/calesthio/OpenMontage/pull/787</id>
+    <link href="https://github.com/calesthio/OpenMontage/pull/787"/>
+    <updated>2026-10-23T23:35:07Z</updated>
+    <summary>Merged public contribution. +137 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4542: fix(teleport): read PR and issue URLs with a trailing slash or sub-page</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/1551"/>
     <updated>2026-10-22T22:57:10Z</updated>
     <summary>Merged public contribution. +67 / -5 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1549: fix(anthropic): refuse a structured tool_use cut off at max_tokens</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1549</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1549"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +89 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1548: fix(store): keep title and body column filters on the CJK stream</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1548</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1548"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +116 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1547: fix(install-mcp): honour an explicit flavor in the OpenCode entry URL</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1547</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1547"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1542: fix(store): skip the CJK stream for a query the expander would invert</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1542</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1542"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +92 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1541: fix(install.ps1): refuse a plain-http GitHub release base</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1541</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1541"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +42 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1540: fix(web): keep a literal mark tag from page text out of a search snippet</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1540</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1540"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +56 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1539: fix(store): omit TTL-expired pages from briefing activity windows</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1539</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1539"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +149 / -19 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1538: fix(server): match a profile's roots case-insensitively on Windows paths</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1538</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1538"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +112 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1537: fix(wiki): report a renamed-away page so the next commit stages its deletion</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1537</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1537"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +65 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1536: fix(mcp): read a blank memory_read_page path or query as omitted</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1536</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1536"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +130 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1535: fix(store): omit TTL-expired pages from the briefing page count</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1535</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1535"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +101 / -9 across 3 changed files.</summary>
   </entry>
 </feed>

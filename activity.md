@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,952**
+Records: **2,963**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-23 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4543: fix(lsp): read whole integer timeouts from the environment](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543) | +103 / -17 across 5 files | 0 reviews · 1 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#798: fix(video): preserve source intervals during silence speed-up](https://github.com/calesthio/OpenMontage/pull/798) | +137 / -12 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#796: fix(video): include local processing controls in cache identity](https://github.com/calesthio/OpenMontage/pull/796) | +407 / -9 across 8 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#795: fix(reframe): preserve anamorphic crop and export geometry](https://github.com/calesthio/OpenMontage/pull/795) | +301 / -13 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#794: fix(audio): include rendered inputs in cache identity](https://github.com/calesthio/OpenMontage/pull/794) | +170 / -2 across 3 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#791: fix(audio): choose muxable enhancement output containers](https://github.com/calesthio/OpenMontage/pull/791) | +134 / -8 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#790: fix(audio): respect millisecond ducking attack and release settings](https://github.com/calesthio/OpenMontage/pull/790) | +111 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#788: fix(video): isolate temporary workspaces for parallel local renders](https://github.com/calesthio/OpenMontage/pull/788) | +333 / -31 across 4 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#793: fix(cache): distinguish encoded destination containers](https://github.com/calesthio/OpenMontage/pull/793) | +87 / -3 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#789: fix(cache): bypass artifact restoration during documented dry runs](https://github.com/calesthio/OpenMontage/pull/789) | +88 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#787: fix(cache): rebind restored local output references to the destination](https://github.com/calesthio/OpenMontage/pull/787) | +137 / -3 across 2 files | 1 reviews · 0 comments |
 | 2026-10-23 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4542: fix(teleport): read PR and issue URLs with a trailing slash or sub-page](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4542) | +36 / -12 across 3 files | 0 reviews · 2 comments |
 | 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#573: share: a share link survives a transient index failure instead of 404ing for ten seconds](https://github.com/HarnessRouter/harnessrouter/pull/573) | +109 / -7 across 5 files | 1 reviews · 1 comments |
 | 2026-10-23 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | [#572: dsh: the relay reads a tool-call delta on an SSE line with no space after the colon](https://github.com/HarnessRouter/harnessrouter/pull/572) | +27 / -3 across 2 files | 1 reviews · 1 comments |
