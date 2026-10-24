@@ -8,6 +8,70 @@
   },
   "items": [
     {
+      "additions": 33,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 5,
+      "created_at": "2026-10-23T23:11:38Z",
+      "deletions": 3,
+      "merged_at": "2026-10-24T00:49:54Z",
+      "number": 1341,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(kartaview): reject impossible photo timestamps",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1341"
+    },
+    {
+      "additions": 145,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 7,
+      "created_at": "2026-10-23T22:54:09Z",
+      "deletions": 15,
+      "merged_at": "2026-10-24T00:43:10Z",
+      "number": 4545,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(team): read the shell-ready timeout as a whole integer",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545"
+    },
+    {
+      "additions": 72,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-23T23:11:41Z",
+      "deletions": 14,
+      "merged_at": "2026-10-24T00:41:29Z",
+      "number": 1342,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(firms): keep impossible acquisition dates off the fire clock",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1342"
+    },
+    {
+      "additions": 57,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 5,
+      "created_at": "2026-10-23T22:51:30Z",
+      "deletions": 11,
+      "merged_at": "2026-10-24T00:17:36Z",
+      "number": 4544,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(rate-limit-wait): keep the pane id for tmux sessions with spaces in the name",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544"
+    },
+    {
       "additions": 103,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -47440,7 +47504,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2963,
+  "record_count": 2967,
   "schema_version": 1,
-  "updated_at_utc": "2026-10-23"
+  "updated_at_utc": "2026-10-24"
 }

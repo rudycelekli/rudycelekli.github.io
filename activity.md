@@ -1,13 +1,17 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-23 UTC**
+Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,963**
+Records: **2,967**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1341: fix(kartaview): reject impossible photo timestamps](https://github.com/bilawalsidhu/gods-eye-view/pull/1341) | +33 / -3 across 3 files | 0 reviews · 1 comments |
+| 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4545: fix(team): read the shell-ready timeout as a whole integer](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545) | +145 / -15 across 3 files | 0 reviews · 1 comments |
+| 2026-10-24 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1342: fix(firms): keep impossible acquisition dates off the fire clock](https://github.com/bilawalsidhu/gods-eye-view/pull/1342) | +72 / -14 across 3 files | 0 reviews · 2 comments |
+| 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4544: fix(rate-limit-wait): keep the pane id for tmux sessions with spaces in the name](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544) | +57 / -11 across 3 files | 0 reviews · 2 comments |
 | 2026-10-23 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4543: fix(lsp): read whole integer timeouts from the environment](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543) | +103 / -17 across 5 files | 0 reviews · 1 comments |
 | 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#798: fix(video): preserve source intervals during silence speed-up](https://github.com/calesthio/OpenMontage/pull/798) | +137 / -12 across 2 files | 1 reviews · 0 comments |
 | 2026-10-23 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#796: fix(video): include local processing controls in cache identity](https://github.com/calesthio/OpenMontage/pull/796) | +407 / -9 across 8 files | 1 reviews · 0 comments |

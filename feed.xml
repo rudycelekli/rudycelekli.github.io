@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-23T23:48:49Z</updated>
+  <updated>2026-10-24T00:49:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1341: fix(kartaview): reject impossible photo timestamps</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1341</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1341"/>
+    <updated>2026-10-24T00:49:54Z</updated>
+    <summary>Merged public contribution. +33 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4545: fix(team): read the shell-ready timeout as a whole integer</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545"/>
+    <updated>2026-10-24T00:43:10Z</updated>
+    <summary>Merged public contribution. +145 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1342: fix(firms): keep impossible acquisition dates off the fire clock</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1342</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1342"/>
+    <updated>2026-10-24T00:41:29Z</updated>
+    <summary>Merged public contribution. +72 / -14 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4544: fix(rate-limit-wait): keep the pane id for tmux sessions with spaces in the name</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544"/>
+    <updated>2026-10-24T00:17:36Z</updated>
+    <summary>Merged public contribution. +57 / -11 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4543: fix(lsp): read whole integer timeouts from the environment</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/debpalash/OpenGTM/pull/108"/>
     <updated>2026-10-23T06:14:38Z</updated>
     <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1964: fix(entities): read dot digit grouping the way comma grouping is read</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1964</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1964"/>
-    <updated>2026-10-23T04:32:14Z</updated>
-    <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1963: fix(combination): report no IC spread for a single observation</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1963</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1963"/>
-    <updated>2026-10-23T04:32:14Z</updated>
-    <summary>Merged public contribution. +93 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1962: fix(governance): verify the whole history before sealing a ledger segment</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1962</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1962"/>
-    <updated>2026-10-23T04:32:14Z</updated>
-    <summary>Merged public contribution. +38 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1551: fix(hooks): wrap the PowerShell session-start handoff in its harness envelope</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1551</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1551"/>
-    <updated>2026-10-22T22:57:10Z</updated>
-    <summary>Merged public contribution. +67 / -5 across 6 changed files.</summary>
   </entry>
 </feed>
