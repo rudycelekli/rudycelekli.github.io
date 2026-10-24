@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 101,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 2,
+      "commits": 6,
+      "created_at": "2026-10-23T23:38:39Z",
+      "deletions": 11,
+      "merged_at": "2026-10-24T01:40:41Z",
+      "number": 4549,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(providers): parse remote URLs that end in a slash",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4549"
+    },
+    {
       "additions": 25,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -47536,7 +47552,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2969,
+  "record_count": 2970,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
