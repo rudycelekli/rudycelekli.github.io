@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 44,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T02:59:23Z",
+      "deletions": 2,
+      "merged_at": "2026-10-24T06:05:45Z",
+      "number": 1406,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "A written date with an ordinal day is read, so \"March 17th, 2020\" and \"2nd March 2020\" become those days instead of no value",
+      "url": "https://github.com/deeplethe/utopia/pull/1406"
+    },
+    {
+      "additions": 13,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T02:19:01Z",
+      "deletions": 2,
+      "merged_at": "2026-10-24T06:00:17Z",
+      "number": 1402,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "An approximate figure that starts with a capital is still read, so \"About 350 people\" becomes 350 instead of no value",
+      "url": "https://github.com/deeplethe/utopia/pull/1402"
+    },
+    {
       "additions": 6,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -47664,7 +47696,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2977,
+  "record_count": 2979,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
