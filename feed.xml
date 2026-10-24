@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T12:15:14Z</updated>
+  <updated>2026-10-24T15:44:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>headroomlabs-ai/headroom #4297: fix(mcp): accept the JSONC opencode config that wrap and install already accept</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4297</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4297"/>
+    <updated>2026-10-24T15:44:37Z</updated>
+    <summary>Merged public contribution. +62 / -17 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4298: fix(proxy): count output tokens from CRLF-framed SSE streams too</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4298</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4298"/>
+    <updated>2026-10-24T15:43:50Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4296: fix(image): flatten transparent images onto white before re-encoding as JPEG</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4296</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4296"/>
+    <updated>2026-10-24T15:38:20Z</updated>
+    <summary>Merged public contribution. +123 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4290: fix(gemini): keep snake_case inline_data and function parts when compressing</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4290</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4290"/>
+    <updated>2026-10-24T15:38:11Z</updated>
+    <summary>Merged public contribution. +70 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4292: fix(transforms): keep the fences of a code block passed through for a protected tag</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4292</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4292"/>
+    <updated>2026-10-24T15:38:01Z</updated>
+    <summary>Merged public contribution. +61 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4294: fix(smart-crusher): match audit-safe protected_patterns against unescaped text</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4294</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4294"/>
+    <updated>2026-10-24T15:37:47Z</updated>
+    <summary>Merged public contribution. +29 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #189: fix(describe): report the missing-segment level instead of dropping it</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/189</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/fabio-rovai/open-ontologies/pull/309"/>
     <updated>2026-10-23T18:18:45Z</updated>
     <summary>Merged public contribution. +35 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #308: Project RDF triple-term objects in Python query results</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/308</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/308"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +57 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #307: Avoid anonymous blank-node changes when diffing identical RDF text</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/307</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/307"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +38 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #306: Keep alignment labels consistent after native insertion rejection</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/306</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/306"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +50 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #305: Report SHACL coverage from targeted shapes and the validation graph</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/305</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/305"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +95 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #304: Preserve zero and false literals in Python SHACL reports</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/304</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/304"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +46 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>fabio-rovai/open-ontologies #303: Launch relative certificate checkers at the verified location</title>
-    <id>https://github.com/fabio-rovai/open-ontologies/pull/303</id>
-    <link href="https://github.com/fabio-rovai/open-ontologies/pull/303"/>
-    <updated>2026-10-23T18:18:45Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 3 changed files.</summary>
   </entry>
 </feed>

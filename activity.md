@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,991**
+Records: **2,997**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4297: fix(mcp): accept the JSONC opencode config that wrap and install already accept](https://github.com/headroomlabs-ai/headroom/pull/4297) | +62 / -17 across 2 files | 5 reviews · 4 comments |
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4298: fix(proxy): count output tokens from CRLF-framed SSE streams too](https://github.com/headroomlabs-ai/headroom/pull/4298) | +24 / -2 across 2 files | 4 reviews · 4 comments |
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4296: fix(image): flatten transparent images onto white before re-encoding as JPEG](https://github.com/headroomlabs-ai/headroom/pull/4296) | +123 / -10 across 3 files | 7 reviews · 4 comments |
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4290: fix(gemini): keep snake_case inline_data and function parts when compressing](https://github.com/headroomlabs-ai/headroom/pull/4290) | +70 / -2 across 3 files | 7 reviews · 4 comments |
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4292: fix(transforms): keep the fences of a code block passed through for a protected tag](https://github.com/headroomlabs-ai/headroom/pull/4292) | +61 / -1 across 2 files | 5 reviews · 4 comments |
+| 2026-10-24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4294: fix(smart-crusher): match audit-safe protected_patterns against unescaped text](https://github.com/headroomlabs-ai/headroom/pull/4294) | +29 / -2 across 2 files | 5 reviews · 4 comments |
 | 2026-10-24 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#189: fix(describe): report the missing-segment level instead of dropping it](https://github.com/retentioneering/retentioneering-tools/pull/189) | +61 / -4 across 4 files | 0 reviews · 0 comments |
 | 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#92: Redact an unlabeled provider key in installer output](https://github.com/rociiu/talorys/pull/92) | +12 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-10-24 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#91: Don't split a family emoji when a conversation title is cut](https://github.com/rociiu/talorys/pull/91) | +21 / -3 across 2 files | 0 reviews · 1 comments |
