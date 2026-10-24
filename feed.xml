@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T06:05:45Z</updated>
+  <updated>2026-10-24T09:17:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>heygen-com/hyperframes #5723: fix(cli): preserve string fallback for non-JSON error values</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5723</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5723"/>
+    <updated>2026-10-24T09:17:29Z</updated>
+    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>heygen-com/hyperframes #5721: fix(cli): prevent feedback URL crashes at emoji truncation boundaries</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5721</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5721"/>
+    <updated>2026-10-24T09:17:29Z</updated>
+    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>heygen-com/hyperframes #5725: fix(cli): preserve UTF-8 BOM project configuration settings</title>
+    <id>https://github.com/heygen-com/hyperframes/pull/5725</id>
+    <link href="https://github.com/heygen-com/hyperframes/pull/5725"/>
+    <updated>2026-10-24T09:14:36Z</updated>
+    <summary>Merged public contribution. +86 / -5 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>deeplethe/utopia #1406: A written date with an ordinal day is read, so "March 17th, 2020" and "2nd March 2020" become those days instead of no value</title>
     <id>https://github.com/deeplethe/utopia/pull/1406</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/tigerless-labs/autoharness/pull/236"/>
     <updated>2026-10-23T16:35:25Z</updated>
     <summary>Merged public contribution. +69 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #241: fix(mcp): recover after malformed JSON input</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/241</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/241"/>
-    <updated>2026-10-23T16:34:58Z</updated>
-    <summary>Merged public contribution. +79 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #265: fix(config): reject out-of-range integer env knobs instead of applying them</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/265</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/265"/>
-    <updated>2026-10-23T16:34:35Z</updated>
-    <summary>Merged public contribution. +50 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #272: fix(redact): redact secrets assigned to a quoted key</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/272</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/272"/>
-    <updated>2026-10-23T16:34:09Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,979**
+Records: **2,982**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5723: fix(cli): preserve string fallback for non-JSON error values](https://github.com/heygen-com/hyperframes/pull/5723) | +10 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5721: fix(cli): prevent feedback URL crashes at emoji truncation boundaries](https://github.com/heygen-com/hyperframes/pull/5721) | +16 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5725: fix(cli): preserve UTF-8 BOM project configuration settings](https://github.com/heygen-com/hyperframes/pull/5725) | +86 / -5 across 2 files | 1 reviews · 0 comments |
 | 2026-10-24 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1406: A written date with an ordinal day is read, so "March 17th, 2020" and "2nd March 2020" become those days instead of no value](https://github.com/deeplethe/utopia/pull/1406) | +44 / -2 across 1 files | 1 reviews · 0 comments |
 | 2026-10-24 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1402: An approximate figure that starts with a capital is still read, so "About 350 people" becomes 350 instead of no value](https://github.com/deeplethe/utopia/pull/1402) | +13 / -2 across 1 files | 1 reviews · 0 comments |
 | 2026-10-24 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1400: A magnitude word written with a capital scales its number, so "$2.5 Billion" reads as 2.5 billion instead of 2.5](https://github.com/deeplethe/utopia/pull/1400) | +6 / -1 across 1 files | 1 reviews · 0 comments |

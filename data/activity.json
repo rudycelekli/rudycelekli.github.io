@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 10,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-16T20:55:01Z",
+      "deletions": 1,
+      "merged_at": "2026-10-24T09:17:29Z",
+      "number": 5723,
+      "repository": "heygen-com/hyperframes",
+      "repository_url": "https://github.com/heygen-com/hyperframes",
+      "reviews": 1,
+      "title": "fix(cli): preserve string fallback for non-JSON error values",
+      "url": "https://github.com/heygen-com/hyperframes/pull/5723"
+    },
+    {
+      "additions": 16,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-16T20:28:14Z",
+      "deletions": 1,
+      "merged_at": "2026-10-24T09:17:29Z",
+      "number": 5721,
+      "repository": "heygen-com/hyperframes",
+      "repository_url": "https://github.com/heygen-com/hyperframes",
+      "reviews": 1,
+      "title": "fix(cli): prevent feedback URL crashes at emoji truncation boundaries",
+      "url": "https://github.com/heygen-com/hyperframes/pull/5721"
+    },
+    {
+      "additions": 86,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-16T21:36:48Z",
+      "deletions": 5,
+      "merged_at": "2026-10-24T09:14:36Z",
+      "number": 5725,
+      "repository": "heygen-com/hyperframes",
+      "repository_url": "https://github.com/heygen-com/hyperframes",
+      "reviews": 1,
+      "title": "fix(cli): preserve UTF-8 BOM project configuration settings",
+      "url": "https://github.com/heygen-com/hyperframes/pull/5725"
+    },
+    {
       "additions": 44,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -47696,7 +47744,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2979,
+  "record_count": 2982,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
