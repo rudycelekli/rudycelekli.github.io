@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T01:40:41Z</updated>
+  <updated>2026-10-24T02:37:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4547: fix(team): read the worker-ready timeout as a whole integer</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547"/>
+    <updated>2026-10-24T02:37:02Z</updated>
+    <summary>Merged public contribution. +86 / -16 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4549: fix(providers): parse remote URLs that end in a slash</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4549</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HelixDB/helix-foundry/pull/128"/>
     <updated>2026-10-23T07:08:47Z</updated>
     <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #127: Report the HTTP status when an SDK error response is not JSON</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/127</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/127"/>
-    <updated>2026-10-23T07:08:31Z</updated>
-    <summary>Merged public contribution. +59 / -7 across 2 changed files.</summary>
   </entry>
 </feed>

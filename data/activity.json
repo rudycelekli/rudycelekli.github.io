@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 86,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 15,
+      "created_at": "2026-10-23T22:59:09Z",
+      "deletions": 16,
+      "merged_at": "2026-10-24T02:37:02Z",
+      "number": 4547,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(team): read the worker-ready timeout as a whole integer",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547"
+    },
+    {
       "additions": 101,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -47552,7 +47568,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2970,
+  "record_count": 2971,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
