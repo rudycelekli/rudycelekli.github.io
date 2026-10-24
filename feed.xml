@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T02:37:02Z</updated>
+  <updated>2026-10-24T04:25:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4557: fix(team-dispatch): stop truncating cooldown env values</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4557</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4557"/>
+    <updated>2026-10-24T04:25:39Z</updated>
+    <summary>Merged public contribution. +80 / -17 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4547: fix(team): read the worker-ready timeout as a whole integer</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/retentioneering/retentioneering-tools/pull/187"/>
     <updated>2026-10-23T07:19:30Z</updated>
     <summary>Merged public contribution. +142 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HelixDB/helix-foundry #128: Keep the answer of a run that finishes while Stop is on its way</title>
-    <id>https://github.com/HelixDB/helix-foundry/pull/128</id>
-    <link href="https://github.com/HelixDB/helix-foundry/pull/128"/>
-    <updated>2026-10-23T07:08:47Z</updated>
-    <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
