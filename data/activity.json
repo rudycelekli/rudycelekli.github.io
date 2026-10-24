@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 61,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-23T04:30:13Z",
+      "deletions": 4,
+      "merged_at": "2026-10-24T12:15:14Z",
+      "number": 189,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(describe): report the missing-segment level instead of dropping it",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/189"
+    },
+    {
       "additions": 12,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -47872,7 +47888,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2990,
+  "record_count": 2991,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
