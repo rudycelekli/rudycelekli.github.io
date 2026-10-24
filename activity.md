@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,011**
+Records: **3,017**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1673: fix(scope): name the workspace when a write hits an ambiguous project](https://github.com/akitaonrails/ai-memory/pull/1673) | +60 / -12 across 3 files | 0 reviews · 0 comments |
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1635: fix(auto-improve): validate headings on a full-page proposal as the patch path does](https://github.com/akitaonrails/ai-memory/pull/1635) | +98 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1634: fix(mcp): answer an unknown memory_feedback target with invalid params](https://github.com/akitaonrails/ai-memory/pull/1634) | +90 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1633: fix(qwen): cap and scrub the submitted prompt before it is spooled](https://github.com/akitaonrails/ai-memory/pull/1633) | +111 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1632: fix(sweep): keep an already-compacted residue terminal when compaction is off](https://github.com/akitaonrails/ai-memory/pull/1632) | +148 / -12 across 3 files | 0 reviews · 0 comments |
+| 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1631: fix(profile): ignore TTL-expired pages when deciding a project is new](https://github.com/akitaonrails/ai-memory/pull/1631) | +71 / -5 across 3 files | 0 reviews · 0 comments |
 | 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2352: fix(setup): keep prerelease suffixes out of release numbers](https://github.com/JustVugg/colibri/pull/2352) | +17 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2351: fix(audio): ignore WAV chunks past the declared RIFF size](https://github.com/JustVugg/colibri/pull/2351) | +20 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-24 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2350: fix(api): render non-string DeepSeek V4.1 tool descriptions](https://github.com/JustVugg/colibri/pull/2350) | +16 / -2 across 2 files | 0 reviews · 0 comments |

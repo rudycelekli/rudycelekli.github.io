@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T20:43:37Z</updated>
+  <updated>2026-10-24T22:28:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #1673: fix(scope): name the workspace when a write hits an ambiguous project</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1673</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1673"/>
+    <updated>2026-10-24T22:28:50Z</updated>
+    <summary>Merged public contribution. +60 / -12 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1635: fix(auto-improve): validate headings on a full-page proposal as the patch path does</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1635</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1635"/>
+    <updated>2026-10-24T22:25:40Z</updated>
+    <summary>Merged public contribution. +98 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1634: fix(mcp): answer an unknown memory_feedback target with invalid params</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1634</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1634"/>
+    <updated>2026-10-24T22:25:28Z</updated>
+    <summary>Merged public contribution. +90 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1633: fix(qwen): cap and scrub the submitted prompt before it is spooled</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1633</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1633"/>
+    <updated>2026-10-24T22:25:16Z</updated>
+    <summary>Merged public contribution. +111 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1632: fix(sweep): keep an already-compacted residue terminal when compaction is off</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1632</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1632"/>
+    <updated>2026-10-24T22:25:05Z</updated>
+    <summary>Merged public contribution. +148 / -12 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #1631: fix(profile): ignore TTL-expired pages when deciding a project is new</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/1631</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/1631"/>
+    <updated>2026-10-24T22:24:53Z</updated>
+    <summary>Merged public contribution. +71 / -5 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2352: fix(setup): keep prerelease suffixes out of release numbers</title>
     <id>https://github.com/JustVugg/colibri/pull/2352</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4546"/>
     <updated>2026-10-24T01:11:30Z</updated>
     <summary>Merged public contribution. +150 / -13 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1341: fix(kartaview): reject impossible photo timestamps</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1341</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1341"/>
-    <updated>2026-10-24T00:49:54Z</updated>
-    <summary>Merged public contribution. +33 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4545: fix(team): read the shell-ready timeout as a whole integer</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545"/>
-    <updated>2026-10-24T00:43:10Z</updated>
-    <summary>Merged public contribution. +145 / -15 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1342: fix(firms): keep impossible acquisition dates off the fire clock</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1342</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1342"/>
-    <updated>2026-10-24T00:41:29Z</updated>
-    <summary>Merged public contribution. +72 / -14 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4544: fix(rate-limit-wait): keep the pane id for tmux sessions with spaces in the name</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4544"/>
-    <updated>2026-10-24T00:17:36Z</updated>
-    <summary>Merged public contribution. +57 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4543: fix(lsp): read whole integer timeouts from the environment</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4543"/>
-    <updated>2026-10-23T23:48:49Z</updated>
-    <summary>Merged public contribution. +103 / -17 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>calesthio/OpenMontage #798: fix(video): preserve source intervals during silence speed-up</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/798</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/798"/>
-    <updated>2026-10-23T23:36:36Z</updated>
-    <summary>Merged public contribution. +137 / -12 across 2 changed files.</summary>
   </entry>
 </feed>
