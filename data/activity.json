@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 6,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T02:06:33Z",
+      "deletions": 1,
+      "merged_at": "2026-10-24T05:53:39Z",
+      "number": 1400,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "A magnitude word written with a capital scales its number, so \"$2.5 Billion\" reads as 2.5 billion instead of 2.5",
+      "url": "https://github.com/deeplethe/utopia/pull/1400"
+    },
+    {
+      "additions": 40,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T02:48:25Z",
+      "deletions": 1,
+      "merged_at": "2026-10-24T05:49:15Z",
+      "number": 1404,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "An interval written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July",
+      "url": "https://github.com/deeplethe/utopia/pull/1404"
+    },
+    {
+      "additions": 29,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 6,
+      "created_at": "2026-10-24T03:58:17Z",
+      "deletions": 9,
+      "merged_at": "2026-10-24T05:39:33Z",
+      "number": 4556,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(notifications): stop truncating OMC_NOTIFY_TMUX_TAIL_LINES",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4556"
+    },
+    {
       "additions": 49,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -47616,7 +47664,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2974,
+  "record_count": 2977,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }

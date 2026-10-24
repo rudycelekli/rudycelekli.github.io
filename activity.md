@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,974**
+Records: **2,977**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1400: A magnitude word written with a capital scales its number, so "$2.5 Billion" reads as 2.5 billion instead of 2.5](https://github.com/deeplethe/utopia/pull/1400) | +6 / -1 across 1 files | 1 reviews · 0 comments |
+| 2026-10-24 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1404: An interval written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July](https://github.com/deeplethe/utopia/pull/1404) | +40 / -1 across 1 files | 1 reviews · 0 comments |
+| 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4556: fix(notifications): stop truncating OMC_NOTIFY_TMUX_TAIL_LINES](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4556) | +29 / -9 across 3 files | 0 reviews · 1 comments |
 | 2026-10-24 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#9: fix(sdk): allow plain HTTP to every loopback address](https://github.com/Graphicle-AI/graphicle/pull/9) | +49 / -5 across 4 files | 0 reviews · 0 comments |
 | 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4558: fix(team): read the start-submit timeout as a whole integer](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4558) | +71 / -17 across 3 files | 0 reviews · 1 comments |
 | 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4557: fix(team-dispatch): stop truncating cooldown env values](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4557) | +80 / -17 across 3 files | 0 reviews · 2 comments |
