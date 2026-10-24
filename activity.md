@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **2,967**
+Records: **2,969**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-24 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [#5711: fix(cli): exclude rendering flags from tween tail warnings](https://github.com/heygen-com/hyperframes/pull/5711) | +25 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4546: fix(team): read launch-ack timeouts as whole integers](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4546) | +150 / -13 across 3 files | 0 reviews · 2 comments |
 | 2026-10-24 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1341: fix(kartaview): reject impossible photo timestamps](https://github.com/bilawalsidhu/gods-eye-view/pull/1341) | +33 / -3 across 3 files | 0 reviews · 1 comments |
 | 2026-10-24 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4545: fix(team): read the shell-ready timeout as a whole integer](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4545) | +145 / -15 across 3 files | 0 reviews · 1 comments |
 | 2026-10-24 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1342: fix(firms): keep impossible acquisition dates off the fire clock](https://github.com/bilawalsidhu/gods-eye-view/pull/1342) | +72 / -14 across 3 files | 0 reviews · 2 comments |

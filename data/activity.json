@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-16T18:52:46Z",
+      "deletions": 0,
+      "merged_at": "2026-10-24T01:16:30Z",
+      "number": 5711,
+      "repository": "heygen-com/hyperframes",
+      "repository_url": "https://github.com/heygen-com/hyperframes",
+      "reviews": 1,
+      "title": "fix(cli): exclude rendering flags from tween tail warnings",
+      "url": "https://github.com/heygen-com/hyperframes/pull/5711"
+    },
+    {
+      "additions": 150,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 11,
+      "created_at": "2026-10-23T22:58:54Z",
+      "deletions": 13,
+      "merged_at": "2026-10-24T01:11:30Z",
+      "number": 4546,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(team): read launch-ack timeouts as whole integers",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4546"
+    },
+    {
       "additions": 33,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -47504,7 +47536,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 2967,
+  "record_count": 2969,
   "schema_version": 1,
   "updated_at_utc": "2026-10-24"
 }
