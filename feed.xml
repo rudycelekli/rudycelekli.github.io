@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T15:55:18Z</updated>
+  <updated>2026-10-25T16:12:14Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4599: fix(persistent-mode): stop truncating OMC_PERSISTENT_MODE_TIMEOUT_MS</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4599</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4599"/>
+    <updated>2026-10-25T16:12:14Z</updated>
+    <summary>Merged public contribution. +27 / -9 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1387: fix(awareness): show a 999.6 m contact as 1.0 km, not 1000 m</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1387</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1387"/>
+    <updated>2026-10-25T16:07:37Z</updated>
+    <summary>Merged public contribution. +19 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1386: fix(directions): show a 996 m leg as 1.0 km, not 1000 m</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1386</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1386"/>
+    <updated>2026-10-25T16:01:27Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1385: fix(directions): show a 59.6-second leg as 1 min, not 60 s</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1385</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/ktwu01/benchmark-radar/pull/938"/>
     <updated>2026-10-25T06:38:57Z</updated>
     <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1349: fix(cyclones): label NHC classification codes by their published meanings</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1349</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1349"/>
-    <updated>2026-10-25T06:21:05Z</updated>
-    <summary>Merged public contribution. +1483 / -188 across 66 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1353: fix(transit): count a 90-second report as one minute</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1353</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1353"/>
-    <updated>2026-10-25T05:46:45Z</updated>
-    <summary>Merged public contribution. +29 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1352: fix(cockpit): read a rounded-north destination heading as 000</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1352</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1352"/>
-    <updated>2026-10-25T05:33:06Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 5 changed files.</summary>
   </entry>
 </feed>
