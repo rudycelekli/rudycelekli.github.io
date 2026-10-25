@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T19:53:34Z</updated>
+  <updated>2026-10-25T20:15:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4607: fix(omc-orchestrator): keep the first git status entry's path intact</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607"/>
+    <updated>2026-10-25T20:15:36Z</updated>
+    <summary>Merged public contribution. +104 / -14 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #470: fix(heatmap): read a quoted greater-than in markup</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/470</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2037"/>
     <updated>2026-10-25T09:11:04Z</updated>
     <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2033: fix(rigor): omit earnings and FCF yield when the price is zero</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2033</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2033"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
