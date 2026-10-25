@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,038**
+Records: **3,040**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1762: fix(logs): mask sk-proj/sk-svcacct/sk-admin OpenAI keys](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762) | +31 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-10-25 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1760: fix(logs): mask JWTs before the high-entropy pattern can split them](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1760) | +45 / -14 across 2 files | 1 reviews · 2 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1340: fix(search): read hemisphere letters separated from the number](https://github.com/bilawalsidhu/gods-eye-view/pull/1340) | +87 / -6 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#938: Stop listing OpenCompass Unsupported as a benchmark topic](https://github.com/ktwu01/benchmark-radar/pull/938) | +35 / -1 across 2 files | 1 reviews · 3 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1349: fix(cyclones): label NHC classification codes by their published meanings](https://github.com/bilawalsidhu/gods-eye-view/pull/1349) | +1,483 / -188 across 66 files | 0 reviews · 2 comments |

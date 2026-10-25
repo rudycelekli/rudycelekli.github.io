@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T06:39:52Z</updated>
+  <updated>2026-10-25T06:45:15Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1762: fix(logs): mask sk-proj/sk-svcacct/sk-admin OpenAI keys</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762"/>
+    <updated>2026-10-25T06:45:15Z</updated>
+    <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1760: fix(logs): mask JWTs before the high-entropy pattern can split them</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1760</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1760"/>
+    <updated>2026-10-25T06:44:53Z</updated>
+    <summary>Merged public contribution. +45 / -14 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1340: fix(search): read hemisphere letters separated from the number</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1340</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/retentioneering/retentioneering-tools/pull/189"/>
     <updated>2026-10-24T12:15:14Z</updated>
     <summary>Merged public contribution. +61 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #92: Redact an unlabeled provider key in installer output</title>
-    <id>https://github.com/rociiu/talorys/pull/92</id>
-    <link href="https://github.com/rociiu/talorys/pull/92"/>
-    <updated>2026-10-24T11:22:03Z</updated>
-    <summary>Merged public contribution. +12 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #91: Don't split a family emoji when a conversation title is cut</title>
-    <id>https://github.com/rociiu/talorys/pull/91</id>
-    <link href="https://github.com/rociiu/talorys/pull/91"/>
-    <updated>2026-10-24T11:21:55Z</updated>
-    <summary>Merged public contribution. +21 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
