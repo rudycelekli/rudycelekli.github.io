@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 75,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 1,
+      "commits": 5,
+      "created_at": "2026-10-25T19:59:08Z",
+      "deletions": 3,
+      "merged_at": "2026-10-25T21:32:38Z",
+      "number": 1395,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(fires): report a 00:45 UTC detection as 00:45, not \"45\"",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1395"
+    },
+    {
       "additions": 25,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -49904,7 +49920,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3117,
+  "record_count": 3118,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T21:14:28Z</updated>
+  <updated>2026-10-25T21:32:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1395: fix(fires): report a 00:45 UTC detection as 00:45, not "45"</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1395</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1395"/>
+    <updated>2026-10-25T21:32:38Z</updated>
+    <summary>Merged public contribution. +75 / -3 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1396: fix(local-adsb): show a 359.7° track as TRK 0°, not TRK 360°</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1396</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2041"/>
     <updated>2026-10-25T09:11:04Z</updated>
     <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2039: fix(factors): route GTJA VWAP through base.vwap so Tushare units scale</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2039</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2039"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +89 / -20 across 21 changed files.</summary>
   </entry>
 </feed>
