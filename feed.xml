@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T07:27:16Z</updated>
+  <updated>2026-10-25T07:51:16Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>deeplethe/utopia #1419: An ontology term named in Chinese takes its key from its English label, so ex:公司 labelled "Company" imports as company</title>
+    <id>https://github.com/deeplethe/utopia/pull/1419</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1419"/>
+    <updated>2026-10-25T07:51:16Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1417: A declared unit with its currency first is read in its magnitude, so "$5 billion" under "USD million" is 5000</title>
+    <id>https://github.com/deeplethe/utopia/pull/1417</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1417"/>
+    <updated>2026-10-25T07:45:43Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1416: A typeset minus sign reads as negative, so "−3.2%" becomes -3.2 instead of no value</title>
+    <id>https://github.com/deeplethe/utopia/pull/1416</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1416"/>
+    <updated>2026-10-25T07:41:17Z</updated>
+    <summary>Merged public contribution. +20 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1410: A MySQL YEAR or BIT column reads as its number, so a fiscal year of 2024 is not null</title>
+    <id>https://github.com/deeplethe/utopia/pull/1410</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1410"/>
+    <updated>2026-10-25T07:36:19Z</updated>
+    <summary>Merged public contribution. +24 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>smart-mcp-proxy/mcpproxy-go #1761: fix(logs): don't panic masking a JWT with a short signature</title>
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1761</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/headroomlabs-ai/headroom/pull/4298"/>
     <updated>2026-10-24T15:43:50Z</updated>
     <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4296: fix(image): flatten transparent images onto white before re-encoding as JPEG</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4296</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4296"/>
-    <updated>2026-10-24T15:38:20Z</updated>
-    <summary>Merged public contribution. +123 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4290: fix(gemini): keep snake_case inline_data and function parts when compressing</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4290</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4290"/>
-    <updated>2026-10-24T15:38:11Z</updated>
-    <summary>Merged public contribution. +70 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4292: fix(transforms): keep the fences of a code block passed through for a protected tag</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4292</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4292"/>
-    <updated>2026-10-24T15:38:01Z</updated>
-    <summary>Merged public contribution. +61 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4294: fix(smart-crusher): match audit-safe protected_patterns against unescaped text</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4294</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4294"/>
-    <updated>2026-10-24T15:37:47Z</updated>
-    <summary>Merged public contribution. +29 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

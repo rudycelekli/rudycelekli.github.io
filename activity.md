@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,041**
+Records: **3,045**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1419: An ontology term named in Chinese takes its key from its English label, so ex:公司 labelled "Company" imports as company](https://github.com/deeplethe/utopia/pull/1419) | +32 / -2 across 1 files | 1 reviews · 0 comments |
+| 2026-10-25 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1417: A declared unit with its currency first is read in its magnitude, so "$5 billion" under "USD million" is 5000](https://github.com/deeplethe/utopia/pull/1417) | +23 / -1 across 1 files | 1 reviews · 0 comments |
+| 2026-10-25 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1416: A typeset minus sign reads as negative, so "−3.2%" becomes -3.2 instead of no value](https://github.com/deeplethe/utopia/pull/1416) | +20 / -3 across 1 files | 1 reviews · 0 comments |
+| 2026-10-25 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1410: A MySQL YEAR or BIT column reads as its number, so a fiscal year of 2024 is not null](https://github.com/deeplethe/utopia/pull/1410) | +24 / -0 across 1 files | 1 reviews · 0 comments |
 | 2026-10-25 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1761: fix(logs): don't panic masking a JWT with a short signature](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1761) | +31 / -0 across 2 files | 1 reviews · 3 comments |
 | 2026-10-25 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1762: fix(logs): mask sk-proj/sk-svcacct/sk-admin OpenAI keys](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762) | +31 / -2 across 2 files | 1 reviews · 2 comments |
 | 2026-10-25 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1760: fix(logs): mask JWTs before the high-entropy pattern can split them](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1760) | +45 / -14 across 2 files | 1 reviews · 2 comments |
