@@ -4,8 +4,148 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T18:10:33Z</updated>
+  <updated>2026-10-25T19:26:15Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1388: fix(draw): show a 999.6 m line as 1.0 km, not 1000 m</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1388</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1388"/>
+    <updated>2026-10-25T19:26:15Z</updated>
+    <summary>Merged public contribution. +23 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2384: fix(web): keep the start number of a resumed ordered list</title>
+    <id>https://github.com/JustVugg/colibri/pull/2384</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2384"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +15 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2383: fix(web): do not read spaced asterisks as emphasis</title>
+    <id>https://github.com/JustVugg/colibri/pull/2383</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2383"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2382: fix(web): keep balanced parentheses inside a Markdown link URL</title>
+    <id>https://github.com/JustVugg/colibri/pull/2382</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2382"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2381: fix(web): require the delimiter row to match the header's cell count</title>
+    <id>https://github.com/JustVugg/colibri/pull/2381</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2381"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2380: fix(cli): do not start an image path at a slash inside a word</title>
+    <id>https://github.com/JustVugg/colibri/pull/2380</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2380"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +9 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2374: fix(planner): reject a Qwen3.8 rotary factor above 1</title>
+    <id>https://github.com/JustVugg/colibri/pull/2374</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2374"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2373: fix(setup): refuse a preferred port below 1</title>
+    <id>https://github.com/JustVugg/colibri/pull/2373</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2373"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2372: fix(schema): reject a non-finite const or enum number</title>
+    <id>https://github.com/JustVugg/colibri/pull/2372</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2372"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2371: fix(schema): reject minItems values other than 0 or 1</title>
+    <id>https://github.com/JustVugg/colibri/pull/2371</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2371"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +22 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2370: fix(json): reject non-finite numbers in the checked parser</title>
+    <id>https://github.com/JustVugg/colibri/pull/2370</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2370"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2369: fix(json): reject unpaired surrogates in the checked parser</title>
+    <id>https://github.com/JustVugg/colibri/pull/2369</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2369"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2368: fix(api): answer a static path containing NUL with 404</title>
+    <id>https://github.com/JustVugg/colibri/pull/2368</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2368"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2367: fix(image): reject IMAGE frames whose width or height is a boolean</title>
+    <id>https://github.com/JustVugg/colibri/pull/2367</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2367"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +14 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2366: fix(web): split a table cell on a pipe that follows an even backslash run</title>
+    <id>https://github.com/JustVugg/colibri/pull/2366</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2366"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +26 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2365: fix(audio): accept a trailing odd WAV chunk that omits its pad</title>
+    <id>https://github.com/JustVugg/colibri/pull/2365</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2365"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2364: fix(lora): refuse a non-finite adapter alpha</title>
+    <id>https://github.com/JustVugg/colibri/pull/2364</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2364"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2363: fix(lora): refuse a fractional adapter rank</title>
+    <id>https://github.com/JustVugg/colibri/pull/2363</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2363"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2362: fix(lora): refuse layer indexes that overflow the layer table</title>
+    <id>https://github.com/JustVugg/colibri/pull/2362</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2362"/>
+    <updated>2026-10-25T19:22:19Z</updated>
+    <summary>Merged public contribution. +39 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4604: fix(teleport): read pull request patch and diff URLs</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4604</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4604"/>
+    <updated>2026-10-25T19:06:57Z</updated>
+    <summary>Merged public contribution. +11 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4601: fix(hud): show token counts that round up to 1000k in millions</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601</id>
@@ -215,145 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2006"/>
     <updated>2026-10-25T09:11:04Z</updated>
     <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2005: fix(backtest): measure the options run span from its date labels</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2005</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2005"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2003: fix(live): reject the dot broker key that aliases the global halt</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2003</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2003"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +13 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2002: fix(api): reject a scheduled run channel without a delivery target</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2002</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2002"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2001: fix(loaders): report tushare minute volume in the declared board lots</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2001</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2001"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +10 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1999: fix(loaders): page ccxt ohlcv at the exchange's own candle cap</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1999</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1999"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +47 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1998: fix(loaders): try the amex and nyse arca market id for akshare us bars</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1998</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1998"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1997: fix(loaders): strip the project .US suffix before calling alpha vantage</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1997</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1997"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1995: fix(backtest): charge india stamp duty on the buy side of a short</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1995</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1995"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1991: fix(trading): reject fractional quantities in zerodha and shoonya paper orders</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1991</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1991"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +37 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1990: fix(runs): keep sub-micro prices in reconstructed chart rows</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1990</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1990"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +25 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1987: fix(backtest): keep sub-penny fill prices in trades.csv</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1987</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1987"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1986: fix(correlation): align closes before taking returns across calendars</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1986</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1986"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +56 / -15 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1982: fix(cli): print every historical bar the limit requested</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1982</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1982"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1979: fix(papers): split sentences that run on after a number</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1979</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1979"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1420: The activity log filter covers the days it names, so 截止日期 2026-10-24 keeps that day's events</title>
-    <id>https://github.com/deeplethe/utopia/pull/1420</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1420"/>
-    <updated>2026-10-25T07:56:50Z</updated>
-    <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1419: An ontology term named in Chinese takes its key from its English label, so ex:公司 labelled "Company" imports as company</title>
-    <id>https://github.com/deeplethe/utopia/pull/1419</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1419"/>
-    <updated>2026-10-25T07:51:16Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1417: A declared unit with its currency first is read in its magnitude, so "$5 billion" under "USD million" is 5000</title>
-    <id>https://github.com/deeplethe/utopia/pull/1417</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1417"/>
-    <updated>2026-10-25T07:45:43Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1416: A typeset minus sign reads as negative, so "−3.2%" becomes -3.2 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1416</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1416"/>
-    <updated>2026-10-25T07:41:17Z</updated>
-    <summary>Merged public contribution. +20 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1410: A MySQL YEAR or BIT column reads as its number, so a fiscal year of 2024 is not null</title>
-    <id>https://github.com/deeplethe/utopia/pull/1410</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1410"/>
-    <updated>2026-10-25T07:36:19Z</updated>
-    <summary>Merged public contribution. +24 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1761: fix(logs): don't panic masking a JWT with a short signature</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1761</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1761"/>
-    <updated>2026-10-25T07:27:16Z</updated>
-    <summary>Merged public contribution. +31 / -0 across 2 changed files.</summary>
   </entry>
 </feed>

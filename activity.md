@@ -4,10 +4,30 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,090**
+Records: **3,110**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1388: fix(draw): show a 999.6 m line as 1.0 km, not 1000 m](https://github.com/bilawalsidhu/gods-eye-view/pull/1388) | +23 / -3 across 4 files | 0 reviews · 2 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2384: fix(web): keep the start number of a resumed ordered list](https://github.com/JustVugg/colibri/pull/2384) | +15 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2383: fix(web): do not read spaced asterisks as emphasis](https://github.com/JustVugg/colibri/pull/2383) | +12 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2382: fix(web): keep balanced parentheses inside a Markdown link URL](https://github.com/JustVugg/colibri/pull/2382) | +16 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2381: fix(web): require the delimiter row to match the header's cell count](https://github.com/JustVugg/colibri/pull/2381) | +8 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2380: fix(cli): do not start an image path at a slash inside a word](https://github.com/JustVugg/colibri/pull/2380) | +9 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2374: fix(planner): reject a Qwen3.8 rotary factor above 1](https://github.com/JustVugg/colibri/pull/2374) | +32 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2373: fix(setup): refuse a preferred port below 1](https://github.com/JustVugg/colibri/pull/2373) | +11 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2372: fix(schema): reject a non-finite const or enum number](https://github.com/JustVugg/colibri/pull/2372) | +5 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2371: fix(schema): reject minItems values other than 0 or 1](https://github.com/JustVugg/colibri/pull/2371) | +22 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2370: fix(json): reject non-finite numbers in the checked parser](https://github.com/JustVugg/colibri/pull/2370) | +17 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2369: fix(json): reject unpaired surrogates in the checked parser](https://github.com/JustVugg/colibri/pull/2369) | +16 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2368: fix(api): answer a static path containing NUL with 404](https://github.com/JustVugg/colibri/pull/2368) | +11 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2367: fix(image): reject IMAGE frames whose width or height is a boolean](https://github.com/JustVugg/colibri/pull/2367) | +14 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2366: fix(web): split a table cell on a pipe that follows an even backslash run](https://github.com/JustVugg/colibri/pull/2366) | +26 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2365: fix(audio): accept a trailing odd WAV chunk that omits its pad](https://github.com/JustVugg/colibri/pull/2365) | +25 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2364: fix(lora): refuse a non-finite adapter alpha](https://github.com/JustVugg/colibri/pull/2364) | +27 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2363: fix(lora): refuse a fractional adapter rank](https://github.com/JustVugg/colibri/pull/2363) | +35 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2362: fix(lora): refuse layer indexes that overflow the layer table](https://github.com/JustVugg/colibri/pull/2362) | +39 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4604: fix(teleport): read pull request patch and diff URLs](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4604) | +11 / -8 across 3 files | 0 reviews · 3 comments |
 | 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4601: fix(hud): show token counts that round up to 1000k in millions](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601) | +12 / -6 across 3 files | 0 reviews · 3 comments |
 | 2026-10-25 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1706: fix(web): carry a migration archive size that rounds up a unit](https://github.com/akitaonrails/ai-memory/pull/1706) | +36 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-25 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1705: fix(backup): carry a size that rounds up to the next unit](https://github.com/akitaonrails/ai-memory/pull/1705) | +68 / -11 across 3 files | 0 reviews · 0 comments |
