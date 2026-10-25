@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 87,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 10,
+      "created_at": "2026-10-23T23:11:36Z",
+      "deletions": 6,
+      "merged_at": "2026-10-25T06:39:52Z",
+      "number": 1340,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(search): read hemisphere letters separated from the number",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1340"
+    },
+    {
+      "additions": 35,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 1,
+      "created_at": "2026-10-24T21:59:01Z",
+      "deletions": 1,
+      "merged_at": "2026-10-25T06:38:57Z",
+      "number": 938,
+      "repository": "ktwu01/benchmark-radar",
+      "repository_url": "https://github.com/ktwu01/benchmark-radar",
+      "reviews": 1,
+      "title": "Stop listing OpenCompass Unsupported as a benchmark topic",
+      "url": "https://github.com/ktwu01/benchmark-radar/pull/938"
+    },
+    {
+      "additions": 1483,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 66,
+      "comments": 2,
+      "commits": 65,
+      "created_at": "2026-10-24T04:18:19Z",
+      "deletions": 188,
+      "merged_at": "2026-10-25T06:21:05Z",
+      "number": 1349,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(cyclones): label NHC classification codes by their published meanings",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1349"
+    },
+    {
       "additions": 29,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -48592,7 +48640,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3035,
+  "record_count": 3038,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }

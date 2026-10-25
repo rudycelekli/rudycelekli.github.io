@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T05:46:45Z</updated>
+  <updated>2026-10-25T06:39:52Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1340: fix(search): read hemisphere letters separated from the number</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1340</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1340"/>
+    <updated>2026-10-25T06:39:52Z</updated>
+    <summary>Merged public contribution. +87 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ktwu01/benchmark-radar #938: Stop listing OpenCompass Unsupported as a benchmark topic</title>
+    <id>https://github.com/ktwu01/benchmark-radar/pull/938</id>
+    <link href="https://github.com/ktwu01/benchmark-radar/pull/938"/>
+    <updated>2026-10-25T06:38:57Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1349: fix(cyclones): label NHC classification codes by their published meanings</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1349</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1349"/>
+    <updated>2026-10-25T06:21:05Z</updated>
+    <summary>Merged public contribution. +1483 / -188 across 66 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1353: fix(transit): count a 90-second report as one minute</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1353</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/rociiu/talorys/pull/91"/>
     <updated>2026-10-24T11:21:55Z</updated>
     <summary>Merged public contribution. +21 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #89: fix(agent): keep each IPv4-mapped client on its own login limit</title>
-    <id>https://github.com/rociiu/talorys/pull/89</id>
-    <link href="https://github.com/rociiu/talorys/pull/89"/>
-    <updated>2026-10-24T11:21:46Z</updated>
-    <summary>Merged public contribution. +58 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #88: fix(memory): delete the activity line of a memory that was edited</title>
-    <id>https://github.com/rociiu/talorys/pull/88</id>
-    <link href="https://github.com/rociiu/talorys/pull/88"/>
-    <updated>2026-10-24T11:21:37Z</updated>
-    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #87: fix: pause a one-off automation whose time passes after a timezone change</title>
-    <id>https://github.com/rociiu/talorys/pull/87</id>
-    <link href="https://github.com/rociiu/talorys/pull/87"/>
-    <updated>2026-10-24T11:21:30Z</updated>
-    <summary>Merged public contribution. +29 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
