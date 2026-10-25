@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T19:26:15Z</updated>
+  <updated>2026-10-25T19:53:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>cathrynlavery/diagram-design #470: fix(heatmap): read a quoted greater-than in markup</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/470</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/470"/>
+    <updated>2026-10-25T19:53:34Z</updated>
+    <summary>Merged public contribution. +27 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>yutto-dev/yutto #888: 🐛 fix: round subtitle SRT timestamps to milliseconds instead of truncating</title>
+    <id>https://github.com/yutto-dev/yutto/pull/888</id>
+    <link href="https://github.com/yutto-dev/yutto/pull/888"/>
+    <updated>2026-10-25T19:44:17Z</updated>
+    <summary>Merged public contribution. +5 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>cathrynlavery/diagram-design #458: fix(import): accept Mermaid edge IDs in flowcharts</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/458</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/458"/>
+    <updated>2026-10-25T19:38:16Z</updated>
+    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1389: fix(cockpit): show wind from 359.6° as 0°, not 360°</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1389</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1389"/>
+    <updated>2026-10-25T19:30:37Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1388: fix(draw): show a 999.6 m line as 1.0 km, not 1000 m</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1388</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2033"/>
     <updated>2026-10-25T09:11:04Z</updated>
     <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2026: fix(risk): count drawdown days on the civil calendar</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2026</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2026"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2019: fix(mt5): keep a configured zero deviation_points instead of 20</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2019</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2019"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2017: fix(governance): fail verify_hash when the manifest tool list was edited</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2017</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2017"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2006: fix(memory): read offset-less frontmatter timestamps as utc</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2006</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2006"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

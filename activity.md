@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,110**
+Records: **3,114**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#470: fix(heatmap): read a quoted greater-than in markup](https://github.com/cathrynlavery/diagram-design/pull/470) | +27 / -3 across 2 files | 2 reviews · 4 comments |
+| 2026-10-25 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | [#888: 🐛 fix: round subtitle SRT timestamps to milliseconds instead of truncating](https://github.com/yutto-dev/yutto/pull/888) | +5 / -5 across 1 files | 1 reviews · 1 comments |
+| 2026-10-25 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#458: fix(import): accept Mermaid edge IDs in flowcharts](https://github.com/cathrynlavery/diagram-design/pull/458) | +66 / -1 across 3 files | 2 reviews · 3 comments |
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1389: fix(cockpit): show wind from 359.6° as 0°, not 360°](https://github.com/bilawalsidhu/gods-eye-view/pull/1389) | +17 / -1 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1388: fix(draw): show a 999.6 m line as 1.0 km, not 1000 m](https://github.com/bilawalsidhu/gods-eye-view/pull/1388) | +23 / -3 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2384: fix(web): keep the start number of a resumed ordered list](https://github.com/JustVugg/colibri/pull/2384) | +15 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-25 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2383: fix(web): do not read spaced asterisks as emphasis](https://github.com/JustVugg/colibri/pull/2383) | +12 / -2 across 2 files | 0 reviews · 0 comments |
