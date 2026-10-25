@@ -4,11 +4,13 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,118**
+Records: **3,120**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1395: fix(fires): report a 00:45 UTC detection as 00:45, not "45"](https://github.com/bilawalsidhu/gods-eye-view/pull/1395) | +75 / -3 across 5 files | 0 reviews · 1 comments |
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1343: fix(route): phrase ramp and lane modifiers as directions](https://github.com/bilawalsidhu/gods-eye-view/pull/1343) | +127 / -13 across 9 files | 0 reviews · 1 comments |
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1390: fix(awareness): wrap north-bound bearings](https://github.com/bilawalsidhu/gods-eye-view/pull/1390) | +30 / -2 across 6 files | 0 reviews · 1 comments |
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1395: fix(fires): report a 00:45 UTC detection as 00:45, not "45"](https://github.com/bilawalsidhu/gods-eye-view/pull/1395) | +75 / -3 across 5 files | 0 reviews · 2 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1396: fix(local-adsb): show a 359.7° track as TRK 0°, not TRK 360°](https://github.com/bilawalsidhu/gods-eye-view/pull/1396) | +25 / -1 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4608: fix(team): report modify/delete paths in rebase conflict messages](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608) | +88 / -9 across 3 files | 0 reviews · 3 comments |
 | 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4607: fix(omc-orchestrator): keep the first git status entry's path intact](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607) | +104 / -14 across 3 files | 0 reviews · 2 comments |
