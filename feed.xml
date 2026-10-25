@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T11:28:27Z</updated>
+  <updated>2026-10-25T12:24:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>rociiu/talorys #90: Keep a checkbox inside a code sample from becoming a task</title>
+    <id>https://github.com/rociiu/talorys/pull/90</id>
+    <link href="https://github.com/rociiu/talorys/pull/90"/>
+    <updated>2026-10-25T12:24:50Z</updated>
+    <summary>Merged public contribution. +40 / -10 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #2040: fix(factors): give GTJA #101 the report's HIGH/VWAP blend against raw volume</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/2040</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1354"/>
     <updated>2026-10-25T05:27:34Z</updated>
     <summary>Merged public contribution. +44 / -4 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #11: fix(service): allow plain HTTP to every loopback address</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/11</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/11"/>
-    <updated>2026-10-25T05:23:59Z</updated>
-    <summary>Merged public contribution. +39 / -4 across 1 changed files.</summary>
   </entry>
 </feed>
