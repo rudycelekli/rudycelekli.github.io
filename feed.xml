@@ -4,8 +4,204 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T07:56:50Z</updated>
+  <updated>2026-10-25T09:19:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tt-a1i/archify #862: fix(viewer): retain keyboard focus after fallback link copy</title>
+    <id>https://github.com/tt-a1i/archify/pull/862</id>
+    <link href="https://github.com/tt-a1i/archify/pull/862"/>
+    <updated>2026-10-25T09:19:31Z</updated>
+    <summary>Merged public contribution. +258 / -69 across 53 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tt-a1i/archify #857: test(preview): verify HEAD representation metadata</title>
+    <id>https://github.com/tt-a1i/archify/pull/857</id>
+    <link href="https://github.com/tt-a1i/archify/pull/857"/>
+    <updated>2026-10-25T09:19:31Z</updated>
+    <summary>Merged public contribution. +26 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1992: fix(backtest): apply the equity-index price limit to MYM and M2K</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1992</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1992"/>
+    <updated>2026-10-25T09:11:05Z</updated>
+    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1978: fix(goal): keep long-term and short-term objectives</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1978</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1978"/>
+    <updated>2026-10-25T09:11:05Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1970: fix(session): clear the search index when a session is deleted</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1970</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1970"/>
+    <updated>2026-10-25T09:11:05Z</updated>
+    <summary>Merged public contribution. +143 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2041: fix(benchmark): give hong kong runs a fetchable 2828.HK benchmark</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2041</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2041"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2039: fix(factors): route GTJA VWAP through base.vwap so Tushare units scale</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2039</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2039"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +89 / -20 across 21 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2038: fix(factors): drop the extra TSRANK from GTJA #140's correlation leg</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2038</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2038"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2037: fix(factors): scale GTJA #170 by the 5-day mean of HIGH, not CLOSE</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2037</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2037"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2033: fix(rigor): omit earnings and FCF yield when the price is zero</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2033</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2033"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2026: fix(risk): count drawdown days on the civil calendar</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2026</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2026"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2019: fix(mt5): keep a configured zero deviation_points instead of 20</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2019</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2019"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2017: fix(governance): fail verify_hash when the manifest tool list was edited</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2017</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2017"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2006: fix(memory): read offset-less frontmatter timestamps as utc</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2006</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2006"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2005: fix(backtest): measure the options run span from its date labels</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2005</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2005"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2003: fix(live): reject the dot broker key that aliases the global halt</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2003</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2003"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +13 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2002: fix(api): reject a scheduled run channel without a delivery target</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2002</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2002"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2001: fix(loaders): report tushare minute volume in the declared board lots</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2001</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2001"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +10 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1999: fix(loaders): page ccxt ohlcv at the exchange's own candle cap</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1999</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1999"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +47 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1998: fix(loaders): try the amex and nyse arca market id for akshare us bars</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1998</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1998"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1997: fix(loaders): strip the project .US suffix before calling alpha vantage</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1997</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1997"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1995: fix(backtest): charge india stamp duty on the buy side of a short</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1995</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1995"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1991: fix(trading): reject fractional quantities in zerodha and shoonya paper orders</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1991</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1991"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +37 / -7 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1990: fix(runs): keep sub-micro prices in reconstructed chart rows</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1990</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1990"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +25 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1987: fix(backtest): keep sub-penny fill prices in trades.csv</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1987</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1987"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1986: fix(correlation): align closes before taking returns across calendars</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1986</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1986"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +56 / -15 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1982: fix(cli): print every historical bar the limit requested</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1982</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1982"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1979: fix(papers): split sentences that run on after a number</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1979</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1979"/>
+    <updated>2026-10-25T09:11:04Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>deeplethe/utopia #1420: The activity log filter covers the days it names, so 截止日期 2026-10-24 keeps that day's events</title>
     <id>https://github.com/deeplethe/utopia/pull/1420</id>
@@ -159,201 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3808"/>
     <updated>2026-10-25T02:44:01Z</updated>
     <summary>Merged public contribution. +247 / -39 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3809: fix(web): preserve chat history when deletion fails</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3809</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3809"/>
-    <updated>2026-10-25T02:43:55Z</updated>
-    <summary>Merged public contribution. +169 / -49 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3805: fix(web): serve artifacts from registered agent workspaces</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3805</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3805"/>
-    <updated>2026-10-25T02:43:49Z</updated>
-    <summary>Merged public contribution. +115 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3827: fix(gemini): send non-object tool results as an object in functionResponse</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3827</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3827"/>
-    <updated>2026-10-25T02:43:44Z</updated>
-    <summary>Merged public contribution. +71 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3826: fix(dashscope): keep steering text sent alongside tool results</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3826</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3826"/>
-    <updated>2026-10-25T02:43:39Z</updated>
-    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3825: fix(zhipuai): keep steering text sent alongside tool results</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3825</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3825"/>
-    <updated>2026-10-25T02:43:33Z</updated>
-    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3810: fix(files): keep file-read observations within their conversation</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3810</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3810"/>
-    <updated>2026-10-25T02:43:23Z</updated>
-    <summary>Merged public contribution. +128 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3806: fix(images): preserve display orientation when compressing images</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3806</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3806"/>
-    <updated>2026-10-25T02:43:18Z</updated>
-    <summary>Merged public contribution. +76 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1673: fix(scope): name the workspace when a write hits an ambiguous project</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1673</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1673"/>
-    <updated>2026-10-24T22:28:50Z</updated>
-    <summary>Merged public contribution. +60 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1635: fix(auto-improve): validate headings on a full-page proposal as the patch path does</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1635</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1635"/>
-    <updated>2026-10-24T22:25:40Z</updated>
-    <summary>Merged public contribution. +98 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1634: fix(mcp): answer an unknown memory_feedback target with invalid params</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1634</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1634"/>
-    <updated>2026-10-24T22:25:28Z</updated>
-    <summary>Merged public contribution. +90 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1633: fix(qwen): cap and scrub the submitted prompt before it is spooled</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1633</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1633"/>
-    <updated>2026-10-24T22:25:16Z</updated>
-    <summary>Merged public contribution. +111 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1632: fix(sweep): keep an already-compacted residue terminal when compaction is off</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1632</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1632"/>
-    <updated>2026-10-24T22:25:05Z</updated>
-    <summary>Merged public contribution. +148 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1631: fix(profile): ignore TTL-expired pages when deciding a project is new</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1631</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1631"/>
-    <updated>2026-10-24T22:24:53Z</updated>
-    <summary>Merged public contribution. +71 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2352: fix(setup): keep prerelease suffixes out of release numbers</title>
-    <id>https://github.com/JustVugg/colibri/pull/2352</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2352"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2351: fix(audio): ignore WAV chunks past the declared RIFF size</title>
-    <id>https://github.com/JustVugg/colibri/pull/2351</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2351"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +20 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2350: fix(api): render non-string DeepSeek V4.1 tool descriptions</title>
-    <id>https://github.com/JustVugg/colibri/pull/2350</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2350"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2349: fix(api): stringify a deferred Muse tool's non-string description</title>
-    <id>https://github.com/JustVugg/colibri/pull/2349</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2349"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2347: fix(api): keep Muse tool-result lookup on malformed history</title>
-    <id>https://github.com/JustVugg/colibri/pull/2347</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2347"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2346: fix(api): reject a non-string Inkling message role</title>
-    <id>https://github.com/JustVugg/colibri/pull/2346</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2346"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2345: fix(api): reject non-string GLM-5.3 message content</title>
-    <id>https://github.com/JustVugg/colibri/pull/2345</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2345"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2344: fix(api): ignore non-string DeepSeek V4.1 tool-call ids</title>
-    <id>https://github.com/JustVugg/colibri/pull/2344</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2344"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +26 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2343: fix(api): reject a non-string text part in a continued assistant turn</title>
-    <id>https://github.com/JustVugg/colibri/pull/2343</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2343"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2342: fix(api): reject NaN and Infinity in request bodies</title>
-    <id>https://github.com/JustVugg/colibri/pull/2342</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2342"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2341: fix(lora): refuse adapter targets with a negative or implausible layer index</title>
-    <id>https://github.com/JustVugg/colibri/pull/2341</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2341"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2340: fix(grammar): keep GBNF rule names whole instead of truncating at 63 bytes</title>
-    <id>https://github.com/JustVugg/colibri/pull/2340</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2340"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +22 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2339: fix(schema): write fractional const and enum numbers in shortest form</title>
-    <id>https://github.com/JustVugg/colibri/pull/2339</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2339"/>
-    <updated>2026-10-24T20:43:37Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1233: fix(graph): normalize modularity by undirected edge weight</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1233</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1233"/>
-    <updated>2026-10-24T20:30:44Z</updated>
-    <summary>Merged public contribution. +50 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4297: fix(mcp): accept the JSONC opencode config that wrap and install already accept</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4297</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4297"/>
-    <updated>2026-10-24T15:44:37Z</updated>
-    <summary>Merged public contribution. +62 / -17 across 2 changed files.</summary>
   </entry>
 </feed>
