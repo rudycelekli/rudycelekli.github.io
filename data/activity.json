@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 44,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 2,
+      "commits": 5,
+      "created_at": "2026-10-24T04:34:21Z",
+      "deletions": 4,
+      "merged_at": "2026-10-25T05:27:34Z",
+      "number": 1354,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(firms): drop the decimal when fire power rounds to 10 MW",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1354"
+    },
+    {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-24T21:59:05Z",
+      "deletions": 4,
+      "merged_at": "2026-10-25T05:23:59Z",
+      "number": 11,
+      "repository": "Graphicle-AI/graphicle",
+      "repository_url": "https://github.com/Graphicle-AI/graphicle",
+      "reviews": 0,
+      "title": "fix(service): allow plain HTTP to every loopback address",
+      "url": "https://github.com/Graphicle-AI/graphicle/pull/11"
+    },
+    {
+      "additions": 147,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T04:31:30Z",
+      "deletions": 11,
+      "merged_at": "2026-10-25T05:23:59Z",
+      "number": 10,
+      "repository": "Graphicle-AI/graphicle",
+      "repository_url": "https://github.com/Graphicle-AI/graphicle",
+      "reviews": 0,
+      "title": "fix: keep Retry-After when the service says the budget is spent",
+      "url": "https://github.com/Graphicle-AI/graphicle/pull/10"
+    },
+    {
       "additions": 264,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -48512,7 +48560,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3030,
+  "record_count": 3033,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }

@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,030**
+Records: **3,033**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1354: fix(firms): drop the decimal when fire power rounds to 10 MW](https://github.com/bilawalsidhu/gods-eye-view/pull/1354) | +44 / -4 across 6 files | 0 reviews · 2 comments |
+| 2026-10-25 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#11: fix(service): allow plain HTTP to every loopback address](https://github.com/Graphicle-AI/graphicle/pull/11) | +39 / -4 across 1 files | 0 reviews · 0 comments |
+| 2026-10-25 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | [#10: fix: keep Retry-After when the service says the budget is spent](https://github.com/Graphicle-AI/graphicle/pull/10) | +147 / -11 across 3 files | 0 reviews · 0 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1351: fix(ais): keep a tracked vessel's motion when static data arrives](https://github.com/bilawalsidhu/gods-eye-view/pull/1351) | +264 / -10 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1350: fix(cyclones): convert NHC movement speed from mph to knots](https://github.com/bilawalsidhu/gods-eye-view/pull/1350) | +13 / -2 across 4 files | 0 reviews · 2 comments |
 | 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3822: fix(claude): surface mid-stream error events instead of ending the reply silently](https://github.com/zhayujie/CowAgent/pull/3822) | +87 / -0 across 2 files | 0 reviews · 1 comments |

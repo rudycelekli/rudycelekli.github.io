@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T04:45:40Z</updated>
+  <updated>2026-10-25T05:27:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1354: fix(firms): drop the decimal when fire power rounds to 10 MW</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1354</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1354"/>
+    <updated>2026-10-25T05:27:34Z</updated>
+    <summary>Merged public contribution. +44 / -4 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #11: fix(service): allow plain HTTP to every loopback address</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/11</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/11"/>
+    <updated>2026-10-25T05:23:59Z</updated>
+    <summary>Merged public contribution. +39 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #10: fix: keep Retry-After when the service says the budget is spent</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/10</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/10"/>
+    <updated>2026-10-25T05:23:59Z</updated>
+    <summary>Merged public contribution. +147 / -11 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1351: fix(ais): keep a tracked vessel's motion when static data arrives</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1351</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/heygen-com/hyperframes/pull/5315"/>
     <updated>2026-10-24T10:06:12Z</updated>
     <summary>Merged public contribution. +89 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>heygen-com/hyperframes #5314: fix(lint): reject parser-invalid variable defaults</title>
-    <id>https://github.com/heygen-com/hyperframes/pull/5314</id>
-    <link href="https://github.com/heygen-com/hyperframes/pull/5314"/>
-    <updated>2026-10-24T10:06:12Z</updated>
-    <summary>Merged public contribution. +76 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>heygen-com/hyperframes #5723: fix(cli): preserve string fallback for non-JSON error values</title>
-    <id>https://github.com/heygen-com/hyperframes/pull/5723</id>
-    <link href="https://github.com/heygen-com/hyperframes/pull/5723"/>
-    <updated>2026-10-24T09:17:29Z</updated>
-    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>heygen-com/hyperframes #5721: fix(cli): prevent feedback URL crashes at emoji truncation boundaries</title>
-    <id>https://github.com/heygen-com/hyperframes/pull/5721</id>
-    <link href="https://github.com/heygen-com/hyperframes/pull/5721"/>
-    <updated>2026-10-24T09:17:29Z</updated>
-    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
