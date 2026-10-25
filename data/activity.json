@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-25T15:41:38Z",
+      "deletions": 5,
+      "merged_at": "2026-10-25T17:27:34Z",
+      "number": 1706,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(web): carry a migration archive size that rounds up a unit",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1706"
+    },
+    {
+      "additions": 68,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-25T15:41:21Z",
+      "deletions": 11,
+      "merged_at": "2026-10-25T17:27:34Z",
+      "number": 1705,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(backup): carry a size that rounds up to the next unit",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/1705"
+    },
+    {
       "additions": 22,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -49424,7 +49456,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3087,
+  "record_count": 3089,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }
