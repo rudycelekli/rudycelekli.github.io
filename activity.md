@@ -4,10 +4,17 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,074**
+Records: **3,081**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2040: fix(factors): give GTJA #101 the report's HIGH/VWAP blend against raw volume](https://github.com/HKUDS/Vibe-Trading/pull/2040) | +85 / -43 across 3 files | 1 reviews · 0 comments |
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2036: fix(factors): give GTJA #55 the swing index's third denominator branch](https://github.com/HKUDS/Vibe-Trading/pull/2036) | +52 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2010: fix(loaders): ask Tiingo for class shares by their hyphenated ticker](https://github.com/HKUDS/Vibe-Trading/pull/2010) | +30 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1994: fix(backtest): charge the 30-year treasury future the treasury fee](https://github.com/HKUDS/Vibe-Trading/pull/1994) | +9 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1989: fix(loaders): date Nobitex daily bars by the Tehran day they cover](https://github.com/HKUDS/Vibe-Trading/pull/1989) | +37 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1969: fix(sessions): auto-title sessions whose first message is wrapped](https://github.com/HKUDS/Vibe-Trading/pull/1969) | +263 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-25 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#535: fix(ingest): continue after unreadable ZIP images](https://github.com/Kentucky-ai/opentakeoff/pull/535) | +51 / -6 across 6 files | 3 reviews · 4 comments |
 | 2026-10-25 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#862: fix(viewer): retain keyboard focus after fallback link copy](https://github.com/tt-a1i/archify/pull/862) | +258 / -69 across 53 files | 1 reviews · 2 comments |
 | 2026-10-25 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | [#857: test(preview): verify HEAD representation metadata](https://github.com/tt-a1i/archify/pull/857) | +26 / -0 across 1 files | 2 reviews · 4 comments |
 | 2026-10-25 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#1992: fix(backtest): apply the equity-index price limit to MYM and M2K](https://github.com/HKUDS/Vibe-Trading/pull/1992) | +10 / -1 across 2 files | 0 reviews · 0 comments |
