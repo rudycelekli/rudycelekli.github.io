@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T16:12:14Z</updated>
+  <updated>2026-10-25T16:51:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4600: fix(pre-tool-enforcer): stop truncating OMC_PRE_TOOL_ADVISORY_COOLDOWN_MS</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4600</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4600"/>
+    <updated>2026-10-25T16:51:11Z</updated>
+    <summary>Merged public contribution. +22 / -9 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4599: fix(persistent-mode): stop truncating OMC_PERSISTENT_MODE_TIMEOUT_MS</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4599</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1340"/>
     <updated>2026-10-25T06:39:52Z</updated>
     <summary>Merged public contribution. +87 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ktwu01/benchmark-radar #938: Stop listing OpenCompass Unsupported as a benchmark topic</title>
-    <id>https://github.com/ktwu01/benchmark-radar/pull/938</id>
-    <link href="https://github.com/ktwu01/benchmark-radar/pull/938"/>
-    <updated>2026-10-25T06:38:57Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
