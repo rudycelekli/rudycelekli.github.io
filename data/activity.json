@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 31,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T22:41:50Z",
+      "deletions": 2,
+      "merged_at": "2026-10-25T07:56:50Z",
+      "number": 1420,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "The activity log filter covers the days it names, so \u622a\u6b62\u65e5\u671f 2026-10-24 keeps that day's events",
+      "url": "https://github.com/deeplethe/utopia/pull/1420"
+    },
+    {
       "additions": 32,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -48752,7 +48768,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3045,
+  "record_count": 3046,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }
