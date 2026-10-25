@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 12,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 3,
+      "commits": 3,
+      "created_at": "2026-10-25T16:17:43Z",
+      "deletions": 6,
+      "merged_at": "2026-10-25T18:10:33Z",
+      "number": 4601,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(hud): show token counts that round up to 1000k in millions",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601"
+    },
+    {
       "additions": 36,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -49456,7 +49472,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3089,
+  "record_count": 3090,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }

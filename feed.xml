@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T17:27:34Z</updated>
+  <updated>2026-10-25T18:10:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4601: fix(hud): show token counts that round up to 1000k in millions</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601"/>
+    <updated>2026-10-25T18:10:33Z</updated>
+    <summary>Merged public contribution. +12 / -6 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #1706: fix(web): carry a migration archive size that rounds up a unit</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/1706</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1761"/>
     <updated>2026-10-25T07:27:16Z</updated>
     <summary>Merged public contribution. +31 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1762: fix(logs): mask sk-proj/sk-svcacct/sk-admin OpenAI keys</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1762"/>
-    <updated>2026-10-25T06:45:15Z</updated>
-    <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

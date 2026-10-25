@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,089**
+Records: **3,090**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4601: fix(hud): show token counts that round up to 1000k in millions](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601) | +12 / -6 across 3 files | 0 reviews · 3 comments |
 | 2026-10-25 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1706: fix(web): carry a migration archive size that rounds up a unit](https://github.com/akitaonrails/ai-memory/pull/1706) | +36 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-25 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1705: fix(backup): carry a size that rounds up to the next unit](https://github.com/akitaonrails/ai-memory/pull/1705) | +68 / -11 across 3 files | 0 reviews · 0 comments |
 | 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4600: fix(pre-tool-enforcer): stop truncating OMC_PRE_TOOL_ADVISORY_COOLDOWN_MS](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4600) | +22 / -9 across 3 files | 0 reviews · 2 comments |
