@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 264,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-24T04:23:54Z",
+      "deletions": 10,
+      "merged_at": "2026-10-25T04:45:40Z",
+      "number": 1351,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(ais): keep a tracked vessel's motion when static data arrives",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1351"
+    },
+    {
+      "additions": 13,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 5,
+      "created_at": "2026-10-24T04:21:21Z",
+      "deletions": 2,
+      "merged_at": "2026-10-25T04:39:26Z",
+      "number": 1350,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(cyclones): convert NHC movement speed from mph to knots",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1350"
+    },
+    {
       "additions": 87,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -48480,7 +48512,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3028,
+  "record_count": 3030,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }
