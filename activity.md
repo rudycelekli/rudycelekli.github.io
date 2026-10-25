@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,115**
+Records: **3,117**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1396: fix(local-adsb): show a 359.7° track as TRK 0°, not TRK 360°](https://github.com/bilawalsidhu/gods-eye-view/pull/1396) | +25 / -1 across 4 files | 0 reviews · 2 comments |
+| 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4608: fix(team): report modify/delete paths in rebase conflict messages](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608) | +88 / -9 across 3 files | 0 reviews · 3 comments |
 | 2026-10-25 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4607: fix(omc-orchestrator): keep the first git status entry's path intact](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607) | +104 / -14 across 3 files | 0 reviews · 2 comments |
 | 2026-10-25 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#470: fix(heatmap): read a quoted greater-than in markup](https://github.com/cathrynlavery/diagram-design/pull/470) | +27 / -3 across 2 files | 2 reviews · 4 comments |
 | 2026-10-25 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | [#888: 🐛 fix: round subtitle SRT timestamps to milliseconds instead of truncating](https://github.com/yutto-dev/yutto/pull/888) | +5 / -5 across 1 files | 1 reviews · 1 comments |

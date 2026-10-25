@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-25T19:59:14Z",
+      "deletions": 1,
+      "merged_at": "2026-10-25T21:14:28Z",
+      "number": 1396,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 0,
+      "title": "fix(local-adsb): show a 359.7\u00b0 track as TRK 0\u00b0, not TRK 360\u00b0",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1396"
+    },
+    {
+      "additions": 88,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-25T20:01:02Z",
+      "deletions": 9,
+      "merged_at": "2026-10-25T21:07:32Z",
+      "number": 4608,
+      "repository": "Yeachan-Heo/oh-my-claudecode",
+      "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "reviews": 0,
+      "title": "fix(team): report modify/delete paths in rebase conflict messages",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608"
+    },
+    {
       "additions": 104,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -49872,7 +49904,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3115,
+  "record_count": 3117,
   "schema_version": 1,
   "updated_at_utc": "2026-10-25"
 }

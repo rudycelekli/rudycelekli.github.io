@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T20:15:36Z</updated>
+  <updated>2026-10-25T21:14:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1396: fix(local-adsb): show a 359.7° track as TRK 0°, not TRK 360°</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1396</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1396"/>
+    <updated>2026-10-25T21:14:28Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4608: fix(team): report modify/delete paths in rebase conflict messages</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608"/>
+    <updated>2026-10-25T21:07:32Z</updated>
+    <summary>Merged public contribution. +88 / -9 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4607: fix(omc-orchestrator): keep the first git status entry's path intact</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2039"/>
     <updated>2026-10-25T09:11:04Z</updated>
     <summary>Merged public contribution. +89 / -20 across 21 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2038: fix(factors): drop the extra TSRANK from GTJA #140's correlation leg</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2038</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2038"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2037: fix(factors): scale GTJA #170 by the 5-day mean of HIGH, not CLOSE</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2037</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2037"/>
-    <updated>2026-10-25T09:11:04Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
