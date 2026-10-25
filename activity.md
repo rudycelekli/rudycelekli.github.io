@@ -4,10 +4,21 @@ Evidence timestamp: **2026-10-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,017**
+Records: **3,028**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3822: fix(claude): surface mid-stream error events instead of ending the reply silently](https://github.com/zhayujie/CowAgent/pull/3822) | +87 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3815: fix(voice): stop leaking inbound voice recordings when wav conversion fails](https://github.com/zhayujie/CowAgent/pull/3815) | +138 / -10 across 2 files | 0 reviews · 2 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3812: fix(update): tolerate a corrupt worker_pid in the in-progress guard](https://github.com/zhayujie/CowAgent/pull/3812) | +31 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3808: fix(scheduler): correlate delivered output with its exact run](https://github.com/zhayujie/CowAgent/pull/3808) | +247 / -39 across 5 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3809: fix(web): preserve chat history when deletion fails](https://github.com/zhayujie/CowAgent/pull/3809) | +169 / -49 across 4 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3805: fix(web): serve artifacts from registered agent workspaces](https://github.com/zhayujie/CowAgent/pull/3805) | +115 / -3 across 3 files | 0 reviews · 2 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3827: fix(gemini): send non-object tool results as an object in functionResponse](https://github.com/zhayujie/CowAgent/pull/3827) | +71 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3826: fix(dashscope): keep steering text sent alongside tool results](https://github.com/zhayujie/CowAgent/pull/3826) | +48 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3825: fix(zhipuai): keep steering text sent alongside tool results](https://github.com/zhayujie/CowAgent/pull/3825) | +54 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3810: fix(files): keep file-read observations within their conversation](https://github.com/zhayujie/CowAgent/pull/3810) | +128 / -6 across 2 files | 0 reviews · 1 comments |
+| 2026-10-25 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3806: fix(images): preserve display orientation when compressing images](https://github.com/zhayujie/CowAgent/pull/3806) | +76 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1673: fix(scope): name the workspace when a write hits an ambiguous project](https://github.com/akitaonrails/ai-memory/pull/1673) | +60 / -12 across 3 files | 0 reviews · 0 comments |
 | 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1635: fix(auto-improve): validate headings on a full-page proposal as the patch path does](https://github.com/akitaonrails/ai-memory/pull/1635) | +98 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-10-24 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#1634: fix(mcp): answer an unknown memory_feedback target with invalid params](https://github.com/akitaonrails/ai-memory/pull/1634) | +90 / -1 across 2 files | 0 reviews · 0 comments |

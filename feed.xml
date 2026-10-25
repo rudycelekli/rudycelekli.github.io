@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-24T22:28:50Z</updated>
+  <updated>2026-10-25T02:44:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3822: fix(claude): surface mid-stream error events instead of ending the reply silently</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3822</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3822"/>
+    <updated>2026-10-25T02:44:23Z</updated>
+    <summary>Merged public contribution. +87 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3815: fix(voice): stop leaking inbound voice recordings when wav conversion fails</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3815</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3815"/>
+    <updated>2026-10-25T02:44:12Z</updated>
+    <summary>Merged public contribution. +138 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3812: fix(update): tolerate a corrupt worker_pid in the in-progress guard</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3812</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3812"/>
+    <updated>2026-10-25T02:44:06Z</updated>
+    <summary>Merged public contribution. +31 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3808: fix(scheduler): correlate delivered output with its exact run</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3808</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3808"/>
+    <updated>2026-10-25T02:44:01Z</updated>
+    <summary>Merged public contribution. +247 / -39 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3809: fix(web): preserve chat history when deletion fails</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3809</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3809"/>
+    <updated>2026-10-25T02:43:55Z</updated>
+    <summary>Merged public contribution. +169 / -49 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3805: fix(web): serve artifacts from registered agent workspaces</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3805</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3805"/>
+    <updated>2026-10-25T02:43:49Z</updated>
+    <summary>Merged public contribution. +115 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3827: fix(gemini): send non-object tool results as an object in functionResponse</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3827</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3827"/>
+    <updated>2026-10-25T02:43:44Z</updated>
+    <summary>Merged public contribution. +71 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3826: fix(dashscope): keep steering text sent alongside tool results</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3826</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3826"/>
+    <updated>2026-10-25T02:43:39Z</updated>
+    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3825: fix(zhipuai): keep steering text sent alongside tool results</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3825</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3825"/>
+    <updated>2026-10-25T02:43:33Z</updated>
+    <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3810: fix(files): keep file-read observations within their conversation</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3810</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3810"/>
+    <updated>2026-10-25T02:43:23Z</updated>
+    <summary>Merged public contribution. +128 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3806: fix(images): preserve display orientation when compressing images</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3806</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3806"/>
+    <updated>2026-10-25T02:43:18Z</updated>
+    <summary>Merged public contribution. +76 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #1673: fix(scope): name the workspace when a write hits an ambiguous project</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/1673</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1406"/>
     <updated>2026-10-24T06:05:45Z</updated>
     <summary>Merged public contribution. +44 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1402: An approximate figure that starts with a capital is still read, so "About 350 people" becomes 350 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1402</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1402"/>
-    <updated>2026-10-24T06:00:17Z</updated>
-    <summary>Merged public contribution. +13 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1400: A magnitude word written with a capital scales its number, so "$2.5 Billion" reads as 2.5 billion instead of 2.5</title>
-    <id>https://github.com/deeplethe/utopia/pull/1400</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1400"/>
-    <updated>2026-10-24T05:53:39Z</updated>
-    <summary>Merged public contribution. +6 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1404: An interval written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July</title>
-    <id>https://github.com/deeplethe/utopia/pull/1404</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1404"/>
-    <updated>2026-10-24T05:49:15Z</updated>
-    <summary>Merged public contribution. +40 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4556: fix(notifications): stop truncating OMC_NOTIFY_TMUX_TAIL_LINES</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4556</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4556"/>
-    <updated>2026-10-24T05:39:33Z</updated>
-    <summary>Merged public contribution. +29 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #9: fix(sdk): allow plain HTTP to every loopback address</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/9</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/9"/>
-    <updated>2026-10-24T05:27:49Z</updated>
-    <summary>Merged public contribution. +49 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4558: fix(team): read the start-submit timeout as a whole integer</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4558</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4558"/>
-    <updated>2026-10-24T05:06:25Z</updated>
-    <summary>Merged public contribution. +71 / -17 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4557: fix(team-dispatch): stop truncating cooldown env values</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4557</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4557"/>
-    <updated>2026-10-24T04:25:39Z</updated>
-    <summary>Merged public contribution. +80 / -17 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4547: fix(team): read the worker-ready timeout as a whole integer</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4547"/>
-    <updated>2026-10-24T02:37:02Z</updated>
-    <summary>Merged public contribution. +86 / -16 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4549: fix(providers): parse remote URLs that end in a slash</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4549</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4549"/>
-    <updated>2026-10-24T01:40:41Z</updated>
-    <summary>Merged public contribution. +101 / -11 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>heygen-com/hyperframes #5711: fix(cli): exclude rendering flags from tween tail warnings</title>
-    <id>https://github.com/heygen-com/hyperframes/pull/5711</id>
-    <link href="https://github.com/heygen-com/hyperframes/pull/5711"/>
-    <updated>2026-10-24T01:16:30Z</updated>
-    <summary>Merged public contribution. +25 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4546: fix(team): read launch-ack timeouts as whole integers</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4546</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4546"/>
-    <updated>2026-10-24T01:11:30Z</updated>
-    <summary>Merged public contribution. +150 / -13 across 3 changed files.</summary>
   </entry>
 </feed>
