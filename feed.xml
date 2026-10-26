@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-25T23:28:09Z</updated>
+  <updated>2026-10-26T00:59:10Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1339: fix(hud): carry rounded DMS seconds into the minutes</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1339</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1339"/>
+    <updated>2026-10-26T00:59:10Z</updated>
+    <summary>Merged public contribution. +123 / -6 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #101: Greet the empty chat for the hour in your timezone</title>
+    <id>https://github.com/rociiu/talorys/pull/101</id>
+    <link href="https://github.com/rociiu/talorys/pull/101"/>
+    <updated>2026-10-26T00:23:35Z</updated>
+    <summary>Merged public contribution. +30 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #100: Default a new one-off reminder to 9:00 tomorrow in your timezone</title>
+    <id>https://github.com/rociiu/talorys/pull/100</id>
+    <link href="https://github.com/rociiu/talorys/pull/100"/>
+    <updated>2026-10-26T00:23:30Z</updated>
+    <summary>Merged public contribution. +29 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #99: Don't list an in-progress task under both today and upcoming</title>
+    <id>https://github.com/rociiu/talorys/pull/99</id>
+    <link href="https://github.com/rociiu/talorys/pull/99"/>
+    <updated>2026-10-26T00:23:26Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #98: Round a past time the same way as the same time ahead</title>
+    <id>https://github.com/rociiu/talorys/pull/98</id>
+    <link href="https://github.com/rociiu/talorys/pull/98"/>
+    <updated>2026-10-26T00:23:20Z</updated>
+    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #97: Show the full language name on a code block</title>
+    <id>https://github.com/rociiu/talorys/pull/97</id>
+    <link href="https://github.com/rociiu/talorys/pull/97"/>
+    <updated>2026-10-26T00:23:15Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #96: Keep newer local edits to tasks, notes and projects when importing a backup</title>
+    <id>https://github.com/rociiu/talorys/pull/96</id>
+    <link href="https://github.com/rociiu/talorys/pull/96"/>
+    <updated>2026-10-26T00:23:11Z</updated>
+    <summary>Merged public contribution. +40 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>rociiu/talorys #95: Toggle only the nested task whose checkbox was clicked</title>
+    <id>https://github.com/rociiu/talorys/pull/95</id>
+    <link href="https://github.com/rociiu/talorys/pull/95"/>
+    <updated>2026-10-26T00:23:06Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1343: fix(route): phrase ramp and lane modifiers as directions</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1343</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2010"/>
     <updated>2026-10-25T11:28:12Z</updated>
     <summary>Merged public contribution. +30 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1994: fix(backtest): charge the 30-year treasury future the treasury fee</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1994</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1994"/>
-    <updated>2026-10-25T11:28:05Z</updated>
-    <summary>Merged public contribution. +9 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1989: fix(loaders): date Nobitex daily bars by the Tehran day they cover</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1989</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1989"/>
-    <updated>2026-10-25T11:27:58Z</updated>
-    <summary>Merged public contribution. +37 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1969: fix(sessions): auto-title sessions whose first message is wrapped</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1969</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1969"/>
-    <updated>2026-10-25T11:27:51Z</updated>
-    <summary>Merged public contribution. +263 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #535: fix(ingest): continue after unreadable ZIP images</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/535</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/535"/>
-    <updated>2026-10-25T11:25:36Z</updated>
-    <summary>Merged public contribution. +51 / -6 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #862: fix(viewer): retain keyboard focus after fallback link copy</title>
-    <id>https://github.com/tt-a1i/archify/pull/862</id>
-    <link href="https://github.com/tt-a1i/archify/pull/862"/>
-    <updated>2026-10-25T09:19:31Z</updated>
-    <summary>Merged public contribution. +258 / -69 across 53 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tt-a1i/archify #857: test(preview): verify HEAD representation metadata</title>
-    <id>https://github.com/tt-a1i/archify/pull/857</id>
-    <link href="https://github.com/tt-a1i/archify/pull/857"/>
-    <updated>2026-10-25T09:19:31Z</updated>
-    <summary>Merged public contribution. +26 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1992: fix(backtest): apply the equity-index price limit to MYM and M2K</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1992</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1992"/>
-    <updated>2026-10-25T09:11:05Z</updated>
-    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1978: fix(goal): keep long-term and short-term objectives</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1978</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1978"/>
-    <updated>2026-10-25T09:11:05Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

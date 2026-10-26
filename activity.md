@@ -1,13 +1,21 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-25 UTC**
+Evidence timestamp: **2026-10-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,120**
+Records: **3,128**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-26 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1339: fix(hud): carry rounded DMS seconds into the minutes](https://github.com/bilawalsidhu/gods-eye-view/pull/1339) | +123 / -6 across 5 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#101: Greet the empty chat for the hour in your timezone](https://github.com/rociiu/talorys/pull/101) | +30 / -6 across 2 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#100: Default a new one-off reminder to 9:00 tomorrow in your timezone](https://github.com/rociiu/talorys/pull/100) | +29 / -6 across 2 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#99: Don't list an in-progress task under both today and upcoming](https://github.com/rociiu/talorys/pull/99) | +28 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#98: Round a past time the same way as the same time ahead](https://github.com/rociiu/talorys/pull/98) | +37 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#97: Show the full language name on a code block](https://github.com/rociiu/talorys/pull/97) | +19 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#96: Keep newer local edits to tasks, notes and projects when importing a backup](https://github.com/rociiu/talorys/pull/96) | +40 / -8 across 3 files | 0 reviews · 1 comments |
+| 2026-10-26 | [rociiu/talorys](https://github.com/rociiu/talorys) | [#95: Toggle only the nested task whose checkbox was clicked](https://github.com/rociiu/talorys/pull/95) | +30 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1343: fix(route): phrase ramp and lane modifiers as directions](https://github.com/bilawalsidhu/gods-eye-view/pull/1343) | +127 / -13 across 9 files | 0 reviews · 1 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1390: fix(awareness): wrap north-bound bearings](https://github.com/bilawalsidhu/gods-eye-view/pull/1390) | +30 / -2 across 6 files | 0 reviews · 1 comments |
 | 2026-10-25 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1395: fix(fires): report a 00:45 UTC detection as 00:45, not "45"](https://github.com/bilawalsidhu/gods-eye-view/pull/1395) | +75 / -3 across 5 files | 0 reviews · 2 comments |
