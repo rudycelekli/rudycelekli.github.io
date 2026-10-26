@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,231**
+Records: **3,236**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1070: fix(harness): keep codex config sections whose header has a comment](https://github.com/Asymptote-Labs/agent-beacon/pull/1070) | +318 / -182 across 8 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1073: fix(gitlink): read commits correctly when log.showSignature is set](https://github.com/Asymptote-Labs/agent-beacon/pull/1073) | +91 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1077: fix(onboarding): stop modified arrow keys from picking an option](https://github.com/Asymptote-Labs/agent-beacon/pull/1077) | +226 / -316 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1059: fix(hooks): recognize --platform= hooks in shared settings files](https://github.com/Asymptote-Labs/agent-beacon/pull/1059) | +44 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1071: fix(telemetry): read the command of codex shell and shell_command tool results](https://github.com/Asymptote-Labs/agent-beacon/pull/1071) | +177 / -127 across 13 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1074: fix(inventory): list skills named build, dist, vendor, tmp or temp](https://github.com/Asymptote-Labs/agent-beacon/pull/1074) | +24 / -12 across 2 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1075: fix(hooks): keep the platform of hooks installed under a path with an apostrophe](https://github.com/Asymptote-Labs/agent-beacon/pull/1075) | +34 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1072: fix(telemetry): drop the uri slash before a windows drive in mcp file paths](https://github.com/Asymptote-Labs/agent-beacon/pull/1072) | +72 / -14 across 5 files | 0 reviews · 0 comments |

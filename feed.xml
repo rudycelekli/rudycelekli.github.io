@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T18:44:20Z</updated>
+  <updated>2026-10-26T19:05:52Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1070: fix(harness): keep codex config sections whose header has a comment</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1070</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1070"/>
+    <updated>2026-10-26T19:05:52Z</updated>
+    <summary>Merged public contribution. +318 / -182 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1073: fix(gitlink): read commits correctly when log.showSignature is set</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1073</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1073"/>
+    <updated>2026-10-26T19:03:04Z</updated>
+    <summary>Merged public contribution. +91 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1077: fix(onboarding): stop modified arrow keys from picking an option</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1077</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1077"/>
+    <updated>2026-10-26T18:59:57Z</updated>
+    <summary>Merged public contribution. +226 / -316 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1059: fix(hooks): recognize --platform= hooks in shared settings files</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1059</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1059"/>
+    <updated>2026-10-26T18:51:27Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1071: fix(telemetry): read the command of codex shell and shell_command tool results</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1071</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1071"/>
+    <updated>2026-10-26T18:51:12Z</updated>
+    <summary>Merged public contribution. +177 / -127 across 13 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1074: fix(inventory): list skills named build, dist, vendor, tmp or temp</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1074</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/71"/>
     <updated>2026-10-26T16:23:38Z</updated>
     <summary>Merged public contribution. +15 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1043: fix(rules): match tee --append and clustered tee flags into /etc/sudoers</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1043</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1043"/>
-    <updated>2026-10-26T16:22:48Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1044: fix(rules): match gpg2 and --export-secret-key in gpg-keyring-access</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1044</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1044"/>
-    <updated>2026-10-26T16:19:14Z</updated>
-    <summary>Merged public contribution. +36 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1042: fix(rules): match modprobe loads followed by parameters or another command</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1042</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1042"/>
-    <updated>2026-10-26T15:59:24Z</updated>
-    <summary>Merged public contribution. +26 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1038: fix(rules): flag remote.&lt;name&gt;.pushurl rewrites in git-remote-tampering</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1038</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1038"/>
-    <updated>2026-10-26T15:47:46Z</updated>
-    <summary>Merged public contribution. +25 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1036: fix(rules): treat rm -fr as high-risk in high-risk-approval-allowed-without-reason</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1036</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1036"/>
-    <updated>2026-10-26T15:46:19Z</updated>
-    <summary>Merged public contribution. +33 / -7 across 3 changed files.</summary>
   </entry>
 </feed>
