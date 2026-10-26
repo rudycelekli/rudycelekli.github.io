@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T06:50:38Z</updated>
+  <updated>2026-10-26T11:39:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1749: fix(shellwrap): mask glued docker env forms inside a command string</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1749</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1749"/>
+    <updated>2026-10-26T11:39:43Z</updated>
+    <summary>Merged public contribution. +48 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Graphicle-AI/graphicle #13: fix: accept the Host header browsers send on port 80</title>
     <id>https://github.com/Graphicle-AI/graphicle/pull/13</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1385"/>
     <updated>2026-10-25T15:55:18Z</updated>
     <summary>Merged public contribution. +10 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #90: Keep a checkbox inside a code sample from becoming a task</title>
-    <id>https://github.com/rociiu/talorys/pull/90</id>
-    <link href="https://github.com/rociiu/talorys/pull/90"/>
-    <updated>2026-10-25T12:24:50Z</updated>
-    <summary>Merged public contribution. +40 / -10 across 2 changed files.</summary>
   </entry>
 </feed>
