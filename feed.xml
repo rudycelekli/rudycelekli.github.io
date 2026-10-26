@@ -4,8 +4,155 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T16:53:00Z</updated>
+  <updated>2026-10-26T18:44:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1074: fix(inventory): list skills named build, dist, vendor, tmp or temp</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1074</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1074"/>
+    <updated>2026-10-26T18:44:20Z</updated>
+    <summary>Merged public contribution. +24 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1075: fix(hooks): keep the platform of hooks installed under a path with an apostrophe</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1075</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1075"/>
+    <updated>2026-10-26T18:40:45Z</updated>
+    <summary>Merged public contribution. +34 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1072: fix(telemetry): drop the uri slash before a windows drive in mcp file paths</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1072</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1072"/>
+    <updated>2026-10-26T18:37:58Z</updated>
+    <summary>Merged public contribution. +72 / -14 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1058: fix(redaction): redact google oauth access tokens</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1058</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1058"/>
+    <updated>2026-10-26T18:34:01Z</updated>
+    <summary>Merged public contribution. +4 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1068: fix(redaction): redact url passwords that have no user name</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1068</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1068"/>
+    <updated>2026-10-26T18:30:54Z</updated>
+    <summary>Merged public contribution. +5 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1064: fix(sdk): accept the default-export anthropic class in instrumentmodules</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1064</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1064"/>
+    <updated>2026-10-26T18:27:19Z</updated>
+    <summary>Merged public contribution. +23 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1061: fix(harness): read commented vs code settings in telemetry status</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1061</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1061"/>
+    <updated>2026-10-26T18:26:41Z</updated>
+    <summary>Merged public contribution. +430 / -228 across 11 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Kentucky-ai/opentakeoff #568: fix(check): accept an inch mark on a hyphen dimension</title>
+    <id>https://github.com/Kentucky-ai/opentakeoff/pull/568</id>
+    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/568"/>
+    <updated>2026-10-26T18:25:26Z</updated>
+    <summary>Merged public contribution. +14 / -6 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1063: fix(harness): stop claude configure from wiping unparseable settings</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1063</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1063"/>
+    <updated>2026-10-26T18:25:13Z</updated>
+    <summary>Merged public contribution. +77 / -24 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1065: fix(selfupdate): find format-qualified linux packages in update check</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1065</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1065"/>
+    <updated>2026-10-26T18:23:09Z</updated>
+    <summary>Merged public contribution. +13 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1062: fix(inventory): keep the snapshot digest stable across identical scans</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1062</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1062"/>
+    <updated>2026-10-26T18:18:33Z</updated>
+    <summary>Merged public contribution. +74 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1060: fix(dashboard): stop shortened labels from splitting emoji</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1060</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1060"/>
+    <updated>2026-10-26T18:16:28Z</updated>
+    <summary>Merged public contribution. +45 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1057: fix(rules): stop flagging .env.example templates as credential reads</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1057</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1057"/>
+    <updated>2026-10-26T18:12:46Z</updated>
+    <summary>Merged public contribution. +182 / -21 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ktwu01/benchmark-radar #962: fix(releases): leave agent and harness papers out of Latest releases</title>
+    <id>https://github.com/ktwu01/benchmark-radar/pull/962</id>
+    <link href="https://github.com/ktwu01/benchmark-radar/pull/962"/>
+    <updated>2026-10-26T18:09:55Z</updated>
+    <summary>Merged public contribution. +171 / -13 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2394: fix(api): keep an Optional string tool argument a string</title>
+    <id>https://github.com/JustVugg/colibri/pull/2394</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2394"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2393: fix(api): keep a nullable Muse string argument a string</title>
+    <id>https://github.com/JustVugg/colibri/pull/2393</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2393"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2391: fix(serve): keep the running serve's pidfile when a second one fails</title>
+    <id>https://github.com/JustVugg/colibri/pull/2391</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2391"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +46 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2390: fix(stop): find a coli web launcher by its command line</title>
+    <id>https://github.com/JustVugg/colibri/pull/2390</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2390"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2389: fix(mcp): read the backend build log for logs which=build</title>
+    <id>https://github.com/JustVugg/colibri/pull/2389</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2389"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2388: fix(cluster): register a worker again after the coordinator restarts</title>
+    <id>https://github.com/JustVugg/colibri/pull/2388</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2388"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +76 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2387: fix(cli): open the dashboard on loopback when coli web binds 0.0.0.0</title>
+    <id>https://github.com/JustVugg/colibri/pull/2387</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2387"/>
+    <updated>2026-10-26T17:41:36Z</updated>
+    <summary>Merged public contribution. +63 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1056: fix(opencode): record every path a shell rm deletes</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1056</id>
@@ -208,152 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1036"/>
     <updated>2026-10-26T15:46:19Z</updated>
     <summary>Merged public contribution. +33 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1037: fix(rules): match -oProxyCommand and quoted ProxyCommand in shell-escape-via-interactive-tool</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1037</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1037"/>
-    <updated>2026-10-26T15:41:24Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1034: fix(rules): match systemctl enable after options in persistence-install-command</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1034</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1034"/>
-    <updated>2026-10-26T15:40:34Z</updated>
-    <summary>Merged public contribution. +28 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1033: fix(rules): match usermod --groups and gpasswd --add in root-equivalent-group-add</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1033</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1033"/>
-    <updated>2026-10-26T15:34:27Z</updated>
-    <summary>Merged public contribution. +35 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1027: fix(rules): match the macOS Microsoft Edge profile in browser-session rules</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1027</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1027"/>
-    <updated>2026-10-26T15:31:27Z</updated>
-    <summary>Merged public contribution. +53 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1032: fix(rules): match /bin/bash and /usr/bin/sh in base64-decode-piped-to-shell</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1032</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1032"/>
-    <updated>2026-10-26T15:23:47Z</updated>
-    <summary>Merged public contribution. +40 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1031: fix(rules): match spaced and named fork bombs in fork-bomb-pattern</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1031</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1031"/>
-    <updated>2026-10-26T15:19:58Z</updated>
-    <summary>Merged public contribution. +43 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1030: fix(rules): match dd disk fills that put of= before if=</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1030</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1030"/>
-    <updated>2026-10-26T15:12:13Z</updated>
-    <summary>Merged public contribution. +18 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1029: fix(rules): match --volume=/: and --mount source=/ in privileged-container-run</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1029</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1029"/>
-    <updated>2026-10-26T15:10:14Z</updated>
-    <summary>Merged public contribution. +42 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1028: fix(rules): match ps auxww and ps -eo in process-table-secret-scrape</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1028</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1028"/>
-    <updated>2026-10-26T15:09:59Z</updated>
-    <summary>Merged public contribution. +22 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1025: fix(rules): cover every githooks(5) hook name in git-hook-installed</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1025</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1025"/>
-    <updated>2026-10-26T15:05:06Z</updated>
-    <summary>Merged public contribution. +14 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1024: fix(rules): match codex -s danger-full-access in agent-permission-bypass-spawn</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1024</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1024"/>
-    <updated>2026-10-26T15:02:50Z</updated>
-    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1023: fix(rules): match ssh forwards that are not the first argument</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1023</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1023"/>
-    <updated>2026-10-26T15:01:24Z</updated>
-    <summary>Merged public contribution. +29 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1022: fix(rules): flag force-pushes that target a protected branch through a refspec</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1022</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1022"/>
-    <updated>2026-10-26T15:00:26Z</updated>
-    <summary>Merged public contribution. +42 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1021: fix(rules): flag every octal chmod mode that makes a file world-writable</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1021</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1021"/>
-    <updated>2026-10-26T14:56:31Z</updated>
-    <summary>Merged public contribution. +34 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1020: fix(rules): match chmod +s and 6xxx/04xxx setuid modes</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1020</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1020"/>
-    <updated>2026-10-26T14:56:19Z</updated>
-    <summary>Merged public contribution. +35 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1016: fix(rules): match sudo with flags in curl-pipe-to-shell</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1016</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1016"/>
-    <updated>2026-10-26T14:53:46Z</updated>
-    <summary>Merged public contribution. +28 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1015: fix(rules): match the rm forms that actually delete / in recursive-root-delete</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1015</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1015"/>
-    <updated>2026-10-26T14:50:46Z</updated>
-    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1984: fix(paper-trade): keep the board limit for ST stocks outside the main board</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1984</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1984"/>
-    <updated>2026-10-26T12:31:39Z</updated>
-    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #1988: fix(market-screener): request decimal prices and percents from push2</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/1988</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1988"/>
-    <updated>2026-10-26T12:31:12Z</updated>
-    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2000: fix(quantlib): average the corrado rank s(k) over event days too</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2000</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2000"/>
-    <updated>2026-10-26T12:30:43Z</updated>
-    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2012: fix(loaders): ask Stooq for class shares by their hyphenated ticker</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2012</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2012"/>
-    <updated>2026-10-26T12:30:19Z</updated>
-    <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
