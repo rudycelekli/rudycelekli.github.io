@@ -4,10 +4,27 @@ Evidence timestamp: **2026-10-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,184**
+Records: **3,201**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1051: fix(tokens): match dotted claude versions in the context window table](https://github.com/Asymptote-Labs/agent-beacon/pull/1051) | +53 / -20 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1050: fix(rules): match ssh-add -l after other options in ssh-agent-key-enumeration](https://github.com/Asymptote-Labs/agent-beacon/pull/1050) | +20 / -2 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1049: fix(rules): match curl --json uploads in env-dump-piped-to-network](https://github.com/Asymptote-Labs/agent-beacon/pull/1049) | +46 / -8 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1046: fix(rules): match curl -F and --data stdin uploads in archive-then-upload](https://github.com/Asymptote-Labs/agent-beacon/pull/1046) | +44 / -2 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1048: fix(rules): match crontab file loads followed by another command](https://github.com/Asymptote-Labs/agent-beacon/pull/1048) | +26 / -1 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1045: fix(rules): match PATH lines piped through tee into a login file](https://github.com/Asymptote-Labs/agent-beacon/pull/1045) | +78 / -13 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4256: fix(cli): preserve raw MCP document download bytes](https://github.com/Tencent/WeKnora/pull/4256) | +88 / -8 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4258: fix(cli): reject invalid jq syntax before polling](https://github.com/Tencent/WeKnora/pull/4258) | +92 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4260: fix(cli): report chunk truncation only when rows are omitted](https://github.com/Tencent/WeKnora/pull/4260) | +137 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4262: fix(mcp): honor a leading UTF-8 BOM in chat streams](https://github.com/Tencent/WeKnora/pull/4262) | +153 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4264: fix(client): preserve agent reasoning effort during updates](https://github.com/Tencent/WeKnora/pull/4264) | +119 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4265: fix(frontend): release queued refreshes when browser storage fails](https://github.com/Tencent/WeKnora/pull/4265) | +103 / -14 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4266: fix(docreader): preserve all modern XMind topic groups](https://github.com/Tencent/WeKnora/pull/4266) | +161 / -3 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4267: fix(frontend): keep distinct reasoning visible beside final answers](https://github.com/Tencent/WeKnora/pull/4267) | +55 / -17 across 2 files | 1 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#71: fix(core): reject trailing newlines in memory identifiers](https://github.com/tigerless-labs/agent-memory/pull/71) | +15 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1043: fix(rules): match tee --append and clustered tee flags into /etc/sudoers](https://github.com/Asymptote-Labs/agent-beacon/pull/1043) | +32 / -2 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1044: fix(rules): match gpg2 and --export-secret-key in gpg-keyring-access](https://github.com/Asymptote-Labs/agent-beacon/pull/1044) | +36 / -6 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1042: fix(rules): match modprobe loads followed by parameters or another command](https://github.com/Asymptote-Labs/agent-beacon/pull/1042) | +26 / -2 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1038: fix(rules): flag remote.<name>.pushurl rewrites in git-remote-tampering](https://github.com/Asymptote-Labs/agent-beacon/pull/1038) | +25 / -5 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1036: fix(rules): treat rm -fr as high-risk in high-risk-approval-allowed-without-reason](https://github.com/Asymptote-Labs/agent-beacon/pull/1036) | +33 / -7 across 3 files | 0 reviews · 0 comments |
