@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T15:40:34Z</updated>
+  <updated>2026-10-26T15:59:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1042: fix(rules): match modprobe loads followed by parameters or another command</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1042</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1042"/>
+    <updated>2026-10-26T15:59:24Z</updated>
+    <summary>Merged public contribution. +26 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1038: fix(rules): flag remote.&lt;name&gt;.pushurl rewrites in git-remote-tampering</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1038</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1038"/>
+    <updated>2026-10-26T15:47:46Z</updated>
+    <summary>Merged public contribution. +25 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1036: fix(rules): treat rm -fr as high-risk in high-risk-approval-allowed-without-reason</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1036</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1036"/>
+    <updated>2026-10-26T15:46:19Z</updated>
+    <summary>Merged public contribution. +33 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1037: fix(rules): match -oProxyCommand and quoted ProxyCommand in shell-escape-via-interactive-tool</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1037</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1037"/>
+    <updated>2026-10-26T15:41:24Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1034: fix(rules): match systemctl enable after options in persistence-install-command</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1034</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1753"/>
     <updated>2026-10-26T11:39:56Z</updated>
     <summary>Merged public contribution. +85 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1752: fix(tray): path-escape server names in tray API requests</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1752</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1752"/>
-    <updated>2026-10-26T11:39:52Z</updated>
-    <summary>Merged public contribution. +54 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1750: fix(httpapi): percent-decode the {tool} path param before the approval lookup</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1750</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1750"/>
-    <updated>2026-10-26T11:39:47Z</updated>
-    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1749: fix(shellwrap): mask glued docker env forms inside a command string</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1749</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1749"/>
-    <updated>2026-10-26T11:39:43Z</updated>
-    <summary>Merged public contribution. +48 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #13: fix: accept the Host header browsers send on port 80</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/13</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/13"/>
-    <updated>2026-10-26T06:50:38Z</updated>
-    <summary>Merged public contribution. +42 / -1 across 1 changed files.</summary>
   </entry>
 </feed>

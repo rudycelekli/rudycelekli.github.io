@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,180**
+Records: **3,184**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1042: fix(rules): match modprobe loads followed by parameters or another command](https://github.com/Asymptote-Labs/agent-beacon/pull/1042) | +26 / -2 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1038: fix(rules): flag remote.<name>.pushurl rewrites in git-remote-tampering](https://github.com/Asymptote-Labs/agent-beacon/pull/1038) | +25 / -5 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1036: fix(rules): treat rm -fr as high-risk in high-risk-approval-allowed-without-reason](https://github.com/Asymptote-Labs/agent-beacon/pull/1036) | +33 / -7 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1037: fix(rules): match -oProxyCommand and quoted ProxyCommand in shell-escape-via-interactive-tool](https://github.com/Asymptote-Labs/agent-beacon/pull/1037) | +32 / -2 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1034: fix(rules): match systemctl enable after options in persistence-install-command](https://github.com/Asymptote-Labs/agent-beacon/pull/1034) | +28 / -3 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1033: fix(rules): match usermod --groups and gpasswd --add in root-equivalent-group-add](https://github.com/Asymptote-Labs/agent-beacon/pull/1033) | +35 / -6 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1027: fix(rules): match the macOS Microsoft Edge profile in browser-session rules](https://github.com/Asymptote-Labs/agent-beacon/pull/1027) | +53 / -5 across 2 files | 0 reviews · 0 comments |
