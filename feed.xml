@@ -4,14 +4,77 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T16:39:48Z</updated>
+  <updated>2026-10-26T16:53:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1056: fix(opencode): record every path a shell rm deletes</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1056</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1056"/>
+    <updated>2026-10-26T16:53:00Z</updated>
+    <summary>Merged public contribution. +66 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1055: fix(cli): stop beacon scan from cutting characters in half</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1055</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1055"/>
+    <updated>2026-10-26T16:50:40Z</updated>
+    <summary>Merged public contribution. +21 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1053: fix(rules): match env-prefixed git commands in git-history-rewrite</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1053</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1053"/>
+    <updated>2026-10-26T16:49:07Z</updated>
+    <summary>Merged public contribution. +23 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #82: Reject mismatched benchmark session arrays instead of silently truncating</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/82</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/82"/>
+    <updated>2026-10-26T16:47:06Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1052: fix(sdk): treat empty environment variables as unset</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1052</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1052"/>
+    <updated>2026-10-26T16:45:57Z</updated>
+    <summary>Merged public contribution. +34 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #109: Give a successor in another group its own name when it keeps its predecessor's subject</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/109</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/109"/>
+    <updated>2026-10-26T16:45:56Z</updated>
+    <summary>Merged public contribution. +23 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #110: Reject config knobs whose TOML type differs from the knob's declared type</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/110</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/110"/>
+    <updated>2026-10-26T16:45:06Z</updated>
+    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #67: fix(core): escape TOML strings and custom field keys losslessly</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/67</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/67"/>
+    <updated>2026-10-26T16:41:31Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1051: fix(tokens): match dotted claude versions in the context window table</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1051</id>
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1051"/>
     <updated>2026-10-26T16:39:48Z</updated>
     <summary>Merged public contribution. +53 / -20 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #75: fix(core): reject schema types that collide with reserved store directories</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/75</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/75"/>
+    <updated>2026-10-26T16:38:31Z</updated>
+    <summary>Merged public contribution. +14 / -0 across 3 changed files.</summary>
   </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1050: fix(rules): match ssh-add -l after other options in ssh-agent-key-enumeration</title>
@@ -292,68 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2012"/>
     <updated>2026-10-26T12:30:19Z</updated>
     <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1789: fix(server): drop caller-sent _auth_* arguments before stamping the activity identity</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1789</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1789"/>
-    <updated>2026-10-26T11:43:06Z</updated>
-    <summary>Merged public contribution. +39 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1788: fix(schema): stop upstream tool schemas from loading local files</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1788</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1788"/>
-    <updated>2026-10-26T11:43:02Z</updated>
-    <summary>Merged public contribution. +94 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1755: fix(serveredition): accept the Bearer scheme case-insensitively for user JWTs</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1755</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1755"/>
-    <updated>2026-10-26T11:42:57Z</updated>
-    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1751: fix(cliclient): path-escape server and tool names in per-server URLs</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1751</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1751"/>
-    <updated>2026-10-26T11:42:53Z</updated>
-    <summary>Merged public contribution. +74 / -19 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1791: fix(observability): label HTTP metrics by route pattern, not raw path</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1791</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1791"/>
-    <updated>2026-10-26T11:41:30Z</updated>
-    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1790: fix(observability): mask ?apikey= in the http.url span attribute</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1790</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1790"/>
-    <updated>2026-10-26T11:41:26Z</updated>
-    <summary>Merged public contribution. +68 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1787: fix(experiments): do not cache a failed npm lookup</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1787</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1787"/>
-    <updated>2026-10-26T11:41:22Z</updated>
-    <summary>Merged public contribution. +98 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1785: fix(oauth): redact the whole of a base64 Bearer token</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1785</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1785"/>
-    <updated>2026-10-26T11:41:18Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1784: fix(logs): mask fine-grained github_pat_ tokens</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1784</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1784"/>
-    <updated>2026-10-26T11:41:14Z</updated>
-    <summary>Merged public contribution. +4 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

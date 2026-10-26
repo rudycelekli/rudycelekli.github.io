@@ -4,11 +4,20 @@ Evidence timestamp: **2026-10-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,201**
+Records: **3,210**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1056: fix(opencode): record every path a shell rm deletes](https://github.com/Asymptote-Labs/agent-beacon/pull/1056) | +66 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1055: fix(cli): stop beacon scan from cutting characters in half](https://github.com/Asymptote-Labs/agent-beacon/pull/1055) | +21 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1053: fix(rules): match env-prefixed git commands in git-history-rewrite](https://github.com/Asymptote-Labs/agent-beacon/pull/1053) | +23 / -5 across 1 files | 0 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#82: Reject mismatched benchmark session arrays instead of silently truncating](https://github.com/tigerless-labs/agent-memory/pull/82) | +27 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1052: fix(sdk): treat empty environment variables as unset](https://github.com/Asymptote-Labs/agent-beacon/pull/1052) | +34 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#109: Give a successor in another group its own name when it keeps its predecessor's subject](https://github.com/tigerless-labs/agent-memory/pull/109) | +23 / -5 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#110: Reject config knobs whose TOML type differs from the knob's declared type](https://github.com/tigerless-labs/agent-memory/pull/110) | +41 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#67: fix(core): escape TOML strings and custom field keys losslessly](https://github.com/tigerless-labs/agent-memory/pull/67) | +20 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1051: fix(tokens): match dotted claude versions in the context window table](https://github.com/Asymptote-Labs/agent-beacon/pull/1051) | +53 / -20 across 3 files | 0 reviews · 0 comments |
+| 2026-10-26 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#75: fix(core): reject schema types that collide with reserved store directories](https://github.com/tigerless-labs/agent-memory/pull/75) | +14 / -0 across 3 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1050: fix(rules): match ssh-add -l after other options in ssh-agent-key-enumeration](https://github.com/Asymptote-Labs/agent-beacon/pull/1050) | +20 / -2 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1049: fix(rules): match curl --json uploads in env-dump-piped-to-network](https://github.com/Asymptote-Labs/agent-beacon/pull/1049) | +46 / -8 across 1 files | 0 reviews · 0 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1046: fix(rules): match curl -F and --data stdin uploads in archive-then-upload](https://github.com/Asymptote-Labs/agent-beacon/pull/1046) | +44 / -2 across 1 files | 0 reviews · 0 comments |
