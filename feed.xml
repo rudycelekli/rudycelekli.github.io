@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T00:59:10Z</updated>
+  <updated>2026-10-26T05:19:42Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/nanobot #6464: fix(media): accept data URLs that capitalize the base64 token</title>
+    <id>https://github.com/HKUDS/nanobot/pull/6464</id>
+    <link href="https://github.com/HKUDS/nanobot/pull/6464"/>
+    <updated>2026-10-26T05:19:42Z</updated>
+    <summary>Merged public contribution. +99 / -42 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1339: fix(hud): carry rounded DMS seconds into the minutes</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1339</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/Vibe-Trading/pull/2036"/>
     <updated>2026-10-25T11:28:19Z</updated>
     <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2010: fix(loaders): ask Tiingo for class shares by their hyphenated ticker</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2010</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2010"/>
-    <updated>2026-10-25T11:28:12Z</updated>
-    <summary>Merged public contribution. +30 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

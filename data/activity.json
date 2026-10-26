@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 99,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-25T17:48:10Z",
+      "deletions": 42,
+      "merged_at": "2026-10-26T05:19:42Z",
+      "number": 6464,
+      "repository": "HKUDS/nanobot",
+      "repository_url": "https://github.com/HKUDS/nanobot",
+      "reviews": 1,
+      "title": "fix(media): accept data URLs that capitalize the base64 token",
+      "url": "https://github.com/HKUDS/nanobot/pull/6464"
+    },
+    {
       "additions": 123,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -50080,7 +50096,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3128,
+  "record_count": 3129,
   "schema_version": 1,
   "updated_at_utc": "2026-10-26"
 }
