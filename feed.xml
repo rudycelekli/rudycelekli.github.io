@@ -4,8 +4,232 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T11:39:43Z</updated>
+  <updated>2026-10-26T12:31:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1984: fix(paper-trade): keep the board limit for ST stocks outside the main board</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1984</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1984"/>
+    <updated>2026-10-26T12:31:39Z</updated>
+    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #1988: fix(market-screener): request decimal prices and percents from push2</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/1988</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/1988"/>
+    <updated>2026-10-26T12:31:12Z</updated>
+    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2000: fix(quantlib): average the corrado rank s(k) over event days too</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2000</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2000"/>
+    <updated>2026-10-26T12:30:43Z</updated>
+    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2012: fix(loaders): ask Stooq for class shares by their hyphenated ticker</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2012</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2012"/>
+    <updated>2026-10-26T12:30:19Z</updated>
+    <summary>Merged public contribution. +18 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1789: fix(server): drop caller-sent _auth_* arguments before stamping the activity identity</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1789</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1789"/>
+    <updated>2026-10-26T11:43:06Z</updated>
+    <summary>Merged public contribution. +39 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1788: fix(schema): stop upstream tool schemas from loading local files</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1788</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1788"/>
+    <updated>2026-10-26T11:43:02Z</updated>
+    <summary>Merged public contribution. +94 / -0 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1755: fix(serveredition): accept the Bearer scheme case-insensitively for user JWTs</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1755</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1755"/>
+    <updated>2026-10-26T11:42:57Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1751: fix(cliclient): path-escape server and tool names in per-server URLs</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1751</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1751"/>
+    <updated>2026-10-26T11:42:53Z</updated>
+    <summary>Merged public contribution. +74 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1791: fix(observability): label HTTP metrics by route pattern, not raw path</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1791</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1791"/>
+    <updated>2026-10-26T11:41:30Z</updated>
+    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1790: fix(observability): mask ?apikey= in the http.url span attribute</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1790</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1790"/>
+    <updated>2026-10-26T11:41:26Z</updated>
+    <summary>Merged public contribution. +68 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1787: fix(experiments): do not cache a failed npm lookup</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1787</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1787"/>
+    <updated>2026-10-26T11:41:22Z</updated>
+    <summary>Merged public contribution. +98 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1785: fix(oauth): redact the whole of a base64 Bearer token</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1785</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1785"/>
+    <updated>2026-10-26T11:41:18Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1784: fix(logs): mask fine-grained github_pat_ tokens</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1784</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1784"/>
+    <updated>2026-10-26T11:41:14Z</updated>
+    <summary>Merged public contribution. +4 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1783: fix(logs): mask Anthropic keys that contain an underscore</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1783</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1783"/>
+    <updated>2026-10-26T11:41:10Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1779: fix(scanner): classify Windows npx.cmd/uvx.exe as package runners</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1779</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1779"/>
+    <updated>2026-10-26T11:41:05Z</updated>
+    <summary>Merged public contribution. +44 / -7 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1776: fix(registry): derive the add-source id from the full IPv6 host</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1776</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1776"/>
+    <updated>2026-10-26T11:41:00Z</updated>
+    <summary>Merged public contribution. +29 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1774: fix(httpapi): percent-decode the registry {id} on search, refresh, edit and remove</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1774</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1774"/>
+    <updated>2026-10-26T11:40:56Z</updated>
+    <summary>Merged public contribution. +71 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1771: fix(oauth): parse resource_metadata per RFC 7235 auth-param rules</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1771</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1771"/>
+    <updated>2026-10-26T11:40:52Z</updated>
+    <summary>Merged public contribution. +86 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1770: fix(truncate): pick a stable record path when arrays tie</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1770</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1770"/>
+    <updated>2026-10-26T11:40:48Z</updated>
+    <summary>Merged public contribution. +42 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1769: fix(connect): resolve duplicate mcpproxy entries deterministically</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1769</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1769"/>
+    <updated>2026-10-26T11:40:43Z</updated>
+    <summary>Merged public contribution. +72 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1768: fix(connect): keep string contents when stripping trailing commas</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1768</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1768"/>
+    <updated>2026-10-26T11:40:39Z</updated>
+    <summary>Merged public contribution. +87 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1766: fix(cli): exit non-zero when feedback submission is rejected</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1766</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1766"/>
+    <updated>2026-10-26T11:40:34Z</updated>
+    <summary>Merged public contribution. +38 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1765: fix(sessions): apply the offset query parameter</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1765</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1765"/>
+    <updated>2026-10-26T11:40:28Z</updated>
+    <summary>Merged public contribution. +49 / -4 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1764: fix(usage): use nearest-rank for latency percentiles</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1764</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1764"/>
+    <updated>2026-10-26T11:40:23Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1763: fix(security): skip an invalid custom pattern regex instead of panicking</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1763</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1763"/>
+    <updated>2026-10-26T11:40:19Z</updated>
+    <summary>Merged public contribution. +45 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1759: fix(isolation): apply the configured registry to namespaced images</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1759</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1759"/>
+    <updated>2026-10-26T11:40:14Z</updated>
+    <summary>Merged public contribution. +49 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1758: fix(secret): treat ErrNotFound on keyring delete as already deleted</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1758</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1758"/>
+    <updated>2026-10-26T11:40:09Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1756: fix(shellwrap): quote arguments containing # so the login shell keeps them</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1756</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1756"/>
+    <updated>2026-10-26T11:40:05Z</updated>
+    <summary>Merged public contribution. +31 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1754: fix(httpapi): match the Bearer auth scheme case-insensitively</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1754</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1754"/>
+    <updated>2026-10-26T11:40:00Z</updated>
+    <summary>Merged public contribution. +50 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1753: fix(cli): path-escape server names in security subcommands</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1753</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1753"/>
+    <updated>2026-10-26T11:39:56Z</updated>
+    <summary>Merged public contribution. +85 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1752: fix(tray): path-escape server names in tray API requests</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1752</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1752"/>
+    <updated>2026-10-26T11:39:52Z</updated>
+    <summary>Merged public contribution. +54 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1750: fix(httpapi): percent-decode the {tool} path param before the approval lookup</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1750</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1750"/>
+    <updated>2026-10-26T11:39:47Z</updated>
+    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>smart-mcp-proxy/mcpproxy-go #1749: fix(shellwrap): mask glued docker env forms inside a command string</title>
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1749</id>
@@ -131,229 +355,5 @@
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607"/>
     <updated>2026-10-25T20:15:36Z</updated>
     <summary>Merged public contribution. +104 / -14 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #470: fix(heatmap): read a quoted greater-than in markup</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/470</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/470"/>
-    <updated>2026-10-25T19:53:34Z</updated>
-    <summary>Merged public contribution. +27 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>yutto-dev/yutto #888: 🐛 fix: round subtitle SRT timestamps to milliseconds instead of truncating</title>
-    <id>https://github.com/yutto-dev/yutto/pull/888</id>
-    <link href="https://github.com/yutto-dev/yutto/pull/888"/>
-    <updated>2026-10-25T19:44:17Z</updated>
-    <summary>Merged public contribution. +5 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #458: fix(import): accept Mermaid edge IDs in flowcharts</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/458</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/458"/>
-    <updated>2026-10-25T19:38:16Z</updated>
-    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1389: fix(cockpit): show wind from 359.6° as 0°, not 360°</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1389</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1389"/>
-    <updated>2026-10-25T19:30:37Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1388: fix(draw): show a 999.6 m line as 1.0 km, not 1000 m</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1388</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1388"/>
-    <updated>2026-10-25T19:26:15Z</updated>
-    <summary>Merged public contribution. +23 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2384: fix(web): keep the start number of a resumed ordered list</title>
-    <id>https://github.com/JustVugg/colibri/pull/2384</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2384"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +15 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2383: fix(web): do not read spaced asterisks as emphasis</title>
-    <id>https://github.com/JustVugg/colibri/pull/2383</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2383"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2382: fix(web): keep balanced parentheses inside a Markdown link URL</title>
-    <id>https://github.com/JustVugg/colibri/pull/2382</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2382"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2381: fix(web): require the delimiter row to match the header's cell count</title>
-    <id>https://github.com/JustVugg/colibri/pull/2381</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2381"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2380: fix(cli): do not start an image path at a slash inside a word</title>
-    <id>https://github.com/JustVugg/colibri/pull/2380</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2380"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +9 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2374: fix(planner): reject a Qwen3.8 rotary factor above 1</title>
-    <id>https://github.com/JustVugg/colibri/pull/2374</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2374"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2373: fix(setup): refuse a preferred port below 1</title>
-    <id>https://github.com/JustVugg/colibri/pull/2373</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2373"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2372: fix(schema): reject a non-finite const or enum number</title>
-    <id>https://github.com/JustVugg/colibri/pull/2372</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2372"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2371: fix(schema): reject minItems values other than 0 or 1</title>
-    <id>https://github.com/JustVugg/colibri/pull/2371</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2371"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +22 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2370: fix(json): reject non-finite numbers in the checked parser</title>
-    <id>https://github.com/JustVugg/colibri/pull/2370</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2370"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2369: fix(json): reject unpaired surrogates in the checked parser</title>
-    <id>https://github.com/JustVugg/colibri/pull/2369</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2369"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +16 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2368: fix(api): answer a static path containing NUL with 404</title>
-    <id>https://github.com/JustVugg/colibri/pull/2368</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2368"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2367: fix(image): reject IMAGE frames whose width or height is a boolean</title>
-    <id>https://github.com/JustVugg/colibri/pull/2367</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2367"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +14 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2366: fix(web): split a table cell on a pipe that follows an even backslash run</title>
-    <id>https://github.com/JustVugg/colibri/pull/2366</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2366"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +26 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2365: fix(audio): accept a trailing odd WAV chunk that omits its pad</title>
-    <id>https://github.com/JustVugg/colibri/pull/2365</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2365"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2364: fix(lora): refuse a non-finite adapter alpha</title>
-    <id>https://github.com/JustVugg/colibri/pull/2364</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2364"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2363: fix(lora): refuse a fractional adapter rank</title>
-    <id>https://github.com/JustVugg/colibri/pull/2363</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2363"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2362: fix(lora): refuse layer indexes that overflow the layer table</title>
-    <id>https://github.com/JustVugg/colibri/pull/2362</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2362"/>
-    <updated>2026-10-25T19:22:19Z</updated>
-    <summary>Merged public contribution. +39 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4604: fix(teleport): read pull request patch and diff URLs</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4604</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4604"/>
-    <updated>2026-10-25T19:06:57Z</updated>
-    <summary>Merged public contribution. +11 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4601: fix(hud): show token counts that round up to 1000k in millions</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4601"/>
-    <updated>2026-10-25T18:10:33Z</updated>
-    <summary>Merged public contribution. +12 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1706: fix(web): carry a migration archive size that rounds up a unit</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1706</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1706"/>
-    <updated>2026-10-25T17:27:34Z</updated>
-    <summary>Merged public contribution. +36 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #1705: fix(backup): carry a size that rounds up to the next unit</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/1705</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/1705"/>
-    <updated>2026-10-25T17:27:34Z</updated>
-    <summary>Merged public contribution. +68 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4600: fix(pre-tool-enforcer): stop truncating OMC_PRE_TOOL_ADVISORY_COOLDOWN_MS</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4600</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4600"/>
-    <updated>2026-10-25T16:51:11Z</updated>
-    <summary>Merged public contribution. +22 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4599: fix(persistent-mode): stop truncating OMC_PERSISTENT_MODE_TIMEOUT_MS</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4599</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4599"/>
-    <updated>2026-10-25T16:12:14Z</updated>
-    <summary>Merged public contribution. +27 / -9 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1387: fix(awareness): show a 999.6 m contact as 1.0 km, not 1000 m</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1387</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1387"/>
-    <updated>2026-10-25T16:07:37Z</updated>
-    <summary>Merged public contribution. +19 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1386: fix(directions): show a 996 m leg as 1.0 km, not 1000 m</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1386</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1386"/>
-    <updated>2026-10-25T16:01:27Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1385: fix(directions): show a 59.6-second leg as 1 min, not 60 s</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1385</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1385"/>
-    <updated>2026-10-25T15:55:18Z</updated>
-    <summary>Merged public contribution. +10 / -1 across 4 changed files.</summary>
   </entry>
 </feed>
