@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T19:05:52Z</updated>
+  <updated>2026-10-26T19:17:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1076: fix(inventory): redact auth-scheme credentials and secrets inside definition strings</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1076</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1076"/>
+    <updated>2026-10-26T19:17:48Z</updated>
+    <summary>Merged public contribution. +281 / -93 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Kentucky-ai/opentakeoff #567: fix(captures): keep relative ages inside their time buckets</title>
+    <id>https://github.com/Kentucky-ai/opentakeoff/pull/567</id>
+    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/567"/>
+    <updated>2026-10-26T19:10:13Z</updated>
+    <summary>Merged public contribution. +21 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1070: fix(harness): keep codex config sections whose header has a comment</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1070</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Tencent/WeKnora/pull/4266"/>
     <updated>2026-10-26T16:25:39Z</updated>
     <summary>Merged public contribution. +161 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4267: fix(frontend): keep distinct reasoning visible beside final answers</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4267</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4267"/>
-    <updated>2026-10-26T16:25:27Z</updated>
-    <summary>Merged public contribution. +55 / -17 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #71: fix(core): reject trailing newlines in memory identifiers</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/71</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/71"/>
-    <updated>2026-10-26T16:23:38Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
