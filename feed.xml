@@ -4,8 +4,120 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T12:31:39Z</updated>
+  <updated>2026-10-26T15:40:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1034: fix(rules): match systemctl enable after options in persistence-install-command</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1034</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1034"/>
+    <updated>2026-10-26T15:40:34Z</updated>
+    <summary>Merged public contribution. +28 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1033: fix(rules): match usermod --groups and gpasswd --add in root-equivalent-group-add</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1033</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1033"/>
+    <updated>2026-10-26T15:34:27Z</updated>
+    <summary>Merged public contribution. +35 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1027: fix(rules): match the macOS Microsoft Edge profile in browser-session rules</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1027</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1027"/>
+    <updated>2026-10-26T15:31:27Z</updated>
+    <summary>Merged public contribution. +53 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1032: fix(rules): match /bin/bash and /usr/bin/sh in base64-decode-piped-to-shell</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1032</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1032"/>
+    <updated>2026-10-26T15:23:47Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1031: fix(rules): match spaced and named fork bombs in fork-bomb-pattern</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1031</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1031"/>
+    <updated>2026-10-26T15:19:58Z</updated>
+    <summary>Merged public contribution. +43 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1030: fix(rules): match dd disk fills that put of= before if=</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1030</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1030"/>
+    <updated>2026-10-26T15:12:13Z</updated>
+    <summary>Merged public contribution. +18 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1029: fix(rules): match --volume=/: and --mount source=/ in privileged-container-run</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1029</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1029"/>
+    <updated>2026-10-26T15:10:14Z</updated>
+    <summary>Merged public contribution. +42 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1028: fix(rules): match ps auxww and ps -eo in process-table-secret-scrape</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1028</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1028"/>
+    <updated>2026-10-26T15:09:59Z</updated>
+    <summary>Merged public contribution. +22 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1025: fix(rules): cover every githooks(5) hook name in git-hook-installed</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1025</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1025"/>
+    <updated>2026-10-26T15:05:06Z</updated>
+    <summary>Merged public contribution. +14 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1024: fix(rules): match codex -s danger-full-access in agent-permission-bypass-spawn</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1024</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1024"/>
+    <updated>2026-10-26T15:02:50Z</updated>
+    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1023: fix(rules): match ssh forwards that are not the first argument</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1023</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1023"/>
+    <updated>2026-10-26T15:01:24Z</updated>
+    <summary>Merged public contribution. +29 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1022: fix(rules): flag force-pushes that target a protected branch through a refspec</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1022</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1022"/>
+    <updated>2026-10-26T15:00:26Z</updated>
+    <summary>Merged public contribution. +42 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1021: fix(rules): flag every octal chmod mode that makes a file world-writable</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1021</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1021"/>
+    <updated>2026-10-26T14:56:31Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1020: fix(rules): match chmod +s and 6xxx/04xxx setuid modes</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1020</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1020"/>
+    <updated>2026-10-26T14:56:19Z</updated>
+    <summary>Merged public contribution. +35 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1016: fix(rules): match sudo with flags in curl-pipe-to-shell</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1016</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1016"/>
+    <updated>2026-10-26T14:53:46Z</updated>
+    <summary>Merged public contribution. +28 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1015: fix(rules): match the rm forms that actually delete / in recursive-root-delete</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1015</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1015"/>
+    <updated>2026-10-26T14:50:46Z</updated>
+    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/Vibe-Trading #1984: fix(paper-trade): keep the board limit for ST stocks outside the main board</title>
     <id>https://github.com/HKUDS/Vibe-Trading/pull/1984</id>
@@ -243,117 +355,5 @@
     <link href="https://github.com/Graphicle-AI/graphicle/pull/13"/>
     <updated>2026-10-26T06:50:38Z</updated>
     <summary>Merged public contribution. +42 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Graphicle-AI/graphicle #12: fix: read OLLAMA_HOST when its scheme is not lowercase</title>
-    <id>https://github.com/Graphicle-AI/graphicle/pull/12</id>
-    <link href="https://github.com/Graphicle-AI/graphicle/pull/12"/>
-    <updated>2026-10-26T06:50:34Z</updated>
-    <summary>Merged public contribution. +17 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/nanobot #6464: fix(media): accept data URLs that capitalize the base64 token</title>
-    <id>https://github.com/HKUDS/nanobot/pull/6464</id>
-    <link href="https://github.com/HKUDS/nanobot/pull/6464"/>
-    <updated>2026-10-26T05:19:42Z</updated>
-    <summary>Merged public contribution. +99 / -42 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1339: fix(hud): carry rounded DMS seconds into the minutes</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1339</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1339"/>
-    <updated>2026-10-26T00:59:10Z</updated>
-    <summary>Merged public contribution. +123 / -6 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #101: Greet the empty chat for the hour in your timezone</title>
-    <id>https://github.com/rociiu/talorys/pull/101</id>
-    <link href="https://github.com/rociiu/talorys/pull/101"/>
-    <updated>2026-10-26T00:23:35Z</updated>
-    <summary>Merged public contribution. +30 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #100: Default a new one-off reminder to 9:00 tomorrow in your timezone</title>
-    <id>https://github.com/rociiu/talorys/pull/100</id>
-    <link href="https://github.com/rociiu/talorys/pull/100"/>
-    <updated>2026-10-26T00:23:30Z</updated>
-    <summary>Merged public contribution. +29 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #99: Don't list an in-progress task under both today and upcoming</title>
-    <id>https://github.com/rociiu/talorys/pull/99</id>
-    <link href="https://github.com/rociiu/talorys/pull/99"/>
-    <updated>2026-10-26T00:23:26Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #98: Round a past time the same way as the same time ahead</title>
-    <id>https://github.com/rociiu/talorys/pull/98</id>
-    <link href="https://github.com/rociiu/talorys/pull/98"/>
-    <updated>2026-10-26T00:23:20Z</updated>
-    <summary>Merged public contribution. +37 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #97: Show the full language name on a code block</title>
-    <id>https://github.com/rociiu/talorys/pull/97</id>
-    <link href="https://github.com/rociiu/talorys/pull/97"/>
-    <updated>2026-10-26T00:23:15Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #96: Keep newer local edits to tasks, notes and projects when importing a backup</title>
-    <id>https://github.com/rociiu/talorys/pull/96</id>
-    <link href="https://github.com/rociiu/talorys/pull/96"/>
-    <updated>2026-10-26T00:23:11Z</updated>
-    <summary>Merged public contribution. +40 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>rociiu/talorys #95: Toggle only the nested task whose checkbox was clicked</title>
-    <id>https://github.com/rociiu/talorys/pull/95</id>
-    <link href="https://github.com/rociiu/talorys/pull/95"/>
-    <updated>2026-10-26T00:23:06Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1343: fix(route): phrase ramp and lane modifiers as directions</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1343</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1343"/>
-    <updated>2026-10-25T23:28:09Z</updated>
-    <summary>Merged public contribution. +127 / -13 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1390: fix(awareness): wrap north-bound bearings</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1390</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1390"/>
-    <updated>2026-10-25T23:21:51Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1395: fix(fires): report a 00:45 UTC detection as 00:45, not "45"</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1395</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1395"/>
-    <updated>2026-10-25T21:32:38Z</updated>
-    <summary>Merged public contribution. +75 / -3 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1396: fix(local-adsb): show a 359.7° track as TRK 0°, not TRK 360°</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1396</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1396"/>
-    <updated>2026-10-25T21:14:28Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4608: fix(team): report modify/delete paths in rebase conflict messages</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608"/>
-    <updated>2026-10-25T21:07:32Z</updated>
-    <summary>Merged public contribution. +88 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4607: fix(omc-orchestrator): keep the first git status entry's path intact</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4607"/>
-    <updated>2026-10-25T20:15:36Z</updated>
-    <summary>Merged public contribution. +104 / -14 across 3 changed files.</summary>
   </entry>
 </feed>
