@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T05:19:42Z</updated>
+  <updated>2026-10-26T06:50:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Graphicle-AI/graphicle #13: fix: accept the Host header browsers send on port 80</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/13</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/13"/>
+    <updated>2026-10-26T06:50:38Z</updated>
+    <summary>Merged public contribution. +42 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Graphicle-AI/graphicle #12: fix: read OLLAMA_HOST when its scheme is not lowercase</title>
+    <id>https://github.com/Graphicle-AI/graphicle/pull/12</id>
+    <link href="https://github.com/Graphicle-AI/graphicle/pull/12"/>
+    <updated>2026-10-26T06:50:34Z</updated>
+    <summary>Merged public contribution. +17 / -3 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/nanobot #6464: fix(media): accept data URLs that capitalize the base64 token</title>
     <id>https://github.com/HKUDS/nanobot/pull/6464</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/rociiu/talorys/pull/90"/>
     <updated>2026-10-25T12:24:50Z</updated>
     <summary>Merged public contribution. +40 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2040: fix(factors): give GTJA #101 the report's HIGH/VWAP blend against raw volume</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2040</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2040"/>
-    <updated>2026-10-25T11:28:27Z</updated>
-    <summary>Merged public contribution. +85 / -43 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2036: fix(factors): give GTJA #55 the swing index's third denominator branch</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2036</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2036"/>
-    <updated>2026-10-25T11:28:19Z</updated>
-    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
