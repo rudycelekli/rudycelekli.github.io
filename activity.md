@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,249**
+Records: **3,253**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-27 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1414: A Trino decimal reads as a number, so SUM(amount) is 1234.5 instead of "1234.50"](https://github.com/deeplethe/utopia/pull/1414) | +55 / -8 across 2 files | 2 reviews · 0 comments |
+| 2026-10-27 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1413: A decimal longer than a double keeps every digit, so 12345678901234567.89 is not 1.2345678901234568e16](https://github.com/deeplethe/utopia/pull/1413) | +58 / -2 across 3 files | 2 reviews · 0 comments |
+| 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1745: fix(images): expand one listed path for multiple images](https://github.com/open-compass/VLMEvalKit/pull/1745) | +23 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-27 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1412: A Snowflake date or timestamp reads as a date, so 18262 is 2020-01-01](https://github.com/deeplethe/utopia/pull/1412) | +101 / -3 across 2 files | 2 reviews · 0 comments |
 | 2026-10-27 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1398: A quantity read into a larger declared unit keeps its digits, so 350万元 under 亿元 shows 0.035 instead of 0.04](https://github.com/deeplethe/utopia/pull/1398) | +14 / -2 across 2 files | 2 reviews · 0 comments |
 | 2026-10-27 | [morluto/rea](https://github.com/morluto/rea) | [#7207: fix(setup): report Kuna cache aliases consistently](https://github.com/morluto/rea/pull/7207) | +318 / -19 across 7 files | 9 reviews · 3 comments |
 | 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1735: Use canonical V2PBench video paths for decoding and cache validation](https://github.com/open-compass/VLMEvalKit/pull/1735) | +191 / -6 across 3 files | 0 reviews · 0 comments |

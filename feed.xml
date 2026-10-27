@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T07:14:12Z</updated>
+  <updated>2026-10-27T07:37:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>deeplethe/utopia #1414: A Trino decimal reads as a number, so SUM(amount) is 1234.5 instead of "1234.50"</title>
+    <id>https://github.com/deeplethe/utopia/pull/1414</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1414"/>
+    <updated>2026-10-27T07:37:11Z</updated>
+    <summary>Merged public contribution. +55 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1413: A decimal longer than a double keeps every digit, so 12345678901234567.89 is not 1.2345678901234568e16</title>
+    <id>https://github.com/deeplethe/utopia/pull/1413</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1413"/>
+    <updated>2026-10-27T07:30:33Z</updated>
+    <summary>Merged public contribution. +58 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1745: fix(images): expand one listed path for multiple images</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1745</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1745"/>
+    <updated>2026-10-27T07:29:16Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1412: A Snowflake date or timestamp reads as a date, so 18262 is 2020-01-01</title>
+    <id>https://github.com/deeplethe/utopia/pull/1412</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1412"/>
+    <updated>2026-10-27T07:24:11Z</updated>
+    <summary>Merged public contribution. +101 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>deeplethe/utopia #1398: A quantity read into a larger declared unit keeps its digits, so 350万元 under 亿元 shows 0.035 instead of 0.04</title>
     <id>https://github.com/deeplethe/utopia/pull/1398</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/110"/>
     <updated>2026-10-26T16:45:06Z</updated>
     <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #67: fix(core): escape TOML strings and custom field keys losslessly</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/67</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/67"/>
-    <updated>2026-10-26T16:41:31Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1051: fix(tokens): match dotted claude versions in the context window table</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1051</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1051"/>
-    <updated>2026-10-26T16:39:48Z</updated>
-    <summary>Merged public contribution. +53 / -20 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #75: fix(core): reject schema types that collide with reserved store directories</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/75</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/75"/>
-    <updated>2026-10-26T16:38:31Z</updated>
-    <summary>Merged public contribution. +14 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1050: fix(rules): match ssh-add -l after other options in ssh-agent-key-enumeration</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1050</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1050"/>
-    <updated>2026-10-26T16:37:11Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
