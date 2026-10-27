@@ -14,8 +14,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:opsz,wght@12..72,400;12..72,500;12..72,600;12..72,700&family=Fragment+Mono:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css?v=rank-top-ten-3">
   <script defer src="/assets/contributions.js"></script>
-  <script defer src="/assets/rank-chart.js?v=3"></script>
-  <script defer src="/assets/rank-history.js?v=3"></script>
 </head>
 <body>
   <a class="skip-link" href="#contribution-table">Skip to contribution evidence</a>
@@ -45,7 +43,8 @@
       </div>
     </section>
 
-    <section class="explorer-panel rank-panel" aria-labelledby="rank-title">
+    <!-- Temporarily hidden; rank history data and rendering assets are preserved. -->
+    <section class="explorer-panel rank-panel" aria-labelledby="rank-title" hidden style="display: none">
       <div class="explorer-heading">
         <div><p class="eyebrow">The climb / recorded snapshots</p><h2 id="rank-title">Your top-ten contribution history.</h2></div>
         <a href="/data/rank-history.json" class="evidence-link">Download rank history ↗</a>
