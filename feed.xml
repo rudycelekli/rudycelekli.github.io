@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T08:01:26Z</updated>
+  <updated>2026-10-27T09:14:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9851: Preserve template namespaces before terminal angle operators</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9851</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9851"/>
+    <updated>2026-10-27T09:14:03Z</updated>
+    <summary>Merged public contribution. +12 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1784: fix(inference): reuse MMBench V11 JSON prediction tables</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1784</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1052"/>
     <updated>2026-10-26T16:45:57Z</updated>
     <summary>Merged public contribution. +34 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #109: Give a successor in another group its own name when it keeps its predecessor's subject</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/109</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/109"/>
-    <updated>2026-10-26T16:45:56Z</updated>
-    <summary>Merged public contribution. +23 / -5 across 3 changed files.</summary>
   </entry>
 </feed>
