@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T05:30:24Z</updated>
+  <updated>2026-10-27T06:41:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1735: Use canonical V2PBench video paths for decoding and cache validation</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1735</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1735"/>
+    <updated>2026-10-27T06:41:41Z</updated>
+    <summary>Merged public contribution. +191 / -6 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #7206: fix(harmony): classify exact manifest names once</title>
     <id>https://github.com/morluto/rea/pull/7206</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1046"/>
     <updated>2026-10-26T16:29:16Z</updated>
     <summary>Merged public contribution. +44 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1048: fix(rules): match crontab file loads followed by another command</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1048</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1048"/>
-    <updated>2026-10-26T16:28:32Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 1 changed files.</summary>
   </entry>
 </feed>

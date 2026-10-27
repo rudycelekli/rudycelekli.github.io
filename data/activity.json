@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 191,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-06T08:14:42Z",
+      "deletions": 6,
+      "merged_at": "2026-10-27T06:41:41Z",
+      "number": 1735,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "Use canonical V2PBench video paths for decoding and cache validation",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1735"
+    },
+    {
       "additions": 586,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 17,
@@ -51968,7 +51984,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3246,
+  "record_count": 3247,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
