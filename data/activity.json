@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 91988,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1661,
+      "comments": 3,
+      "commits": 387,
+      "created_at": "2026-10-26T07:00:41Z",
+      "deletions": 18813,
+      "merged_at": "2026-10-27T04:45:44Z",
+      "number": 7205,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 4,
+      "title": "fix(apk): match signer serials by signed integer identity",
+      "url": "https://github.com/morluto/rea/pull/7205"
+    },
+    {
       "additions": 142,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 9,
@@ -51936,7 +51952,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3244,
+  "record_count": 3245,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
