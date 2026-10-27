@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T12:33:52Z</updated>
+  <updated>2026-10-27T16:00:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2059: fix(config): stop chat-settings read from corrupting shipped defaults</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2059</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2059"/>
+    <updated>2026-10-27T16:00:22Z</updated>
+    <summary>Merged public contribution. +116 / -6 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #216: fix(capture): include truncation markers in byte budgets</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/216</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1055"/>
     <updated>2026-10-26T16:50:40Z</updated>
     <summary>Merged public contribution. +21 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1053: fix(rules): match env-prefixed git commands in git-history-rewrite</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1053</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1053"/>
-    <updated>2026-10-26T16:49:07Z</updated>
-    <summary>Merged public contribution. +23 / -5 across 1 changed files.</summary>
   </entry>
 </feed>
