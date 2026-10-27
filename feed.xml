@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T19:35:08Z</updated>
+  <updated>2026-10-27T20:01:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>cathrynlavery/diagram-design #467: fix(exploded): reject a CSS transform on projected geometry</title>
+    <id>https://github.com/cathrynlavery/diagram-design/pull/467</id>
+    <link href="https://github.com/cathrynlavery/diagram-design/pull/467"/>
+    <updated>2026-10-27T20:01:07Z</updated>
+    <summary>Merged public contribution. +119 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>openclaw/Peekaboo #1150: fix(windows): describe an empty window index range</title>
     <id>https://github.com/openclaw/Peekaboo/pull/1150</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1064"/>
     <updated>2026-10-26T18:27:19Z</updated>
     <summary>Merged public contribution. +23 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1061: fix(harness): read commented vs code settings in telemetry status</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1061</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1061"/>
-    <updated>2026-10-26T18:26:41Z</updated>
-    <summary>Merged public contribution. +430 / -228 across 11 changed files.</summary>
   </entry>
 </feed>
