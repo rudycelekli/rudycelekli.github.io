@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 586,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 17,
+      "comments": 3,
+      "commits": 11,
+      "created_at": "2026-10-26T07:00:48Z",
+      "deletions": 121,
+      "merged_at": "2026-10-27T05:30:24Z",
+      "number": 7206,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 3,
+      "title": "fix(harmony): classify exact manifest names once",
+      "url": "https://github.com/morluto/rea/pull/7206"
+    },
+    {
       "additions": 91988,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1661,
@@ -51952,7 +51968,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3245,
+  "record_count": 3246,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T04:45:44Z</updated>
+  <updated>2026-10-27T05:30:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #7206: fix(harmony): classify exact manifest names once</title>
+    <id>https://github.com/morluto/rea/pull/7206</id>
+    <link href="https://github.com/morluto/rea/pull/7206"/>
+    <updated>2026-10-27T05:30:24Z</updated>
+    <summary>Merged public contribution. +586 / -121 across 17 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #7205: fix(apk): match signer serials by signed integer identity</title>
     <id>https://github.com/morluto/rea/pull/7205</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1048"/>
     <updated>2026-10-26T16:28:32Z</updated>
     <summary>Merged public contribution. +26 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1045: fix(rules): match PATH lines piped through tee into a login file</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1045</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1045"/>
-    <updated>2026-10-26T16:28:25Z</updated>
-    <summary>Merged public contribution. +78 / -13 across 1 changed files.</summary>
   </entry>
 </feed>
