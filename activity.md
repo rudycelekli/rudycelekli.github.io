@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,256**
+Records: **3,257**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-27 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#216: fix(capture): include truncation markers in byte budgets](https://github.com/tigerless-labs/autoharness/pull/216) | +66 / -3 across 3 files | 0 reviews · 3 comments |
 | 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1807: fix(MedQ): enforce judge score bounds without truncating numeric tokens](https://github.com/open-compass/VLMEvalKit/pull/1807) | +73 / -6 across 3 files | 0 reviews · 0 comments |
 | 2026-10-27 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9851: Preserve template namespaces before terminal angle operators](https://github.com/NationalSecurityAgency/ghidra/pull/9851) | +12 / -0 across 1 files | 0 reviews · 1 comments |
 | 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1784: fix(inference): reuse MMBench V11 JSON prediction tables](https://github.com/open-compass/VLMEvalKit/pull/1784) | +57 / -1 across 2 files | 0 reviews · 0 comments |

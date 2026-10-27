@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 66,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:03Z",
+      "deletions": 3,
+      "merged_at": "2026-10-27T12:33:52Z",
+      "number": 216,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(capture): include truncation markers in byte budgets",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/216"
+    },
+    {
       "additions": 73,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -52128,7 +52144,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3256,
+  "record_count": 3257,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
