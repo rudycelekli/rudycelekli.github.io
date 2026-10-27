@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,247**
+Records: **3,249**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-27 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1398: A quantity read into a larger declared unit keeps its digits, so 350万元 under 亿元 shows 0.035 instead of 0.04](https://github.com/deeplethe/utopia/pull/1398) | +14 / -2 across 2 files | 2 reviews · 0 comments |
+| 2026-10-27 | [morluto/rea](https://github.com/morluto/rea) | [#7207: fix(setup): report Kuna cache aliases consistently](https://github.com/morluto/rea/pull/7207) | +318 / -19 across 7 files | 9 reviews · 3 comments |
 | 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1735: Use canonical V2PBench video paths for decoding and cache validation](https://github.com/open-compass/VLMEvalKit/pull/1735) | +191 / -6 across 3 files | 0 reviews · 0 comments |
 | 2026-10-27 | [morluto/rea](https://github.com/morluto/rea) | [#7206: fix(harmony): classify exact manifest names once](https://github.com/morluto/rea/pull/7206) | +586 / -121 across 17 files | 3 reviews · 3 comments |
 | 2026-10-27 | [morluto/rea](https://github.com/morluto/rea) | [#7205: fix(apk): match signer serials by signed integer identity](https://github.com/morluto/rea/pull/7205) | +91,988 / -18,813 across 1,661 files | 4 reviews · 3 comments |

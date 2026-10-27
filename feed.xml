@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T06:41:41Z</updated>
+  <updated>2026-10-27T07:14:12Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>deeplethe/utopia #1398: A quantity read into a larger declared unit keeps its digits, so 350万元 under 亿元 shows 0.035 instead of 0.04</title>
+    <id>https://github.com/deeplethe/utopia/pull/1398</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1398"/>
+    <updated>2026-10-27T07:14:12Z</updated>
+    <summary>Merged public contribution. +14 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #7207: fix(setup): report Kuna cache aliases consistently</title>
+    <id>https://github.com/morluto/rea/pull/7207</id>
+    <link href="https://github.com/morluto/rea/pull/7207"/>
+    <updated>2026-10-27T07:13:47Z</updated>
+    <summary>Merged public contribution. +318 / -19 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1735: Use canonical V2PBench video paths for decoding and cache validation</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1735</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1050"/>
     <updated>2026-10-26T16:37:11Z</updated>
     <summary>Merged public contribution. +20 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1049: fix(rules): match curl --json uploads in env-dump-piped-to-network</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1049</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1049"/>
-    <updated>2026-10-26T16:33:05Z</updated>
-    <summary>Merged public contribution. +46 / -8 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1046: fix(rules): match curl -F and --data stdin uploads in archive-then-upload</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1046</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1046"/>
-    <updated>2026-10-26T16:29:16Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 1 changed files.</summary>
   </entry>
 </feed>

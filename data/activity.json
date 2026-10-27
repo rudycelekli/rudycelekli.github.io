@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 14,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-23T22:24:10Z",
+      "deletions": 2,
+      "merged_at": "2026-10-27T07:14:12Z",
+      "number": 1398,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A quantity read into a larger declared unit keeps its digits, so 350\u4e07\u5143 under \u4ebf\u5143 shows 0.035 instead of 0.04",
+      "url": "https://github.com/deeplethe/utopia/pull/1398"
+    },
+    {
+      "additions": 318,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 3,
+      "commits": 8,
+      "created_at": "2026-10-26T07:00:56Z",
+      "deletions": 19,
+      "merged_at": "2026-10-27T07:13:47Z",
+      "number": 7207,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 9,
+      "title": "fix(setup): report Kuna cache aliases consistently",
+      "url": "https://github.com/morluto/rea/pull/7207"
+    },
+    {
       "additions": 191,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -51984,7 +52016,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3247,
+  "record_count": 3249,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
