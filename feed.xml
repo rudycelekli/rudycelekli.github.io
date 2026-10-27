@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T20:01:07Z</updated>
+  <updated>2026-10-27T20:52:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>openclaw/Peekaboo #1149: fix(duration): keep rounded labels inside the next unit</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1149</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1149"/>
+    <updated>2026-10-27T20:52:28Z</updated>
+    <summary>Merged public contribution. +86 / -21 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #467: fix(exploded): reject a CSS transform on projected geometry</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/467</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1068"/>
     <updated>2026-10-26T18:30:54Z</updated>
     <summary>Merged public contribution. +5 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1064: fix(sdk): accept the default-export anthropic class in instrumentmodules</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1064</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1064"/>
-    <updated>2026-10-26T18:27:19Z</updated>
-    <summary>Merged public contribution. +23 / -6 across 4 changed files.</summary>
   </entry>
 </feed>
