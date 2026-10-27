@@ -4,8 +4,71 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T16:00:22Z</updated>
+  <updated>2026-10-27T16:32:05Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2061: fix(co_writer): don't crash DOCX export on a literal NUL in Markdown</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2061</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2061"/>
+    <updated>2026-10-27T16:32:05Z</updated>
+    <summary>Merged public contribution. +146 / -5 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #92: Refresh schema projections when schema truth files change</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/92</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/92"/>
+    <updated>2026-10-27T16:26:26Z</updated>
+    <summary>Merged public contribution. +24 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2062: fix(search): don't let flagged long references bypass Moderation</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2062</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2062"/>
+    <updated>2026-10-27T16:25:02Z</updated>
+    <summary>Merged public contribution. +119 / -9 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #77: Reject reversed memory validity intervals before writing truth</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/77</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/77"/>
+    <updated>2026-10-27T16:20:12Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #68: fix(core): evict cached memories when their truth becomes invalid</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/68</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/68"/>
+    <updated>2026-10-27T16:17:14Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #70: fix(core): preserve provenance when archive filenames collide</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/70</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/70"/>
+    <updated>2026-10-27T16:14:38Z</updated>
+    <summary>Merged public contribution. +22 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #81: Keep the MCP stdio server alive after malformed request frames</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/81</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/81"/>
+    <updated>2026-10-27T16:13:36Z</updated>
+    <summary>Merged public contribution. +53 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #84: Enforce declared MCP argument types before core calls</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/84</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/84"/>
+    <updated>2026-10-27T16:10:28Z</updated>
+    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #89: Preflight all import file entries before publishing changes</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/89</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/89"/>
+    <updated>2026-10-27T16:04:23Z</updated>
+    <summary>Merged public contribution. +25 / -4 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/DeepTutor #2059: fix(config): stop chat-settings read from corrupting shipped defaults</title>
     <id>https://github.com/HKUDS/DeepTutor/pull/2059</id>
@@ -292,68 +355,5 @@
     <link href="https://github.com/ktwu01/benchmark-radar/pull/962"/>
     <updated>2026-10-26T18:09:55Z</updated>
     <summary>Merged public contribution. +171 / -13 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2394: fix(api): keep an Optional string tool argument a string</title>
-    <id>https://github.com/JustVugg/colibri/pull/2394</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2394"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2393: fix(api): keep a nullable Muse string argument a string</title>
-    <id>https://github.com/JustVugg/colibri/pull/2393</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2393"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2391: fix(serve): keep the running serve's pidfile when a second one fails</title>
-    <id>https://github.com/JustVugg/colibri/pull/2391</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2391"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +46 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2390: fix(stop): find a coli web launcher by its command line</title>
-    <id>https://github.com/JustVugg/colibri/pull/2390</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2390"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2389: fix(mcp): read the backend build log for logs which=build</title>
-    <id>https://github.com/JustVugg/colibri/pull/2389</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2389"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2388: fix(cluster): register a worker again after the coordinator restarts</title>
-    <id>https://github.com/JustVugg/colibri/pull/2388</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2388"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +76 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2387: fix(cli): open the dashboard on loopback when coli web binds 0.0.0.0</title>
-    <id>https://github.com/JustVugg/colibri/pull/2387</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2387"/>
-    <updated>2026-10-26T17:41:36Z</updated>
-    <summary>Merged public contribution. +63 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1056: fix(opencode): record every path a shell rm deletes</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1056</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1056"/>
-    <updated>2026-10-26T16:53:00Z</updated>
-    <summary>Merged public contribution. +66 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1055: fix(cli): stop beacon scan from cutting characters in half</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1055</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1055"/>
-    <updated>2026-10-26T16:50:40Z</updated>
-    <summary>Merged public contribution. +21 / -5 across 2 changed files.</summary>
   </entry>
 </feed>

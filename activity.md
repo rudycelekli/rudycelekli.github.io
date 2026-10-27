@@ -4,10 +4,19 @@ Evidence timestamp: **2026-10-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,258**
+Records: **3,267**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-27 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2061: fix(co_writer): don't crash DOCX export on a literal NUL in Markdown](https://github.com/HKUDS/DeepTutor/pull/2061) | +146 / -5 across 7 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#92: Refresh schema projections when schema truth files change](https://github.com/tigerless-labs/agent-memory/pull/92) | +24 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2062: fix(search): don't let flagged long references bypass Moderation](https://github.com/HKUDS/DeepTutor/pull/2062) | +119 / -9 across 6 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#77: Reject reversed memory validity intervals before writing truth](https://github.com/tigerless-labs/agent-memory/pull/77) | +32 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#68: fix(core): evict cached memories when their truth becomes invalid](https://github.com/tigerless-labs/agent-memory/pull/68) | +25 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#70: fix(core): preserve provenance when archive filenames collide](https://github.com/tigerless-labs/agent-memory/pull/70) | +22 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#81: Keep the MCP stdio server alive after malformed request frames](https://github.com/tigerless-labs/agent-memory/pull/81) | +53 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#84: Enforce declared MCP argument types before core calls](https://github.com/tigerless-labs/agent-memory/pull/84) | +66 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-10-27 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#89: Preflight all import file entries before publishing changes](https://github.com/tigerless-labs/agent-memory/pull/89) | +25 / -4 across 3 files | 0 reviews · 0 comments |
 | 2026-10-27 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2059: fix(config): stop chat-settings read from corrupting shipped defaults](https://github.com/HKUDS/DeepTutor/pull/2059) | +116 / -6 across 6 files | 0 reviews · 0 comments |
 | 2026-10-27 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#216: fix(capture): include truncation markers in byte budgets](https://github.com/tigerless-labs/autoharness/pull/216) | +66 / -3 across 3 files | 0 reviews · 3 comments |
 | 2026-10-27 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1807: fix(MedQ): enforce judge score bounds without truncating numeric tokens](https://github.com/open-compass/VLMEvalKit/pull/1807) | +73 / -6 across 3 files | 0 reviews · 0 comments |
