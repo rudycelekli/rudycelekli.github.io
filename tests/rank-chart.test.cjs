@@ -4,17 +4,24 @@ const chart = require('../assets/rank-chart.js');
 function repo(name, ranks) {
   return {full_name:`org/${name}`,name, observations:ranks.map((rank,i)=>({rank,at:`2026-10-${String(i+1).padStart(2,'0')}T00:00:00Z`}))};
 }
-test('top-five eligibility uses the latest observation and excludes unknowns',()=>{
-  const rows=[repo('reached',[10,5]),repo('lost',[2,6]),repo('unknown',[2,null]),repo('invalid',[0,true]),repo('first',[4])];
-  assert.deepEqual(chart.group(rows,'top5').repos.map(r=>r.name),['reached','first']);
+test('ever-top-ten membership includes former and unavailable ranks, with an inclusive tenth place',()=>{
+  const rows=[repo('reached',[18,10]),repo('former',[2,16]),repo('unknown',[9,null]),repo('invalid',[0,true,-1]),repo('never',[11,12]),repo('first',[4])];
+  assert.deepEqual(chart.everTopTen(rows).map(r=>r.name),['former','first','unknown','reached']);
 });
-test('paging covers every eligible repo exactly once in bounded batches',()=>{
-  const rows=Array.from({length:41},(_,i)=>repo(`r${i}`,[i+5,3]));
-  const seen=[];
-  for(let page=0;page<7;page++) {const result=chart.group(rows,'top5',page);assert.ok(result.repos.length<=6);seen.push(...result.repos.map(r=>r.full_name));}
-  assert.equal(new Set(seen).size,41);
-  assert.equal(chart.group(rows,'top5',99).page,6);
-  assert.equal(chart.group(rows,'top5',-1).page,0);
+test('every qualifying history renders at once, including unknown latest ranks',()=>{
+  const rows=Array.from({length:53},(_,i)=>repo(`r${i}`,[9,i===52 ? null : 3]));
+  const qualified=chart.everTopTen(rows);
+  const {svg,series}=chart.render(qualified,1000);
+  assert.equal(series.length,53);
+  assert.equal((svg.match(/<g data-series=/g)||[]).length,53);
+  assert.equal(new Set(series.map(s=>s.color)).size,53);
+  assert.match(svg,/last #9/);
+  const labelYs=[...svg.matchAll(/<text x="806" y="([^"]+)"/g)].map(m=>Number(m[1])).sort((a,b)=>a-b);
+  assert.equal(labelYs.length,53);
+  assert.ok(labelYs[0]>=44);
+  labelYs.slice(1).forEach((y,i)=>assert.ok(y-labelYs[i]>=24));
+  const height=Number(svg.match(/viewBox="0 0 1000 (\d+)"/)[1]);
+  assert.ok(labelYs.at(-1)<height-40);
 });
 test('all strokes explicitly avoid black SVG default fill without external CSS',()=>{
   const {svg}=chart.render([repo('climb',[36,18,5,3])]);
@@ -49,4 +56,11 @@ test('empty, singleton and escaped names render without invalid geometry',()=>{
   assert.doesNotMatch(svg,/NaN|Infinity|<script>/);
   assert.match(svg,/&lt;script&gt;/);
   assert.match(svg,/min-width:760px/);
+});
+
+test('the chart surface has no selector, pagination, or single-series view',()=>{
+  const fs=require('node:fs');
+  const html=fs.readFileSync(require('node:path').join(__dirname,'../contributions.html'),'utf8');
+  const panel=html.split('class="explorer-panel rank-panel"')[1].split('</section>')[0];
+  assert.doesNotMatch(panel,/<select|rank-prev|rank-next|rank-project|<button/);
 });
