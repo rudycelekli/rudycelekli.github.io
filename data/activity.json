@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 51803,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 959,
+      "comments": 5,
+      "commits": 190,
+      "created_at": "2026-10-26T07:00:25Z",
+      "deletions": 8903,
+      "merged_at": "2026-10-27T02:16:16Z",
+      "number": 7203,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 3,
+      "title": "fix(browser): keep opaque cookie partitions unaligned",
+      "url": "https://github.com/morluto/rea/pull/7203"
+    },
+    {
       "additions": 312,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -51904,7 +51920,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3242,
+  "record_count": 3243,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
