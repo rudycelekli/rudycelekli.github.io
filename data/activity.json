@@ -8,10 +8,26 @@
   },
   "items": [
     {
+      "additions": 110,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 4,
+      "commits": 1,
+      "created_at": "2026-10-25T17:05:02Z",
+      "deletions": 2,
+      "merged_at": "2026-10-27T19:35:08Z",
+      "number": 1150,
+      "repository": "openclaw/Peekaboo",
+      "repository_url": "https://github.com/openclaw/Peekaboo",
+      "reviews": 0,
+      "title": "fix(windows): describe an empty window index range",
+      "url": "https://github.com/openclaw/Peekaboo/pull/1150"
+    },
+    {
       "additions": 23,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
-      "comments": 3,
+      "comments": 4,
       "commits": 1,
       "created_at": "2026-10-25T15:31:37Z",
       "deletions": 1,
@@ -27,7 +43,7 @@
       "additions": 36,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
-      "comments": 3,
+      "comments": 4,
       "commits": 1,
       "created_at": "2026-10-25T15:31:30Z",
       "deletions": 5,
@@ -43,7 +59,7 @@
       "additions": 47,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
-      "comments": 3,
+      "comments": 4,
       "commits": 2,
       "created_at": "2026-10-24T04:41:13Z",
       "deletions": 0,
@@ -59,7 +75,7 @@
       "additions": 30,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
-      "comments": 3,
+      "comments": 4,
       "commits": 1,
       "created_at": "2026-10-24T04:41:09Z",
       "deletions": 2,
@@ -52400,7 +52416,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3273,
+  "record_count": 3274,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
