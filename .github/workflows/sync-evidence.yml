@@ -25,6 +25,13 @@ jobs:
       - name: Synchronize the public evidence ledger
         run: python3 scripts/sync_evidence.py
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Verify rank chart rendering
+        run: node --test tests/rank-chart.test.cjs
+
       - name: Verify generated surfaces
         run: python3 -m unittest discover -s tests -v
 

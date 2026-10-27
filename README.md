@@ -35,6 +35,7 @@ Rebuild archived history from full local Git histories:
 ```sh
 python3 scripts/rank_history.py --backfill --profile-repo /path/to/rudycelekli
 python3 -m unittest discover -s tests -v
+node --test tests/rank-chart.test.cjs
 ```
 
 Keep the source repository histories available for reproducibility. Each retained

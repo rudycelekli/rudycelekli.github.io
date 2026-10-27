@@ -12,9 +12,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:opsz,wght@12..72,400;12..72,500;12..72,600;12..72,700&family=Fragment+Mono:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/site.css?v=rank-history-1">
+  <link rel="stylesheet" href="/assets/site.css?v=rank-bump-2">
   <script defer src="/assets/contributions.js"></script>
-  <script defer src="/assets/rank-history.js"></script>
+  <script defer src="/assets/rank-chart.js?v=2"></script>
+  <script defer src="/assets/rank-history.js?v=2"></script>
 </head>
 <body>
   <a class="skip-link" href="#contribution-table">Skip to contribution evidence</a>
@@ -49,11 +50,13 @@
         <div><p class="eyebrow">The climb / recorded snapshots</p><h2 id="rank-title">Your path to the top five.</h2></div>
         <a href="/data/rank-history.json" class="evidence-link">Download rank history ↗</a>
       </div>
-      <p class="rank-intro">Follow your GitHub Contributors API rank across repositories. A lower number is a higher position. Choose a project to inspect its progress.</p>
-      <label class="control-field rank-picker"><span>Repository</span><select id="rank-project" disabled><option>Loading repositories…</option></select></label>
+      <p class="rank-intro">Each color follows your API rank in one repository. Start with the projects where you’re currently in the top five, or choose a project to see its full climb.</p>
+      <div class="rank-toolbar"><label class="control-field rank-picker"><span>Compare repositories</span><select id="rank-project" disabled><option>Loading repositories…</option></select></label>
+      <div class="rank-pagination"><button id="rank-prev" class="direction-button" type="button">← Previous six</button><button id="rank-next" class="direction-button" type="button">Next six →</button></div></div>
       <p id="rank-status" class="result-status" role="status" aria-live="polite">Loading recorded rank history…</p>
-      <div id="rank-chart" class="rank-chart"></div>
-      <p class="score-note">Points are saved observations; dashed connectors only guide the eye. Gaps mark unavailable ranks. The green band is the top five. Tracking cannot establish when a rank changed between snapshots, or how quickly you climbed before tracking began.</p>
+      <div id="rank-chart" class="rank-chart" tabindex="0" role="region" aria-label="Rank chart; scroll horizontally on smaller screens"></div>
+      <div id="rank-legend" class="rank-legend" aria-label="Displayed repositories"></div>
+      <p class="score-note">Numbers inside the dots are your API ranks. When earlier ranks exceed #10, logarithmic spacing keeps the top-five changes readable. Lines connect saved observations; gaps mean the rank was unavailable. Each repository has its own ranking, so ties are expected. Hover or focus a line to highlight it; choose a repository below for its detail. Scroll the chart sideways on a small screen.</p>
       <details class="rank-details"><summary>Top-five milestones across all repositories</summary>
         <p class="score-note">Elapsed time starts at the first authored merged PR in the available ledger. It ends at the first recorded top-five rank, and is shown only when an earlier rank below the top five was recorded. This is an observed interval, not an exact crossing time.</p>
         <div class="table-shell" role="region" aria-label="Repository rank milestones" tabindex="0">

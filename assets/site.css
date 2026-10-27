@@ -252,12 +252,12 @@
   .rank-panel { border-bottom: 1px solid var(--rule); }
   .rank-intro { max-width: 70ch; margin-block: 1.5rem; color: var(--ink-soft); }
   .rank-picker { max-width: 32rem; margin-block: 2rem 1rem; }
-  .rank-chart { margin-top: 1.5rem; }
+  .rank-chart { margin-top: 1.5rem; overflow-x: auto; padding-block: .5rem; }
   .rank-chart svg { display: block; width: 100%; height: auto; min-height: 16rem; }
-  .rank-chart text { fill: var(--ink-soft); font: 13px var(--mono); }
+  .rank-chart text { font-family: var(--display); }
   .rank-chart .rank-band { fill: var(--acid); opacity: .18; }
   .rank-chart .rank-grid { stroke: var(--rule); stroke-width: 1; }
-  .rank-chart .rank-line { fill: none; stroke-width: 1.5; stroke-dasharray: 4 5; opacity: .5; }
+  .rank-chart .rank-line { fill: none; }
   .rank-chart circle { stroke: var(--paper); stroke-width: 1; }
   .rank-chart circle:focus { outline: none; stroke: var(--ink); stroke-width: 3; }
   .rank-details { margin-top: 1.75rem; }
@@ -265,4 +265,18 @@
   .rank-details summary:focus-visible { outline: 2px solid var(--blue); }
   .rank-observations { max-height: 22rem; overflow: auto; font: .8rem/1.8 var(--mono); }
   .rank-observations a { margin-left: 1rem; }
+}
+
+@layer components {
+  .rank-toolbar { display: flex; flex-wrap: wrap; align-items: end; gap: 1rem 2rem; margin-top: 2rem; }
+  .rank-toolbar .rank-picker { flex: 1 1 22rem; margin: 0; }
+  .rank-pagination { display: flex; gap: .6rem; }
+  .rank-pagination button { width: auto; font-size: .85rem; }
+  .rank-pagination button:disabled { opacity: .4; cursor: default; }
+  .rank-chart:focus-visible { outline: 2px solid var(--blue); }
+  .rank-legend { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; padding-block: 1.25rem; }
+  .rank-legend button { display: inline-flex; align-items: center; gap: .5rem; border: 0; padding: .35rem 0; background: transparent; font: inherit; color: var(--ink); cursor: pointer; text-align: left; }
+  .rank-legend button:hover { text-decoration: underline; }
+  .rank-legend button:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
+  .rank-swatch { width: .65rem; height: .65rem; border-radius: 50%; flex-shrink: 0; }
 }
