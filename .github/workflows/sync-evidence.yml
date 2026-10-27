@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/public-evidence.json data/activity.json public-evidence.md activity.md feed.xml llms-full.txt
+          git add data/rank-history.json data/public-evidence.json data/activity.json public-evidence.md activity.md feed.xml llms-full.txt
           if git diff --cached --quiet; then
             echo "Evidence is already current."
             exit 0

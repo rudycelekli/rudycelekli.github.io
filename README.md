@@ -23,3 +23,23 @@ python3 -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
+
+### Contributor rank history
+
+`contributions.html` displays recorded Contributors API ranks and observed top-five
+milestones from `data/rank-history.json`. The existing 30-minute evidence sync
+appends the current ledger snapshot through `scripts/rank_history.py`.
+
+Rebuild archived history from full local Git histories:
+
+```sh
+python3 scripts/rank_history.py --backfill --profile-repo /path/to/rudycelekli
+python3 -m unittest discover -s tests -v
+```
+
+Keep the source repository histories available for reproducibility. Each retained
+observation links to its source commit. Unknown ranks remain null; constant runs
+retain endpoints, and rank transitions retain their observations. Historical
+commit time is a saved-snapshot time, not the exact time a rank changed. Elapsed
+time uses the earliest merged PR in available receipts, not an assumed first
+contribution. A history starting in the top five has no measured climb duration.

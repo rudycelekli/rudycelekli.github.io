@@ -397,6 +397,8 @@ def main() -> None:
     source = load_source(args.source)
     evidence = build_evidence(source, args.source)
     write_outputs(evidence, pathlib.Path(args.output_dir))
+    from rank_history import update_history
+    update_history(evidence, pathlib.Path(args.output_dir))
 
 
 if __name__ == "__main__":

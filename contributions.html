@@ -14,6 +14,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:opsz,wght@12..72,400;12..72,500;12..72,600;12..72,700&family=Fragment+Mono:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css">
   <script defer src="/assets/contributions.js"></script>
+  <script defer src="/assets/rank-history.js"></script>
 </head>
 <body>
   <a class="skip-link" href="#contribution-table">Skip to contribution evidence</a>
@@ -41,6 +42,25 @@
         <div><span>Attributed commits</span><strong id="summary-commits">—</strong></div>
         <div><span>Repository stars</span><strong id="summary-stars">—</strong></div>
       </div>
+    </section>
+
+    <section class="explorer-panel rank-panel" aria-labelledby="rank-title">
+      <div class="explorer-heading">
+        <div><p class="eyebrow">The climb / recorded snapshots</p><h2 id="rank-title">Your path to the top five.</h2></div>
+        <a href="/data/rank-history.json" class="evidence-link">Download rank history ↗</a>
+      </div>
+      <p class="rank-intro">Follow your GitHub Contributors API rank across repositories. A lower number is a higher position. Choose a project to inspect its progress.</p>
+      <label class="control-field rank-picker"><span>Repository</span><select id="rank-project" disabled><option>Loading repositories…</option></select></label>
+      <p id="rank-status" class="result-status" role="status" aria-live="polite">Loading recorded rank history…</p>
+      <div id="rank-chart" class="rank-chart"></div>
+      <p class="score-note">Points are saved observations; dashed connectors only guide the eye. Gaps mark unavailable ranks. The green band is the top five. Tracking cannot establish when a rank changed between snapshots, or how quickly you climbed before tracking began.</p>
+      <details class="rank-details"><summary>Top-five milestones across all repositories</summary>
+        <p class="score-note">Elapsed time starts at the first authored merged PR in the available ledger. It ends at the first recorded top-five rank, and is shown only when an earlier rank below the top five was recorded. This is an observed interval, not an exact crossing time.</p>
+        <div class="table-shell" role="region" aria-label="Repository rank milestones" tabindex="0">
+          <table class="contribution-table"><thead><tr><th scope="col">Repository</th><th scope="col">Latest recorded rank</th><th scope="col">First recorded top five</th><th scope="col">Elapsed from first merged PR</th></tr></thead><tbody id="rank-milestones"></tbody></table>
+        </div>
+      </details>
+      <details class="rank-details"><summary>Inspect selected repository observations</summary><div id="rank-observations" class="rank-observations"></div></details>
     </section>
 
     <section class="explorer-panel" aria-labelledby="ledger-title">

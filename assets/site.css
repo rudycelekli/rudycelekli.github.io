@@ -247,3 +247,22 @@
     .signal-line span { animation: none; height: 65%; }
   }
 }
+
+@layer components {
+  .rank-panel { border-bottom: 1px solid var(--rule); }
+  .rank-intro { max-width: 70ch; margin-block: 1.5rem; color: var(--ink-soft); }
+  .rank-picker { max-width: 32rem; margin-block: 2rem 1rem; }
+  .rank-chart { margin-top: 1.5rem; }
+  .rank-chart svg { display: block; width: 100%; height: auto; min-height: 16rem; }
+  .rank-chart text { fill: var(--ink-soft); font: 13px var(--mono); }
+  .rank-chart .rank-band { fill: var(--acid); opacity: .18; }
+  .rank-chart .rank-grid { stroke: var(--rule); stroke-width: 1; }
+  .rank-chart .rank-line { fill: none; stroke-width: 1.5; stroke-dasharray: 4 5; opacity: .5; }
+  .rank-chart circle { stroke: var(--paper); stroke-width: 1; }
+  .rank-chart circle:focus { outline: none; stroke: var(--ink); stroke-width: 3; }
+  .rank-details { margin-top: 1.75rem; }
+  .rank-details summary { cursor: pointer; font-weight: 600; padding-block: .75rem; }
+  .rank-details summary:focus-visible { outline: 2px solid var(--blue); }
+  .rank-observations { max-height: 22rem; overflow: auto; font: .8rem/1.8 var(--mono); }
+  .rank-observations a { margin-left: 1rem; }
+}
