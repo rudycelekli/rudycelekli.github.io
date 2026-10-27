@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T02:16:16Z</updated>
+  <updated>2026-10-27T04:16:51Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #7204: fix(browser): normalize discovery wire facts at the shared boundary</title>
+    <id>https://github.com/morluto/rea/pull/7204</id>
+    <link href="https://github.com/morluto/rea/pull/7204"/>
+    <updated>2026-10-27T04:16:51Z</updated>
+    <summary>Merged public contribution. +142 / -42 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #7203: fix(browser): keep opaque cookie partitions unaligned</title>
     <id>https://github.com/morluto/rea/pull/7203</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Tencent/WeKnora/pull/4256"/>
     <updated>2026-10-26T16:27:06Z</updated>
     <summary>Merged public contribution. +88 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4258: fix(cli): reject invalid jq syntax before polling</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4258</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4258"/>
-    <updated>2026-10-26T16:26:56Z</updated>
-    <summary>Merged public contribution. +92 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

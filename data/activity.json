@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 142,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 9,
+      "comments": 3,
+      "commits": 6,
+      "created_at": "2026-10-26T07:00:33Z",
+      "deletions": 42,
+      "merged_at": "2026-10-27T04:16:51Z",
+      "number": 7204,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 5,
+      "title": "fix(browser): normalize discovery wire facts at the shared boundary",
+      "url": "https://github.com/morluto/rea/pull/7204"
+    },
+    {
       "additions": 51803,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 959,
@@ -51920,7 +51936,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3243,
+  "record_count": 3244,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
