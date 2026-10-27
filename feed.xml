@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T16:32:05Z</updated>
+  <updated>2026-10-27T19:27:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>openclaw/Peekaboo #1148: Show documentation read-when hints without YAML quotes.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1148</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1148"/>
+    <updated>2026-10-27T19:27:41Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1147: Point published docs source links at the repository.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1147</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1147"/>
+    <updated>2026-10-27T19:27:34Z</updated>
+    <summary>Merged public contribution. +36 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1144: Render Markdown images on the docs site.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1144</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1144"/>
+    <updated>2026-10-27T19:27:26Z</updated>
+    <summary>Merged public contribution. +47 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1143: Render documentation task lists as checkboxes.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1143</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1143"/>
+    <updated>2026-10-27T19:27:18Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1142: Keep URL schemes inside highlighted code strings.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1142</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1142"/>
+    <updated>2026-10-27T19:27:12Z</updated>
+    <summary>Merged public contribution. +54 / -22 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>openclaw/Peekaboo #1141: Restore the missing cells in the smart-select metadata table.</title>
+    <id>https://github.com/openclaw/Peekaboo/pull/1141</id>
+    <link href="https://github.com/openclaw/Peekaboo/pull/1141"/>
+    <updated>2026-10-27T19:27:04Z</updated>
+    <summary>Merged public contribution. +28 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/DeepTutor #2061: fix(co_writer): don't crash DOCX export on a literal NUL in Markdown</title>
     <id>https://github.com/HKUDS/DeepTutor/pull/2061</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/Kentucky-ai/opentakeoff/pull/568"/>
     <updated>2026-10-26T18:25:26Z</updated>
     <summary>Merged public contribution. +14 / -6 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1063: fix(harness): stop claude configure from wiping unparseable settings</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1063</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1063"/>
-    <updated>2026-10-26T18:25:13Z</updated>
-    <summary>Merged public contribution. +77 / -24 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1065: fix(selfupdate): find format-qualified linux packages in update check</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1065</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1065"/>
-    <updated>2026-10-26T18:23:09Z</updated>
-    <summary>Merged public contribution. +13 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1062: fix(inventory): keep the snapshot digest stable across identical scans</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1062</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1062"/>
-    <updated>2026-10-26T18:18:33Z</updated>
-    <summary>Merged public contribution. +74 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1060: fix(dashboard): stop shortened labels from splitting emoji</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1060</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1060"/>
-    <updated>2026-10-26T18:16:28Z</updated>
-    <summary>Merged public contribution. +45 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1057: fix(rules): stop flagging .env.example templates as credential reads</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1057</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1057"/>
-    <updated>2026-10-26T18:12:46Z</updated>
-    <summary>Merged public contribution. +182 / -21 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ktwu01/benchmark-radar #962: fix(releases): leave agent and harness papers out of Latest releases</title>
-    <id>https://github.com/ktwu01/benchmark-radar/pull/962</id>
-    <link href="https://github.com/ktwu01/benchmark-radar/pull/962"/>
-    <updated>2026-10-26T18:09:55Z</updated>
-    <summary>Merged public contribution. +171 / -13 across 3 changed files.</summary>
   </entry>
 </feed>
