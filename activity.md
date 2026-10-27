@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,240**
+Records: **3,242**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-27 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4255: fix(models): assemble multiline provider SSE packets](https://github.com/Tencent/WeKnora/pull/4255) | +312 / -22 across 2 files | 2 reviews · 0 comments |
+| 2026-10-27 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [#4253: fix(models): preserve string fields in streamed tool arguments](https://github.com/Tencent/WeKnora/pull/4253) | +169 / -34 across 2 files | 1 reviews · 0 comments |
 | 2026-10-26 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#468: fix(import): keep angle brackets in draw.io labels](https://github.com/cathrynlavery/diagram-design/pull/468) | +73 / -10 across 3 files | 3 reviews · 2 comments |
 | 2026-10-26 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#469: fix(import): report an outer Excalidraw group](https://github.com/cathrynlavery/diagram-design/pull/469) | +60 / -3 across 3 files | 3 reviews · 2 comments |
 | 2026-10-26 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1076: fix(inventory): redact auth-scheme credentials and secrets inside definition strings](https://github.com/Asymptote-Labs/agent-beacon/pull/1076) | +281 / -93 across 9 files | 0 reviews · 1 comments |

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-26T21:41:57Z</updated>
+  <updated>2026-10-27T01:10:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Tencent/WeKnora #4255: fix(models): assemble multiline provider SSE packets</title>
+    <id>https://github.com/Tencent/WeKnora/pull/4255</id>
+    <link href="https://github.com/Tencent/WeKnora/pull/4255"/>
+    <updated>2026-10-27T01:10:31Z</updated>
+    <summary>Merged public contribution. +312 / -22 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Tencent/WeKnora #4253: fix(models): preserve string fields in streamed tool arguments</title>
+    <id>https://github.com/Tencent/WeKnora/pull/4253</id>
+    <link href="https://github.com/Tencent/WeKnora/pull/4253"/>
+    <updated>2026-10-27T01:10:26Z</updated>
+    <summary>Merged public contribution. +169 / -34 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>cathrynlavery/diagram-design #468: fix(import): keep angle brackets in draw.io labels</title>
     <id>https://github.com/cathrynlavery/diagram-design/pull/468</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Tencent/WeKnora/pull/4260"/>
     <updated>2026-10-26T16:26:45Z</updated>
     <summary>Merged public contribution. +137 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4262: fix(mcp): honor a leading UTF-8 BOM in chat streams</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4262</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4262"/>
-    <updated>2026-10-26T16:26:34Z</updated>
-    <summary>Merged public contribution. +153 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4264: fix(client): preserve agent reasoning effort during updates</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4264</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4264"/>
-    <updated>2026-10-26T16:26:01Z</updated>
-    <summary>Merged public contribution. +119 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
