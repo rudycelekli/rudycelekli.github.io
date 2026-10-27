@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 73,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-27T04:24:45Z",
+      "deletions": 6,
+      "merged_at": "2026-10-27T11:56:45Z",
+      "number": 1807,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(MedQ): enforce judge score bounds without truncating numeric tokens",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1807"
+    },
+    {
       "additions": 12,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -52112,7 +52128,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3255,
+  "record_count": 3256,
   "schema_version": 1,
   "updated_at_utc": "2026-10-27"
 }
