@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-27T23:31:38Z</updated>
+  <updated>2026-10-28T03:02:32Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>liseami/CCBaga #55: fix(network): escape known_hosts paths for OpenSSH</title>
+    <id>https://github.com/liseami/CCBaga/pull/55</id>
+    <link href="https://github.com/liseami/CCBaga/pull/55"/>
+    <updated>2026-10-28T03:02:32Z</updated>
+    <summary>Merged public contribution. +36 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #54: fix(linux): keep a POSIX region override after the codeset</title>
+    <id>https://github.com/liseami/CCBaga/pull/54</id>
+    <link href="https://github.com/liseami/CCBaga/pull/54"/>
+    <updated>2026-10-28T03:02:32Z</updated>
+    <summary>Merged public contribution. +49 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>liseami/CCBaga #53: fix(browser): accept an explicit default proxy port</title>
+    <id>https://github.com/liseami/CCBaga/pull/53</id>
+    <link href="https://github.com/liseami/CCBaga/pull/53"/>
+    <updated>2026-10-28T03:02:32Z</updated>
+    <summary>Merged public contribution. +70 / -5 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tester-army/e2e #1037: feat(locator): support hasNotText filters across engines</title>
     <id>https://github.com/tester-army/e2e/pull/1037</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1074"/>
     <updated>2026-10-26T18:44:20Z</updated>
     <summary>Merged public contribution. +24 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1075: fix(hooks): keep the platform of hooks installed under a path with an apostrophe</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1075</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1075"/>
-    <updated>2026-10-26T18:40:45Z</updated>
-    <summary>Merged public contribution. +34 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1072: fix(telemetry): drop the uri slash before a windows drive in mcp file paths</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1072</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1072"/>
-    <updated>2026-10-26T18:37:58Z</updated>
-    <summary>Merged public contribution. +72 / -14 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1058: fix(redaction): redact google oauth access tokens</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1058</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1058"/>
-    <updated>2026-10-26T18:34:01Z</updated>
-    <summary>Merged public contribution. +4 / -1 across 3 changed files.</summary>
   </entry>
 </feed>

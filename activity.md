@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-28 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,277**
+Records: **3,280**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#55: fix(network): escape known_hosts paths for OpenSSH](https://github.com/liseami/CCBaga/pull/55) | +36 / -5 across 3 files | 1 reviews · 0 comments |
+| 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#54: fix(linux): keep a POSIX region override after the codeset](https://github.com/liseami/CCBaga/pull/54) | +49 / -5 across 3 files | 1 reviews · 0 comments |
+| 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#53: fix(browser): accept an explicit default proxy port](https://github.com/liseami/CCBaga/pull/53) | +70 / -5 across 3 files | 1 reviews · 0 comments |
 | 2026-10-27 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1037: feat(locator): support hasNotText filters across engines](https://github.com/tester-army/e2e/pull/1037) | +124 / -57 across 18 files | 3 reviews · 4 comments |
 | 2026-10-27 | [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) | [#1149: fix(duration): keep rounded labels inside the next unit](https://github.com/openclaw/Peekaboo/pull/1149) | +86 / -21 across 3 files | 0 reviews · 4 comments |
 | 2026-10-27 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [#467: fix(exploded): reject a CSS transform on projected geometry](https://github.com/cathrynlavery/diagram-design/pull/467) | +119 / -2 across 2 files | 4 reviews · 2 comments |

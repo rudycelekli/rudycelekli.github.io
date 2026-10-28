@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-23T23:07:32Z",
+      "deletions": 5,
+      "merged_at": "2026-10-28T03:02:32Z",
+      "number": 55,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 1,
+      "title": "fix(network): escape known_hosts paths for OpenSSH",
+      "url": "https://github.com/liseami/CCBaga/pull/55"
+    },
+    {
+      "additions": 49,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-23T23:04:58Z",
+      "deletions": 5,
+      "merged_at": "2026-10-28T03:02:32Z",
+      "number": 54,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 1,
+      "title": "fix(linux): keep a POSIX region override after the codeset",
+      "url": "https://github.com/liseami/CCBaga/pull/54"
+    },
+    {
+      "additions": 70,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-23T23:00:22Z",
+      "deletions": 5,
+      "merged_at": "2026-10-28T03:02:32Z",
+      "number": 53,
+      "repository": "liseami/CCBaga",
+      "repository_url": "https://github.com/liseami/CCBaga",
+      "reviews": 1,
+      "title": "fix(browser): accept an explicit default proxy port",
+      "url": "https://github.com/liseami/CCBaga/pull/53"
+    },
+    {
       "additions": 124,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 18,
@@ -52464,7 +52512,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3277,
+  "record_count": 3280,
   "schema_version": 1,
   "updated_at_utc": "2026-10-28"
 }
