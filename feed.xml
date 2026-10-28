@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-28T03:02:32Z</updated>
+  <updated>2026-10-28T05:35:49Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>open-compass/VLMEvalKit #1804: fix(mvbench): stop counting failed API answers as correct</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1804</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1804"/>
+    <updated>2026-10-28T05:35:49Z</updated>
+    <summary>Merged public contribution. +79 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1803: fix(puzzles): read parenthesized letters after 'Answer:'</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1803</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1803"/>
+    <updated>2026-10-28T05:32:56Z</updated>
+    <summary>Merged public contribution. +80 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>liseami/CCBaga #55: fix(network): escape known_hosts paths for OpenSSH</title>
     <id>https://github.com/liseami/CCBaga/pull/55</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1059"/>
     <updated>2026-10-26T18:51:27Z</updated>
     <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1071: fix(telemetry): read the command of codex shell and shell_command tool results</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1071</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1071"/>
-    <updated>2026-10-26T18:51:12Z</updated>
-    <summary>Merged public contribution. +177 / -127 across 13 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1074: fix(inventory): list skills named build, dist, vendor, tmp or temp</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1074</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1074"/>
-    <updated>2026-10-26T18:44:20Z</updated>
-    <summary>Merged public contribution. +24 / -12 across 2 changed files.</summary>
   </entry>
 </feed>

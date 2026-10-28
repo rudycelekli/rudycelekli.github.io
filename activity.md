@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-28 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,280**
+Records: **3,282**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-28 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1804: fix(mvbench): stop counting failed API answers as correct](https://github.com/open-compass/VLMEvalKit/pull/1804) | +79 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-28 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1803: fix(puzzles): read parenthesized letters after 'Answer:'](https://github.com/open-compass/VLMEvalKit/pull/1803) | +80 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#55: fix(network): escape known_hosts paths for OpenSSH](https://github.com/liseami/CCBaga/pull/55) | +36 / -5 across 3 files | 1 reviews · 0 comments |
 | 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#54: fix(linux): keep a POSIX region override after the codeset](https://github.com/liseami/CCBaga/pull/54) | +49 / -5 across 3 files | 1 reviews · 0 comments |
 | 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#53: fix(browser): accept an explicit default proxy port](https://github.com/liseami/CCBaga/pull/53) | +70 / -5 across 3 files | 1 reviews · 0 comments |

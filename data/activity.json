@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 79,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T04:24:05Z",
+      "deletions": 2,
+      "merged_at": "2026-10-28T05:35:49Z",
+      "number": 1804,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(mvbench): stop counting failed API answers as correct",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1804"
+    },
+    {
+      "additions": 80,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-24T04:21:17Z",
+      "deletions": 2,
+      "merged_at": "2026-10-28T05:32:56Z",
+      "number": 1803,
+      "repository": "open-compass/VLMEvalKit",
+      "repository_url": "https://github.com/open-compass/VLMEvalKit",
+      "reviews": 0,
+      "title": "fix(puzzles): read parenthesized letters after 'Answer:'",
+      "url": "https://github.com/open-compass/VLMEvalKit/pull/1803"
+    },
+    {
       "additions": 36,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -52512,7 +52544,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3280,
+  "record_count": 3282,
   "schema_version": 1,
   "updated_at_utc": "2026-10-28"
 }
