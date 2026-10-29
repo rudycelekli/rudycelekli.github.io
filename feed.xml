@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T22:48:38Z</updated>
+  <updated>2026-10-29T23:24:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4191: feat(synthetic): add referentially closed synthetic FHIR records</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4191</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4191"/>
+    <updated>2026-10-29T23:24:28Z</updated>
+    <summary>Merged public contribution. +679 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4187: feat(synthetic): add synthetic longitudinal trajectories</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4187</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3821"/>
     <updated>2026-10-29T07:30:25Z</updated>
     <summary>Merged public contribution. +52 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3820: fix(discord): download remote file replies before uploading</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3820</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3820"/>
-    <updated>2026-10-29T07:30:18Z</updated>
-    <summary>Merged public contribution. +152 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
