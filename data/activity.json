@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 41,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-25T15:16:50Z",
+      "deletions": 5,
+      "merged_at": "2026-10-29T05:35:45Z",
+      "number": 2051,
+      "repository": "HKUDS/Vibe-Trading",
+      "repository_url": "https://github.com/HKUDS/Vibe-Trading",
+      "reviews": 1,
+      "title": "fix(factors): raise GTJA #17 to the signed 5-day close change",
+      "url": "https://github.com/HKUDS/Vibe-Trading/pull/2051"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -53344,7 +53360,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3332,
+  "record_count": 3333,
   "schema_version": 1,
   "updated_at_utc": "2026-10-29"
 }

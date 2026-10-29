@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T04:54:35Z</updated>
+  <updated>2026-10-29T05:35:45Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2051: fix(factors): raise GTJA #17 to the signed 5-day close change</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2051</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2051"/>
+    <updated>2026-10-29T05:35:45Z</updated>
+    <summary>Merged public contribution. +41 / -5 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>addyosmani/agent-skills #713: fix(constraint-driven-development): Vitest coverage needs its provider installed</title>
     <id>https://github.com/addyosmani/agent-skills/pull/713</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1078"/>
     <updated>2026-10-28T14:50:06Z</updated>
     <summary>Merged public contribution. +483 / -262 across 12 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1805: fix(tdbench): read rotation results in every PRED_FORMAT</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1805</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1805"/>
-    <updated>2026-10-28T11:19:31Z</updated>
-    <summary>Merged public contribution. +90 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
