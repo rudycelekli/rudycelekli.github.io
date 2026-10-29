@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T16:50:53Z</updated>
+  <updated>2026-10-29T20:15:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5166: fix(logs): read complete newline-terminated tail lines</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5166</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5166"/>
+    <updated>2026-10-29T20:15:34Z</updated>
+    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #220: fix(dispatch): isolate reflection runs and recover abandoned owned queues</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/220</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/addyosmani/agent-skills/pull/727"/>
     <updated>2026-10-29T04:49:53Z</updated>
     <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #726: fix(security-and-hardening): return 404 before the ownership check reads a missing task</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/726</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/726"/>
-    <updated>2026-10-29T04:49:40Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
   </entry>
 </feed>

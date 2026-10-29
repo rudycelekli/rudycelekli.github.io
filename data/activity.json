@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 16,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-28T16:15:09Z",
+      "deletions": 1,
+      "merged_at": "2026-10-29T20:15:34Z",
+      "number": 5166,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(logs): read complete newline-terminated tail lines",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5166"
+    },
+    {
       "additions": 479,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 11,
@@ -53888,7 +53904,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3366,
+  "record_count": 3367,
   "schema_version": 1,
   "updated_at_utc": "2026-10-29"
 }
