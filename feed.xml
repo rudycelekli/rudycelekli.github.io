@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T21:25:36Z</updated>
+  <updated>2026-10-29T21:54:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4186: feat: verify offline integrity of synthetic release capsules</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4186</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4186"/>
+    <updated>2026-10-29T21:54:07Z</updated>
+    <summary>Merged public contribution. +381 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4183: feat(training): gate parallel corpus license and lineage (#2869)</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4183</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4183"/>
+    <updated>2026-10-29T21:50:41Z</updated>
+    <summary>Merged public contribution. +440 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4182: feat: validate synthetic truth alignment across declared artifact views</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4182</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4182"/>
+    <updated>2026-10-29T21:48:51Z</updated>
+    <summary>Merged public contribution. +521 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4171: feat: bind synthetic image text and label assets to provenance manifests</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4171</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4171"/>
+    <updated>2026-10-29T21:46:54Z</updated>
+    <summary>Merged public contribution. +290 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4164: feat: report independent synthetic fidelity axes and reference uncertainty</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4164</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4164"/>
+    <updated>2026-10-29T21:45:30Z</updated>
+    <summary>Merged public contribution. +346 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4160: feat: preserve synthetic ancestry and feasible strata across dataset splits</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4160</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4160"/>
+    <updated>2026-10-29T21:43:28Z</updated>
+    <summary>Merged public contribution. +588 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4185: feat: preserve adjudication boundaries in cross-source label consensus</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4185</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/mvschwarz/openrig/pull/2249"/>
     <updated>2026-10-29T06:39:10Z</updated>
     <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2051: fix(factors): raise GTJA #17 to the signed 5-day close change</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2051</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2051"/>
-    <updated>2026-10-29T05:35:45Z</updated>
-    <summary>Merged public contribution. +41 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #713: fix(constraint-driven-development): Vitest coverage needs its provider installed</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/713</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/713"/>
-    <updated>2026-10-29T04:54:35Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #712: fix(debugging-and-error-recovery): isolate a test file in a way Jest 30 still accepts</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/712</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/712"/>
-    <updated>2026-10-29T04:54:21Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #711: fix(ci-cd-and-automation): setup-node caches the npm cache, not node_modules</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/711</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/711"/>
-    <updated>2026-10-29T04:54:08Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #710: fix(api-and-interface-design): return the skill's error shape from the idempotency guard</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/710</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/710"/>
-    <updated>2026-10-29T04:53:55Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #708: fix(constraint-driven-development): read a ratchet's direction from its own table column</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/708</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/708"/>
-    <updated>2026-10-29T04:53:41Z</updated>
-    <summary>Merged public contribution. +34 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
