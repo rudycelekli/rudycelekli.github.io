@@ -1,13 +1,39 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-10-28 UTC**
+Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,282**
+Records: **3,308**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3814: fix(cli): write the web update status atomically so the in-progress guard cannot fail open](https://github.com/zhayujie/CowAgent/pull/3814) | +113 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4289: fix(install): write persistent shell env values verbatim](https://github.com/headroomlabs-ai/headroom/pull/4289) | +217 / -10 across 4 files | 6 reviews · 4 comments |
+| 2026-10-29 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1044: feat(web): inspect upstream responses from route handlers](https://github.com/tester-army/e2e/pull/1044) | +122 / -13 across 8 files | 8 reviews · 5 comments |
+| 2026-10-29 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1046: feat(web): clear selected cookies without resetting app storage](https://github.com/tester-army/e2e/pull/1046) | +175 / -6 across 10 files | 3 reviews · 5 comments |
+| 2026-10-28 | [tester-army/e2e](https://github.com/tester-army/e2e) | [#1048: feat(web): collect multiple downloads from one trigger](https://github.com/tester-army/e2e/pull/1048) | +344 / -67 across 10 files | 3 reviews · 6 comments |
+| 2026-10-28 | [morluto/rea](https://github.com/morluto/rea) | [#7526: fix(browser): preserve script exports with filesystem-unrepresentable paths](https://github.com/morluto/rea/pull/7526) | +85 / -2 across 4 files | 0 reviews · 3 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2069: fix(vision): track escapes when splitting GeoGebra command args](https://github.com/HKUDS/DeepTutor/pull/2069) | +32 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2068: fix(textbook_struct): keep the higher-page chapter hit when deduping](https://github.com/HKUDS/DeepTutor/pull/2068) | +35 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2067: fix(storage): escape LIKE wildcards in file library search](https://github.com/HKUDS/DeepTutor/pull/2067) | +20 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2066: fix(rag): strip only list markers from generated queries](https://github.com/HKUDS/DeepTutor/pull/2066) | +30 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2065: fix(api): strip control chars from Content-Disposition ASCII fallback](https://github.com/HKUDS/DeepTutor/pull/2065) | +31 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2064: fix(visualizers): normalize ids in lifecycle mutators like get()](https://github.com/HKUDS/DeepTutor/pull/2064) | +20 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2063: fix(learning): resolve 'lesson N' by rank, not 0-based order value](https://github.com/HKUDS/DeepTutor/pull/2063) | +28 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2060: fix(plugins): dedupe manifest dependencies by PEP 503 canonical name](https://github.com/HKUDS/DeepTutor/pull/2060) | +5 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2058: fix(textbook_struct): keep two-char 单元 chapter token intact](https://github.com/HKUDS/DeepTutor/pull/2058) | +10 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#41: fix(drill): render structured tool outputs as text](https://github.com/tigerless-labs/cost-xray/pull/41) | +15 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#31: fix(anthropic): read context beta headers case-insensitively](https://github.com/tigerless-labs/cost-xray/pull/31) | +12 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#52: fix(adapters): retain spaces in captured project paths](https://github.com/tigerless-labs/cost-xray/pull/52) | +27 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#34: fix(count-tokens): retry after transient counting failures](https://github.com/tigerless-labs/cost-xray/pull/34) | +25 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#35: fix(pricing): retain fetched prices when disk caching fails](https://github.com/tigerless-labs/cost-xray/pull/35) | +17 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#258: fix(lifecycle): prevent counter updates from recreating archived skills](https://github.com/tigerless-labs/autoharness/pull/258) | +132 / -10 across 7 files | 0 reviews · 0 comments |
+| 2026-10-28 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#237: fix: reject skills containing only frontmatter](https://github.com/tigerless-labs/autoharness/pull/237) | +50 / -0 across 4 files | 0 reviews · 2 comments |
+| 2026-10-28 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | [#1125: fix(jwt): accept valid JSON header whitespace](https://github.com/bee-san/Ciphey/pull/1125) | +36 / -2 across 1 files | 0 reviews · 1 comments |
+| 2026-10-28 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | [#1126: fix(decimal): honor explicit JavaScript UTF-16 code units](https://github.com/bee-san/Ciphey/pull/1126) | +65 / -11 across 1 files | 0 reviews · 1 comments |
+| 2026-10-28 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1078: fix(siem): escape log paths in the datadog and elastic yaml configs](https://github.com/Asymptote-Labs/agent-beacon/pull/1078) | +483 / -262 across 12 files | 0 reviews · 0 comments |
+| 2026-10-28 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1805: fix(tdbench): read rotation results in every PRED_FORMAT](https://github.com/open-compass/VLMEvalKit/pull/1805) | +90 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-28 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1804: fix(mvbench): stop counting failed API answers as correct](https://github.com/open-compass/VLMEvalKit/pull/1804) | +79 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-28 | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | [#1803: fix(puzzles): read parenthesized letters after 'Answer:'](https://github.com/open-compass/VLMEvalKit/pull/1803) | +80 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-10-28 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | [#55: fix(network): escape known_hosts paths for OpenSSH](https://github.com/liseami/CCBaga/pull/55) | +36 / -5 across 3 files | 1 reviews · 0 comments |

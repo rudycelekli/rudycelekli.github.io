@@ -4,8 +4,190 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-28T05:35:49Z</updated>
+  <updated>2026-10-29T02:18:51Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3814: fix(cli): write the web update status atomically so the in-progress guard cannot fail open</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3814</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3814"/>
+    <updated>2026-10-29T02:18:51Z</updated>
+    <summary>Merged public contribution. +113 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4289: fix(install): write persistent shell env values verbatim</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4289</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4289"/>
+    <updated>2026-10-29T01:59:23Z</updated>
+    <summary>Merged public contribution. +217 / -10 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #1044: feat(web): inspect upstream responses from route handlers</title>
+    <id>https://github.com/tester-army/e2e/pull/1044</id>
+    <link href="https://github.com/tester-army/e2e/pull/1044"/>
+    <updated>2026-10-29T00:32:28Z</updated>
+    <summary>Merged public contribution. +122 / -13 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #1046: feat(web): clear selected cookies without resetting app storage</title>
+    <id>https://github.com/tester-army/e2e/pull/1046</id>
+    <link href="https://github.com/tester-army/e2e/pull/1046"/>
+    <updated>2026-10-29T00:32:18Z</updated>
+    <summary>Merged public contribution. +175 / -6 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tester-army/e2e #1048: feat(web): collect multiple downloads from one trigger</title>
+    <id>https://github.com/tester-army/e2e/pull/1048</id>
+    <link href="https://github.com/tester-army/e2e/pull/1048"/>
+    <updated>2026-10-28T20:35:02Z</updated>
+    <summary>Merged public contribution. +344 / -67 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #7526: fix(browser): preserve script exports with filesystem-unrepresentable paths</title>
+    <id>https://github.com/morluto/rea/pull/7526</id>
+    <link href="https://github.com/morluto/rea/pull/7526"/>
+    <updated>2026-10-28T18:13:55Z</updated>
+    <summary>Merged public contribution. +85 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2069: fix(vision): track escapes when splitting GeoGebra command args</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2069</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2069"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2068: fix(textbook_struct): keep the higher-page chapter hit when deduping</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2068</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2068"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2067: fix(storage): escape LIKE wildcards in file library search</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2067</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2067"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2066: fix(rag): strip only list markers from generated queries</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2066</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2066"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2065: fix(api): strip control chars from Content-Disposition ASCII fallback</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2065</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2065"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +31 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2064: fix(visualizers): normalize ids in lifecycle mutators like get()</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2064</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2064"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +20 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2063: fix(learning): resolve 'lesson N' by rank, not 0-based order value</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2063</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2063"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +28 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2060: fix(plugins): dedupe manifest dependencies by PEP 503 canonical name</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2060</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2060"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +5 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2058: fix(textbook_struct): keep two-char 单元 chapter token intact</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2058</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2058"/>
+    <updated>2026-10-28T17:58:19Z</updated>
+    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #41: fix(drill): render structured tool outputs as text</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/41</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/41"/>
+    <updated>2026-10-28T17:03:12Z</updated>
+    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #31: fix(anthropic): read context beta headers case-insensitively</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/31</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/31"/>
+    <updated>2026-10-28T17:03:04Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #52: fix(adapters): retain spaces in captured project paths</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/52</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/52"/>
+    <updated>2026-10-28T17:02:54Z</updated>
+    <summary>Merged public contribution. +27 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #34: fix(count-tokens): retry after transient counting failures</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/34</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/34"/>
+    <updated>2026-10-28T17:02:25Z</updated>
+    <summary>Merged public contribution. +25 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #35: fix(pricing): retain fetched prices when disk caching fails</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/35</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/35"/>
+    <updated>2026-10-28T17:01:08Z</updated>
+    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #258: fix(lifecycle): prevent counter updates from recreating archived skills</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/258</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/258"/>
+    <updated>2026-10-28T16:39:52Z</updated>
+    <summary>Merged public contribution. +132 / -10 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #237: fix: reject skills containing only frontmatter</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/237</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/237"/>
+    <updated>2026-10-28T16:39:52Z</updated>
+    <summary>Merged public contribution. +50 / -0 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/Ciphey #1125: fix(jwt): accept valid JSON header whitespace</title>
+    <id>https://github.com/bee-san/Ciphey/pull/1125</id>
+    <link href="https://github.com/bee-san/Ciphey/pull/1125"/>
+    <updated>2026-10-28T15:41:58Z</updated>
+    <summary>Merged public contribution. +36 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/Ciphey #1126: fix(decimal): honor explicit JavaScript UTF-16 code units</title>
+    <id>https://github.com/bee-san/Ciphey/pull/1126</id>
+    <link href="https://github.com/bee-san/Ciphey/pull/1126"/>
+    <updated>2026-10-28T15:41:37Z</updated>
+    <summary>Merged public contribution. +65 / -11 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1078: fix(siem): escape log paths in the datadog and elastic yaml configs</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1078</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1078"/>
+    <updated>2026-10-28T14:50:06Z</updated>
+    <summary>Merged public contribution. +483 / -262 across 12 changed files.</summary>
+  </entry>
+  <entry>
+    <title>open-compass/VLMEvalKit #1805: fix(tdbench): read rotation results in every PRED_FORMAT</title>
+    <id>https://github.com/open-compass/VLMEvalKit/pull/1805</id>
+    <link href="https://github.com/open-compass/VLMEvalKit/pull/1805"/>
+    <updated>2026-10-28T11:19:31Z</updated>
+    <summary>Merged public contribution. +90 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>open-compass/VLMEvalKit #1804: fix(mvbench): stop counting failed API answers as correct</title>
     <id>https://github.com/open-compass/VLMEvalKit/pull/1804</id>
@@ -173,187 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/89"/>
     <updated>2026-10-27T16:04:23Z</updated>
     <summary>Merged public contribution. +25 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2059: fix(config): stop chat-settings read from corrupting shipped defaults</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2059</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2059"/>
-    <updated>2026-10-27T16:00:22Z</updated>
-    <summary>Merged public contribution. +116 / -6 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #216: fix(capture): include truncation markers in byte budgets</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/216</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/216"/>
-    <updated>2026-10-27T12:33:52Z</updated>
-    <summary>Merged public contribution. +66 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1807: fix(MedQ): enforce judge score bounds without truncating numeric tokens</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1807</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1807"/>
-    <updated>2026-10-27T11:56:45Z</updated>
-    <summary>Merged public contribution. +73 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9851: Preserve template namespaces before terminal angle operators</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9851</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9851"/>
-    <updated>2026-10-27T09:14:03Z</updated>
-    <summary>Merged public contribution. +12 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1784: fix(inference): reuse MMBench V11 JSON prediction tables</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1784</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1784"/>
-    <updated>2026-10-27T08:01:26Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1414: A Trino decimal reads as a number, so SUM(amount) is 1234.5 instead of "1234.50"</title>
-    <id>https://github.com/deeplethe/utopia/pull/1414</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1414"/>
-    <updated>2026-10-27T07:37:11Z</updated>
-    <summary>Merged public contribution. +55 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1413: A decimal longer than a double keeps every digit, so 12345678901234567.89 is not 1.2345678901234568e16</title>
-    <id>https://github.com/deeplethe/utopia/pull/1413</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1413"/>
-    <updated>2026-10-27T07:30:33Z</updated>
-    <summary>Merged public contribution. +58 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1745: fix(images): expand one listed path for multiple images</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1745</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1745"/>
-    <updated>2026-10-27T07:29:16Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1412: A Snowflake date or timestamp reads as a date, so 18262 is 2020-01-01</title>
-    <id>https://github.com/deeplethe/utopia/pull/1412</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1412"/>
-    <updated>2026-10-27T07:24:11Z</updated>
-    <summary>Merged public contribution. +101 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1398: A quantity read into a larger declared unit keeps its digits, so 350万元 under 亿元 shows 0.035 instead of 0.04</title>
-    <id>https://github.com/deeplethe/utopia/pull/1398</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1398"/>
-    <updated>2026-10-27T07:14:12Z</updated>
-    <summary>Merged public contribution. +14 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7207: fix(setup): report Kuna cache aliases consistently</title>
-    <id>https://github.com/morluto/rea/pull/7207</id>
-    <link href="https://github.com/morluto/rea/pull/7207"/>
-    <updated>2026-10-27T07:13:47Z</updated>
-    <summary>Merged public contribution. +318 / -19 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1735: Use canonical V2PBench video paths for decoding and cache validation</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1735</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1735"/>
-    <updated>2026-10-27T06:41:41Z</updated>
-    <summary>Merged public contribution. +191 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7206: fix(harmony): classify exact manifest names once</title>
-    <id>https://github.com/morluto/rea/pull/7206</id>
-    <link href="https://github.com/morluto/rea/pull/7206"/>
-    <updated>2026-10-27T05:30:24Z</updated>
-    <summary>Merged public contribution. +586 / -121 across 17 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7205: fix(apk): match signer serials by signed integer identity</title>
-    <id>https://github.com/morluto/rea/pull/7205</id>
-    <link href="https://github.com/morluto/rea/pull/7205"/>
-    <updated>2026-10-27T04:45:44Z</updated>
-    <summary>Merged public contribution. +91988 / -18813 across 1661 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7204: fix(browser): normalize discovery wire facts at the shared boundary</title>
-    <id>https://github.com/morluto/rea/pull/7204</id>
-    <link href="https://github.com/morluto/rea/pull/7204"/>
-    <updated>2026-10-27T04:16:51Z</updated>
-    <summary>Merged public contribution. +142 / -42 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7203: fix(browser): keep opaque cookie partitions unaligned</title>
-    <id>https://github.com/morluto/rea/pull/7203</id>
-    <link href="https://github.com/morluto/rea/pull/7203"/>
-    <updated>2026-10-27T02:16:16Z</updated>
-    <summary>Merged public contribution. +51803 / -8903 across 959 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4255: fix(models): assemble multiline provider SSE packets</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4255</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4255"/>
-    <updated>2026-10-27T01:10:31Z</updated>
-    <summary>Merged public contribution. +312 / -22 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora #4253: fix(models): preserve string fields in streamed tool arguments</title>
-    <id>https://github.com/Tencent/WeKnora/pull/4253</id>
-    <link href="https://github.com/Tencent/WeKnora/pull/4253"/>
-    <updated>2026-10-27T01:10:26Z</updated>
-    <summary>Merged public contribution. +169 / -34 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #468: fix(import): keep angle brackets in draw.io labels</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/468</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/468"/>
-    <updated>2026-10-26T21:41:57Z</updated>
-    <summary>Merged public contribution. +73 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #469: fix(import): report an outer Excalidraw group</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/469</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/469"/>
-    <updated>2026-10-26T21:36:49Z</updated>
-    <summary>Merged public contribution. +60 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1076: fix(inventory): redact auth-scheme credentials and secrets inside definition strings</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1076</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1076"/>
-    <updated>2026-10-26T19:17:48Z</updated>
-    <summary>Merged public contribution. +281 / -93 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #567: fix(captures): keep relative ages inside their time buckets</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/567</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/567"/>
-    <updated>2026-10-26T19:10:13Z</updated>
-    <summary>Merged public contribution. +21 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1070: fix(harness): keep codex config sections whose header has a comment</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1070</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1070"/>
-    <updated>2026-10-26T19:05:52Z</updated>
-    <summary>Merged public contribution. +318 / -182 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1073: fix(gitlink): read commits correctly when log.showSignature is set</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1073</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1073"/>
-    <updated>2026-10-26T19:03:04Z</updated>
-    <summary>Merged public contribution. +91 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1077: fix(onboarding): stop modified arrow keys from picking an option</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1077</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1077"/>
-    <updated>2026-10-26T18:59:57Z</updated>
-    <summary>Merged public contribution. +226 / -316 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1059: fix(hooks): recognize --platform= hooks in shared settings files</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1059</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1059"/>
-    <updated>2026-10-26T18:51:27Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
