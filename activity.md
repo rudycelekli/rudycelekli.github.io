@@ -4,10 +4,16 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,336**
+Records: **3,342**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3813: fix(modelscope): tolerate unsolicited empty-choices stream chunks](https://github.com/zhayujie/CowAgent/pull/3813) | +56 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3821: fix(chatgpt): harden cleanup for direct vision calls](https://github.com/zhayujie/CowAgent/pull/3821) | +52 / -11 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3820: fix(discord): download remote file replies before uploading](https://github.com/zhayujie/CowAgent/pull/3820) | +152 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3819: fix(slack): download remote file replies before uploading](https://github.com/zhayujie/CowAgent/pull/3819) | +119 / -4 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3818: fix(telegram): download remote file replies before uploading](https://github.com/zhayujie/CowAgent/pull/3818) | +162 / -0 across 2 files | 0 reviews · 2 comments |
+| 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3798: fix(documents): preserve displayed Word simple-field results](https://github.com/zhayujie/CowAgent/pull/3798) | +95 / -4 across 2 files | 0 reviews · 2 comments |
 | 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3807: fix(scheduler): preserve edits made during task execution](https://github.com/zhayujie/CowAgent/pull/3807) | +243 / -9 across 3 files | 0 reviews · 2 comments |
 | 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3802: fix(browser): match managed profile paths without sibling-prefix collisions](https://github.com/zhayujie/CowAgent/pull/3802) | +48 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-10-29 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#2249: fix(ui): show completed mission labels after proof acceptance](https://github.com/mvschwarz/openrig/pull/2249) | +42 / -0 across 2 files | 1 reviews · 2 comments |

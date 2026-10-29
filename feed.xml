@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T07:29:54Z</updated>
+  <updated>2026-10-29T07:30:32Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3813: fix(modelscope): tolerate unsolicited empty-choices stream chunks</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3813</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3813"/>
+    <updated>2026-10-29T07:30:32Z</updated>
+    <summary>Merged public contribution. +56 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3821: fix(chatgpt): harden cleanup for direct vision calls</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3821</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3821"/>
+    <updated>2026-10-29T07:30:25Z</updated>
+    <summary>Merged public contribution. +52 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3820: fix(discord): download remote file replies before uploading</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3820</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3820"/>
+    <updated>2026-10-29T07:30:18Z</updated>
+    <summary>Merged public contribution. +152 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3819: fix(slack): download remote file replies before uploading</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3819</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3819"/>
+    <updated>2026-10-29T07:30:12Z</updated>
+    <summary>Merged public contribution. +119 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3818: fix(telegram): download remote file replies before uploading</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3818</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3818"/>
+    <updated>2026-10-29T07:30:05Z</updated>
+    <summary>Merged public contribution. +162 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3798: fix(documents): preserve displayed Word simple-field results</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3798</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3798"/>
+    <updated>2026-10-29T07:29:59Z</updated>
+    <summary>Merged public contribution. +95 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3807: fix(scheduler): preserve edits made during task execution</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3807</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/tigerless-labs/cost-xray/pull/41"/>
     <updated>2026-10-28T17:03:12Z</updated>
     <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #31: fix(anthropic): read context beta headers case-insensitively</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/31</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/31"/>
-    <updated>2026-10-28T17:03:04Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #52: fix(adapters): retain spaces in captured project paths</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/52</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/52"/>
-    <updated>2026-10-28T17:02:54Z</updated>
-    <summary>Merged public contribution. +27 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #34: fix(count-tokens): retry after transient counting failures</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/34</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/34"/>
-    <updated>2026-10-28T17:02:25Z</updated>
-    <summary>Merged public contribution. +25 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #35: fix(pricing): retain fetched prices when disk caching fails</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/35</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/35"/>
-    <updated>2026-10-28T17:01:08Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #258: fix(lifecycle): prevent counter updates from recreating archived skills</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/258</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/258"/>
-    <updated>2026-10-28T16:39:52Z</updated>
-    <summary>Merged public contribution. +132 / -10 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #237: fix: reject skills containing only frontmatter</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/237</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/237"/>
-    <updated>2026-10-28T16:39:52Z</updated>
-    <summary>Merged public contribution. +50 / -0 across 4 changed files.</summary>
   </entry>
 </feed>
