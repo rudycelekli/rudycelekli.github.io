@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 479,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 11,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-09T14:57:15Z",
+      "deletions": 14,
+      "merged_at": "2026-10-29T16:50:53Z",
+      "number": 220,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(dispatch): isolate reflection runs and recover abandoned owned queues",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/220"
+    },
+    {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:49Z",
+      "deletions": 2,
+      "merged_at": "2026-10-29T16:33:52Z",
+      "number": 233,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix: validate the Python subfile content being promoted",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/233"
+    },
+    {
       "additions": 27,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -53856,7 +53888,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3364,
+  "record_count": 3366,
   "schema_version": 1,
   "updated_at_utc": "2026-10-29"
 }
