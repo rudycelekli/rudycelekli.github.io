@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 123,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 2,
+      "created_at": "2026-10-24T03:15:34Z",
+      "deletions": 9,
+      "merged_at": "2026-10-29T10:11:10Z",
+      "number": 1767,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 1,
+      "title": "fix(cli): escape registry-supplied text in catalog search and show",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1767"
+    },
+    {
+      "additions": 88,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-24T21:43:51Z",
+      "deletions": 0,
+      "merged_at": "2026-10-29T09:59:51Z",
+      "number": 1775,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 1,
+      "title": "fix(httpapi): percent-decode the secret name on DELETE /secrets/{name}",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1775"
+    },
+    {
       "additions": 35,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -53552,7 +53584,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3345,
+  "record_count": 3347,
   "schema_version": 1,
   "updated_at_utc": "2026-10-29"
 }

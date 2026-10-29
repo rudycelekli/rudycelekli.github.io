@@ -4,10 +4,12 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,345**
+Records: **3,347**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1767: fix(cli): escape registry-supplied text in catalog search and show](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1767) | +123 / -9 across 2 files | 1 reviews · 4 comments |
+| 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1775: fix(httpapi): percent-decode the secret name on DELETE /secrets/{name}](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1775) | +88 / -0 across 2 files | 1 reviews · 3 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1757: fix(oauth): drop the query string from the legacy metadata discovery URL](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757) | +35 / -1 across 2 files | 1 reviews · 3 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1778: fix(isolation): detect the runtime of Windows launchers with an .exe/.cmd suffix](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778) | +72 / -7 across 4 files | 1 reviews · 3 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1782: fix(httpapi): refuse config-to-secret for values that embed a reference](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782) | +42 / -7 across 2 files | 1 reviews · 3 comments |
