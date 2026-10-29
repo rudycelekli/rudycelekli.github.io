@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T22:23:14Z</updated>
+  <updated>2026-10-29T22:48:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4187: feat(synthetic): add synthetic longitudinal trajectories</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4187</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4187"/>
+    <updated>2026-10-29T22:48:38Z</updated>
+    <summary>Merged public contribution. +483 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4184: feat(synthetic): add synthetic clinical note grammars</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4184</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4184"/>
+    <updated>2026-10-29T22:45:52Z</updated>
+    <summary>Merged public contribution. +389 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4179: feat(synthetic): add synthetic prior authorization packets</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4179</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4179"/>
+    <updated>2026-10-29T22:43:21Z</updated>
+    <summary>Merged public contribution. +570 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4176: feat(synthetic): add synthetic medication course truth</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4176</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4176"/>
+    <updated>2026-10-29T22:40:44Z</updated>
+    <summary>Merged public contribution. +650 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4172: feat(synthetic): add declared synthetic lab time series</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4172</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4172"/>
+    <updated>2026-10-29T22:37:57Z</updated>
+    <summary>Merged public contribution. +488 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4168: feat: build versioned synthetic dataset recipes through the CLI</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4168</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3820"/>
     <updated>2026-10-29T07:30:18Z</updated>
     <summary>Merged public contribution. +152 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3819: fix(slack): download remote file replies before uploading</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3819</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3819"/>
-    <updated>2026-10-29T07:30:12Z</updated>
-    <summary>Merged public contribution. +119 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3818: fix(telegram): download remote file replies before uploading</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3818</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3818"/>
-    <updated>2026-10-29T07:30:05Z</updated>
-    <summary>Merged public contribution. +162 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3798: fix(documents): preserve displayed Word simple-field results</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3798</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3798"/>
-    <updated>2026-10-29T07:29:59Z</updated>
-    <summary>Merged public contribution. +95 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3807: fix(scheduler): preserve edits made during task execution</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3807</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3807"/>
-    <updated>2026-10-29T07:29:54Z</updated>
-    <summary>Merged public contribution. +243 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3802: fix(browser): match managed profile paths without sibling-prefix collisions</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3802</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3802"/>
-    <updated>2026-10-29T07:29:48Z</updated>
-    <summary>Merged public contribution. +48 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
