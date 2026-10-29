@@ -4,8 +4,176 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T02:18:51Z</updated>
+  <updated>2026-10-29T04:54:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>addyosmani/agent-skills #713: fix(constraint-driven-development): Vitest coverage needs its provider installed</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/713</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/713"/>
+    <updated>2026-10-29T04:54:35Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #712: fix(debugging-and-error-recovery): isolate a test file in a way Jest 30 still accepts</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/712</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/712"/>
+    <updated>2026-10-29T04:54:21Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #711: fix(ci-cd-and-automation): setup-node caches the npm cache, not node_modules</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/711</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/711"/>
+    <updated>2026-10-29T04:54:08Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #710: fix(api-and-interface-design): return the skill's error shape from the idempotency guard</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/710</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/710"/>
+    <updated>2026-10-29T04:53:55Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #708: fix(constraint-driven-development): read a ratchet's direction from its own table column</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/708</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/708"/>
+    <updated>2026-10-29T04:53:41Z</updated>
+    <summary>Merged public contribution. +34 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #707: fix(documentation-and-adrs): make the GOOD comment describe the fixed-window code</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/707</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/707"/>
+    <updated>2026-10-29T04:53:28Z</updated>
+    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #706: fix(frontend-ui-engineering): pass the toggle and delete handlers to TaskItem</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/706</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/706"/>
+    <updated>2026-10-29T04:53:15Z</updated>
+    <summary>Merged public contribution. +4 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #705: docs(gemini-cli): point MCP setup at settings.json, not config.json</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/705</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/705"/>
+    <updated>2026-10-29T04:53:02Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #704: docs(windsurf): write a real separator between skills in .windsurfrules</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/704</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/704"/>
+    <updated>2026-10-29T04:52:49Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #702: fix(validation): match whole filenames in the artifact-path guard</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/702</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/702"/>
+    <updated>2026-10-29T04:52:35Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #691: fix(ci-cd-and-automation): pass the rollback input through env, not the script</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/691</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/691"/>
+    <updated>2026-10-29T04:52:21Z</updated>
+    <summary>Merged public contribution. +5 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #688: fix(testing-patterns): locate the Playwright list item by its text</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/688</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/688"/>
+    <updated>2026-10-29T04:52:08Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #729: fix(constraint-driven-development): scan the working tree for secrets, not only commits</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/729</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/729"/>
+    <updated>2026-10-29T04:50:21Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #728: fix(source-driven-development): quote a sentence the cited React 19 post actually contains</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/728</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/728"/>
+    <updated>2026-10-29T04:50:07Z</updated>
+    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #727: fix(performance-checklist): point Lighthouse at http://localhost, which local dev servers serve</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/727</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/727"/>
+    <updated>2026-10-29T04:49:53Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #726: fix(security-and-hardening): return 404 before the ownership check reads a missing task</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/726</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/726"/>
+    <updated>2026-10-29T04:49:40Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #725: fix(accessibility): give the loading region a role so its label is exposed</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/725</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/725"/>
+    <updated>2026-10-29T04:49:27Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #724: fix(idea-refine): run the helper from the installed skill directory</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/724</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/724"/>
+    <updated>2026-10-29T04:49:14Z</updated>
+    <summary>Merged public contribution. +4 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #723: docs(cursor): link the rules and skills pages</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/723</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/723"/>
+    <updated>2026-10-29T04:49:00Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #721: fix(performance): invoke Lighthouse CI, not the unscoped lhci package</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/721</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/721"/>
+    <updated>2026-10-29T04:48:46Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #720: fix(accessibility): run the axe CLI, which has a binary</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/720</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/720"/>
+    <updated>2026-10-29T04:48:33Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #719: fix(accessibility): associate HTML labels with their controls</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/719</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/719"/>
+    <updated>2026-10-29T04:48:20Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #690: fix(skills): pass --fix through npm run to the linter</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/690</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/690"/>
+    <updated>2026-10-29T04:42:06Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #692: fix(frontend-ui-engineering): declare the empty-state action prop</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/692</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/692"/>
+    <updated>2026-10-29T04:41:59Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3814: fix(cli): write the web update status atomically so the in-progress guard cannot fail open</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3814</id>
@@ -187,173 +355,5 @@
     <link href="https://github.com/open-compass/VLMEvalKit/pull/1805"/>
     <updated>2026-10-28T11:19:31Z</updated>
     <summary>Merged public contribution. +90 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1804: fix(mvbench): stop counting failed API answers as correct</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1804</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1804"/>
-    <updated>2026-10-28T05:35:49Z</updated>
-    <summary>Merged public contribution. +79 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>open-compass/VLMEvalKit #1803: fix(puzzles): read parenthesized letters after 'Answer:'</title>
-    <id>https://github.com/open-compass/VLMEvalKit/pull/1803</id>
-    <link href="https://github.com/open-compass/VLMEvalKit/pull/1803"/>
-    <updated>2026-10-28T05:32:56Z</updated>
-    <summary>Merged public contribution. +80 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #55: fix(network): escape known_hosts paths for OpenSSH</title>
-    <id>https://github.com/liseami/CCBaga/pull/55</id>
-    <link href="https://github.com/liseami/CCBaga/pull/55"/>
-    <updated>2026-10-28T03:02:32Z</updated>
-    <summary>Merged public contribution. +36 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #54: fix(linux): keep a POSIX region override after the codeset</title>
-    <id>https://github.com/liseami/CCBaga/pull/54</id>
-    <link href="https://github.com/liseami/CCBaga/pull/54"/>
-    <updated>2026-10-28T03:02:32Z</updated>
-    <summary>Merged public contribution. +49 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>liseami/CCBaga #53: fix(browser): accept an explicit default proxy port</title>
-    <id>https://github.com/liseami/CCBaga/pull/53</id>
-    <link href="https://github.com/liseami/CCBaga/pull/53"/>
-    <updated>2026-10-28T03:02:32Z</updated>
-    <summary>Merged public contribution. +70 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1037: feat(locator): support hasNotText filters across engines</title>
-    <id>https://github.com/tester-army/e2e/pull/1037</id>
-    <link href="https://github.com/tester-army/e2e/pull/1037"/>
-    <updated>2026-10-27T23:31:38Z</updated>
-    <summary>Merged public contribution. +124 / -57 across 18 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1149: fix(duration): keep rounded labels inside the next unit</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1149</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1149"/>
-    <updated>2026-10-27T20:52:28Z</updated>
-    <summary>Merged public contribution. +86 / -21 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>cathrynlavery/diagram-design #467: fix(exploded): reject a CSS transform on projected geometry</title>
-    <id>https://github.com/cathrynlavery/diagram-design/pull/467</id>
-    <link href="https://github.com/cathrynlavery/diagram-design/pull/467"/>
-    <updated>2026-10-27T20:01:07Z</updated>
-    <summary>Merged public contribution. +119 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1150: fix(windows): describe an empty window index range</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1150</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1150"/>
-    <updated>2026-10-27T19:35:08Z</updated>
-    <summary>Merged public contribution. +110 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1148: Show documentation read-when hints without YAML quotes.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1148</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1148"/>
-    <updated>2026-10-27T19:27:41Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1147: Point published docs source links at the repository.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1147</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1147"/>
-    <updated>2026-10-27T19:27:34Z</updated>
-    <summary>Merged public contribution. +36 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1144: Render Markdown images on the docs site.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1144</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1144"/>
-    <updated>2026-10-27T19:27:26Z</updated>
-    <summary>Merged public contribution. +47 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1143: Render documentation task lists as checkboxes.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1143</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1143"/>
-    <updated>2026-10-27T19:27:18Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1142: Keep URL schemes inside highlighted code strings.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1142</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1142"/>
-    <updated>2026-10-27T19:27:12Z</updated>
-    <summary>Merged public contribution. +54 / -22 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>openclaw/Peekaboo #1141: Restore the missing cells in the smart-select metadata table.</title>
-    <id>https://github.com/openclaw/Peekaboo/pull/1141</id>
-    <link href="https://github.com/openclaw/Peekaboo/pull/1141"/>
-    <updated>2026-10-27T19:27:04Z</updated>
-    <summary>Merged public contribution. +28 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2061: fix(co_writer): don't crash DOCX export on a literal NUL in Markdown</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2061</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2061"/>
-    <updated>2026-10-27T16:32:05Z</updated>
-    <summary>Merged public contribution. +146 / -5 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #92: Refresh schema projections when schema truth files change</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/92</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/92"/>
-    <updated>2026-10-27T16:26:26Z</updated>
-    <summary>Merged public contribution. +24 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2062: fix(search): don't let flagged long references bypass Moderation</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2062</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2062"/>
-    <updated>2026-10-27T16:25:02Z</updated>
-    <summary>Merged public contribution. +119 / -9 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #77: Reject reversed memory validity intervals before writing truth</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/77</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/77"/>
-    <updated>2026-10-27T16:20:12Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #68: fix(core): evict cached memories when their truth becomes invalid</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/68</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/68"/>
-    <updated>2026-10-27T16:17:14Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #70: fix(core): preserve provenance when archive filenames collide</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/70</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/70"/>
-    <updated>2026-10-27T16:14:38Z</updated>
-    <summary>Merged public contribution. +22 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #81: Keep the MCP stdio server alive after malformed request frames</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/81</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/81"/>
-    <updated>2026-10-27T16:13:36Z</updated>
-    <summary>Merged public contribution. +53 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #84: Enforce declared MCP argument types before core calls</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/84</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/84"/>
-    <updated>2026-10-27T16:10:28Z</updated>
-    <summary>Merged public contribution. +66 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #89: Preflight all import file entries before publishing changes</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/89</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/89"/>
-    <updated>2026-10-27T16:04:23Z</updated>
-    <summary>Merged public contribution. +25 / -4 across 3 changed files.</summary>
   </entry>
 </feed>
