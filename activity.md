@@ -4,10 +4,13 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,342**
+Records: **3,345**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1757: fix(oauth): drop the query string from the legacy metadata discovery URL](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757) | +35 / -1 across 2 files | 1 reviews · 3 comments |
+| 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1778: fix(isolation): detect the runtime of Windows launchers with an .exe/.cmd suffix](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778) | +72 / -7 across 4 files | 1 reviews · 3 comments |
+| 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1782: fix(httpapi): refuse config-to-secret for values that embed a reference](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782) | +42 / -7 across 2 files | 1 reviews · 3 comments |
 | 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3813: fix(modelscope): tolerate unsolicited empty-choices stream chunks](https://github.com/zhayujie/CowAgent/pull/3813) | +56 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3821: fix(chatgpt): harden cleanup for direct vision calls](https://github.com/zhayujie/CowAgent/pull/3821) | +52 / -11 across 2 files | 0 reviews · 2 comments |
 | 2026-10-29 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3820: fix(discord): download remote file replies before uploading](https://github.com/zhayujie/CowAgent/pull/3820) | +152 / -2 across 2 files | 0 reviews · 2 comments |

@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T07:30:32Z</updated>
+  <updated>2026-10-29T09:51:08Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1757: fix(oauth): drop the query string from the legacy metadata discovery URL</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757"/>
+    <updated>2026-10-29T09:51:08Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1778: fix(isolation): detect the runtime of Windows launchers with an .exe/.cmd suffix</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778"/>
+    <updated>2026-10-29T09:37:55Z</updated>
+    <summary>Merged public contribution. +72 / -7 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1782: fix(httpapi): refuse config-to-secret for values that embed a reference</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782"/>
+    <updated>2026-10-29T09:37:46Z</updated>
+    <summary>Merged public contribution. +42 / -7 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>zhayujie/CowAgent #3813: fix(modelscope): tolerate unsolicited empty-choices stream chunks</title>
     <id>https://github.com/zhayujie/CowAgent/pull/3813</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2063"/>
     <updated>2026-10-28T17:58:19Z</updated>
     <summary>Merged public contribution. +28 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2060: fix(plugins): dedupe manifest dependencies by PEP 503 canonical name</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2060</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2060"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +5 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2058: fix(textbook_struct): keep two-char 单元 chapter token intact</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2058</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2058"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #41: fix(drill): render structured tool outputs as text</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/41</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/41"/>
-    <updated>2026-10-28T17:03:12Z</updated>
-    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

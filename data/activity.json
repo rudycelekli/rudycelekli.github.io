@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 35,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-24T02:54:35Z",
+      "deletions": 1,
+      "merged_at": "2026-10-29T09:51:08Z",
+      "number": 1757,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 1,
+      "title": "fix(oauth): drop the query string from the legacy metadata discovery URL",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757"
+    },
+    {
+      "additions": 72,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-24T22:13:29Z",
+      "deletions": 7,
+      "merged_at": "2026-10-29T09:37:55Z",
+      "number": 1778,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 1,
+      "title": "fix(isolation): detect the runtime of Windows launchers with an .exe/.cmd suffix",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778"
+    },
+    {
+      "additions": 42,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-25T15:12:32Z",
+      "deletions": 7,
+      "merged_at": "2026-10-29T09:37:46Z",
+      "number": 1782,
+      "repository": "smart-mcp-proxy/mcpproxy-go",
+      "repository_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+      "reviews": 1,
+      "title": "fix(httpapi): refuse config-to-secret for values that embed a reference",
+      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782"
+    },
+    {
       "additions": 56,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -53504,7 +53552,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3342,
+  "record_count": 3345,
   "schema_version": 1,
   "updated_at_utc": "2026-10-29"
 }
