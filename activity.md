@@ -4,10 +4,25 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,347**
+Records: **3,362**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4550: fix(counting): retain one native deadline across exact count phases](https://github.com/morluto/jacobian/pull/4550) | +124 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4549: fix(interval): observe native execution controls after Arb evaluation](https://github.com/morluto/jacobian/pull/4549) | +288 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4548: fix(transport): serialize declared operation result aliases consistently](https://github.com/morluto/jacobian/pull/4548) | +153 / -13 across 7 files | 0 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4547: fix(residue): bound infinity extraction independently of finite poles](https://github.com/morluto/jacobian/pull/4547) | +498 / -16 across 6 files | 1 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4546: fix(series): admit bounded affine composition across full prefixes](https://github.com/morluto/jacobian/pull/4546) | +470 / -9 across 5 files | 1 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4545: fix(process): preserve cancellation during worker setup and exit](https://github.com/morluto/jacobian/pull/4545) | +126 / -9 across 2 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4544: fix(setup): update linked config targets without replacing symlinks](https://github.com/morluto/jacobian/pull/4544) | +183 / -9 across 2 files | 1 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4543: fix(setup): read JSONC registrations from own properties](https://github.com/morluto/jacobian/pull/4543) | +43 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4542: fix(cli): bound file reads before strict JSON admission](https://github.com/morluto/jacobian/pull/4542) | +111 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4541: fix(radix): preserve worker timeout classification](https://github.com/morluto/jacobian/pull/4541) | +139 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4540: fix(differential-forms): admit native axes before zero shortcuts](https://github.com/morluto/jacobian/pull/4540) | +156 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4539: fix(setup): update quoted TOML headers without altering other settings](https://github.com/morluto/jacobian/pull/4539) | +104 / -14 across 2 files | 1 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4538: fix(setup): reject ambiguous duplicate JSONC keys](https://github.com/morluto/jacobian/pull/4538) | +46 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4537: fix(setup): preserve permissions during atomic configuration updates](https://github.com/morluto/jacobian/pull/4537) | +82 / -3 across 2 files | 1 reviews · 1 comments |
+| 2026-10-29 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4551: fix(series): close linear prefix arithmetic over admitted outputs](https://github.com/morluto/jacobian/pull/4551) | +580 / -23 across 7 files | 0 reviews · 1 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1767: fix(cli): escape registry-supplied text in catalog search and show](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1767) | +123 / -9 across 2 files | 1 reviews · 4 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1775: fix(httpapi): percent-decode the secret name on DELETE /secrets/{name}](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1775) | +88 / -0 across 2 files | 1 reviews · 3 comments |
 | 2026-10-29 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1757: fix(oauth): drop the query string from the legacy metadata discovery URL](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757) | +35 / -1 across 2 files | 1 reviews · 3 comments |

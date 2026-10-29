@@ -4,8 +4,113 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T10:11:10Z</updated>
+  <updated>2026-10-29T14:08:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/jacobian #4550: fix(counting): retain one native deadline across exact count phases</title>
+    <id>https://github.com/morluto/jacobian/pull/4550</id>
+    <link href="https://github.com/morluto/jacobian/pull/4550"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +124 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4549: fix(interval): observe native execution controls after Arb evaluation</title>
+    <id>https://github.com/morluto/jacobian/pull/4549</id>
+    <link href="https://github.com/morluto/jacobian/pull/4549"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +288 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4548: fix(transport): serialize declared operation result aliases consistently</title>
+    <id>https://github.com/morluto/jacobian/pull/4548</id>
+    <link href="https://github.com/morluto/jacobian/pull/4548"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +153 / -13 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4547: fix(residue): bound infinity extraction independently of finite poles</title>
+    <id>https://github.com/morluto/jacobian/pull/4547</id>
+    <link href="https://github.com/morluto/jacobian/pull/4547"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +498 / -16 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4546: fix(series): admit bounded affine composition across full prefixes</title>
+    <id>https://github.com/morluto/jacobian/pull/4546</id>
+    <link href="https://github.com/morluto/jacobian/pull/4546"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +470 / -9 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4545: fix(process): preserve cancellation during worker setup and exit</title>
+    <id>https://github.com/morluto/jacobian/pull/4545</id>
+    <link href="https://github.com/morluto/jacobian/pull/4545"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +126 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4544: fix(setup): update linked config targets without replacing symlinks</title>
+    <id>https://github.com/morluto/jacobian/pull/4544</id>
+    <link href="https://github.com/morluto/jacobian/pull/4544"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +183 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4543: fix(setup): read JSONC registrations from own properties</title>
+    <id>https://github.com/morluto/jacobian/pull/4543</id>
+    <link href="https://github.com/morluto/jacobian/pull/4543"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4542: fix(cli): bound file reads before strict JSON admission</title>
+    <id>https://github.com/morluto/jacobian/pull/4542</id>
+    <link href="https://github.com/morluto/jacobian/pull/4542"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +111 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4541: fix(radix): preserve worker timeout classification</title>
+    <id>https://github.com/morluto/jacobian/pull/4541</id>
+    <link href="https://github.com/morluto/jacobian/pull/4541"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +139 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4540: fix(differential-forms): admit native axes before zero shortcuts</title>
+    <id>https://github.com/morluto/jacobian/pull/4540</id>
+    <link href="https://github.com/morluto/jacobian/pull/4540"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +156 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4539: fix(setup): update quoted TOML headers without altering other settings</title>
+    <id>https://github.com/morluto/jacobian/pull/4539</id>
+    <link href="https://github.com/morluto/jacobian/pull/4539"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +104 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4538: fix(setup): reject ambiguous duplicate JSONC keys</title>
+    <id>https://github.com/morluto/jacobian/pull/4538</id>
+    <link href="https://github.com/morluto/jacobian/pull/4538"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4537: fix(setup): preserve permissions during atomic configuration updates</title>
+    <id>https://github.com/morluto/jacobian/pull/4537</id>
+    <link href="https://github.com/morluto/jacobian/pull/4537"/>
+    <updated>2026-10-29T14:08:02Z</updated>
+    <summary>Merged public contribution. +82 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4551: fix(series): close linear prefix arithmetic over admitted outputs</title>
+    <id>https://github.com/morluto/jacobian/pull/4551</id>
+    <link href="https://github.com/morluto/jacobian/pull/4551"/>
+    <updated>2026-10-29T14:08:01Z</updated>
+    <summary>Merged public contribution. +580 / -23 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>smart-mcp-proxy/mcpproxy-go #1767: fix(cli): escape registry-supplied text in catalog search and show</title>
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1767</id>
@@ -250,110 +355,5 @@
     <link href="https://github.com/addyosmani/agent-skills/pull/721"/>
     <updated>2026-10-29T04:48:46Z</updated>
     <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #720: fix(accessibility): run the axe CLI, which has a binary</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/720</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/720"/>
-    <updated>2026-10-29T04:48:33Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #719: fix(accessibility): associate HTML labels with their controls</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/719</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/719"/>
-    <updated>2026-10-29T04:48:20Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #690: fix(skills): pass --fix through npm run to the linter</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/690</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/690"/>
-    <updated>2026-10-29T04:42:06Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #692: fix(frontend-ui-engineering): declare the empty-state action prop</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/692</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/692"/>
-    <updated>2026-10-29T04:41:59Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3814: fix(cli): write the web update status atomically so the in-progress guard cannot fail open</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3814</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3814"/>
-    <updated>2026-10-29T02:18:51Z</updated>
-    <summary>Merged public contribution. +113 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4289: fix(install): write persistent shell env values verbatim</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4289</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4289"/>
-    <updated>2026-10-29T01:59:23Z</updated>
-    <summary>Merged public contribution. +217 / -10 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1044: feat(web): inspect upstream responses from route handlers</title>
-    <id>https://github.com/tester-army/e2e/pull/1044</id>
-    <link href="https://github.com/tester-army/e2e/pull/1044"/>
-    <updated>2026-10-29T00:32:28Z</updated>
-    <summary>Merged public contribution. +122 / -13 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1046: feat(web): clear selected cookies without resetting app storage</title>
-    <id>https://github.com/tester-army/e2e/pull/1046</id>
-    <link href="https://github.com/tester-army/e2e/pull/1046"/>
-    <updated>2026-10-29T00:32:18Z</updated>
-    <summary>Merged public contribution. +175 / -6 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1048: feat(web): collect multiple downloads from one trigger</title>
-    <id>https://github.com/tester-army/e2e/pull/1048</id>
-    <link href="https://github.com/tester-army/e2e/pull/1048"/>
-    <updated>2026-10-28T20:35:02Z</updated>
-    <summary>Merged public contribution. +344 / -67 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7526: fix(browser): preserve script exports with filesystem-unrepresentable paths</title>
-    <id>https://github.com/morluto/rea/pull/7526</id>
-    <link href="https://github.com/morluto/rea/pull/7526"/>
-    <updated>2026-10-28T18:13:55Z</updated>
-    <summary>Merged public contribution. +85 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2069: fix(vision): track escapes when splitting GeoGebra command args</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2069</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2069"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2068: fix(textbook_struct): keep the higher-page chapter hit when deduping</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2068</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2068"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2067: fix(storage): escape LIKE wildcards in file library search</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2067</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2067"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2066: fix(rag): strip only list markers from generated queries</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2066</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2066"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2065: fix(api): strip control chars from Content-Disposition ASCII fallback</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2065</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2065"/>
-    <updated>2026-10-28T17:58:19Z</updated>
-    <summary>Merged public contribution. +31 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
