@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,372**
+Records: **3,377**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4185: feat: preserve adjudication boundaries in cross-source label consensus](https://github.com/maziyarpanahi/openmed/pull/4185) | +425 / -0 across 6 files | 0 reviews · 0 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4178: feat: prioritize native review using scarcity and independent error evidence](https://github.com/maziyarpanahi/openmed/pull/4178) | +437 / -0 across 6 files | 0 reviews · 0 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4169: feat(clinical): add code-switch entity projection](https://github.com/maziyarpanahi/openmed/pull/4169) | +390 / -0 across 6 files | 0 reviews · 0 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4165: feat(clinical): add local abbreviation mining](https://github.com/maziyarpanahi/openmed/pull/4165) | +376 / -0 across 6 files | 0 reviews · 0 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4161: feat(clinical): add transliteration provenance graph](https://github.com/maziyarpanahi/openmed/pull/4161) | +399 / -0 across 6 files | 0 reviews · 0 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4192: feat: bind cross-lingual promotion checks to last-green cell policy](https://github.com/maziyarpanahi/openmed/pull/4192) | +408 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4189: feat: suppress underpowered rankings for small language slices](https://github.com/maziyarpanahi/openmed/pull/4189) | +280 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4181: feat: audit script tokenization before language qualification](https://github.com/maziyarpanahi/openmed/pull/4181) | +431 / -0 across 6 files | 0 reviews · 1 comments |

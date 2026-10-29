@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T20:44:06Z</updated>
+  <updated>2026-10-29T21:25:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4185: feat: preserve adjudication boundaries in cross-source label consensus</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4185</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4185"/>
+    <updated>2026-10-29T21:25:36Z</updated>
+    <summary>Merged public contribution. +425 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4178: feat: prioritize native review using scarcity and independent error evidence</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4178</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4178"/>
+    <updated>2026-10-29T21:23:47Z</updated>
+    <summary>Merged public contribution. +437 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4169: feat(clinical): add code-switch entity projection</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4169</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4169"/>
+    <updated>2026-10-29T21:22:23Z</updated>
+    <summary>Merged public contribution. +390 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4165: feat(clinical): add local abbreviation mining</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4165</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4165"/>
+    <updated>2026-10-29T21:20:01Z</updated>
+    <summary>Merged public contribution. +376 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4161: feat(clinical): add transliteration provenance graph</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4161</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4161"/>
+    <updated>2026-10-29T21:17:50Z</updated>
+    <summary>Merged public contribution. +399 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4192: feat: bind cross-lingual promotion checks to last-green cell policy</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4192</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/addyosmani/agent-skills/pull/708"/>
     <updated>2026-10-29T04:53:41Z</updated>
     <summary>Merged public contribution. +34 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #707: fix(documentation-and-adrs): make the GOOD comment describe the fixed-window code</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/707</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/707"/>
-    <updated>2026-10-29T04:53:28Z</updated>
-    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #706: fix(frontend-ui-engineering): pass the toggle and delete handlers to TaskItem</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/706</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/706"/>
-    <updated>2026-10-29T04:53:15Z</updated>
-    <summary>Merged public contribution. +4 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #705: docs(gemini-cli): point MCP setup at settings.json, not config.json</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/705</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/705"/>
-    <updated>2026-10-29T04:53:02Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #704: docs(windsurf): write a real separator between skills in .windsurfrules</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/704</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/704"/>
-    <updated>2026-10-29T04:52:49Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #702: fix(validation): match whole filenames in the artifact-path guard</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/702</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/702"/>
-    <updated>2026-10-29T04:52:35Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
