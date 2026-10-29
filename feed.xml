@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T06:39:10Z</updated>
+  <updated>2026-10-29T07:29:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3807: fix(scheduler): preserve edits made during task execution</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3807</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3807"/>
+    <updated>2026-10-29T07:29:54Z</updated>
+    <summary>Merged public contribution. +243 / -9 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>zhayujie/CowAgent #3802: fix(browser): match managed profile paths without sibling-prefix collisions</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3802</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3802"/>
+    <updated>2026-10-29T07:29:48Z</updated>
+    <summary>Merged public contribution. +48 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvschwarz/openrig #2249: fix(ui): show completed mission labels after proof acceptance</title>
     <id>https://github.com/mvschwarz/openrig/pull/2249</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/tigerless-labs/autoharness/pull/237"/>
     <updated>2026-10-28T16:39:52Z</updated>
     <summary>Merged public contribution. +50 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/Ciphey #1125: fix(jwt): accept valid JSON header whitespace</title>
-    <id>https://github.com/bee-san/Ciphey/pull/1125</id>
-    <link href="https://github.com/bee-san/Ciphey/pull/1125"/>
-    <updated>2026-10-28T15:41:58Z</updated>
-    <summary>Merged public contribution. +36 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/Ciphey #1126: fix(decimal): honor explicit JavaScript UTF-16 code units</title>
-    <id>https://github.com/bee-san/Ciphey/pull/1126</id>
-    <link href="https://github.com/bee-san/Ciphey/pull/1126"/>
-    <updated>2026-10-28T15:41:37Z</updated>
-    <summary>Merged public contribution. +65 / -11 across 1 changed files.</summary>
   </entry>
 </feed>
