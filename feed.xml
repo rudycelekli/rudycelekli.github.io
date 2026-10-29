@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T20:15:34Z</updated>
+  <updated>2026-10-29T20:44:06Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4192: feat: bind cross-lingual promotion checks to last-green cell policy</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4192</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4192"/>
+    <updated>2026-10-29T20:44:06Z</updated>
+    <summary>Merged public contribution. +408 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4189: feat: suppress underpowered rankings for small language slices</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4189</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4189"/>
+    <updated>2026-10-29T20:42:05Z</updated>
+    <summary>Merged public contribution. +280 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4181: feat: audit script tokenization before language qualification</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4181</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4181"/>
+    <updated>2026-10-29T20:40:36Z</updated>
+    <summary>Merged public contribution. +431 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4158: feat(clinical): declare evidence-backed language readiness</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4158</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4158"/>
+    <updated>2026-10-29T20:38:51Z</updated>
+    <summary>Merged public contribution. +419 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4157: feat(i18n): diff language coverage manifests</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4157</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4157"/>
+    <updated>2026-10-29T20:37:05Z</updated>
+    <summary>Merged public contribution. +356 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5166: fix(logs): read complete newline-terminated tail lines</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5166</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/addyosmani/agent-skills/pull/702"/>
     <updated>2026-10-29T04:52:35Z</updated>
     <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #691: fix(ci-cd-and-automation): pass the rollback input through env, not the script</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/691</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/691"/>
-    <updated>2026-10-29T04:52:21Z</updated>
-    <summary>Merged public contribution. +5 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #688: fix(testing-patterns): locate the Playwright list item by its text</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/688</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/688"/>
-    <updated>2026-10-29T04:52:08Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #729: fix(constraint-driven-development): scan the working tree for secrets, not only commits</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/729</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/729"/>
-    <updated>2026-10-29T04:50:21Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #728: fix(source-driven-development): quote a sentence the cited React 19 post actually contains</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/728</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/728"/>
-    <updated>2026-10-29T04:50:07Z</updated>
-    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #727: fix(performance-checklist): point Lighthouse at http://localhost, which local dev servers serve</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/727</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/727"/>
-    <updated>2026-10-29T04:49:53Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
   </entry>
 </feed>

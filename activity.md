@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,367**
+Records: **3,372**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4192: feat: bind cross-lingual promotion checks to last-green cell policy](https://github.com/maziyarpanahi/openmed/pull/4192) | +408 / -0 across 6 files | 0 reviews · 1 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4189: feat: suppress underpowered rankings for small language slices](https://github.com/maziyarpanahi/openmed/pull/4189) | +280 / -0 across 6 files | 0 reviews · 1 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4181: feat: audit script tokenization before language qualification](https://github.com/maziyarpanahi/openmed/pull/4181) | +431 / -0 across 6 files | 0 reviews · 1 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4158: feat(clinical): declare evidence-backed language readiness](https://github.com/maziyarpanahi/openmed/pull/4158) | +419 / -0 across 6 files | 0 reviews · 1 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4157: feat(i18n): diff language coverage manifests](https://github.com/maziyarpanahi/openmed/pull/4157) | +356 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5166: fix(logs): read complete newline-terminated tail lines](https://github.com/thedotmack/claude-mem/pull/5166) | +16 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-10-29 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#220: fix(dispatch): isolate reflection runs and recover abandoned owned queues](https://github.com/tigerless-labs/autoharness/pull/220) | +479 / -14 across 11 files | 0 reviews · 2 comments |
 | 2026-10-29 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#233: fix: validate the Python subfile content being promoted](https://github.com/tigerless-labs/autoharness/pull/233) | +39 / -2 across 2 files | 0 reviews · 0 comments |
