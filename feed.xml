@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T13:18:58Z</updated>
+  <updated>2026-10-30T13:52:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/agent-memory #76: Preserve Unicode separators inside JSONL archive messages</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/76</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/76"/>
+    <updated>2026-10-30T13:52:24Z</updated>
+    <summary>Merged public contribution. +44 / -8 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #72: fix(core): assign contiguous archive indices to every appended message</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/72</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/72"/>
+    <updated>2026-10-30T13:40:34Z</updated>
+    <summary>Merged public contribution. +28 / -3 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/agent-memory #93: Preserve supported storage settings while upgrading legacy configuration</title>
     <id>https://github.com/tigerless-labs/agent-memory/pull/93</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/morluto/jacobian/pull/4544"/>
     <updated>2026-10-29T14:08:02Z</updated>
     <summary>Merged public contribution. +183 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4543: fix(setup): read JSONC registrations from own properties</title>
-    <id>https://github.com/morluto/jacobian/pull/4543</id>
-    <link href="https://github.com/morluto/jacobian/pull/4543"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +43 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4542: fix(cli): bound file reads before strict JSON admission</title>
-    <id>https://github.com/morluto/jacobian/pull/4542</id>
-    <link href="https://github.com/morluto/jacobian/pull/4542"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +111 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
