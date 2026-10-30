@@ -4,10 +4,15 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,391**
+Records: **3,396**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4502: fix(evals): reject changed numeric probe values](https://github.com/headroomlabs-ai/headroom/pull/4502) | +123 / -14 across 2 files | 3 reviews · 2 comments |
+| 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4501: fix(client): honor configured cache optimizer enablement](https://github.com/headroomlabs-ai/headroom/pull/4501) | +228 / -2 across 4 files | 3 reviews · 3 comments |
+| 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4500: fix(client): preserve Anthropic create stream flags](https://github.com/headroomlabs-ai/headroom/pull/4500) | +321 / -3 across 4 files | 3 reviews · 2 comments |
+| 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4499: fix(memory): compare SQLite timestamps as UTC instants](https://github.com/headroomlabs-ai/headroom/pull/4499) | +121 / -7 across 2 files | 3 reviews · 2 comments |
+| 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4498: fix(transforms): preserve YAML block scalar data during comment elision](https://github.com/headroomlabs-ai/headroom/pull/4498) | +51 / -1 across 2 files | 3 reviews · 2 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4195: feat(synthetic): add synthetic OMOP rows and cohort truth](https://github.com/maziyarpanahi/openmed/pull/4195) | +614 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4191: feat(synthetic): add referentially closed synthetic FHIR records](https://github.com/maziyarpanahi/openmed/pull/4191) | +679 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4187: feat(synthetic): add synthetic longitudinal trajectories](https://github.com/maziyarpanahi/openmed/pull/4187) | +483 / -0 across 6 files | 0 reviews · 1 comments |

@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T23:25:38Z</updated>
+  <updated>2026-10-30T01:28:49Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>headroomlabs-ai/headroom #4502: fix(evals): reject changed numeric probe values</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4502</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4502"/>
+    <updated>2026-10-30T01:28:49Z</updated>
+    <summary>Merged public contribution. +123 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4501: fix(client): honor configured cache optimizer enablement</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4501</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4501"/>
+    <updated>2026-10-30T01:26:08Z</updated>
+    <summary>Merged public contribution. +228 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4500: fix(client): preserve Anthropic create stream flags</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4500</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4500"/>
+    <updated>2026-10-30T01:25:48Z</updated>
+    <summary>Merged public contribution. +321 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4499: fix(memory): compare SQLite timestamps as UTC instants</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4499</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4499"/>
+    <updated>2026-10-30T01:25:03Z</updated>
+    <summary>Merged public contribution. +121 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4498: fix(transforms): preserve YAML block scalar data during comment elision</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4498</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4498"/>
+    <updated>2026-10-30T01:11:59Z</updated>
+    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4195: feat(synthetic): add synthetic OMOP rows and cohort truth</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4195</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1767"/>
     <updated>2026-10-29T10:11:10Z</updated>
     <summary>Merged public contribution. +123 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1775: fix(httpapi): percent-decode the secret name on DELETE /secrets/{name}</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1775</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1775"/>
-    <updated>2026-10-29T09:59:51Z</updated>
-    <summary>Merged public contribution. +88 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1757: fix(oauth): drop the query string from the legacy metadata discovery URL</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1757"/>
-    <updated>2026-10-29T09:51:08Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1778: fix(isolation): detect the runtime of Windows launchers with an .exe/.cmd suffix</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1778"/>
-    <updated>2026-10-29T09:37:55Z</updated>
-    <summary>Merged public contribution. +72 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1782: fix(httpapi): refuse config-to-secret for values that embed a reference</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782"/>
-    <updated>2026-10-29T09:37:46Z</updated>
-    <summary>Merged public contribution. +42 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3813: fix(modelscope): tolerate unsolicited empty-choices stream chunks</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3813</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3813"/>
-    <updated>2026-10-29T07:30:32Z</updated>
-    <summary>Merged public contribution. +56 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
