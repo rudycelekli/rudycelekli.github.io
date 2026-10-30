@@ -4,11 +4,12 @@ Evidence timestamp: **2026-10-29 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,390**
+Records: **3,391**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4191: feat(synthetic): add referentially closed synthetic FHIR records](https://github.com/maziyarpanahi/openmed/pull/4191) | +679 / -0 across 6 files | 0 reviews · 0 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4195: feat(synthetic): add synthetic OMOP rows and cohort truth](https://github.com/maziyarpanahi/openmed/pull/4195) | +614 / -0 across 6 files | 0 reviews · 1 comments |
+| 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4191: feat(synthetic): add referentially closed synthetic FHIR records](https://github.com/maziyarpanahi/openmed/pull/4191) | +679 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4187: feat(synthetic): add synthetic longitudinal trajectories](https://github.com/maziyarpanahi/openmed/pull/4187) | +483 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4184: feat(synthetic): add synthetic clinical note grammars](https://github.com/maziyarpanahi/openmed/pull/4184) | +389 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-29 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4179: feat(synthetic): add synthetic prior authorization packets](https://github.com/maziyarpanahi/openmed/pull/4179) | +570 / -0 across 6 files | 0 reviews · 1 comments |

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-29T23:24:28Z</updated>
+  <updated>2026-10-29T23:25:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4195: feat(synthetic): add synthetic OMOP rows and cohort truth</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4195</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4195"/>
+    <updated>2026-10-29T23:25:38Z</updated>
+    <summary>Merged public contribution. +614 / -0 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4191: feat(synthetic): add referentially closed synthetic FHIR records</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4191</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/zhayujie/CowAgent/pull/3813"/>
     <updated>2026-10-29T07:30:32Z</updated>
     <summary>Merged public contribution. +56 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>zhayujie/CowAgent #3821: fix(chatgpt): harden cleanup for direct vision calls</title>
-    <id>https://github.com/zhayujie/CowAgent/pull/3821</id>
-    <link href="https://github.com/zhayujie/CowAgent/pull/3821"/>
-    <updated>2026-10-29T07:30:25Z</updated>
-    <summary>Merged public contribution. +52 / -11 across 2 changed files.</summary>
   </entry>
 </feed>
