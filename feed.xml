@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T16:19:02Z</updated>
+  <updated>2026-10-30T16:53:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1128: fix(ci): override inherited per-signal OTLP routing</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1128</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1128"/>
+    <updated>2026-10-30T16:53:46Z</updated>
+    <summary>Merged public contribution. +352 / -73 across 11 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1126: fix(mcp): preserve numeric request IDs without rounding</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1126</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4192"/>
     <updated>2026-10-29T20:44:06Z</updated>
     <summary>Merged public contribution. +408 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4189: feat: suppress underpowered rankings for small language slices</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4189</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4189"/>
-    <updated>2026-10-29T20:42:05Z</updated>
-    <summary>Merged public contribution. +280 / -0 across 6 changed files.</summary>
   </entry>
 </feed>

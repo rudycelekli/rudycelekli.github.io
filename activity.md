@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,420**
+Records: **3,421**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1128: fix(ci): override inherited per-signal OTLP routing](https://github.com/Asymptote-Labs/agent-beacon/pull/1128) | +352 / -73 across 11 files | 1 reviews · 1 comments |
 | 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1126: fix(mcp): preserve numeric request IDs without rounding](https://github.com/Asymptote-Labs/agent-beacon/pull/1126) | +131 / -24 across 2 files | 1 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#38: fix(materialize): preserve historical billing components when refolding](https://github.com/tigerless-labs/cost-xray/pull/38) | +33 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1125: fix(ci): retain uploads from every workflow session](https://github.com/Asymptote-Labs/agent-beacon/pull/1125) | +346 / -144 across 14 files | 1 reviews · 1 comments |
