@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 47,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:17:22Z",
+      "deletions": 4,
+      "merged_at": "2026-10-30T14:02:49Z",
+      "number": 85,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Count cooccurrence links by recall event rather than query text",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/85"
+    },
+    {
       "additions": 44,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 7,
@@ -54512,7 +54528,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3405,
+  "record_count": 3406,
   "schema_version": 1,
   "updated_at_utc": "2026-10-30"
 }

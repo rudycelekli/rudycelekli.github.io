@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,405**
+Records: **3,406**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#85: Count cooccurrence links by recall event rather than query text](https://github.com/tigerless-labs/agent-memory/pull/85) | +47 / -4 across 4 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#76: Preserve Unicode separators inside JSONL archive messages](https://github.com/tigerless-labs/agent-memory/pull/76) | +44 / -8 across 7 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#72: fix(core): assign contiguous archive indices to every appended message](https://github.com/tigerless-labs/agent-memory/pull/72) | +28 / -3 across 4 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#93: Preserve supported storage settings while upgrading legacy configuration](https://github.com/tigerless-labs/agent-memory/pull/93) | +22 / -4 across 3 files | 0 reviews · 0 comments |
