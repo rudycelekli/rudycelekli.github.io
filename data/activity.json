@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T21:28:23Z",
+      "deletions": 4,
+      "merged_at": "2026-10-30T13:18:58Z",
+      "number": 93,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Preserve supported storage settings while upgrading legacy configuration",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/93"
+    },
+    {
       "additions": 76,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -54464,7 +54480,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3402,
+  "record_count": 3403,
   "schema_version": 1,
   "updated_at_utc": "2026-10-30"
 }
