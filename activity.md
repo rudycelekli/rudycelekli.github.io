@@ -4,10 +4,18 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,412**
+Records: **3,420**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1126: fix(mcp): preserve numeric request IDs without rounding](https://github.com/Asymptote-Labs/agent-beacon/pull/1126) | +131 / -24 across 2 files | 1 reviews · 0 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#38: fix(materialize): preserve historical billing components when refolding](https://github.com/tigerless-labs/cost-xray/pull/38) | +33 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1125: fix(ci): retain uploads from every workflow session](https://github.com/Asymptote-Labs/agent-beacon/pull/1125) | +346 / -144 across 14 files | 1 reviews · 1 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#37: fix(materialize): retain fractional calibrated tokens in derived records](https://github.com/tigerless-labs/cost-xray/pull/37) | +22 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#28: fix(anthropic): retain server tool call identities in attribution](https://github.com/tigerless-labs/cost-xray/pull/28) | +32 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#27: fix(anthropic): retain initial content and typed streaming tool inputs](https://github.com/tigerless-labs/cost-xray/pull/27) | +43 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#43: fix(openai): preserve custom tool call content and identity](https://github.com/tigerless-labs/cost-xray/pull/43) | +21 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#49: fix(materialize): refresh summaries after analysis logic changes](https://github.com/tigerless-labs/cost-xray/pull/49) | +35 / -18 across 4 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#32: fix(cost): normalize provider prefixes and context suffixes together](https://github.com/tigerless-labs/cost-xray/pull/32) | +9 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1124: fix(localingest): reject malformed trailing JSON delimiters](https://github.com/Asymptote-Labs/agent-beacon/pull/1124) | +56 / -19 across 6 files | 1 reviews · 0 comments |
 | 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1111: fix(shellcmd): track ln destinations when link name is omitted](https://github.com/Asymptote-Labs/agent-beacon/pull/1111) | +175 / -19 across 3 files | 1 reviews · 0 comments |

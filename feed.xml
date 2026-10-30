@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T15:53:30Z</updated>
+  <updated>2026-10-30T16:19:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1126: fix(mcp): preserve numeric request IDs without rounding</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1126</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1126"/>
+    <updated>2026-10-30T16:19:02Z</updated>
+    <summary>Merged public contribution. +131 / -24 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #38: fix(materialize): preserve historical billing components when refolding</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/38</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/38"/>
+    <updated>2026-10-30T16:06:14Z</updated>
+    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1125: fix(ci): retain uploads from every workflow session</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1125</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1125"/>
+    <updated>2026-10-30T16:02:25Z</updated>
+    <summary>Merged public contribution. +346 / -144 across 14 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #37: fix(materialize): retain fractional calibrated tokens in derived records</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/37</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/37"/>
+    <updated>2026-10-30T15:59:49Z</updated>
+    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #28: fix(anthropic): retain server tool call identities in attribution</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/28</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/28"/>
+    <updated>2026-10-30T15:58:38Z</updated>
+    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #27: fix(anthropic): retain initial content and typed streaming tool inputs</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/27</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/27"/>
+    <updated>2026-10-30T15:57:17Z</updated>
+    <summary>Merged public contribution. +43 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #43: fix(openai): preserve custom tool call content and identity</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/43</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/43"/>
+    <updated>2026-10-30T15:56:08Z</updated>
+    <summary>Merged public contribution. +21 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #49: fix(materialize): refresh summaries after analysis logic changes</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/49</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/49"/>
+    <updated>2026-10-30T15:54:47Z</updated>
+    <summary>Merged public contribution. +35 / -18 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/cost-xray #32: fix(cost): normalize provider prefixes and context suffixes together</title>
     <id>https://github.com/tigerless-labs/cost-xray/pull/32</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4189"/>
     <updated>2026-10-29T20:42:05Z</updated>
     <summary>Merged public contribution. +280 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4181: feat: audit script tokenization before language qualification</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4181</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4181"/>
-    <updated>2026-10-29T20:40:36Z</updated>
-    <summary>Merged public contribution. +431 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4158: feat(clinical): declare evidence-backed language readiness</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4158</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4158"/>
-    <updated>2026-10-29T20:38:51Z</updated>
-    <summary>Merged public contribution. +419 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4157: feat(i18n): diff language coverage manifests</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4157</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4157"/>
-    <updated>2026-10-29T20:37:05Z</updated>
-    <summary>Merged public contribution. +356 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5166: fix(logs): read complete newline-terminated tail lines</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5166</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5166"/>
-    <updated>2026-10-29T20:15:34Z</updated>
-    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #220: fix(dispatch): isolate reflection runs and recover abandoned owned queues</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/220</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/220"/>
-    <updated>2026-10-29T16:50:53Z</updated>
-    <summary>Merged public contribution. +479 / -14 across 11 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #233: fix: validate the Python subfile content being promoted</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/233</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/233"/>
-    <updated>2026-10-29T16:33:52Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9808: Preserve Unicode code points when encoding edited string representations</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9808</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9808"/>
-    <updated>2026-10-29T15:37:39Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #69: fix(core): continue packing memory index after an oversized entry</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/69</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/69"/>
-    <updated>2026-10-29T14:36:33Z</updated>
-    <summary>Merged public contribution. +32 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
