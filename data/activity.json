@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 34,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:15:46Z",
+      "deletions": 1,
+      "merged_at": "2026-10-30T10:15:57Z",
+      "number": 79,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Keep current reference and experience truth out of legacy migration",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/79"
+    },
+    {
       "additions": 728,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -54384,7 +54400,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3397,
+  "record_count": 3398,
   "schema_version": 1,
   "updated_at_utc": "2026-10-30"
 }
