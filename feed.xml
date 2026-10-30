@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T14:02:49Z</updated>
+  <updated>2026-10-30T14:51:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #55: fix(capture): preserve fallback session identity</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/55</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/55"/>
+    <updated>2026-10-30T14:51:44Z</updated>
+    <summary>Merged public contribution. +55 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #54: fix(systemd): quote capture service executable paths</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/54</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/54"/>
+    <updated>2026-10-30T14:51:38Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/agent-memory #85: Count cooccurrence links by recall event rather than query text</title>
     <id>https://github.com/tigerless-labs/agent-memory/pull/85</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/morluto/jacobian/pull/4547"/>
     <updated>2026-10-29T14:08:02Z</updated>
     <summary>Merged public contribution. +498 / -16 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4546: fix(series): admit bounded affine composition across full prefixes</title>
-    <id>https://github.com/morluto/jacobian/pull/4546</id>
-    <link href="https://github.com/morluto/jacobian/pull/4546"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +470 / -9 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4545: fix(process): preserve cancellation during worker setup and exit</title>
-    <id>https://github.com/morluto/jacobian/pull/4545</id>
-    <link href="https://github.com/morluto/jacobian/pull/4545"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +126 / -9 across 2 changed files.</summary>
   </entry>
 </feed>

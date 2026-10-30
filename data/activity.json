@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 55,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-30T05:29:01Z",
+      "deletions": 3,
+      "merged_at": "2026-10-30T14:51:44Z",
+      "number": 55,
+      "repository": "tigerless-labs/cost-xray",
+      "repository_url": "https://github.com/tigerless-labs/cost-xray",
+      "reviews": 0,
+      "title": "fix(capture): preserve fallback session identity",
+      "url": "https://github.com/tigerless-labs/cost-xray/pull/55"
+    },
+    {
+      "additions": 28,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-30T05:29:00Z",
+      "deletions": 1,
+      "merged_at": "2026-10-30T14:51:38Z",
+      "number": 54,
+      "repository": "tigerless-labs/cost-xray",
+      "repository_url": "https://github.com/tigerless-labs/cost-xray",
+      "reviews": 0,
+      "title": "fix(systemd): quote capture service executable paths",
+      "url": "https://github.com/tigerless-labs/cost-xray/pull/54"
+    },
+    {
       "additions": 47,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -54528,7 +54560,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3406,
+  "record_count": 3408,
   "schema_version": 1,
   "updated_at_utc": "2026-10-30"
 }
