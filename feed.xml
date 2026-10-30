@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T14:51:44Z</updated>
+  <updated>2026-10-30T15:53:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #32: fix(cost): normalize provider prefixes and context suffixes together</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/32</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/32"/>
+    <updated>2026-10-30T15:53:30Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1124: fix(localingest): reject malformed trailing JSON delimiters</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1124</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1124"/>
+    <updated>2026-10-30T15:53:13Z</updated>
+    <summary>Merged public contribution. +56 / -19 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1111: fix(shellcmd): track ln destinations when link name is omitted</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1111</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1111"/>
+    <updated>2026-10-30T15:52:28Z</updated>
+    <summary>Merged public contribution. +175 / -19 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Asymptote-Labs/agent-beacon #1112: fix(gitlink): preserve whitespace in worktree and evidence paths</title>
+    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1112</id>
+    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1112"/>
+    <updated>2026-10-30T15:51:24Z</updated>
+    <summary>Merged public contribution. +123 / -25 across 12 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/cost-xray #55: fix(capture): preserve fallback session identity</title>
     <id>https://github.com/tigerless-labs/cost-xray/pull/55</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/69"/>
     <updated>2026-10-29T14:36:33Z</updated>
     <summary>Merged public contribution. +32 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4550: fix(counting): retain one native deadline across exact count phases</title>
-    <id>https://github.com/morluto/jacobian/pull/4550</id>
-    <link href="https://github.com/morluto/jacobian/pull/4550"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +124 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4549: fix(interval): observe native execution controls after Arb evaluation</title>
-    <id>https://github.com/morluto/jacobian/pull/4549</id>
-    <link href="https://github.com/morluto/jacobian/pull/4549"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +288 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4548: fix(transport): serialize declared operation result aliases consistently</title>
-    <id>https://github.com/morluto/jacobian/pull/4548</id>
-    <link href="https://github.com/morluto/jacobian/pull/4548"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +153 / -13 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4547: fix(residue): bound infinity extraction independently of finite poles</title>
-    <id>https://github.com/morluto/jacobian/pull/4547</id>
-    <link href="https://github.com/morluto/jacobian/pull/4547"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +498 / -16 across 6 changed files.</summary>
   </entry>
 </feed>

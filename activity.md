@@ -4,10 +4,14 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,408**
+Records: **3,412**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#32: fix(cost): normalize provider prefixes and context suffixes together](https://github.com/tigerless-labs/cost-xray/pull/32) | +9 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1124: fix(localingest): reject malformed trailing JSON delimiters](https://github.com/Asymptote-Labs/agent-beacon/pull/1124) | +56 / -19 across 6 files | 1 reviews · 0 comments |
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1111: fix(shellcmd): track ln destinations when link name is omitted](https://github.com/Asymptote-Labs/agent-beacon/pull/1111) | +175 / -19 across 3 files | 1 reviews · 0 comments |
+| 2026-10-30 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1112: fix(gitlink): preserve whitespace in worktree and evidence paths](https://github.com/Asymptote-Labs/agent-beacon/pull/1112) | +123 / -25 across 12 files | 1 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#55: fix(capture): preserve fallback session identity](https://github.com/tigerless-labs/cost-xray/pull/55) | +55 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#54: fix(systemd): quote capture service executable paths](https://github.com/tigerless-labs/cost-xray/pull/54) | +28 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#85: Count cooccurrence links by recall event rather than query text](https://github.com/tigerless-labs/agent-memory/pull/85) | +47 / -4 across 4 files | 0 reviews · 0 comments |
