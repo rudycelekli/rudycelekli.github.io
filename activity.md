@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,396**
+Records: **3,397**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4193: Generate code-switched clinical dialogues](https://github.com/maziyarpanahi/openmed/pull/4193) | +728 / -0 across 6 files | 0 reviews · 1 comments |
 | 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4502: fix(evals): reject changed numeric probe values](https://github.com/headroomlabs-ai/headroom/pull/4502) | +123 / -14 across 2 files | 3 reviews · 2 comments |
 | 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4501: fix(client): honor configured cache optimizer enablement](https://github.com/headroomlabs-ai/headroom/pull/4501) | +228 / -2 across 4 files | 3 reviews · 3 comments |
 | 2026-10-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4500: fix(client): preserve Anthropic create stream flags](https://github.com/headroomlabs-ai/headroom/pull/4500) | +321 / -3 across 4 files | 3 reviews · 2 comments |
