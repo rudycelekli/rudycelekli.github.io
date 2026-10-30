@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T10:54:09Z</updated>
+  <updated>2026-10-30T11:33:57Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>smart-mcp-proxy/mcpproxy-go #1773: fix(docker): insert --cidfile after run for docker.exe shell commands</title>
+    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1773</id>
+    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1773"/>
+    <updated>2026-10-30T11:33:57Z</updated>
+    <summary>Merged public contribution. +200 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>smart-mcp-proxy/mcpproxy-go #1777: fix(docker): recognise docker.exe and backslash paths as a direct docker run</title>
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1777</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/morluto/jacobian/pull/4539"/>
     <updated>2026-10-29T14:08:02Z</updated>
     <summary>Merged public contribution. +104 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/jacobian #4538: fix(setup): reject ambiguous duplicate JSONC keys</title>
-    <id>https://github.com/morluto/jacobian/pull/4538</id>
-    <link href="https://github.com/morluto/jacobian/pull/4538"/>
-    <updated>2026-10-29T14:08:02Z</updated>
-    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-30 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,399**
+Records: **3,400**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-30 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1773: fix(docker): insert --cidfile after run for docker.exe shell commands](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1773) | +200 / -8 across 2 files | 1 reviews · 2 comments |
 | 2026-10-30 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | [#1777: fix(docker): recognise docker.exe and backslash paths as a direct docker run](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1777) | +168 / -5 across 4 files | 0 reviews · 2 comments |
 | 2026-10-30 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#79: Keep current reference and experience truth out of legacy migration](https://github.com/tigerless-labs/agent-memory/pull/79) | +34 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-10-30 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4193: Generate code-switched clinical dialogues](https://github.com/maziyarpanahi/openmed/pull/4193) | +728 / -0 across 6 files | 0 reviews · 1 comments |
