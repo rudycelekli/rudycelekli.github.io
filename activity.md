@@ -4,10 +4,23 @@ Evidence timestamp: **2026-10-31 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,452**
+Records: **3,465**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2199: fix(documents): retain picture shapes in PPTX fallback](https://github.com/HKUDS/DeepTutor/pull/2199) | +93 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2237: fix(documents): preserve sparse XLSX cell columns in fallback](https://github.com/HKUDS/DeepTutor/pull/2237) | +68 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2226: fix(voice): preserve TeX limit meaning in either script order](https://github.com/HKUDS/DeepTutor/pull/2226) | +49 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2227: fix(utils): keep interval punctuation inside BibTeX values](https://github.com/HKUDS/DeepTutor/pull/2227) | +32 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2228: fix(utils): finish UTF-8 characters at text probe boundaries](https://github.com/HKUDS/DeepTutor/pull/2228) | +63 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2200: fix(calendar): preserve weekdays on earlier same-day series moves](https://github.com/HKUDS/DeepTutor/pull/2200) | +67 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2198: fix(voice): reject non-finite transcription timestamps](https://github.com/HKUDS/DeepTutor/pull/2198) | +117 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2233: fix(voice): decode Gemini WAV containers before PCM output](https://github.com/HKUDS/DeepTutor/pull/2233) | +82 / -8 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2238: fix(videogen): enforce the complete polling time budget](https://github.com/HKUDS/DeepTutor/pull/2238) | +156 / -4 across 4 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2240: fix(library): match Unicode filename case during search](https://github.com/HKUDS/DeepTutor/pull/2240) | +60 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2239: fix(library): report restore content conflicts without a server error](https://github.com/HKUDS/DeepTutor/pull/2239) | +75 / -6 across 5 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2235: fix(services): isolate cancellation of coalesced hint requests](https://github.com/HKUDS/DeepTutor/pull/2235) | +82 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2234: fix(runtime): wake input waiters on their owning loop](https://github.com/HKUDS/DeepTutor/pull/2234) | +104 / -15 across 2 files | 0 reviews · 0 comments |
 | 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#692: fix(discovery): aggregate SQLite index statistics per table](https://github.com/dosco/graphjin/pull/692) | +79 / -18 across 3 files | 0 reviews · 2 comments |
 | 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#690: fix(graph): require complete standalone argument values](https://github.com/dosco/graphjin/pull/690) | +77 / -8 across 4 files | 0 reviews · 1 comments |
 | 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#688: fix(graph): parse contextual keyword names](https://github.com/dosco/graphjin/pull/688) | +118 / -19 across 5 files | 0 reviews · 1 comments |

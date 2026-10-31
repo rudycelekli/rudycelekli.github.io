@@ -4,8 +4,99 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T08:24:00Z</updated>
+  <updated>2026-10-31T08:49:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2199: fix(documents): retain picture shapes in PPTX fallback</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2199</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2199"/>
+    <updated>2026-10-31T08:49:39Z</updated>
+    <summary>Merged public contribution. +93 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2237: fix(documents): preserve sparse XLSX cell columns in fallback</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2237</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2237"/>
+    <updated>2026-10-31T08:49:12Z</updated>
+    <summary>Merged public contribution. +68 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2226: fix(voice): preserve TeX limit meaning in either script order</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2226</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2226"/>
+    <updated>2026-10-31T08:47:45Z</updated>
+    <summary>Merged public contribution. +49 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2227: fix(utils): keep interval punctuation inside BibTeX values</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2227</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2227"/>
+    <updated>2026-10-31T08:47:15Z</updated>
+    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2228: fix(utils): finish UTF-8 characters at text probe boundaries</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2228</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2228"/>
+    <updated>2026-10-31T08:46:41Z</updated>
+    <summary>Merged public contribution. +63 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2200: fix(calendar): preserve weekdays on earlier same-day series moves</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2200</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2200"/>
+    <updated>2026-10-31T08:43:41Z</updated>
+    <summary>Merged public contribution. +67 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2198: fix(voice): reject non-finite transcription timestamps</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2198</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2198"/>
+    <updated>2026-10-31T08:43:13Z</updated>
+    <summary>Merged public contribution. +117 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2233: fix(voice): decode Gemini WAV containers before PCM output</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2233</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2233"/>
+    <updated>2026-10-31T08:42:38Z</updated>
+    <summary>Merged public contribution. +82 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2238: fix(videogen): enforce the complete polling time budget</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2238</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2238"/>
+    <updated>2026-10-31T08:42:04Z</updated>
+    <summary>Merged public contribution. +156 / -4 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2240: fix(library): match Unicode filename case during search</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2240</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2240"/>
+    <updated>2026-10-31T08:41:42Z</updated>
+    <summary>Merged public contribution. +60 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2239: fix(library): report restore content conflicts without a server error</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2239</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2239"/>
+    <updated>2026-10-31T08:41:10Z</updated>
+    <summary>Merged public contribution. +75 / -6 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2235: fix(services): isolate cancellation of coalesced hint requests</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2235</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2235"/>
+    <updated>2026-10-31T08:40:25Z</updated>
+    <summary>Merged public contribution. +82 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2234: fix(runtime): wake input waiters on their owning loop</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2234</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2234"/>
+    <updated>2026-10-31T08:39:49Z</updated>
+    <summary>Merged public contribution. +104 / -15 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>dosco/graphjin #692: fix(discovery): aggregate SQLite index statistics per table</title>
     <id>https://github.com/dosco/graphjin/pull/692</id>
@@ -264,96 +355,5 @@
     <link href="https://github.com/tigerless-labs/cost-xray/pull/28"/>
     <updated>2026-10-30T15:58:38Z</updated>
     <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #27: fix(anthropic): retain initial content and typed streaming tool inputs</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/27</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/27"/>
-    <updated>2026-10-30T15:57:17Z</updated>
-    <summary>Merged public contribution. +43 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #43: fix(openai): preserve custom tool call content and identity</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/43</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/43"/>
-    <updated>2026-10-30T15:56:08Z</updated>
-    <summary>Merged public contribution. +21 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #49: fix(materialize): refresh summaries after analysis logic changes</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/49</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/49"/>
-    <updated>2026-10-30T15:54:47Z</updated>
-    <summary>Merged public contribution. +35 / -18 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #32: fix(cost): normalize provider prefixes and context suffixes together</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/32</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/32"/>
-    <updated>2026-10-30T15:53:30Z</updated>
-    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1124: fix(localingest): reject malformed trailing JSON delimiters</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1124</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1124"/>
-    <updated>2026-10-30T15:53:13Z</updated>
-    <summary>Merged public contribution. +56 / -19 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1111: fix(shellcmd): track ln destinations when link name is omitted</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1111</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1111"/>
-    <updated>2026-10-30T15:52:28Z</updated>
-    <summary>Merged public contribution. +175 / -19 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1112: fix(gitlink): preserve whitespace in worktree and evidence paths</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1112</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1112"/>
-    <updated>2026-10-30T15:51:24Z</updated>
-    <summary>Merged public contribution. +123 / -25 across 12 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #55: fix(capture): preserve fallback session identity</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/55</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/55"/>
-    <updated>2026-10-30T14:51:44Z</updated>
-    <summary>Merged public contribution. +55 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #54: fix(systemd): quote capture service executable paths</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/54</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/54"/>
-    <updated>2026-10-30T14:51:38Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #85: Count cooccurrence links by recall event rather than query text</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/85</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/85"/>
-    <updated>2026-10-30T14:02:49Z</updated>
-    <summary>Merged public contribution. +47 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #76: Preserve Unicode separators inside JSONL archive messages</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/76</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/76"/>
-    <updated>2026-10-30T13:52:24Z</updated>
-    <summary>Merged public contribution. +44 / -8 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #72: fix(core): assign contiguous archive indices to every appended message</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/72</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/72"/>
-    <updated>2026-10-30T13:40:34Z</updated>
-    <summary>Merged public contribution. +28 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #93: Preserve supported storage settings while upgrading legacy configuration</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/93</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/93"/>
-    <updated>2026-10-30T13:18:58Z</updated>
-    <summary>Merged public contribution. +22 / -4 across 3 changed files.</summary>
   </entry>
 </feed>
