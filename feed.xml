@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T15:04:56Z</updated>
+  <updated>2026-10-31T17:17:26Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>CopilotKit/OpenBot #895: Record unreconciled authorization outcomes and audit events atomically</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/895</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/895"/>
+    <updated>2026-10-31T17:17:26Z</updated>
+    <summary>Merged public contribution. +143 / -20 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>retentioneering/retentioneering-tools #196: fix(anchors): range-check an anchor's `at` at either end of the pattern</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/196</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/196"/>
+    <updated>2026-10-31T17:17:21Z</updated>
+    <summary>Merged public contribution. +77 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #199: fix(schema): name the schema key and the columns when one is not found</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/199</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1126"/>
     <updated>2026-10-30T16:19:02Z</updated>
     <summary>Merged public contribution. +131 / -24 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #38: fix(materialize): preserve historical billing components when refolding</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/38</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/38"/>
-    <updated>2026-10-30T16:06:14Z</updated>
-    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1125: fix(ci): retain uploads from every workflow session</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1125</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1125"/>
-    <updated>2026-10-30T16:02:25Z</updated>
-    <summary>Merged public contribution. +346 / -144 across 14 changed files.</summary>
   </entry>
 </feed>

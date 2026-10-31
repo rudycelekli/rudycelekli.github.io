@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 143,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-30T06:43:37Z",
+      "deletions": 20,
+      "merged_at": "2026-10-31T17:17:26Z",
+      "number": 895,
+      "repository": "CopilotKit/OpenBot",
+      "repository_url": "https://github.com/CopilotKit/OpenBot",
+      "reviews": 2,
+      "title": "Record unreconciled authorization outcomes and audit events atomically",
+      "url": "https://github.com/CopilotKit/OpenBot/pull/895"
+    },
+    {
+      "additions": 77,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-23T04:47:30Z",
+      "deletions": 1,
+      "merged_at": "2026-10-31T17:17:21Z",
+      "number": 196,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(anchors): range-check an anchor's `at` at either end of the pattern",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/196"
+    },
+    {
       "additions": 60,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -55504,7 +55536,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3467,
+  "record_count": 3469,
   "schema_version": 1,
   "updated_at_utc": "2026-10-31"
 }
