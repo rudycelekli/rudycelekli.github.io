@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 142,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-31T05:41:52Z",
+      "deletions": 10,
+      "merged_at": "2026-10-31T09:02:04Z",
+      "number": 2236,
+      "repository": "HKUDS/DeepTutor",
+      "repository_url": "https://github.com/HKUDS/DeepTutor",
+      "reviews": 0,
+      "title": "fix(documents): follow PPTX presentation slide order in fallbacks",
+      "url": "https://github.com/HKUDS/DeepTutor/pull/2236"
+    },
+    {
       "additions": 93,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -55472,7 +55488,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3465,
+  "record_count": 3466,
   "schema_version": 1,
   "updated_at_utc": "2026-10-31"
 }

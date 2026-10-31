@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T08:49:39Z</updated>
+  <updated>2026-10-31T09:02:04Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2236: fix(documents): follow PPTX presentation slide order in fallbacks</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2236</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2236"/>
+    <updated>2026-10-31T09:02:04Z</updated>
+    <summary>Merged public contribution. +142 / -10 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/DeepTutor #2199: fix(documents): retain picture shapes in PPTX fallback</title>
     <id>https://github.com/HKUDS/DeepTutor/pull/2199</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tigerless-labs/cost-xray/pull/37"/>
     <updated>2026-10-30T15:59:49Z</updated>
     <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #28: fix(anthropic): retain server tool call identities in attribution</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/28</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/28"/>
-    <updated>2026-10-30T15:58:38Z</updated>
-    <summary>Merged public contribution. +32 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

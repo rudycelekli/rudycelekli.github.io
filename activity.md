@@ -4,10 +4,11 @@ Evidence timestamp: **2026-10-31 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,465**
+Records: **3,466**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2236: fix(documents): follow PPTX presentation slide order in fallbacks](https://github.com/HKUDS/DeepTutor/pull/2236) | +142 / -10 across 3 files | 0 reviews · 0 comments |
 | 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2199: fix(documents): retain picture shapes in PPTX fallback](https://github.com/HKUDS/DeepTutor/pull/2199) | +93 / -0 across 2 files | 1 reviews · 0 comments |
 | 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2237: fix(documents): preserve sparse XLSX cell columns in fallback](https://github.com/HKUDS/DeepTutor/pull/2237) | +68 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-10-31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2226: fix(voice): preserve TeX limit meaning in either script order](https://github.com/HKUDS/DeepTutor/pull/2226) | +49 / -4 across 2 files | 0 reviews · 0 comments |
