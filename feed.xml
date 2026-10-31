@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-30T16:53:46Z</updated>
+  <updated>2026-10-31T00:21:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harry0703/MoneyPrinterTurbo #1735: fix(video): preserve big-endian TIFF grayscale brightness</title>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1735</id>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1735"/>
+    <updated>2026-10-31T00:21:22Z</updated>
+    <summary>Merged public contribution. +29 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Asymptote-Labs/agent-beacon #1128: fix(ci): override inherited per-signal OTLP routing</title>
     <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1128</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4161"/>
     <updated>2026-10-29T21:17:50Z</updated>
     <summary>Merged public contribution. +399 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4192: feat: bind cross-lingual promotion checks to last-green cell policy</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4192</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4192"/>
-    <updated>2026-10-29T20:44:06Z</updated>
-    <summary>Merged public contribution. +408 / -0 across 6 changed files.</summary>
   </entry>
 </feed>
