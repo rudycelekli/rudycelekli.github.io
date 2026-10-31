@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T00:21:22Z</updated>
+  <updated>2026-10-31T05:01:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>antchfx/xpath #174: Reject invalid argument counts in XPath functions</title>
+    <id>https://github.com/antchfx/xpath/pull/174</id>
+    <link href="https://github.com/antchfx/xpath/pull/174"/>
+    <updated>2026-10-31T05:01:31Z</updated>
+    <summary>Merged public contribution. +75 / -12 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harry0703/MoneyPrinterTurbo #1735: fix(video): preserve big-endian TIFF grayscale brightness</title>
     <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1735</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4165"/>
     <updated>2026-10-29T21:20:01Z</updated>
     <summary>Merged public contribution. +376 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4161: feat(clinical): add transliteration provenance graph</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4161</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4161"/>
-    <updated>2026-10-29T21:17:50Z</updated>
-    <summary>Merged public contribution. +399 / -0 across 6 changed files.</summary>
   </entry>
 </feed>
