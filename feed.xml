@@ -4,8 +4,197 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T06:33:57Z</updated>
+  <updated>2026-10-31T08:24:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>dosco/graphjin #692: fix(discovery): aggregate SQLite index statistics per table</title>
+    <id>https://github.com/dosco/graphjin/pull/692</id>
+    <link href="https://github.com/dosco/graphjin/pull/692"/>
+    <updated>2026-10-31T08:24:00Z</updated>
+    <summary>Merged public contribution. +79 / -18 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #690: fix(graph): require complete standalone argument values</title>
+    <id>https://github.com/dosco/graphjin/pull/690</id>
+    <link href="https://github.com/dosco/graphjin/pull/690"/>
+    <updated>2026-10-31T08:23:53Z</updated>
+    <summary>Merged public contribution. +77 / -8 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #688: fix(graph): parse contextual keyword names</title>
+    <id>https://github.com/dosco/graphjin/pull/688</id>
+    <link href="https://github.com/dosco/graphjin/pull/688"/>
+    <updated>2026-10-31T08:23:48Z</updated>
+    <summary>Merged public contribution. +118 / -19 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #687: fix(openapi): expand environment values in nested token request bodies</title>
+    <id>https://github.com/dosco/graphjin/pull/687</id>
+    <link href="https://github.com/dosco/graphjin/pull/687"/>
+    <updated>2026-10-31T08:23:41Z</updated>
+    <summary>Merged public contribution. +114 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #686: fix(openapi): negotiate declared JSON response media types</title>
+    <id>https://github.com/dosco/graphjin/pull/686</id>
+    <link href="https://github.com/dosco/graphjin/pull/686"/>
+    <updated>2026-10-31T08:23:35Z</updated>
+    <summary>Merged public contribution. +112 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #685: fix(openapi): reuse short-lived authentication tokens before expiry</title>
+    <id>https://github.com/dosco/graphjin/pull/685</id>
+    <link href="https://github.com/dosco/graphjin/pull/685"/>
+    <updated>2026-10-31T08:23:29Z</updated>
+    <summary>Merged public contribution. +65 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #684: fix(openapi): reject omitted required GET query parameters</title>
+    <id>https://github.com/dosco/graphjin/pull/684</id>
+    <link href="https://github.com/dosco/graphjin/pull/684"/>
+    <updated>2026-10-31T08:23:24Z</updated>
+    <summary>Merged public contribution. +88 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #682: fix(valid): isolate concurrent field comparisons</title>
+    <id>https://github.com/dosco/graphjin/pull/682</id>
+    <link href="https://github.com/dosco/graphjin/pull/682"/>
+    <updated>2026-10-31T08:23:18Z</updated>
+    <summary>Merged public contribution. +59 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #681: fix(valid): evaluate conditional requirement truth tables</title>
+    <id>https://github.com/dosco/graphjin/pull/681</id>
+    <link href="https://github.com/dosco/graphjin/pull/681"/>
+    <updated>2026-10-31T08:23:12Z</updated>
+    <summary>Merged public contribution. +116 / -14 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #680: fix(allow): clear removed saved-query variable metadata</title>
+    <id>https://github.com/dosco/graphjin/pull/680</id>
+    <link href="https://github.com/dosco/graphjin/pull/680"/>
+    <updated>2026-10-31T08:23:06Z</updated>
+    <summary>Merged public contribution. +78 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #679: fix(allow): preserve long lines when loading saved queries</title>
+    <id>https://github.com/dosco/graphjin/pull/679</id>
+    <link href="https://github.com/dosco/graphjin/pull/679"/>
+    <updated>2026-10-31T08:22:59Z</updated>
+    <summary>Merged public contribution. +62 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #678: fix(queryshape): recognize compound statistical aggregate names</title>
+    <id>https://github.com/dosco/graphjin/pull/678</id>
+    <link href="https://github.com/dosco/graphjin/pull/678"/>
+    <updated>2026-10-31T08:22:53Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #677: fix(qcode): serialize variable defaults as valid JSON</title>
+    <id>https://github.com/dosco/graphjin/pull/677</id>
+    <link href="https://github.com/dosco/graphjin/pull/677"/>
+    <updated>2026-10-31T08:22:48Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #676: fix(qcode): retain independent variable default buffers</title>
+    <id>https://github.com/dosco/graphjin/pull/676</id>
+    <link href="https://github.com/dosco/graphjin/pull/676"/>
+    <updated>2026-10-31T08:22:42Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #675: fix(jsn): preserve escaped keys when clearing JSON values</title>
+    <id>https://github.com/dosco/graphjin/pull/675</id>
+    <link href="https://github.com/dosco/graphjin/pull/675"/>
+    <updated>2026-10-31T08:22:34Z</updated>
+    <summary>Merged public contribution. +33 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #674: fix(graph): support numeric exponent literals</title>
+    <id>https://github.com/dosco/graphjin/pull/674</id>
+    <link href="https://github.com/dosco/graphjin/pull/674"/>
+    <updated>2026-10-31T08:22:28Z</updated>
+    <summary>Merged public contribution. +61 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #673: fix(openapi): canonicalize overrides for generated operation IDs</title>
+    <id>https://github.com/dosco/graphjin/pull/673</id>
+    <link href="https://github.com/dosco/graphjin/pull/673"/>
+    <updated>2026-10-31T08:22:21Z</updated>
+    <summary>Merged public contribution. +74 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #672: fix(openapi): substitute server variable defaults when loading specs</title>
+    <id>https://github.com/dosco/graphjin/pull/672</id>
+    <link href="https://github.com/dosco/graphjin/pull/672"/>
+    <updated>2026-10-31T08:22:15Z</updated>
+    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #671: fix(openapi): honor nullable response properties in synthesized columns</title>
+    <id>https://github.com/dosco/graphjin/pull/671</id>
+    <link href="https://github.com/dosco/graphjin/pull/671"/>
+    <updated>2026-10-31T08:22:10Z</updated>
+    <summary>Merged public contribution. +75 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #670: fix(openapi): keep scalar payload-named response properties intact</title>
+    <id>https://github.com/dosco/graphjin/pull/670</id>
+    <link href="https://github.com/dosco/graphjin/pull/670"/>
+    <updated>2026-10-31T08:22:01Z</updated>
+    <summary>Merged public contribution. +67 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #669: fix(openapi): retain explicitly empty query parameter values</title>
+    <id>https://github.com/dosco/graphjin/pull/669</id>
+    <link href="https://github.com/dosco/graphjin/pull/669"/>
+    <updated>2026-10-31T08:21:53Z</updated>
+    <summary>Merged public contribution. +50 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #668: fix(openapi): preserve exact numbers when extracting result paths</title>
+    <id>https://github.com/dosco/graphjin/pull/668</id>
+    <link href="https://github.com/dosco/graphjin/pull/668"/>
+    <updated>2026-10-31T08:21:47Z</updated>
+    <summary>Merged public contribution. +58 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #667: fix(config): resolve legacy and nested environment overrides</title>
+    <id>https://github.com/dosco/graphjin/pull/667</id>
+    <link href="https://github.com/dosco/graphjin/pull/667"/>
+    <updated>2026-10-31T08:21:42Z</updated>
+    <summary>Merged public contribution. +89 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #666: fix(fstable): match partial object-key prefixes in local listings</title>
+    <id>https://github.com/dosco/graphjin/pull/666</id>
+    <link href="https://github.com/dosco/graphjin/pull/666"/>
+    <updated>2026-10-31T08:21:36Z</updated>
+    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #665: fix(graph): read defaults after variable type annotations</title>
+    <id>https://github.com/dosco/graphjin/pull/665</id>
+    <link href="https://github.com/dosco/graphjin/pull/665"/>
+    <updated>2026-10-31T08:21:29Z</updated>
+    <summary>Merged public contribution. +52 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #664: fix(graph): ignore byte order marks between tokens</title>
+    <id>https://github.com/dosco/graphjin/pull/664</id>
+    <link href="https://github.com/dosco/graphjin/pull/664"/>
+    <updated>2026-10-31T08:21:18Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #663: fix(graph): decode escaped backslashes and Unicode pairs</title>
+    <id>https://github.com/dosco/graphjin/pull/663</id>
+    <link href="https://github.com/dosco/graphjin/pull/663"/>
+    <updated>2026-10-31T08:21:12Z</updated>
+    <summary>Merged public contribution. +54 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>addyosmani/agent-skills #683: fix(shipping): type error boundary children props</title>
     <id>https://github.com/addyosmani/agent-skills/pull/683</id>
@@ -166,194 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/93"/>
     <updated>2026-10-30T13:18:58Z</updated>
     <summary>Merged public contribution. +22 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>orestbida/cookieconsent #838: fix: reset enabled services draft when discarding unsaved preferences</title>
-    <id>https://github.com/orestbida/cookieconsent/pull/838</id>
-    <link href="https://github.com/orestbida/cookieconsent/pull/838"/>
-    <updated>2026-10-30T12:22:52Z</updated>
-    <summary>Merged public contribution. +76 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tester-army/e2e #1056: fix(report): retain serial duration with interrupted retry verdicts</title>
-    <id>https://github.com/tester-army/e2e/pull/1056</id>
-    <link href="https://github.com/tester-army/e2e/pull/1056"/>
-    <updated>2026-10-30T12:01:11Z</updated>
-    <summary>Merged public contribution. +610 / -117 across 27 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1773: fix(docker): insert --cidfile after run for docker.exe shell commands</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1773</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1773"/>
-    <updated>2026-10-30T11:33:57Z</updated>
-    <summary>Merged public contribution. +200 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>smart-mcp-proxy/mcpproxy-go #1777: fix(docker): recognise docker.exe and backslash paths as a direct docker run</title>
-    <id>https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1777</id>
-    <link href="https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1777"/>
-    <updated>2026-10-30T10:54:09Z</updated>
-    <summary>Merged public contribution. +168 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #79: Keep current reference and experience truth out of legacy migration</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/79</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/79"/>
-    <updated>2026-10-30T10:15:57Z</updated>
-    <summary>Merged public contribution. +34 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4193: Generate code-switched clinical dialogues</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4193</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4193"/>
-    <updated>2026-10-30T08:38:18Z</updated>
-    <summary>Merged public contribution. +728 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4502: fix(evals): reject changed numeric probe values</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4502</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4502"/>
-    <updated>2026-10-30T01:28:49Z</updated>
-    <summary>Merged public contribution. +123 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4501: fix(client): honor configured cache optimizer enablement</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4501</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4501"/>
-    <updated>2026-10-30T01:26:08Z</updated>
-    <summary>Merged public contribution. +228 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4500: fix(client): preserve Anthropic create stream flags</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4500</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4500"/>
-    <updated>2026-10-30T01:25:48Z</updated>
-    <summary>Merged public contribution. +321 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4499: fix(memory): compare SQLite timestamps as UTC instants</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4499</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4499"/>
-    <updated>2026-10-30T01:25:03Z</updated>
-    <summary>Merged public contribution. +121 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4498: fix(transforms): preserve YAML block scalar data during comment elision</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4498</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4498"/>
-    <updated>2026-10-30T01:11:59Z</updated>
-    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4195: feat(synthetic): add synthetic OMOP rows and cohort truth</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4195</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4195"/>
-    <updated>2026-10-29T23:25:38Z</updated>
-    <summary>Merged public contribution. +614 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4191: feat(synthetic): add referentially closed synthetic FHIR records</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4191</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4191"/>
-    <updated>2026-10-29T23:24:28Z</updated>
-    <summary>Merged public contribution. +679 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4187: feat(synthetic): add synthetic longitudinal trajectories</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4187</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4187"/>
-    <updated>2026-10-29T22:48:38Z</updated>
-    <summary>Merged public contribution. +483 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4184: feat(synthetic): add synthetic clinical note grammars</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4184</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4184"/>
-    <updated>2026-10-29T22:45:52Z</updated>
-    <summary>Merged public contribution. +389 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4179: feat(synthetic): add synthetic prior authorization packets</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4179</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4179"/>
-    <updated>2026-10-29T22:43:21Z</updated>
-    <summary>Merged public contribution. +570 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4176: feat(synthetic): add synthetic medication course truth</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4176</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4176"/>
-    <updated>2026-10-29T22:40:44Z</updated>
-    <summary>Merged public contribution. +650 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4172: feat(synthetic): add declared synthetic lab time series</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4172</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4172"/>
-    <updated>2026-10-29T22:37:57Z</updated>
-    <summary>Merged public contribution. +488 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4168: feat: build versioned synthetic dataset recipes through the CLI</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4168</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4168"/>
-    <updated>2026-10-29T22:23:14Z</updated>
-    <summary>Merged public contribution. +855 / -0 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4186: feat: verify offline integrity of synthetic release capsules</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4186</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4186"/>
-    <updated>2026-10-29T21:54:07Z</updated>
-    <summary>Merged public contribution. +381 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4183: feat(training): gate parallel corpus license and lineage (#2869)</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4183</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4183"/>
-    <updated>2026-10-29T21:50:41Z</updated>
-    <summary>Merged public contribution. +440 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4182: feat: validate synthetic truth alignment across declared artifact views</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4182</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4182"/>
-    <updated>2026-10-29T21:48:51Z</updated>
-    <summary>Merged public contribution. +521 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4171: feat: bind synthetic image text and label assets to provenance manifests</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4171</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4171"/>
-    <updated>2026-10-29T21:46:54Z</updated>
-    <summary>Merged public contribution. +290 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4164: feat: report independent synthetic fidelity axes and reference uncertainty</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4164</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4164"/>
-    <updated>2026-10-29T21:45:30Z</updated>
-    <summary>Merged public contribution. +346 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4160: feat: preserve synthetic ancestry and feasible strata across dataset splits</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4160</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4160"/>
-    <updated>2026-10-29T21:43:28Z</updated>
-    <summary>Merged public contribution. +588 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4185: feat: preserve adjudication boundaries in cross-source label consensus</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4185</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4185"/>
-    <updated>2026-10-29T21:25:36Z</updated>
-    <summary>Merged public contribution. +425 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4178: feat: prioritize native review using scarcity and independent error evidence</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4178</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4178"/>
-    <updated>2026-10-29T21:23:47Z</updated>
-    <summary>Merged public contribution. +437 / -0 across 6 changed files.</summary>
   </entry>
 </feed>

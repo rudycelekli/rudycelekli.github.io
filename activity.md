@@ -4,10 +4,37 @@ Evidence timestamp: **2026-10-31 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,425**
+Records: **3,452**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#692: fix(discovery): aggregate SQLite index statistics per table](https://github.com/dosco/graphjin/pull/692) | +79 / -18 across 3 files | 0 reviews · 2 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#690: fix(graph): require complete standalone argument values](https://github.com/dosco/graphjin/pull/690) | +77 / -8 across 4 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#688: fix(graph): parse contextual keyword names](https://github.com/dosco/graphjin/pull/688) | +118 / -19 across 5 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#687: fix(openapi): expand environment values in nested token request bodies](https://github.com/dosco/graphjin/pull/687) | +114 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#686: fix(openapi): negotiate declared JSON response media types](https://github.com/dosco/graphjin/pull/686) | +112 / -1 across 4 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#685: fix(openapi): reuse short-lived authentication tokens before expiry](https://github.com/dosco/graphjin/pull/685) | +65 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#684: fix(openapi): reject omitted required GET query parameters](https://github.com/dosco/graphjin/pull/684) | +88 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#682: fix(valid): isolate concurrent field comparisons](https://github.com/dosco/graphjin/pull/682) | +59 / -9 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#681: fix(valid): evaluate conditional requirement truth tables](https://github.com/dosco/graphjin/pull/681) | +116 / -14 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#680: fix(allow): clear removed saved-query variable metadata](https://github.com/dosco/graphjin/pull/680) | +78 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#679: fix(allow): preserve long lines when loading saved queries](https://github.com/dosco/graphjin/pull/679) | +62 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#678: fix(queryshape): recognize compound statistical aggregate names](https://github.com/dosco/graphjin/pull/678) | +43 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#677: fix(qcode): serialize variable defaults as valid JSON](https://github.com/dosco/graphjin/pull/677) | +55 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#676: fix(qcode): retain independent variable default buffers](https://github.com/dosco/graphjin/pull/676) | +28 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#675: fix(jsn): preserve escaped keys when clearing JSON values](https://github.com/dosco/graphjin/pull/675) | +33 / -7 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#674: fix(graph): support numeric exponent literals](https://github.com/dosco/graphjin/pull/674) | +61 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#673: fix(openapi): canonicalize overrides for generated operation IDs](https://github.com/dosco/graphjin/pull/673) | +74 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#672: fix(openapi): substitute server variable defaults when loading specs](https://github.com/dosco/graphjin/pull/672) | +75 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#671: fix(openapi): honor nullable response properties in synthesized columns](https://github.com/dosco/graphjin/pull/671) | +75 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#670: fix(openapi): keep scalar payload-named response properties intact](https://github.com/dosco/graphjin/pull/670) | +67 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#669: fix(openapi): retain explicitly empty query parameter values](https://github.com/dosco/graphjin/pull/669) | +50 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#668: fix(openapi): preserve exact numbers when extracting result paths](https://github.com/dosco/graphjin/pull/668) | +58 / -12 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#667: fix(config): resolve legacy and nested environment overrides](https://github.com/dosco/graphjin/pull/667) | +89 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#666: fix(fstable): match partial object-key prefixes in local listings](https://github.com/dosco/graphjin/pull/666) | +54 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#665: fix(graph): read defaults after variable type annotations](https://github.com/dosco/graphjin/pull/665) | +52 / -0 across 3 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#664: fix(graph): ignore byte order marks between tokens](https://github.com/dosco/graphjin/pull/664) | +39 / -1 across 3 files | 0 reviews · 1 comments |
+| 2026-10-31 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#663: fix(graph): decode escaped backslashes and Unicode pairs](https://github.com/dosco/graphjin/pull/663) | +54 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-10-31 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [#683: fix(shipping): type error boundary children props](https://github.com/addyosmani/agent-skills/pull/683) | +1 / -1 across 1 files | 2 reviews · 0 comments |
 | 2026-10-31 | [antchfx/xpath](https://github.com/antchfx/xpath) | [#175: Accept node-set suffixes in ends-with](https://github.com/antchfx/xpath/pull/175) | +40 / -17 across 2 files | 0 reviews · 1 comments |
 | 2026-10-31 | [antchfx/xpath](https://github.com/antchfx/xpath) | [#174: Reject invalid argument counts in XPath functions](https://github.com/antchfx/xpath/pull/174) | +75 / -12 across 2 files | 0 reviews · 1 comments |
