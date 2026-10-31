@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T09:02:04Z</updated>
+  <updated>2026-10-31T15:04:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>retentioneering/retentioneering-tools #199: fix(schema): name the schema key and the columns when one is not found</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/199</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/199"/>
+    <updated>2026-10-31T15:04:56Z</updated>
+    <summary>Merged public contribution. +60 / -0 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>HKUDS/DeepTutor #2236: fix(documents): follow PPTX presentation slide order in fallbacks</title>
     <id>https://github.com/HKUDS/DeepTutor/pull/2236</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1125"/>
     <updated>2026-10-30T16:02:25Z</updated>
     <summary>Merged public contribution. +346 / -144 across 14 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #37: fix(materialize): retain fractional calibrated tokens in derived records</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/37</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/37"/>
-    <updated>2026-10-30T15:59:49Z</updated>
-    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

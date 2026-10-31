@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 60,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-23T04:58:34Z",
+      "deletions": 0,
+      "merged_at": "2026-10-31T15:04:56Z",
+      "number": 199,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(schema): name the schema key and the columns when one is not found",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/199"
+    },
+    {
       "additions": 142,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -55488,7 +55504,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3466,
+  "record_count": 3467,
   "schema_version": 1,
   "updated_at_utc": "2026-10-31"
 }
