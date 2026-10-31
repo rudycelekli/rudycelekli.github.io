@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T05:25:56Z</updated>
+  <updated>2026-10-31T06:33:57Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>addyosmani/agent-skills #683: fix(shipping): type error boundary children props</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/683</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/683"/>
+    <updated>2026-10-31T06:33:57Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/xpath #175: Accept node-set suffixes in ends-with</title>
     <id>https://github.com/antchfx/xpath/pull/175</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4178"/>
     <updated>2026-10-29T21:23:47Z</updated>
     <summary>Merged public contribution. +437 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4169: feat(clinical): add code-switch entity projection</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4169</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4169"/>
-    <updated>2026-10-29T21:22:23Z</updated>
-    <summary>Merged public contribution. +390 / -0 across 6 changed files.</summary>
   </entry>
 </feed>
