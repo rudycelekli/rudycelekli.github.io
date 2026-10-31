@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 111,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-21T21:22:28Z",
+      "deletions": 9,
+      "merged_at": "2026-10-31T22:35:47Z",
+      "number": 182,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(collapse_events): detect runs in index order, not tied timestamp order",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/182"
+    },
+    {
       "additions": 143,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -55536,7 +55552,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3469,
+  "record_count": 3470,
   "schema_version": 1,
   "updated_at_utc": "2026-10-31"
 }
