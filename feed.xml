@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T05:01:31Z</updated>
+  <updated>2026-10-31T05:25:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>antchfx/xpath #175: Accept node-set suffixes in ends-with</title>
+    <id>https://github.com/antchfx/xpath/pull/175</id>
+    <link href="https://github.com/antchfx/xpath/pull/175"/>
+    <updated>2026-10-31T05:25:56Z</updated>
+    <summary>Merged public contribution. +40 / -17 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/xpath #174: Reject invalid argument counts in XPath functions</title>
     <id>https://github.com/antchfx/xpath/pull/174</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/maziyarpanahi/openmed/pull/4169"/>
     <updated>2026-10-29T21:22:23Z</updated>
     <summary>Merged public contribution. +390 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4165: feat(clinical): add local abbreviation mining</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4165</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4165"/>
-    <updated>2026-10-29T21:20:01Z</updated>
-    <summary>Merged public contribution. +376 / -0 across 6 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 40,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-29T04:40:44Z",
+      "deletions": 17,
+      "merged_at": "2026-10-31T05:25:56Z",
+      "number": 175,
+      "repository": "antchfx/xpath",
+      "repository_url": "https://github.com/antchfx/xpath",
+      "reviews": 0,
+      "title": "Accept node-set suffixes in ends-with",
+      "url": "https://github.com/antchfx/xpath/pull/175"
+    },
+    {
       "additions": 75,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -54800,7 +54816,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3423,
+  "record_count": 3424,
   "schema_version": 1,
   "updated_at_utc": "2026-10-31"
 }
