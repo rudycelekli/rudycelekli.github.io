@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-01T10:40:31Z</updated>
+  <updated>2026-11-01T11:06:45Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>retentioneering/retentioneering-tools #201: fix(sample_paths): restore the DuckDB thread count after a seeded sample</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/201</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/201"/>
+    <updated>2026-11-01T11:06:45Z</updated>
+    <summary>Merged public contribution. +74 / -8 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #181: fix(add_events): validate an anchor pattern against the column it names</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/181</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/addyosmani/agent-skills/pull/683"/>
     <updated>2026-10-31T06:33:57Z</updated>
     <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xpath #175: Accept node-set suffixes in ends-with</title>
-    <id>https://github.com/antchfx/xpath/pull/175</id>
-    <link href="https://github.com/antchfx/xpath/pull/175"/>
-    <updated>2026-10-31T05:25:56Z</updated>
-    <summary>Merged public contribution. +40 / -17 across 2 changed files.</summary>
   </entry>
 </feed>

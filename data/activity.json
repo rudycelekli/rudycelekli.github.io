@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 74,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-24T03:51:03Z",
+      "deletions": 8,
+      "merged_at": "2026-11-01T11:06:45Z",
+      "number": 201,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(sample_paths): restore the DuckDB thread count after a seeded sample",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/201"
+    },
+    {
       "additions": 192,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 8,
@@ -55600,7 +55616,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3473,
+  "record_count": 3474,
   "schema_version": 1,
   "updated_at_utc": "2026-11-01"
 }

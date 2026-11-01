@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-01 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,473**
+Records: **3,474**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#201: fix(sample_paths): restore the DuckDB thread count after a seeded sample](https://github.com/retentioneering/retentioneering-tools/pull/201) | +74 / -8 across 4 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#181: fix(add_events): validate an anchor pattern against the column it names](https://github.com/retentioneering/retentioneering-tools/pull/181) | +192 / -27 across 8 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#191: fix(engine): take the calendar day in UTC, not in the host timezone](https://github.com/retentioneering/retentioneering-tools/pull/191) | +230 / -14 across 9 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#193: fix(collapse_events): honour agg="sum" and reject agg names we do not know](https://github.com/retentioneering/retentioneering-tools/pull/193) | +122 / -21 across 7 files | 0 reviews · 1 comments |
