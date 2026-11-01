@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-01T09:38:02Z</updated>
+  <updated>2026-11-01T10:05:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>retentioneering/retentioneering-tools #191: fix(engine): take the calendar day in UTC, not in the host timezone</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/191</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/191"/>
+    <updated>2026-11-01T10:05:27Z</updated>
+    <summary>Merged public contribution. +230 / -14 across 9 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #193: fix(collapse_events): honour agg="sum" and reject agg names we do not know</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/193</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/antchfx/xpath/pull/174"/>
     <updated>2026-10-31T05:01:31Z</updated>
     <summary>Merged public contribution. +75 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harry0703/MoneyPrinterTurbo #1735: fix(video): preserve big-endian TIFF grayscale brightness</title>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo/pull/1735</id>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1735"/>
-    <updated>2026-10-31T00:21:22Z</updated>
-    <summary>Merged public contribution. +29 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
