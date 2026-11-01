@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 122,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-23T04:44:04Z",
+      "deletions": 21,
+      "merged_at": "2026-11-01T09:38:02Z",
+      "number": 193,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(collapse_events): honour agg=\"sum\" and reject agg names we do not know",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/193"
+    },
+    {
       "additions": 111,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -55552,7 +55568,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3470,
+  "record_count": 3471,
   "schema_version": 1,
   "updated_at_utc": "2026-11-01"
 }

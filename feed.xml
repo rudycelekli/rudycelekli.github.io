@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-10-31T22:35:47Z</updated>
+  <updated>2026-11-01T09:38:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>retentioneering/retentioneering-tools #193: fix(collapse_events): honour agg="sum" and reject agg names we do not know</title>
+    <id>https://github.com/retentioneering/retentioneering-tools/pull/193</id>
+    <link href="https://github.com/retentioneering/retentioneering-tools/pull/193"/>
+    <updated>2026-11-01T09:38:02Z</updated>
+    <summary>Merged public contribution. +122 / -21 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #182: fix(collapse_events): detect runs in index order, not tied timestamp order</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/182</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1735"/>
     <updated>2026-10-31T00:21:22Z</updated>
     <summary>Merged public contribution. +29 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1128: fix(ci): override inherited per-signal OTLP routing</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1128</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1128"/>
-    <updated>2026-10-30T16:53:46Z</updated>
-    <summary>Merged public contribution. +352 / -73 across 11 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-01 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,470**
+Records: **3,471**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#193: fix(collapse_events): honour agg="sum" and reject agg names we do not know](https://github.com/retentioneering/retentioneering-tools/pull/193) | +122 / -21 across 7 files | 0 reviews · 1 comments |
 | 2026-10-31 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#182: fix(collapse_events): detect runs in index order, not tied timestamp order](https://github.com/retentioneering/retentioneering-tools/pull/182) | +111 / -9 across 3 files | 0 reviews · 1 comments |
 | 2026-10-31 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#895: Record unreconciled authorization outcomes and audit events atomically](https://github.com/CopilotKit/OpenBot/pull/895) | +143 / -20 across 4 files | 2 reviews · 0 comments |
 | 2026-10-31 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#196: fix(anchors): range-check an anchor's `at` at either end of the pattern](https://github.com/retentioneering/retentioneering-tools/pull/196) | +77 / -1 across 3 files | 0 reviews · 1 comments |
