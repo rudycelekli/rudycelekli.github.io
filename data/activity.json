@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 192,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 8,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-21T21:16:30Z",
+      "deletions": 27,
+      "merged_at": "2026-11-01T10:40:31Z",
+      "number": 181,
+      "repository": "retentioneering/retentioneering-tools",
+      "repository_url": "https://github.com/retentioneering/retentioneering-tools",
+      "reviews": 0,
+      "title": "fix(add_events): validate an anchor pattern against the column it names",
+      "url": "https://github.com/retentioneering/retentioneering-tools/pull/181"
+    },
+    {
       "additions": 230,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 9,
@@ -55584,7 +55600,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3472,
+  "record_count": 3473,
   "schema_version": 1,
   "updated_at_utc": "2026-11-01"
 }
