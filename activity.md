@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,495**
+Records: **3,499**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#13: fix(proposer): reject OpenCode session errors before caching output](https://github.com/google-research/harness2/pull/13) | +95 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#17: fix(workflow): preserve seed across refinement and grading](https://github.com/google-research/harness2/pull/17) | +197 / -0 across 4 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#29: fix: resume valid requested modes from partial summaries](https://github.com/google-research/harness2/pull/29) | +65 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#27: fix(lab): retain relative artifact paths for grading](https://github.com/google-research/harness2/pull/27) | +220 / -1 across 3 files | 1 reviews · 0 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#24: fix(lab): reject conflicting fenced judge verdicts](https://github.com/google-research/harness2/pull/24) | +1,265 / -7 across 10 files | 1 reviews · 0 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#28: fix(jobbench): keep judge worker exceptions ungraded](https://github.com/google-research/harness2/pull/28) | +1,085 / -1 across 5 files | 1 reviews · 0 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#12: fix(judge): keep incomplete grades unscored](https://github.com/google-research/harness2/pull/12) | +151 / -1 across 3 files | 1 reviews · 0 comments |

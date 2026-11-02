@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T01:42:21Z</updated>
+  <updated>2026-11-02T02:14:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>google-research/harness2 #13: fix(proposer): reject OpenCode session errors before caching output</title>
+    <id>https://github.com/google-research/harness2/pull/13</id>
+    <link href="https://github.com/google-research/harness2/pull/13"/>
+    <updated>2026-11-02T02:14:11Z</updated>
+    <summary>Merged public contribution. +95 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #17: fix(workflow): preserve seed across refinement and grading</title>
+    <id>https://github.com/google-research/harness2/pull/17</id>
+    <link href="https://github.com/google-research/harness2/pull/17"/>
+    <updated>2026-11-02T02:05:44Z</updated>
+    <summary>Merged public contribution. +197 / -0 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #29: fix: resume valid requested modes from partial summaries</title>
+    <id>https://github.com/google-research/harness2/pull/29</id>
+    <link href="https://github.com/google-research/harness2/pull/29"/>
+    <updated>2026-11-02T02:05:07Z</updated>
+    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #27: fix(lab): retain relative artifact paths for grading</title>
+    <id>https://github.com/google-research/harness2/pull/27</id>
+    <link href="https://github.com/google-research/harness2/pull/27"/>
+    <updated>2026-11-02T02:04:33Z</updated>
+    <summary>Merged public contribution. +220 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>google-research/harness2 #24: fix(lab): reject conflicting fenced judge verdicts</title>
     <id>https://github.com/google-research/harness2/pull/24</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/dosco/graphjin/pull/688"/>
     <updated>2026-10-31T08:23:48Z</updated>
     <summary>Merged public contribution. +118 / -19 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #687: fix(openapi): expand environment values in nested token request bodies</title>
-    <id>https://github.com/dosco/graphjin/pull/687</id>
-    <link href="https://github.com/dosco/graphjin/pull/687"/>
-    <updated>2026-10-31T08:23:41Z</updated>
-    <summary>Merged public contribution. +114 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #686: fix(openapi): negotiate declared JSON response media types</title>
-    <id>https://github.com/dosco/graphjin/pull/686</id>
-    <link href="https://github.com/dosco/graphjin/pull/686"/>
-    <updated>2026-10-31T08:23:35Z</updated>
-    <summary>Merged public contribution. +112 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #685: fix(openapi): reuse short-lived authentication tokens before expiry</title>
-    <id>https://github.com/dosco/graphjin/pull/685</id>
-    <link href="https://github.com/dosco/graphjin/pull/685"/>
-    <updated>2026-10-31T08:23:29Z</updated>
-    <summary>Merged public contribution. +65 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #684: fix(openapi): reject omitted required GET query parameters</title>
-    <id>https://github.com/dosco/graphjin/pull/684</id>
-    <link href="https://github.com/dosco/graphjin/pull/684"/>
-    <updated>2026-10-31T08:23:24Z</updated>
-    <summary>Merged public contribution. +88 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
