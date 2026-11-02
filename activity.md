@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,499**
+Records: **3,504**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5216: fix(codex): edit the configured Codex home](https://github.com/thedotmack/claude-mem/pull/5216) | +92 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5217: fix(import): deduplicate migrated Gemini prompt copies](https://github.com/thedotmack/claude-mem/pull/5217) | +46 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5214: fix(search): match file paths across separator spellings](https://github.com/thedotmack/claude-mem/pull/5214) | +53 / -3 across 2 files | 0 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5213: fix(viewer): retain case-variant sessions in project filters](https://github.com/thedotmack/claude-mem/pull/5213) | +108 / -2 across 3 files | 0 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5215: fix(viewer): retain selected category filters at zero count](https://github.com/thedotmack/claude-mem/pull/5215) | +86 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#13: fix(proposer): reject OpenCode session errors before caching output](https://github.com/google-research/harness2/pull/13) | +95 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#17: fix(workflow): preserve seed across refinement and grading](https://github.com/google-research/harness2/pull/17) | +197 / -0 across 4 files | 1 reviews · 0 comments |
 | 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#29: fix: resume valid requested modes from partial summaries](https://github.com/google-research/harness2/pull/29) | +65 / -1 across 2 files | 1 reviews · 0 comments |

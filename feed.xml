@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T02:14:11Z</updated>
+  <updated>2026-11-02T07:18:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5216: fix(codex): edit the configured Codex home</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5216</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5216"/>
+    <updated>2026-11-02T07:18:30Z</updated>
+    <summary>Merged public contribution. +92 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5217: fix(import): deduplicate migrated Gemini prompt copies</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5217</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5217"/>
+    <updated>2026-11-02T07:16:54Z</updated>
+    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5214: fix(search): match file paths across separator spellings</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5214</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5214"/>
+    <updated>2026-11-02T07:15:31Z</updated>
+    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5213: fix(viewer): retain case-variant sessions in project filters</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5213</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5213"/>
+    <updated>2026-11-02T07:14:00Z</updated>
+    <summary>Merged public contribution. +108 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5215: fix(viewer): retain selected category filters at zero count</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5215</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5215"/>
+    <updated>2026-11-02T07:11:37Z</updated>
+    <summary>Merged public contribution. +86 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>google-research/harness2 #13: fix(proposer): reject OpenCode session errors before caching output</title>
     <id>https://github.com/google-research/harness2/pull/13</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2239"/>
     <updated>2026-10-31T08:41:10Z</updated>
     <summary>Merged public contribution. +75 / -6 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2235: fix(services): isolate cancellation of coalesced hint requests</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2235</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2235"/>
-    <updated>2026-10-31T08:40:25Z</updated>
-    <summary>Merged public contribution. +82 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2234: fix(runtime): wake input waiters on their owning loop</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2234</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2234"/>
-    <updated>2026-10-31T08:39:49Z</updated>
-    <summary>Merged public contribution. +104 / -15 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #692: fix(discovery): aggregate SQLite index statistics per table</title>
-    <id>https://github.com/dosco/graphjin/pull/692</id>
-    <link href="https://github.com/dosco/graphjin/pull/692"/>
-    <updated>2026-10-31T08:24:00Z</updated>
-    <summary>Merged public contribution. +79 / -18 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #690: fix(graph): require complete standalone argument values</title>
-    <id>https://github.com/dosco/graphjin/pull/690</id>
-    <link href="https://github.com/dosco/graphjin/pull/690"/>
-    <updated>2026-10-31T08:23:53Z</updated>
-    <summary>Merged public contribution. +77 / -8 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #688: fix(graph): parse contextual keyword names</title>
-    <id>https://github.com/dosco/graphjin/pull/688</id>
-    <link href="https://github.com/dosco/graphjin/pull/688"/>
-    <updated>2026-10-31T08:23:48Z</updated>
-    <summary>Merged public contribution. +118 / -19 across 5 changed files.</summary>
   </entry>
 </feed>
