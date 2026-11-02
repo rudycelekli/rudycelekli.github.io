@@ -4,8 +4,71 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T17:40:35Z</updated>
+  <updated>2026-11-02T18:31:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>CopilotKit/OpenBot #921: Make the concurrent routine-sweep test read the same firing</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/921</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/921"/>
+    <updated>2026-11-02T18:31:02Z</updated>
+    <summary>Merged public contribution. +29 / -10 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #926: Discard conversation titles that arrive after deletion</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/926</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/926"/>
+    <updated>2026-11-02T18:28:32Z</updated>
+    <summary>Merged public contribution. +95 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #925: Read routine transitions and schedules under the owner cap lock</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/925</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/925"/>
+    <updated>2026-11-02T18:28:13Z</updated>
+    <summary>Merged public contribution. +212 / -40 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #920: Keep ambiguous cross-app routing on the default Bot</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/920</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/920"/>
+    <updated>2026-11-02T18:27:55Z</updated>
+    <summary>Merged public contribution. +67 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #922: Preserve shared OAuth clients when a replica cannot read them</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/922</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/922"/>
+    <updated>2026-11-02T18:27:16Z</updated>
+    <summary>Merged public contribution. +358 / -47 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #924: Keep shared-app approval decisions atomic under concurrent changes</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/924</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/924"/>
+    <updated>2026-11-02T18:27:02Z</updated>
+    <summary>Merged public contribution. +411 / -109 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #945: Count Enter or Space pressed with a modifier as an activation</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/945</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/945"/>
+    <updated>2026-11-02T18:26:30Z</updated>
+    <summary>Merged public contribution. +156 / -12 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #944: Keep host boundary rules from being evaded by a root dot</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/944</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/944"/>
+    <updated>2026-11-02T18:26:14Z</updated>
+    <summary>Merged public contribution. +61 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>CopilotKit/OpenBot #943: Scope a Gmail private-share approval to the people it is sent to</title>
+    <id>https://github.com/CopilotKit/OpenBot/pull/943</id>
+    <link href="https://github.com/CopilotKit/OpenBot/pull/943"/>
+    <updated>2026-11-02T18:25:59Z</updated>
+    <summary>Merged public contribution. +45 / -0 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5295: fix(setup): deduplicate legacy Gemini usage across migration copies</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5295</id>
@@ -292,68 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5213"/>
     <updated>2026-11-02T07:14:00Z</updated>
     <summary>Merged public contribution. +108 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5215: fix(viewer): retain selected category filters at zero count</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5215</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5215"/>
-    <updated>2026-11-02T07:11:37Z</updated>
-    <summary>Merged public contribution. +86 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #13: fix(proposer): reject OpenCode session errors before caching output</title>
-    <id>https://github.com/google-research/harness2/pull/13</id>
-    <link href="https://github.com/google-research/harness2/pull/13"/>
-    <updated>2026-11-02T02:14:11Z</updated>
-    <summary>Merged public contribution. +95 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #17: fix(workflow): preserve seed across refinement and grading</title>
-    <id>https://github.com/google-research/harness2/pull/17</id>
-    <link href="https://github.com/google-research/harness2/pull/17"/>
-    <updated>2026-11-02T02:05:44Z</updated>
-    <summary>Merged public contribution. +197 / -0 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #29: fix: resume valid requested modes from partial summaries</title>
-    <id>https://github.com/google-research/harness2/pull/29</id>
-    <link href="https://github.com/google-research/harness2/pull/29"/>
-    <updated>2026-11-02T02:05:07Z</updated>
-    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #27: fix(lab): retain relative artifact paths for grading</title>
-    <id>https://github.com/google-research/harness2/pull/27</id>
-    <link href="https://github.com/google-research/harness2/pull/27"/>
-    <updated>2026-11-02T02:04:33Z</updated>
-    <summary>Merged public contribution. +220 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #24: fix(lab): reject conflicting fenced judge verdicts</title>
-    <id>https://github.com/google-research/harness2/pull/24</id>
-    <link href="https://github.com/google-research/harness2/pull/24"/>
-    <updated>2026-11-02T01:42:21Z</updated>
-    <summary>Merged public contribution. +1265 / -7 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #28: fix(jobbench): keep judge worker exceptions ungraded</title>
-    <id>https://github.com/google-research/harness2/pull/28</id>
-    <link href="https://github.com/google-research/harness2/pull/28"/>
-    <updated>2026-11-02T01:39:19Z</updated>
-    <summary>Merged public contribution. +1085 / -1 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #12: fix(judge): keep incomplete grades unscored</title>
-    <id>https://github.com/google-research/harness2/pull/12</id>
-    <link href="https://github.com/google-research/harness2/pull/12"/>
-    <updated>2026-11-02T01:38:08Z</updated>
-    <summary>Merged public contribution. +151 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-research/harness2 #7: fix(setup): ship referenced environment example</title>
-    <id>https://github.com/google-research/harness2/pull/7</id>
-    <link href="https://github.com/google-research/harness2/pull/7"/>
-    <updated>2026-11-02T01:35:25Z</updated>
-    <summary>Merged public contribution. +123 / -0 across 2 changed files.</summary>
   </entry>
 </feed>

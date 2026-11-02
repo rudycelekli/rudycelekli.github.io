@@ -4,10 +4,19 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,541**
+Records: **3,550**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#921: Make the concurrent routine-sweep test read the same firing](https://github.com/CopilotKit/OpenBot/pull/921) | +29 / -10 across 1 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#926: Discard conversation titles that arrive after deletion](https://github.com/CopilotKit/OpenBot/pull/926) | +95 / -6 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#925: Read routine transitions and schedules under the owner cap lock](https://github.com/CopilotKit/OpenBot/pull/925) | +212 / -40 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#920: Keep ambiguous cross-app routing on the default Bot](https://github.com/CopilotKit/OpenBot/pull/920) | +67 / -2 across 4 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#922: Preserve shared OAuth clients when a replica cannot read them](https://github.com/CopilotKit/OpenBot/pull/922) | +358 / -47 across 9 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#924: Keep shared-app approval decisions atomic under concurrent changes](https://github.com/CopilotKit/OpenBot/pull/924) | +411 / -109 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#945: Count Enter or Space pressed with a modifier as an activation](https://github.com/CopilotKit/OpenBot/pull/945) | +156 / -12 across 5 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#944: Keep host boundary rules from being evaded by a root dot](https://github.com/CopilotKit/OpenBot/pull/944) | +61 / -10 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#943: Scope a Gmail private-share approval to the people it is sent to](https://github.com/CopilotKit/OpenBot/pull/943) | +45 / -0 across 3 files | 2 reviews · 0 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5295: fix(setup): deduplicate legacy Gemini usage across migration copies](https://github.com/thedotmack/claude-mem/pull/5295) | +96 / -3 across 2 files | 1 reviews · 2 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5289: fix(import): read whitespace-formatted Claude transcripts and usage](https://github.com/thedotmack/claude-mem/pull/5289) | +80 / -7 across 6 files | 0 reviews · 3 comments |
 | 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#389: fix(policy-lab): preserve repair and comparison outcomes in Markdown](https://github.com/ifixai-ai/iFixAi/pull/389) | +68 / -3 across 2 files | 1 reviews · 0 comments |
