@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,506**
+Records: **3,509**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#217: fix(capture): enforce digest budgets on UTF-8 output](https://github.com/tigerless-labs/autoharness/pull/217) | +67 / -2 across 3 files | 0 reviews · 2 comments |
+| 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#225: fix(hook): keep healthy index entries when one skill cannot be read](https://github.com/tigerless-labs/autoharness/pull/225) | +69 / -2 across 4 files | 0 reviews · 3 comments |
+| 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#218: fix(hook): retain layer identity when counting exact skill reads](https://github.com/tigerless-labs/autoharness/pull/218) | +54 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5203: fix(context): preserve authored marker examples during refresh](https://github.com/thedotmack/claude-mem/pull/5203) | +314 / -22 across 5 files | 5 reviews · 3 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5212: fix(codex): update equivalent quoted TOML settings](https://github.com/thedotmack/claude-mem/pull/5212) | +84 / -6 across 2 files | 0 reviews · 2 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5216: fix(codex): edit the configured Codex home](https://github.com/thedotmack/claude-mem/pull/5216) | +92 / -1 across 2 files | 0 reviews · 2 comments |

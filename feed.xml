@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T08:14:18Z</updated>
+  <updated>2026-11-02T12:26:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #217: fix(capture): enforce digest budgets on UTF-8 output</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/217</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/217"/>
+    <updated>2026-11-02T12:26:30Z</updated>
+    <summary>Merged public contribution. +67 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #225: fix(hook): keep healthy index entries when one skill cannot be read</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/225</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/225"/>
+    <updated>2026-11-02T12:24:47Z</updated>
+    <summary>Merged public contribution. +69 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #218: fix(hook): retain layer identity when counting exact skill reads</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/218</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/218"/>
+    <updated>2026-11-02T12:20:58Z</updated>
+    <summary>Merged public contribution. +54 / -5 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5203: fix(context): preserve authored marker examples during refresh</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5203</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2200"/>
     <updated>2026-10-31T08:43:41Z</updated>
     <summary>Merged public contribution. +67 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2198: fix(voice): reject non-finite transcription timestamps</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2198</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2198"/>
-    <updated>2026-10-31T08:43:13Z</updated>
-    <summary>Merged public contribution. +117 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2233: fix(voice): decode Gemini WAV containers before PCM output</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2233</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2233"/>
-    <updated>2026-10-31T08:42:38Z</updated>
-    <summary>Merged public contribution. +82 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2238: fix(videogen): enforce the complete polling time budget</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2238</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2238"/>
-    <updated>2026-10-31T08:42:04Z</updated>
-    <summary>Merged public contribution. +156 / -4 across 4 changed files.</summary>
   </entry>
 </feed>

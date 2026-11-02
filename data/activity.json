@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 67,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:05Z",
+      "deletions": 2,
+      "merged_at": "2026-11-02T12:26:30Z",
+      "number": 217,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(capture): enforce digest budgets on UTF-8 output",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/217"
+    },
+    {
+      "additions": 69,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:29Z",
+      "deletions": 2,
+      "merged_at": "2026-11-02T12:24:47Z",
+      "number": 225,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(hook): keep healthy index entries when one skill cannot be read",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/225"
+    },
+    {
+      "additions": 54,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-09T14:57:09Z",
+      "deletions": 5,
+      "merged_at": "2026-11-02T12:20:58Z",
+      "number": 218,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(hook): retain layer identity when counting exact skill reads",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/218"
+    },
+    {
       "additions": 314,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 5,
@@ -56128,7 +56176,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3506,
+  "record_count": 3509,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }
