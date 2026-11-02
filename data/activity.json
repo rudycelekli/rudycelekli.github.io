@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 314,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 3,
+      "commits": 5,
+      "created_at": "2026-10-30T07:04:23Z",
+      "deletions": 22,
+      "merged_at": "2026-11-02T08:14:18Z",
+      "number": 5203,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 5,
+      "title": "fix(context): preserve authored marker examples during refresh",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5203"
+    },
+    {
       "additions": 84,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -56112,7 +56128,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3505,
+  "record_count": 3506,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }
