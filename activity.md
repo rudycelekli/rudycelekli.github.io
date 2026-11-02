@@ -4,10 +4,28 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,521**
+Records: **3,539**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#389: fix(policy-lab): preserve repair and comparison outcomes in Markdown](https://github.com/ifixai-ai/iFixAi/pull/389) | +68 / -3 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#388: fix(windtunnel): require usable clean controls before verdicts](https://github.com/ifixai-ai/iFixAi/pull/388) | +72 / -3 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#386: fix(windtunnel): reject duplicate profile and inspection identities](https://github.com/ifixai-ai/iFixAi/pull/386) | +55 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#385: fix(trajectory): retain OTLP instrumentation-scope coverage gaps](https://github.com/ifixai-ai/iFixAi/pull/385) | +61 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#384: fix: refuse verification of unsupported manifest schemas](https://github.com/ifixai-ai/iFixAi/pull/384) | +49 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#382: fix: reject malformed and ambiguous comparison scorecards](https://github.com/ifixai-ai/iFixAi/pull/382) | +59 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#381: fix(policy-lab): revalidate evidence before export and comparison](https://github.com/ifixai-ai/iFixAi/pull/381) | +41 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#380: fix: withhold JSON confidence intervals for unscored inspections](https://github.com/ifixai-ai/iFixAi/pull/380) | +26 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#379: fix(trajectory): keep native JSONL exports within replay limits](https://github.com/ifixai-ai/iFixAi/pull/379) | +29 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#378: fix(windtunnel): keep inconclusive scores out of detection claims](https://github.com/ifixai-ai/iFixAi/pull/378) | +38 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#376: fix: preserve scorecard gate decisions when loading comparisons](https://github.com/ifixai-ai/iFixAi/pull/376) | +38 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#375: fix(windtunnel): enforce private exclusive evidence creation](https://github.com/ifixai-ai/iFixAi/pull/375) | +44 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#374: fix(policy-lab): reject futures as deferred replay results](https://github.com/ifixai-ai/iFixAi/pull/374) | +34 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#373: fix(trajectory): reserve recorder capacity for pending calls](https://github.com/ifixai-ai/iFixAi/pull/373) | +55 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#372: fix: keep legacy unscored placeholders out of artifact deltas](https://github.com/ifixai-ai/iFixAi/pull/372) | +31 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#371: fix(policy-lab): snapshot admitted replay bindings](https://github.com/ifixai-ai/iFixAi/pull/371) | +49 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#370: fix(windtunnel): refuse comparisons across changed injection contracts](https://github.com/ifixai-ai/iFixAi/pull/370) | +42 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5292: fix(import): deduplicate Codex prompts by their native identity](https://github.com/thedotmack/claude-mem/pull/5292) | +124 / -4 across 4 files | 1 reviews · 3 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5294: fix(setup): keep token usage partial when a transcript source cannot be read](https://github.com/thedotmack/claude-mem/pull/5294) | +19 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5291: fix(corpus): preserve saved corpora when replacement writes fail](https://github.com/thedotmack/claude-mem/pull/5291) | +45 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#58: Health: read an Express route's checks from its own arguments](https://github.com/haydenschmitty/floorplan/pull/58) | +55 / -3 across 9 files | 0 reviews · 1 comments |

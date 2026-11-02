@@ -4,8 +4,134 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T15:27:58Z</updated>
+  <updated>2026-11-02T17:18:51Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ifixai-ai/iFixAi #389: fix(policy-lab): preserve repair and comparison outcomes in Markdown</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/389</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/389"/>
+    <updated>2026-11-02T17:18:51Z</updated>
+    <summary>Merged public contribution. +68 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #388: fix(windtunnel): require usable clean controls before verdicts</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/388</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/388"/>
+    <updated>2026-11-02T17:18:46Z</updated>
+    <summary>Merged public contribution. +72 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #386: fix(windtunnel): reject duplicate profile and inspection identities</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/386</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/386"/>
+    <updated>2026-11-02T17:18:41Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #385: fix(trajectory): retain OTLP instrumentation-scope coverage gaps</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/385</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/385"/>
+    <updated>2026-11-02T17:18:35Z</updated>
+    <summary>Merged public contribution. +61 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #384: fix: refuse verification of unsupported manifest schemas</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/384</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/384"/>
+    <updated>2026-11-02T17:18:29Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #382: fix: reject malformed and ambiguous comparison scorecards</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/382</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/382"/>
+    <updated>2026-11-02T17:18:24Z</updated>
+    <summary>Merged public contribution. +59 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #381: fix(policy-lab): revalidate evidence before export and comparison</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/381</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/381"/>
+    <updated>2026-11-02T17:18:18Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #380: fix: withhold JSON confidence intervals for unscored inspections</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/380</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/380"/>
+    <updated>2026-11-02T17:18:11Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #379: fix(trajectory): keep native JSONL exports within replay limits</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/379</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/379"/>
+    <updated>2026-11-02T17:18:06Z</updated>
+    <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #378: fix(windtunnel): keep inconclusive scores out of detection claims</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/378</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/378"/>
+    <updated>2026-11-02T17:18:01Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #376: fix: preserve scorecard gate decisions when loading comparisons</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/376</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/376"/>
+    <updated>2026-11-02T17:17:57Z</updated>
+    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #375: fix(windtunnel): enforce private exclusive evidence creation</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/375</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/375"/>
+    <updated>2026-11-02T17:17:52Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #374: fix(policy-lab): reject futures as deferred replay results</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/374</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/374"/>
+    <updated>2026-11-02T17:17:47Z</updated>
+    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #373: fix(trajectory): reserve recorder capacity for pending calls</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/373</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/373"/>
+    <updated>2026-11-02T17:17:43Z</updated>
+    <summary>Merged public contribution. +55 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #372: fix: keep legacy unscored placeholders out of artifact deltas</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/372</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/372"/>
+    <updated>2026-11-02T17:17:38Z</updated>
+    <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #371: fix(policy-lab): snapshot admitted replay bindings</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/371</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/371"/>
+    <updated>2026-11-02T17:17:33Z</updated>
+    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ifixai-ai/iFixAi #370: fix(windtunnel): refuse comparisons across changed injection contracts</title>
+    <id>https://github.com/ifixai-ai/iFixAi/pull/370</id>
+    <link href="https://github.com/ifixai-ai/iFixAi/pull/370"/>
+    <updated>2026-11-02T17:17:28Z</updated>
+    <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5292: fix(import): deduplicate Codex prompts by their native identity</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5292</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5292"/>
+    <updated>2026-11-02T17:07:23Z</updated>
+    <summary>Merged public contribution. +124 / -4 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5294: fix(setup): keep token usage partial when a transcript source cannot be read</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5294</id>
@@ -229,131 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2168"/>
     <updated>2026-11-02T00:42:09Z</updated>
     <summary>Merged public contribution. +82 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2167: fix(audio): reject non-finite WAV samples before DMel encoding</title>
-    <id>https://github.com/JustVugg/colibri/pull/2167</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2167"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +8 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2165: fix(api): reject misplaced Anthropic tool blocks</title>
-    <id>https://github.com/JustVugg/colibri/pull/2165</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2165"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2164: fix(api): honor history JSON error policy at decoder limits</title>
-    <id>https://github.com/JustVugg/colibri/pull/2164</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2164"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +40 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2162: fix(api): preserve trailing Kimi tool argument data in fallback</title>
-    <id>https://github.com/JustVugg/colibri/pull/2162</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2162"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2161: fix(api): preserve malformed MiMo tool calls instead of fabricating arguments</title>
-    <id>https://github.com/JustVugg/colibri/pull/2161</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2161"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +79 / -21 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2158: fix(gguf): reject tensor byte counts that exceed int64</title>
-    <id>https://github.com/JustVugg/colibri/pull/2158</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2158"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2157: fix(gguf): find split suffix independently of parent directories</title>
-    <id>https://github.com/JustVugg/colibri/pull/2157</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2157"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +61 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2156: fix(memory): preserve measured zero Windows commit headroom</title>
-    <id>https://github.com/JustVugg/colibri/pull/2156</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2156"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +13 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2154: fix(setup): shell-quote POSIX recovery commands literally</title>
-    <id>https://github.com/JustVugg/colibri/pull/2154</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2154"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +26 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2152: fix(setup): validate resumed Content-Range before appending</title>
-    <id>https://github.com/JustVugg/colibri/pull/2152</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2152"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2059: fix(web): clean legacy storage even when preference writes fail</title>
-    <id>https://github.com/JustVugg/colibri/pull/2059</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2059"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +44 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2058: fix(web): finish chat reads at the terminal SSE marker</title>
-    <id>https://github.com/JustVugg/colibri/pull/2058</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2058"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +84 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2057: fix(web): assemble multiline chat SSE data before decoding</title>
-    <id>https://github.com/JustVugg/colibri/pull/2057</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2057"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +49 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2166: fix(audio): decode extensible WAV by its subformat GUID</title>
-    <id>https://github.com/JustVugg/colibri/pull/2166</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2166"/>
-    <updated>2026-11-02T00:42:08Z</updated>
-    <summary>Merged public contribution. +45 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>lightseekorg/tokenspeed #2392: fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id</title>
-    <id>https://github.com/lightseekorg/tokenspeed/pull/2392</id>
-    <link href="https://github.com/lightseekorg/tokenspeed/pull/2392"/>
-    <updated>2026-11-01T23:27:38Z</updated>
-    <summary>Merged public contribution. +102 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #201: fix(sample_paths): restore the DuckDB thread count after a seeded sample</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/201</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/201"/>
-    <updated>2026-11-01T11:06:45Z</updated>
-    <summary>Merged public contribution. +74 / -8 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #181: fix(add_events): validate an anchor pattern against the column it names</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/181</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/181"/>
-    <updated>2026-11-01T10:40:31Z</updated>
-    <summary>Merged public contribution. +192 / -27 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #191: fix(engine): take the calendar day in UTC, not in the host timezone</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/191</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/191"/>
-    <updated>2026-11-01T10:05:27Z</updated>
-    <summary>Merged public contribution. +230 / -14 across 9 changed files.</summary>
   </entry>
 </feed>
