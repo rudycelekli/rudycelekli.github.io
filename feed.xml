@@ -4,8 +4,120 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-01T23:27:38Z</updated>
+  <updated>2026-11-02T00:42:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2173: fix(gguf): validate expert cardinality before narrowing</title>
+    <id>https://github.com/JustVugg/colibri/pull/2173</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2173"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2168: fix(setup): resolve pagination links within the hub origin</title>
+    <id>https://github.com/JustVugg/colibri/pull/2168</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2168"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +82 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2167: fix(audio): reject non-finite WAV samples before DMel encoding</title>
+    <id>https://github.com/JustVugg/colibri/pull/2167</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2167"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +8 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2165: fix(api): reject misplaced Anthropic tool blocks</title>
+    <id>https://github.com/JustVugg/colibri/pull/2165</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2165"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2164: fix(api): honor history JSON error policy at decoder limits</title>
+    <id>https://github.com/JustVugg/colibri/pull/2164</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2164"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +40 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2162: fix(api): preserve trailing Kimi tool argument data in fallback</title>
+    <id>https://github.com/JustVugg/colibri/pull/2162</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2162"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2161: fix(api): preserve malformed MiMo tool calls instead of fabricating arguments</title>
+    <id>https://github.com/JustVugg/colibri/pull/2161</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2161"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +79 / -21 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2158: fix(gguf): reject tensor byte counts that exceed int64</title>
+    <id>https://github.com/JustVugg/colibri/pull/2158</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2158"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2157: fix(gguf): find split suffix independently of parent directories</title>
+    <id>https://github.com/JustVugg/colibri/pull/2157</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2157"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +61 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2156: fix(memory): preserve measured zero Windows commit headroom</title>
+    <id>https://github.com/JustVugg/colibri/pull/2156</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2156"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +13 / -4 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2154: fix(setup): shell-quote POSIX recovery commands literally</title>
+    <id>https://github.com/JustVugg/colibri/pull/2154</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2154"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +26 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2152: fix(setup): validate resumed Content-Range before appending</title>
+    <id>https://github.com/JustVugg/colibri/pull/2152</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2152"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2059: fix(web): clean legacy storage even when preference writes fail</title>
+    <id>https://github.com/JustVugg/colibri/pull/2059</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2059"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +44 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2058: fix(web): finish chat reads at the terminal SSE marker</title>
+    <id>https://github.com/JustVugg/colibri/pull/2058</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2058"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +84 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2057: fix(web): assemble multiline chat SSE data before decoding</title>
+    <id>https://github.com/JustVugg/colibri/pull/2057</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2057"/>
+    <updated>2026-11-02T00:42:09Z</updated>
+    <summary>Merged public contribution. +49 / -9 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2166: fix(audio): decode extensible WAV by its subformat GUID</title>
+    <id>https://github.com/JustVugg/colibri/pull/2166</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2166"/>
+    <updated>2026-11-02T00:42:08Z</updated>
+    <summary>Merged public contribution. +45 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>lightseekorg/tokenspeed #2392: fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id</title>
     <id>https://github.com/lightseekorg/tokenspeed/pull/2392</id>
@@ -243,117 +355,5 @@
     <link href="https://github.com/dosco/graphjin/pull/679"/>
     <updated>2026-10-31T08:22:59Z</updated>
     <summary>Merged public contribution. +62 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #678: fix(queryshape): recognize compound statistical aggregate names</title>
-    <id>https://github.com/dosco/graphjin/pull/678</id>
-    <link href="https://github.com/dosco/graphjin/pull/678"/>
-    <updated>2026-10-31T08:22:53Z</updated>
-    <summary>Merged public contribution. +43 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #677: fix(qcode): serialize variable defaults as valid JSON</title>
-    <id>https://github.com/dosco/graphjin/pull/677</id>
-    <link href="https://github.com/dosco/graphjin/pull/677"/>
-    <updated>2026-10-31T08:22:48Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #676: fix(qcode): retain independent variable default buffers</title>
-    <id>https://github.com/dosco/graphjin/pull/676</id>
-    <link href="https://github.com/dosco/graphjin/pull/676"/>
-    <updated>2026-10-31T08:22:42Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #675: fix(jsn): preserve escaped keys when clearing JSON values</title>
-    <id>https://github.com/dosco/graphjin/pull/675</id>
-    <link href="https://github.com/dosco/graphjin/pull/675"/>
-    <updated>2026-10-31T08:22:34Z</updated>
-    <summary>Merged public contribution. +33 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #674: fix(graph): support numeric exponent literals</title>
-    <id>https://github.com/dosco/graphjin/pull/674</id>
-    <link href="https://github.com/dosco/graphjin/pull/674"/>
-    <updated>2026-10-31T08:22:28Z</updated>
-    <summary>Merged public contribution. +61 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #673: fix(openapi): canonicalize overrides for generated operation IDs</title>
-    <id>https://github.com/dosco/graphjin/pull/673</id>
-    <link href="https://github.com/dosco/graphjin/pull/673"/>
-    <updated>2026-10-31T08:22:21Z</updated>
-    <summary>Merged public contribution. +74 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #672: fix(openapi): substitute server variable defaults when loading specs</title>
-    <id>https://github.com/dosco/graphjin/pull/672</id>
-    <link href="https://github.com/dosco/graphjin/pull/672"/>
-    <updated>2026-10-31T08:22:15Z</updated>
-    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #671: fix(openapi): honor nullable response properties in synthesized columns</title>
-    <id>https://github.com/dosco/graphjin/pull/671</id>
-    <link href="https://github.com/dosco/graphjin/pull/671"/>
-    <updated>2026-10-31T08:22:10Z</updated>
-    <summary>Merged public contribution. +75 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #670: fix(openapi): keep scalar payload-named response properties intact</title>
-    <id>https://github.com/dosco/graphjin/pull/670</id>
-    <link href="https://github.com/dosco/graphjin/pull/670"/>
-    <updated>2026-10-31T08:22:01Z</updated>
-    <summary>Merged public contribution. +67 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #669: fix(openapi): retain explicitly empty query parameter values</title>
-    <id>https://github.com/dosco/graphjin/pull/669</id>
-    <link href="https://github.com/dosco/graphjin/pull/669"/>
-    <updated>2026-10-31T08:21:53Z</updated>
-    <summary>Merged public contribution. +50 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #668: fix(openapi): preserve exact numbers when extracting result paths</title>
-    <id>https://github.com/dosco/graphjin/pull/668</id>
-    <link href="https://github.com/dosco/graphjin/pull/668"/>
-    <updated>2026-10-31T08:21:47Z</updated>
-    <summary>Merged public contribution. +58 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #667: fix(config): resolve legacy and nested environment overrides</title>
-    <id>https://github.com/dosco/graphjin/pull/667</id>
-    <link href="https://github.com/dosco/graphjin/pull/667"/>
-    <updated>2026-10-31T08:21:42Z</updated>
-    <summary>Merged public contribution. +89 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #666: fix(fstable): match partial object-key prefixes in local listings</title>
-    <id>https://github.com/dosco/graphjin/pull/666</id>
-    <link href="https://github.com/dosco/graphjin/pull/666"/>
-    <updated>2026-10-31T08:21:36Z</updated>
-    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #665: fix(graph): read defaults after variable type annotations</title>
-    <id>https://github.com/dosco/graphjin/pull/665</id>
-    <link href="https://github.com/dosco/graphjin/pull/665"/>
-    <updated>2026-10-31T08:21:29Z</updated>
-    <summary>Merged public contribution. +52 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #664: fix(graph): ignore byte order marks between tokens</title>
-    <id>https://github.com/dosco/graphjin/pull/664</id>
-    <link href="https://github.com/dosco/graphjin/pull/664"/>
-    <updated>2026-10-31T08:21:18Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #663: fix(graph): decode escaped backslashes and Unicode pairs</title>
-    <id>https://github.com/dosco/graphjin/pull/663</id>
-    <link href="https://github.com/dosco/graphjin/pull/663"/>
-    <updated>2026-10-31T08:21:12Z</updated>
-    <summary>Merged public contribution. +54 / -1 across 3 changed files.</summary>
   </entry>
 </feed>

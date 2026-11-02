@@ -1,13 +1,29 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-11-01 UTC**
+Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,475**
+Records: **3,491**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2173: fix(gguf): validate expert cardinality before narrowing](https://github.com/JustVugg/colibri/pull/2173) | +55 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2168: fix(setup): resolve pagination links within the hub origin](https://github.com/JustVugg/colibri/pull/2168) | +82 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2167: fix(audio): reject non-finite WAV samples before DMel encoding](https://github.com/JustVugg/colibri/pull/2167) | +8 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2165: fix(api): reject misplaced Anthropic tool blocks](https://github.com/JustVugg/colibri/pull/2165) | +23 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2164: fix(api): honor history JSON error policy at decoder limits](https://github.com/JustVugg/colibri/pull/2164) | +40 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2162: fix(api): preserve trailing Kimi tool argument data in fallback](https://github.com/JustVugg/colibri/pull/2162) | +16 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2161: fix(api): preserve malformed MiMo tool calls instead of fabricating arguments](https://github.com/JustVugg/colibri/pull/2161) | +79 / -21 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2158: fix(gguf): reject tensor byte counts that exceed int64](https://github.com/JustVugg/colibri/pull/2158) | +55 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2157: fix(gguf): find split suffix independently of parent directories](https://github.com/JustVugg/colibri/pull/2157) | +61 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2156: fix(memory): preserve measured zero Windows commit headroom](https://github.com/JustVugg/colibri/pull/2156) | +13 / -4 across 4 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2154: fix(setup): shell-quote POSIX recovery commands literally](https://github.com/JustVugg/colibri/pull/2154) | +26 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2152: fix(setup): validate resumed Content-Range before appending](https://github.com/JustVugg/colibri/pull/2152) | +34 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2059: fix(web): clean legacy storage even when preference writes fail](https://github.com/JustVugg/colibri/pull/2059) | +44 / -3 across 3 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2058: fix(web): finish chat reads at the terminal SSE marker](https://github.com/JustVugg/colibri/pull/2058) | +84 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2057: fix(web): assemble multiline chat SSE data before decoding](https://github.com/JustVugg/colibri/pull/2057) | +49 / -9 across 3 files | 0 reviews · 0 comments |
+| 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2166: fix(audio): decode extensible WAV by its subformat GUID](https://github.com/JustVugg/colibri/pull/2166) | +45 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-01 | [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) | [#2392: fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id](https://github.com/lightseekorg/tokenspeed/pull/2392) | +102 / -3 across 2 files | 2 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#201: fix(sample_paths): restore the DuckDB thread count after a seeded sample](https://github.com/retentioneering/retentioneering-tools/pull/201) | +74 / -8 across 4 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#181: fix(add_events): validate an anchor pattern against the column it names](https://github.com/retentioneering/retentioneering-tools/pull/181) | +192 / -27 across 8 files | 0 reviews · 1 comments |
