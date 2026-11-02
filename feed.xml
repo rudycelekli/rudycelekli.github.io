@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T12:30:30Z</updated>
+  <updated>2026-11-02T13:37:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #47: fix(tui): skip non-object derived records before rendering</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/47</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/47"/>
+    <updated>2026-11-02T13:37:44Z</updated>
+    <summary>Merged public contribution. +14 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #26: fix(anthropic): resolve output drill refs for streaming responses</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/26</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/26"/>
+    <updated>2026-11-02T13:36:15Z</updated>
+    <summary>Merged public contribution. +22 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #42: fix(capture): close the parent log descriptor after launching materializer</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/42</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/42"/>
+    <updated>2026-11-02T13:35:03Z</updated>
+    <summary>Merged public contribution. +19 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #25: fix(raw-codec): recover readable records around damaged captures</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/25</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/25"/>
+    <updated>2026-11-02T13:34:20Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #58: fix(materialize): refresh captures when saved byte offsets differ</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/58</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/58"/>
+    <updated>2026-11-02T13:33:47Z</updated>
+    <summary>Merged public contribution. +76 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #59: fix(cost): price mixed cache write TTLs from numerical usage</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/59</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/59"/>
+    <updated>2026-11-02T13:33:18Z</updated>
+    <summary>Merged public contribution. +152 / -22 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>beenuar/AiSOC #1606: fix(connectors): follow SentinelOne threat pagination</title>
+    <id>https://github.com/beenuar/AiSOC/pull/1606</id>
+    <link href="https://github.com/beenuar/AiSOC/pull/1606"/>
+    <updated>2026-11-02T13:31:24Z</updated>
+    <summary>Merged public contribution. +126 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #244: fix(stage): report queue write failures to callers</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/244</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/retentioneering/retentioneering-tools/pull/196"/>
     <updated>2026-10-31T17:17:21Z</updated>
     <summary>Merged public contribution. +77 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #199: fix(schema): name the schema key and the columns when one is not found</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/199</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/199"/>
-    <updated>2026-10-31T15:04:56Z</updated>
-    <summary>Merged public contribution. +60 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2236: fix(documents): follow PPTX presentation slide order in fallbacks</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2236</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2236"/>
-    <updated>2026-10-31T09:02:04Z</updated>
-    <summary>Merged public contribution. +142 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2199: fix(documents): retain picture shapes in PPTX fallback</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2199</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2199"/>
-    <updated>2026-10-31T08:49:39Z</updated>
-    <summary>Merged public contribution. +93 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2237: fix(documents): preserve sparse XLSX cell columns in fallback</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2237</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2237"/>
-    <updated>2026-10-31T08:49:12Z</updated>
-    <summary>Merged public contribution. +68 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2226: fix(voice): preserve TeX limit meaning in either script order</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2226</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2226"/>
-    <updated>2026-10-31T08:47:45Z</updated>
-    <summary>Merged public contribution. +49 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2227: fix(utils): keep interval punctuation inside BibTeX values</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2227</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2227"/>
-    <updated>2026-10-31T08:47:15Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2228: fix(utils): finish UTF-8 characters at text probe boundaries</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2228</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2228"/>
-    <updated>2026-10-31T08:46:41Z</updated>
-    <summary>Merged public contribution. +63 / -5 across 2 changed files.</summary>
   </entry>
 </feed>
