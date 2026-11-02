@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 55,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 9,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-02T06:15:16Z",
+      "deletions": 3,
+      "merged_at": "2026-11-02T14:23:20Z",
+      "number": 58,
+      "repository": "haydenschmitty/floorplan",
+      "repository_url": "https://github.com/haydenschmitty/floorplan",
+      "reviews": 0,
+      "title": "Health: read an Express route's checks from its own arguments",
+      "url": "https://github.com/haydenschmitty/floorplan/pull/58"
+    },
+    {
+      "additions": 21,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-02T05:52:38Z",
+      "deletions": 13,
+      "merged_at": "2026-11-02T14:10:30Z",
+      "number": 1605,
+      "repository": "beenuar/AiSOC",
+      "repository_url": "https://github.com/beenuar/AiSOC",
+      "reviews": 1,
+      "title": "fix(connectors): preserve Falco critical severity",
+      "url": "https://github.com/beenuar/AiSOC/pull/1605"
+    },
+    {
       "additions": 14,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -107,7 +139,7 @@
       "additions": 126,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
-      "comments": 0,
+      "comments": 1,
       "commits": 2,
       "created_at": "2026-11-02T06:02:15Z",
       "deletions": 8,
@@ -56304,7 +56336,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3517,
+  "record_count": 3519,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }

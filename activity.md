@@ -4,17 +4,19 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,517**
+Records: **3,519**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#58: Health: read an Express route's checks from its own arguments](https://github.com/haydenschmitty/floorplan/pull/58) | +55 / -3 across 9 files | 0 reviews · 1 comments |
+| 2026-11-02 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1605: fix(connectors): preserve Falco critical severity](https://github.com/beenuar/AiSOC/pull/1605) | +21 / -13 across 3 files | 1 reviews · 1 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#47: fix(tui): skip non-object derived records before rendering](https://github.com/tigerless-labs/cost-xray/pull/47) | +14 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#26: fix(anthropic): resolve output drill refs for streaming responses](https://github.com/tigerless-labs/cost-xray/pull/26) | +22 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#42: fix(capture): close the parent log descriptor after launching materializer](https://github.com/tigerless-labs/cost-xray/pull/42) | +19 / -4 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#25: fix(raw-codec): recover readable records around damaged captures](https://github.com/tigerless-labs/cost-xray/pull/25) | +34 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#58: fix(materialize): refresh captures when saved byte offsets differ](https://github.com/tigerless-labs/cost-xray/pull/58) | +76 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#59: fix(cost): price mixed cache write TTLs from numerical usage](https://github.com/tigerless-labs/cost-xray/pull/59) | +152 / -22 across 8 files | 0 reviews · 0 comments |
-| 2026-11-02 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1606: fix(connectors): follow SentinelOne threat pagination](https://github.com/beenuar/AiSOC/pull/1606) | +126 / -8 across 2 files | 1 reviews · 0 comments |
+| 2026-11-02 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1606: fix(connectors): follow SentinelOne threat pagination](https://github.com/beenuar/AiSOC/pull/1606) | +126 / -8 across 2 files | 1 reviews · 1 comments |
 | 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#244: fix(stage): report queue write failures to callers](https://github.com/tigerless-labs/autoharness/pull/244) | +33 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#217: fix(capture): enforce digest budgets on UTF-8 output](https://github.com/tigerless-labs/autoharness/pull/217) | +67 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-11-02 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#225: fix(hook): keep healthy index entries when one skill cannot be read](https://github.com/tigerless-labs/autoharness/pull/225) | +69 / -2 across 4 files | 0 reviews · 3 comments |

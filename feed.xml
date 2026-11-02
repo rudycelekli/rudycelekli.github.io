@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T13:37:44Z</updated>
+  <updated>2026-11-02T14:23:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>haydenschmitty/floorplan #58: Health: read an Express route's checks from its own arguments</title>
+    <id>https://github.com/haydenschmitty/floorplan/pull/58</id>
+    <link href="https://github.com/haydenschmitty/floorplan/pull/58"/>
+    <updated>2026-11-02T14:23:20Z</updated>
+    <summary>Merged public contribution. +55 / -3 across 9 changed files.</summary>
+  </entry>
+  <entry>
+    <title>beenuar/AiSOC #1605: fix(connectors): preserve Falco critical severity</title>
+    <id>https://github.com/beenuar/AiSOC/pull/1605</id>
+    <link href="https://github.com/beenuar/AiSOC/pull/1605"/>
+    <updated>2026-11-02T14:10:30Z</updated>
+    <summary>Merged public contribution. +21 / -13 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/cost-xray #47: fix(tui): skip non-object derived records before rendering</title>
     <id>https://github.com/tigerless-labs/cost-xray/pull/47</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/retentioneering/retentioneering-tools/pull/182"/>
     <updated>2026-10-31T22:35:47Z</updated>
     <summary>Merged public contribution. +111 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #895: Record unreconciled authorization outcomes and audit events atomically</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/895</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/895"/>
-    <updated>2026-10-31T17:17:26Z</updated>
-    <summary>Merged public contribution. +143 / -20 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #196: fix(anchors): range-check an anchor's `at` at either end of the pattern</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/196</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/196"/>
-    <updated>2026-10-31T17:17:21Z</updated>
-    <summary>Merged public contribution. +77 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
