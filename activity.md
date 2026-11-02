@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,539**
+Records: **3,541**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5295: fix(setup): deduplicate legacy Gemini usage across migration copies](https://github.com/thedotmack/claude-mem/pull/5295) | +96 / -3 across 2 files | 1 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5289: fix(import): read whitespace-formatted Claude transcripts and usage](https://github.com/thedotmack/claude-mem/pull/5289) | +80 / -7 across 6 files | 0 reviews · 3 comments |
 | 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#389: fix(policy-lab): preserve repair and comparison outcomes in Markdown](https://github.com/ifixai-ai/iFixAi/pull/389) | +68 / -3 across 2 files | 1 reviews · 0 comments |
 | 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#388: fix(windtunnel): require usable clean controls before verdicts](https://github.com/ifixai-ai/iFixAi/pull/388) | +72 / -3 across 3 files | 1 reviews · 0 comments |
 | 2026-11-02 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#386: fix(windtunnel): reject duplicate profile and inspection identities](https://github.com/ifixai-ai/iFixAi/pull/386) | +55 / -1 across 2 files | 1 reviews · 0 comments |

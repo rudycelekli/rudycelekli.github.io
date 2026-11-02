@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T17:18:51Z</updated>
+  <updated>2026-11-02T17:40:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5295: fix(setup): deduplicate legacy Gemini usage across migration copies</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5295</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5295"/>
+    <updated>2026-11-02T17:40:35Z</updated>
+    <summary>Merged public contribution. +96 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5289: fix(import): read whitespace-formatted Claude transcripts and usage</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5289</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5289"/>
+    <updated>2026-11-02T17:40:00Z</updated>
+    <summary>Merged public contribution. +80 / -7 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>ifixai-ai/iFixAi #389: fix(policy-lab): preserve repair and comparison outcomes in Markdown</title>
     <id>https://github.com/ifixai-ai/iFixAi/pull/389</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/google-research/harness2/pull/7"/>
     <updated>2026-11-02T01:35:25Z</updated>
     <summary>Merged public contribution. +123 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2173: fix(gguf): validate expert cardinality before narrowing</title>
-    <id>https://github.com/JustVugg/colibri/pull/2173</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2173"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2168: fix(setup): resolve pagination links within the hub origin</title>
-    <id>https://github.com/JustVugg/colibri/pull/2168</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2168"/>
-    <updated>2026-11-02T00:42:09Z</updated>
-    <summary>Merged public contribution. +82 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

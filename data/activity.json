@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 96,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-02T15:21:13Z",
+      "deletions": 3,
+      "merged_at": "2026-11-02T17:40:35Z",
+      "number": 5295,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 1,
+      "title": "fix(setup): deduplicate legacy Gemini usage across migration copies",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5295"
+    },
+    {
+      "additions": 80,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 3,
+      "commits": 4,
+      "created_at": "2026-11-02T14:11:58Z",
+      "deletions": 7,
+      "merged_at": "2026-11-02T17:40:00Z",
+      "number": 5289,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(import): read whitespace-formatted Claude transcripts and usage",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5289"
+    },
+    {
       "additions": 68,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -56656,7 +56688,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3539,
+  "record_count": 3541,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }
