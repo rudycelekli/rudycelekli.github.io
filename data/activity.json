@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 84,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-30T16:31:23Z",
+      "deletions": 6,
+      "merged_at": "2026-11-02T07:48:09Z",
+      "number": 5212,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(codex): update equivalent quoted TOML settings",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5212"
+    },
+    {
       "additions": 92,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -56096,7 +56112,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3504,
+  "record_count": 3505,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }
