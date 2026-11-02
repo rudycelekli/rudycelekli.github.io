@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,519**
+Records: **3,521**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5294: fix(setup): keep token usage partial when a transcript source cannot be read](https://github.com/thedotmack/claude-mem/pull/5294) | +19 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-02 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5291: fix(corpus): preserve saved corpora when replacement writes fail](https://github.com/thedotmack/claude-mem/pull/5291) | +45 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#58: Health: read an Express route's checks from its own arguments](https://github.com/haydenschmitty/floorplan/pull/58) | +55 / -3 across 9 files | 0 reviews · 1 comments |
 | 2026-11-02 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1605: fix(connectors): preserve Falco critical severity](https://github.com/beenuar/AiSOC/pull/1605) | +21 / -13 across 3 files | 1 reviews · 1 comments |
 | 2026-11-02 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#47: fix(tui): skip non-object derived records before rendering](https://github.com/tigerless-labs/cost-xray/pull/47) | +14 / -2 across 2 files | 0 reviews · 0 comments |

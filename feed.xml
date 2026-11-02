@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T14:23:20Z</updated>
+  <updated>2026-11-02T15:27:58Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5294: fix(setup): keep token usage partial when a transcript source cannot be read</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5294</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5294"/>
+    <updated>2026-11-02T15:27:58Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5291: fix(corpus): preserve saved corpora when replacement writes fail</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5291</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5291"/>
+    <updated>2026-11-02T15:27:00Z</updated>
+    <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>haydenschmitty/floorplan #58: Health: read an Express route's checks from its own arguments</title>
     <id>https://github.com/haydenschmitty/floorplan/pull/58</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/retentioneering/retentioneering-tools/pull/191"/>
     <updated>2026-11-01T10:05:27Z</updated>
     <summary>Merged public contribution. +230 / -14 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #193: fix(collapse_events): honour agg="sum" and reject agg names we do not know</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/193</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/193"/>
-    <updated>2026-11-01T09:38:02Z</updated>
-    <summary>Merged public contribution. +122 / -21 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>retentioneering/retentioneering-tools #182: fix(collapse_events): detect runs in index order, not tied timestamp order</title>
-    <id>https://github.com/retentioneering/retentioneering-tools/pull/182</id>
-    <link href="https://github.com/retentioneering/retentioneering-tools/pull/182"/>
-    <updated>2026-10-31T22:35:47Z</updated>
-    <summary>Merged public contribution. +111 / -9 across 3 changed files.</summary>
   </entry>
 </feed>

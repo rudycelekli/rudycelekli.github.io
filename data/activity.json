@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 19,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-02T15:07:06Z",
+      "deletions": 1,
+      "merged_at": "2026-11-02T15:27:58Z",
+      "number": 5294,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(setup): keep token usage partial when a transcript source cannot be read",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5294"
+    },
+    {
+      "additions": 45,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-02T14:22:57Z",
+      "deletions": 1,
+      "merged_at": "2026-11-02T15:27:00Z",
+      "number": 5291,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(corpus): preserve saved corpora when replacement writes fail",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5291"
+    },
+    {
       "additions": 55,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 9,
@@ -56336,7 +56368,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3519,
+  "record_count": 3521,
   "schema_version": 1,
   "updated_at_utc": "2026-11-02"
 }
