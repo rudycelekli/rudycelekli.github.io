@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-01 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,474**
+Records: **3,475**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-01 | [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) | [#2392: fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id](https://github.com/lightseekorg/tokenspeed/pull/2392) | +102 / -3 across 2 files | 2 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#201: fix(sample_paths): restore the DuckDB thread count after a seeded sample](https://github.com/retentioneering/retentioneering-tools/pull/201) | +74 / -8 across 4 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#181: fix(add_events): validate an anchor pattern against the column it names](https://github.com/retentioneering/retentioneering-tools/pull/181) | +192 / -27 across 8 files | 0 reviews · 1 comments |
 | 2026-11-01 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | [#191: fix(engine): take the calendar day in UTC, not in the host timezone](https://github.com/retentioneering/retentioneering-tools/pull/191) | +230 / -14 across 9 files | 0 reviews · 1 comments |

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 102,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-15T21:35:48Z",
+      "deletions": 3,
+      "merged_at": "2026-11-01T23:27:38Z",
+      "number": 2392,
+      "repository": "lightseekorg/tokenspeed",
+      "repository_url": "https://github.com/lightseekorg/tokenspeed",
+      "reviews": 2,
+      "title": "fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id",
+      "url": "https://github.com/lightseekorg/tokenspeed/pull/2392"
+    },
+    {
       "additions": 74,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -55616,7 +55632,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3474,
+  "record_count": 3475,
   "schema_version": 1,
   "updated_at_utc": "2026-11-01"
 }

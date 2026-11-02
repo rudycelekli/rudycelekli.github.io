@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-01T11:06:45Z</updated>
+  <updated>2026-11-01T23:27:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>lightseekorg/tokenspeed #2392: fix(config): keep an EOS token id of 0 in ModelConfig.hf_eos_token_id</title>
+    <id>https://github.com/lightseekorg/tokenspeed/pull/2392</id>
+    <link href="https://github.com/lightseekorg/tokenspeed/pull/2392"/>
+    <updated>2026-11-01T23:27:38Z</updated>
+    <summary>Merged public contribution. +102 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>retentioneering/retentioneering-tools #201: fix(sample_paths): restore the DuckDB thread count after a seeded sample</title>
     <id>https://github.com/retentioneering/retentioneering-tools/pull/201</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/dosco/graphjin/pull/663"/>
     <updated>2026-10-31T08:21:12Z</updated>
     <summary>Merged public contribution. +54 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #683: fix(shipping): type error boundary children props</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/683</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/683"/>
-    <updated>2026-10-31T06:33:57Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
