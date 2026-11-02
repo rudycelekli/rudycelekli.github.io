@@ -8,8 +8,8 @@ Records: **3,553**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#65: Put Django urls included under a prefix at their full path](https://github.com/haydenschmitty/floorplan/pull/65) | +47 / -1 across 4 files | 0 reviews · 0 comments |
-| 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#62: Don't treat a /* inside a string as a comment](https://github.com/haydenschmitty/floorplan/pull/62) | +39 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#65: Put Django urls included under a prefix at their full path](https://github.com/haydenschmitty/floorplan/pull/65) | +47 / -1 across 4 files | 0 reviews · 1 comments |
+| 2026-11-02 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | [#62: Don't treat a /* inside a string as a comment](https://github.com/haydenschmitty/floorplan/pull/62) | +39 / -4 across 3 files | 0 reviews · 1 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#923: Allow overlapping Bot audiences in shared-app approvals](https://github.com/CopilotKit/OpenBot/pull/923) | +95 / -8 across 4 files | 1 reviews · 0 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#921: Make the concurrent routine-sweep test read the same firing](https://github.com/CopilotKit/OpenBot/pull/921) | +29 / -10 across 1 files | 1 reviews · 0 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#926: Discard conversation titles that arrive after deletion](https://github.com/CopilotKit/OpenBot/pull/926) | +95 / -6 across 3 files | 1 reviews · 0 comments |
