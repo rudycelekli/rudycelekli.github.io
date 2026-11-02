@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T18:47:38Z</updated>
+  <updated>2026-11-02T19:51:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>haydenschmitty/floorplan #65: Put Django urls included under a prefix at their full path</title>
+    <id>https://github.com/haydenschmitty/floorplan/pull/65</id>
+    <link href="https://github.com/haydenschmitty/floorplan/pull/65"/>
+    <updated>2026-11-02T19:51:50Z</updated>
+    <summary>Merged public contribution. +47 / -1 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>haydenschmitty/floorplan #62: Don't treat a /* inside a string as a comment</title>
+    <id>https://github.com/haydenschmitty/floorplan/pull/62</id>
+    <link href="https://github.com/haydenschmitty/floorplan/pull/62"/>
+    <updated>2026-11-02T19:51:50Z</updated>
+    <summary>Merged public contribution. +39 / -4 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>CopilotKit/OpenBot #923: Allow overlapping Bot audiences in shared-app approvals</title>
     <id>https://github.com/CopilotKit/OpenBot/pull/923</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5216"/>
     <updated>2026-11-02T07:18:30Z</updated>
     <summary>Merged public contribution. +92 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5217: fix(import): deduplicate migrated Gemini prompt copies</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5217</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5217"/>
-    <updated>2026-11-02T07:16:54Z</updated>
-    <summary>Merged public contribution. +46 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5214: fix(search): match file paths across separator spellings</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5214</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5214"/>
-    <updated>2026-11-02T07:15:31Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
