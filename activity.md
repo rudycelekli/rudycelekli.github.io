@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,550**
+Records: **3,551**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#923: Allow overlapping Bot audiences in shared-app approvals](https://github.com/CopilotKit/OpenBot/pull/923) | +95 / -8 across 4 files | 1 reviews · 0 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#921: Make the concurrent routine-sweep test read the same firing](https://github.com/CopilotKit/OpenBot/pull/921) | +29 / -10 across 1 files | 1 reviews · 0 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#926: Discard conversation titles that arrive after deletion](https://github.com/CopilotKit/OpenBot/pull/926) | +95 / -6 across 3 files | 1 reviews · 0 comments |
 | 2026-11-02 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [#925: Read routine transitions and schedules under the owner cap lock](https://github.com/CopilotKit/OpenBot/pull/925) | +212 / -40 across 3 files | 1 reviews · 0 comments |
