@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-02 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,491**
+Records: **3,495**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#24: fix(lab): reject conflicting fenced judge verdicts](https://github.com/google-research/harness2/pull/24) | +1,265 / -7 across 10 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#28: fix(jobbench): keep judge worker exceptions ungraded](https://github.com/google-research/harness2/pull/28) | +1,085 / -1 across 5 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#12: fix(judge): keep incomplete grades unscored](https://github.com/google-research/harness2/pull/12) | +151 / -1 across 3 files | 1 reviews · 0 comments |
+| 2026-11-02 | [google-research/harness2](https://github.com/google-research/harness2) | [#7: fix(setup): ship referenced environment example](https://github.com/google-research/harness2/pull/7) | +123 / -0 across 2 files | 1 reviews · 0 comments |
 | 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2173: fix(gguf): validate expert cardinality before narrowing](https://github.com/JustVugg/colibri/pull/2173) | +55 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2168: fix(setup): resolve pagination links within the hub origin](https://github.com/JustVugg/colibri/pull/2168) | +82 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-02 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2167: fix(audio): reject non-finite WAV samples before DMel encoding](https://github.com/JustVugg/colibri/pull/2167) | +8 / -0 across 2 files | 0 reviews · 0 comments |

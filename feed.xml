@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T00:42:09Z</updated>
+  <updated>2026-11-02T01:42:21Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>google-research/harness2 #24: fix(lab): reject conflicting fenced judge verdicts</title>
+    <id>https://github.com/google-research/harness2/pull/24</id>
+    <link href="https://github.com/google-research/harness2/pull/24"/>
+    <updated>2026-11-02T01:42:21Z</updated>
+    <summary>Merged public contribution. +1265 / -7 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #28: fix(jobbench): keep judge worker exceptions ungraded</title>
+    <id>https://github.com/google-research/harness2/pull/28</id>
+    <link href="https://github.com/google-research/harness2/pull/28"/>
+    <updated>2026-11-02T01:39:19Z</updated>
+    <summary>Merged public contribution. +1085 / -1 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #12: fix(judge): keep incomplete grades unscored</title>
+    <id>https://github.com/google-research/harness2/pull/12</id>
+    <link href="https://github.com/google-research/harness2/pull/12"/>
+    <updated>2026-11-02T01:38:08Z</updated>
+    <summary>Merged public contribution. +151 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/harness2 #7: fix(setup): ship referenced environment example</title>
+    <id>https://github.com/google-research/harness2/pull/7</id>
+    <link href="https://github.com/google-research/harness2/pull/7"/>
+    <updated>2026-11-02T01:35:25Z</updated>
+    <summary>Merged public contribution. +123 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2173: fix(gguf): validate expert cardinality before narrowing</title>
     <id>https://github.com/JustVugg/colibri/pull/2173</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/dosco/graphjin/pull/684"/>
     <updated>2026-10-31T08:23:24Z</updated>
     <summary>Merged public contribution. +88 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #682: fix(valid): isolate concurrent field comparisons</title>
-    <id>https://github.com/dosco/graphjin/pull/682</id>
-    <link href="https://github.com/dosco/graphjin/pull/682"/>
-    <updated>2026-10-31T08:23:18Z</updated>
-    <summary>Merged public contribution. +59 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #681: fix(valid): evaluate conditional requirement truth tables</title>
-    <id>https://github.com/dosco/graphjin/pull/681</id>
-    <link href="https://github.com/dosco/graphjin/pull/681"/>
-    <updated>2026-10-31T08:23:12Z</updated>
-    <summary>Merged public contribution. +116 / -14 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #680: fix(allow): clear removed saved-query variable metadata</title>
-    <id>https://github.com/dosco/graphjin/pull/680</id>
-    <link href="https://github.com/dosco/graphjin/pull/680"/>
-    <updated>2026-10-31T08:23:06Z</updated>
-    <summary>Merged public contribution. +78 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #679: fix(allow): preserve long lines when loading saved queries</title>
-    <id>https://github.com/dosco/graphjin/pull/679</id>
-    <link href="https://github.com/dosco/graphjin/pull/679"/>
-    <updated>2026-10-31T08:22:59Z</updated>
-    <summary>Merged public contribution. +62 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
