@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-10-11T15:28:14Z",
+      "deletions": 0,
+      "merged_at": "2026-11-03T19:39:43Z",
+      "number": 9781,
+      "repository": "NationalSecurityAgency/ghidra",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "reviews": 1,
+      "title": "Ignore commented Java-home overrides in PyGhidra launch properties",
+      "url": "https://github.com/NationalSecurityAgency/ghidra/pull/9781"
+    },
+    {
       "additions": 71,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -57120,7 +57136,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3568,
+  "record_count": 3569,
   "schema_version": 1,
   "updated_at_utc": "2026-11-03"
 }

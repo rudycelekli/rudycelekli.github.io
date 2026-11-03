@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-03T17:27:53Z</updated>
+  <updated>2026-11-03T19:39:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9781: Ignore commented Java-home overrides in PyGhidra launch properties</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9781</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9781"/>
+    <updated>2026-11-03T19:39:43Z</updated>
+    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/agent-memory #88: Validate embedding vectors before replacing cached projections</title>
     <id>https://github.com/tigerless-labs/agent-memory/pull/88</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5291"/>
     <updated>2026-11-02T15:27:00Z</updated>
     <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>haydenschmitty/floorplan #58: Health: read an Express route's checks from its own arguments</title>
-    <id>https://github.com/haydenschmitty/floorplan/pull/58</id>
-    <link href="https://github.com/haydenschmitty/floorplan/pull/58"/>
-    <updated>2026-11-02T14:23:20Z</updated>
-    <summary>Merged public contribution. +55 / -3 across 9 changed files.</summary>
   </entry>
 </feed>
