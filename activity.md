@@ -4,10 +4,16 @@ Evidence timestamp: **2026-11-03 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,561**
+Records: **3,567**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-03 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#74: fix(core): apply evidence-date validation to direct memory corrections](https://github.com/tigerless-labs/agent-memory/pull/74) | +36 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#202: fix(memory): keep a comma inside a quoted topic alias](https://github.com/Anil-matcha/open-duet/pull/202) | +28 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#203: Don't treat a dated example inside a code fence as a memory](https://github.com/Anil-matcha/open-duet/pull/203) | +110 / -10 across 2 files | 0 reviews · 0 comments |
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#205: Allow a prefix when ; or > is only inside quotes](https://github.com/Anil-matcha/open-duet/pull/205) | +51 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#201: fix(sentinel): redact UNC paths in health-scan titles](https://github.com/Anil-matcha/open-duet/pull/201) | +3 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#200: fix(chat): keep balanced parentheses in Markdown link targets](https://github.com/Anil-matcha/open-duet/pull/200) | +18 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#199: fix(chat): keep a # that ends a Markdown heading word](https://github.com/Anil-matcha/open-duet/pull/199) | +7 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-03 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#142: Clear the attribute cursor when moving to the root](https://github.com/antchfx/xmlquery/pull/142) | +39 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-03 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [#110: fix(theme): stop rerolls when the catalog is exhausted](https://github.com/Nutlope/hallmark/pull/110) | +56 / -1 across 3 files | 0 reviews · 1 comments |

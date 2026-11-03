@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-03T16:58:09Z</updated>
+  <updated>2026-11-03T17:14:50Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/agent-memory #74: fix(core): apply evidence-date validation to direct memory corrections</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/74</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/74"/>
+    <updated>2026-11-03T17:14:50Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #202: fix(memory): keep a comma inside a quoted topic alias</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/202</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/202"/>
+    <updated>2026-11-03T17:08:19Z</updated>
+    <summary>Merged public contribution. +28 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #203: Don't treat a dated example inside a code fence as a memory</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/203</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/203"/>
+    <updated>2026-11-03T17:08:02Z</updated>
+    <summary>Merged public contribution. +110 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #205: Allow a prefix when ; or &gt; is only inside quotes</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/205</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/205"/>
+    <updated>2026-11-03T17:07:41Z</updated>
+    <summary>Merged public contribution. +51 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #201: fix(sentinel): redact UNC paths in health-scan titles</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/201</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/201"/>
+    <updated>2026-11-03T17:07:27Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Anil-matcha/open-duet #200: fix(chat): keep balanced parentheses in Markdown link targets</title>
+    <id>https://github.com/Anil-matcha/open-duet/pull/200</id>
+    <link href="https://github.com/Anil-matcha/open-duet/pull/200"/>
+    <updated>2026-11-03T16:58:17Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Anil-matcha/open-duet #199: fix(chat): keep a # that ends a Markdown heading word</title>
     <id>https://github.com/Anil-matcha/open-duet/pull/199</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/beenuar/AiSOC/pull/1605"/>
     <updated>2026-11-02T14:10:30Z</updated>
     <summary>Merged public contribution. +21 / -13 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #47: fix(tui): skip non-object derived records before rendering</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/47</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/47"/>
-    <updated>2026-11-02T13:37:44Z</updated>
-    <summary>Merged public contribution. +14 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #26: fix(anthropic): resolve output drill refs for streaming responses</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/26</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/26"/>
-    <updated>2026-11-02T13:36:15Z</updated>
-    <summary>Merged public contribution. +22 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #42: fix(capture): close the parent log descriptor after launching materializer</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/42</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/42"/>
-    <updated>2026-11-02T13:35:03Z</updated>
-    <summary>Merged public contribution. +19 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #25: fix(raw-codec): recover readable records around damaged captures</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/25</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/25"/>
-    <updated>2026-11-02T13:34:20Z</updated>
-    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #58: fix(materialize): refresh captures when saved byte offsets differ</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/58</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/58"/>
-    <updated>2026-11-02T13:33:47Z</updated>
-    <summary>Merged public contribution. +76 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #59: fix(cost): price mixed cache write TTLs from numerical usage</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/59</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/59"/>
-    <updated>2026-11-02T13:33:18Z</updated>
-    <summary>Merged public contribution. +152 / -22 across 8 changed files.</summary>
   </entry>
 </feed>
