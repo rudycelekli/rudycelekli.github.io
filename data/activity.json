@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 71,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:25:58Z",
+      "deletions": 3,
+      "merged_at": "2026-11-03T17:27:53Z",
+      "number": 88,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Validate embedding vectors before replacing cached projections",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/88"
+    },
+    {
       "additions": 36,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -57104,7 +57120,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3567,
+  "record_count": 3568,
   "schema_version": 1,
   "updated_at_utc": "2026-11-03"
 }
