@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-03T08:56:11Z</updated>
+  <updated>2026-11-03T09:01:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Nutlope/hallmark #110: fix(theme): stop rerolls when the catalog is exhausted</title>
+    <id>https://github.com/Nutlope/hallmark/pull/110</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/110"/>
+    <updated>2026-11-03T09:01:00Z</updated>
+    <summary>Merged public contribution. +56 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #99: fix(imagegen): reuse complete numbered image batches</title>
+    <id>https://github.com/Nutlope/hallmark/pull/99</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/99"/>
+    <updated>2026-11-03T09:00:46Z</updated>
+    <summary>Merged public contribution. +107 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #115: fix(render): restore styles after contrast pixel probes</title>
+    <id>https://github.com/Nutlope/hallmark/pull/115</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/115"/>
+    <updated>2026-11-03T09:00:31Z</updated>
+    <summary>Merged public contribution. +116 / -19 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #116: fix(capture): skip unsuccessful HTTP documents</title>
+    <id>https://github.com/Nutlope/hallmark/pull/116</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/116"/>
+    <updated>2026-11-03T09:00:16Z</updated>
+    <summary>Merged public contribution. +68 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>chunkhound/chunkhound #473: fix(embeddings): reject VoyageAI look-alike hosts in official-endpoint check</title>
     <id>https://github.com/chunkhound/chunkhound/pull/473</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/tigerless-labs/autoharness/pull/244"/>
     <updated>2026-11-02T12:30:30Z</updated>
     <summary>Merged public contribution. +33 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #217: fix(capture): enforce digest budgets on UTF-8 output</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/217</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/217"/>
-    <updated>2026-11-02T12:26:30Z</updated>
-    <summary>Merged public contribution. +67 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #225: fix(hook): keep healthy index entries when one skill cannot be read</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/225</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/225"/>
-    <updated>2026-11-02T12:24:47Z</updated>
-    <summary>Merged public contribution. +69 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #218: fix(hook): retain layer identity when counting exact skill reads</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/218</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/218"/>
-    <updated>2026-11-02T12:20:58Z</updated>
-    <summary>Merged public contribution. +54 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5203: fix(context): preserve authored marker examples during refresh</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5203</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5203"/>
-    <updated>2026-11-02T08:14:18Z</updated>
-    <summary>Merged public contribution. +314 / -22 across 5 changed files.</summary>
   </entry>
 </feed>
