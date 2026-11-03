@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-02T21:03:41Z</updated>
+  <updated>2026-11-03T08:56:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>chunkhound/chunkhound #473: fix(embeddings): reject VoyageAI look-alike hosts in official-endpoint check</title>
+    <id>https://github.com/chunkhound/chunkhound/pull/473</id>
+    <link href="https://github.com/chunkhound/chunkhound/pull/473"/>
+    <updated>2026-11-03T08:56:11Z</updated>
+    <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>lightpanda-io/browser #4368: cdp: DOM.querySelector returns nodeId 0 when nothing matches</title>
     <id>https://github.com/lightpanda-io/browser/pull/4368</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5203"/>
     <updated>2026-11-02T08:14:18Z</updated>
     <summary>Merged public contribution. +314 / -22 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5212: fix(codex): update equivalent quoted TOML settings</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5212</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5212"/>
-    <updated>2026-11-02T07:48:09Z</updated>
-    <summary>Merged public contribution. +84 / -6 across 2 changed files.</summary>
   </entry>
 </feed>

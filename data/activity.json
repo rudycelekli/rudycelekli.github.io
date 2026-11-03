@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 45,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-02T15:06:47Z",
+      "deletions": 1,
+      "merged_at": "2026-11-03T08:56:11Z",
+      "number": 473,
+      "repository": "chunkhound/chunkhound",
+      "repository_url": "https://github.com/chunkhound/chunkhound",
+      "reviews": 0,
+      "title": "fix(embeddings): reject VoyageAI look-alike hosts in official-endpoint check",
+      "url": "https://github.com/chunkhound/chunkhound/pull/473"
+    },
+    {
       "additions": 6,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -56896,7 +56912,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3554,
+  "record_count": 3555,
   "schema_version": 1,
   "updated_at_utc": "2026-11-03"
 }
