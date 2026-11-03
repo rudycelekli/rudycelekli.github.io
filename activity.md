@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-03 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,559**
+Records: **3,561**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-03 | [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) | [#199: fix(chat): keep a # that ends a Markdown heading word](https://github.com/Anil-matcha/open-duet/pull/199) | +7 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-03 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#142: Clear the attribute cursor when moving to the root](https://github.com/antchfx/xmlquery/pull/142) | +39 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-03 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [#110: fix(theme): stop rerolls when the catalog is exhausted](https://github.com/Nutlope/hallmark/pull/110) | +56 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-11-03 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [#99: fix(imagegen): reuse complete numbered image batches](https://github.com/Nutlope/hallmark/pull/99) | +107 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-11-03 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [#115: fix(render): restore styles after contrast pixel probes](https://github.com/Nutlope/hallmark/pull/115) | +116 / -19 across 2 files | 0 reviews · 1 comments |

@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 7,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-23T22:17:11Z",
+      "deletions": 1,
+      "merged_at": "2026-11-03T16:58:09Z",
+      "number": 199,
+      "repository": "Anil-matcha/open-duet",
+      "repository_url": "https://github.com/Anil-matcha/open-duet",
+      "reviews": 0,
+      "title": "fix(chat): keep a # that ends a Markdown heading word",
+      "url": "https://github.com/Anil-matcha/open-duet/pull/199"
+    },
+    {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-01T16:52:01Z",
+      "deletions": 0,
+      "merged_at": "2026-11-03T16:22:18Z",
+      "number": 142,
+      "repository": "antchfx/xmlquery",
+      "repository_url": "https://github.com/antchfx/xmlquery",
+      "reviews": 0,
+      "title": "Clear the attribute cursor when moving to the root",
+      "url": "https://github.com/antchfx/xmlquery/pull/142"
+    },
+    {
       "additions": 56,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -56976,7 +57008,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3559,
+  "record_count": 3561,
   "schema_version": 1,
   "updated_at_utc": "2026-11-03"
 }
