@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T18:16:29Z</updated>
+  <updated>2026-11-04T19:24:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bee-san/pyWhat #295: fix: preserve nested paths when reporting recursive matches</title>
+    <id>https://github.com/bee-san/pyWhat/pull/295</id>
+    <link href="https://github.com/bee-san/pyWhat/pull/295"/>
+    <updated>2026-11-04T19:24:07Z</updated>
+    <summary>Merged public contribution. +84 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/pyWhat #297: fix: scan directories with glob characters as literal paths</title>
+    <id>https://github.com/bee-san/pyWhat/pull/297</id>
+    <link href="https://github.com/bee-san/pyWhat/pull/297"/>
+    <updated>2026-11-04T19:11:10Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/htmlquery #85: Return the document string value to XPath expressions</title>
     <id>https://github.com/antchfx/htmlquery/pull/85</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Nutlope/hallmark/pull/110"/>
     <updated>2026-11-03T09:01:00Z</updated>
     <summary>Merged public contribution. +56 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Nutlope/hallmark #99: fix(imagegen): reuse complete numbered image batches</title>
-    <id>https://github.com/Nutlope/hallmark/pull/99</id>
-    <link href="https://github.com/Nutlope/hallmark/pull/99"/>
-    <updated>2026-11-03T09:00:46Z</updated>
-    <summary>Merged public contribution. +107 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Nutlope/hallmark #115: fix(render): restore styles after contrast pixel probes</title>
-    <id>https://github.com/Nutlope/hallmark/pull/115</id>
-    <link href="https://github.com/Nutlope/hallmark/pull/115"/>
-    <updated>2026-11-03T09:00:31Z</updated>
-    <summary>Merged public contribution. +116 / -19 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 84,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-28T06:37:03Z",
+      "deletions": 1,
+      "merged_at": "2026-11-04T19:24:07Z",
+      "number": 295,
+      "repository": "bee-san/pyWhat",
+      "repository_url": "https://github.com/bee-san/pyWhat",
+      "reviews": 1,
+      "title": "fix: preserve nested paths when reporting recursive matches",
+      "url": "https://github.com/bee-san/pyWhat/pull/295"
+    },
+    {
+      "additions": 29,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-28T16:21:44Z",
+      "deletions": 1,
+      "merged_at": "2026-11-04T19:11:10Z",
+      "number": 297,
+      "repository": "bee-san/pyWhat",
+      "repository_url": "https://github.com/bee-san/pyWhat",
+      "reviews": 1,
+      "title": "fix: scan directories with glob characters as literal paths",
+      "url": "https://github.com/bee-san/pyWhat/pull/297"
+    },
+    {
       "additions": 27,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -57728,7 +57760,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3606,
+  "record_count": 3608,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }
