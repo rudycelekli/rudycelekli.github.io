@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,569**
+Records: **3,571**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5309: fix(search): match relative backslash evidence in folder queries](https://github.com/thedotmack/claude-mem/pull/5309) | +59 / -3 across 2 files | 0 reviews · 2 comments |
+| 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5303: fix(prompt-import): read the configured Codex and OpenCode profiles](https://github.com/thedotmack/claude-mem/pull/5303) | +134 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-11-03 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9781: Ignore commented Java-home overrides in PyGhidra launch properties](https://github.com/NationalSecurityAgency/ghidra/pull/9781) | +2 / -0 across 1 files | 1 reviews · 1 comments |
 | 2026-11-03 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#88: Validate embedding vectors before replacing cached projections](https://github.com/tigerless-labs/agent-memory/pull/88) | +71 / -3 across 3 files | 0 reviews · 0 comments |
 | 2026-11-03 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#74: fix(core): apply evidence-date validation to direct memory corrections](https://github.com/tigerless-labs/agent-memory/pull/74) | +36 / -0 across 3 files | 0 reviews · 0 comments |
