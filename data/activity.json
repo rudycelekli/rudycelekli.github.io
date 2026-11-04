@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 48,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-04T19:15:05Z",
+      "deletions": 2,
+      "merged_at": "2026-11-04T23:10:48Z",
+      "number": 4682,
+      "repository": "The-PR-Agent/pr-agent",
+      "repository_url": "https://github.com/The-PR-Agent/pr-agent",
+      "reviews": 1,
+      "title": "fix(bitbucket): preserve significant spaces in rename paths",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/4682"
+    },
+    {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-04T18:33:55Z",
+      "deletions": 1,
+      "merged_at": "2026-11-04T23:10:41Z",
+      "number": 4663,
+      "repository": "The-PR-Agent/pr-agent",
+      "repository_url": "https://github.com/The-PR-Agent/pr-agent",
+      "reviews": 1,
+      "title": "fix(action): write Unicode outputs using UTF-8",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/4663"
+    },
+    {
       "additions": 42,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -57840,7 +57872,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3613,
+  "record_count": 3615,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T22:55:44Z</updated>
+  <updated>2026-11-04T23:10:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4682: fix(bitbucket): preserve significant spaces in rename paths</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4682</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4682"/>
+    <updated>2026-11-04T23:10:48Z</updated>
+    <summary>Merged public contribution. +48 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4663: fix(action): write Unicode outputs using UTF-8</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4663</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4663"/>
+    <updated>2026-11-04T23:10:41Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>The-PR-Agent/pr-agent #4668: fix(diff): preserve Git line boundaries in supplied diff parsing</title>
     <id>https://github.com/The-PR-Agent/pr-agent/pull/4668</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Anil-matcha/open-duet/pull/202"/>
     <updated>2026-11-03T17:08:19Z</updated>
     <summary>Merged public contribution. +28 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #203: Don't treat a dated example inside a code fence as a memory</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/203</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/203"/>
-    <updated>2026-11-03T17:08:02Z</updated>
-    <summary>Merged public contribution. +110 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #205: Allow a prefix when ; or &gt; is only inside quotes</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/205</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/205"/>
-    <updated>2026-11-03T17:07:41Z</updated>
-    <summary>Merged public contribution. +51 / -5 across 2 changed files.</summary>
   </entry>
 </feed>
