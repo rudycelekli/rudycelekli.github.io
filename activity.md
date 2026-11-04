@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,609**
+Records: **3,613**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4668: fix(diff): preserve Git line boundaries in supplied diff parsing](https://github.com/The-PR-Agent/pr-agent/pull/4668) | +42 / -3 across 4 files | 1 reviews · 1 comments |
+| 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4672: fix(azure): preserve physical lines in suggestion ranges and reconciliation](https://github.com/The-PR-Agent/pr-agent/pull/4672) | +31 / -4 across 2 files | 1 reviews · 1 comments |
+| 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4669: fix(review): keep invalid chunk scores out of conservative reduction](https://github.com/The-PR-Agent/pr-agent/pull/4669) | +20 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4667: fix(routing): skip overflowing model limits](https://github.com/The-PR-Agent/pr-agent/pull/4667) | +11 / -1 across 2 files | 1 reviews · 1 comments |
 | 2026-11-04 | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) | [#296: fix: read complete supported file signatures](https://github.com/bee-san/pyWhat/pull/296) | +71 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-11-04 | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) | [#295: fix: preserve nested paths when reporting recursive matches](https://github.com/bee-san/pyWhat/pull/295) | +84 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-11-04 | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) | [#297: fix: scan directories with glob characters as literal paths](https://github.com/bee-san/pyWhat/pull/297) | +29 / -1 across 2 files | 1 reviews · 2 comments |

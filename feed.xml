@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T19:36:21Z</updated>
+  <updated>2026-11-04T22:55:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4668: fix(diff): preserve Git line boundaries in supplied diff parsing</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4668</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4668"/>
+    <updated>2026-11-04T22:55:44Z</updated>
+    <summary>Merged public contribution. +42 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4672: fix(azure): preserve physical lines in suggestion ranges and reconciliation</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4672</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4672"/>
+    <updated>2026-11-04T22:55:30Z</updated>
+    <summary>Merged public contribution. +31 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4669: fix(review): keep invalid chunk scores out of conservative reduction</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4669</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4669"/>
+    <updated>2026-11-04T22:40:05Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4667: fix(routing): skip overflowing model limits</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4667</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4667"/>
+    <updated>2026-11-04T22:39:14Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bee-san/pyWhat #296: fix: read complete supported file signatures</title>
     <id>https://github.com/bee-san/pyWhat/pull/296</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/Anil-matcha/open-duet/pull/205"/>
     <updated>2026-11-03T17:07:41Z</updated>
     <summary>Merged public contribution. +51 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #201: fix(sentinel): redact UNC paths in health-scan titles</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/201</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/201"/>
-    <updated>2026-11-03T17:07:27Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #200: fix(chat): keep balanced parentheses in Markdown link targets</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/200</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/200"/>
-    <updated>2026-11-03T16:58:17Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #199: fix(chat): keep a # that ends a Markdown heading word</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/199</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/199"/>
-    <updated>2026-11-03T16:58:09Z</updated>
-    <summary>Merged public contribution. +7 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xmlquery #142: Clear the attribute cursor when moving to the root</title>
-    <id>https://github.com/antchfx/xmlquery/pull/142</id>
-    <link href="https://github.com/antchfx/xmlquery/pull/142"/>
-    <updated>2026-11-03T16:22:18Z</updated>
-    <summary>Merged public contribution. +39 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
