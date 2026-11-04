@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T09:53:16Z</updated>
+  <updated>2026-11-04T11:37:25Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Nutlope/hallmark #86: Run the mechanical width checks at 1440 too</title>
+    <id>https://github.com/Nutlope/hallmark/pull/86</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/86"/>
+    <updated>2026-11-04T11:37:25Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #82: Give the jazz-club night field its own id</title>
+    <id>https://github.com/Nutlope/hallmark/pull/82</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/82"/>
+    <updated>2026-11-04T11:37:09Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #88: Name the theme in the app scaffold command</title>
+    <id>https://github.com/Nutlope/hallmark/pull/88</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/88"/>
+    <updated>2026-11-04T11:36:54Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #83: Include gate 85 in the app-scope skip list</title>
+    <id>https://github.com/Nutlope/hallmark/pull/83</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/83"/>
+    <updated>2026-11-04T11:36:38Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #81: Match draw --job synonyms as whole words</title>
+    <id>https://github.com/Nutlope/hallmark/pull/81</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/81"/>
+    <updated>2026-11-04T11:36:20Z</updated>
+    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Nutlope/hallmark #87: Read --scope as a flag instead of a slug</title>
+    <id>https://github.com/Nutlope/hallmark/pull/87</id>
+    <link href="https://github.com/Nutlope/hallmark/pull/87"/>
+    <updated>2026-11-04T11:36:03Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/ruflo #4647: fix(shared): isolate rate limiter reset for empty keys</title>
     <id>https://github.com/ruvnet/ruflo/pull/4647</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/CopilotKit/OpenBot/pull/920"/>
     <updated>2026-11-02T18:27:55Z</updated>
     <summary>Merged public contribution. +67 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #922: Preserve shared OAuth clients when a replica cannot read them</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/922</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/922"/>
-    <updated>2026-11-02T18:27:16Z</updated>
-    <summary>Merged public contribution. +358 / -47 across 9 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #924: Keep shared-app approval decisions atomic under concurrent changes</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/924</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/924"/>
-    <updated>2026-11-02T18:27:02Z</updated>
-    <summary>Merged public contribution. +411 / -109 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #945: Count Enter or Space pressed with a modifier as an activation</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/945</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/945"/>
-    <updated>2026-11-02T18:26:30Z</updated>
-    <summary>Merged public contribution. +156 / -12 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #944: Keep host boundary rules from being evaded by a root dot</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/944</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/944"/>
-    <updated>2026-11-02T18:26:14Z</updated>
-    <summary>Merged public contribution. +61 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #943: Scope a Gmail private-share approval to the people it is sent to</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/943</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/943"/>
-    <updated>2026-11-02T18:25:59Z</updated>
-    <summary>Merged public contribution. +45 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5295: fix(setup): deduplicate legacy Gemini usage across migration copies</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5295</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5295"/>
-    <updated>2026-11-02T17:40:35Z</updated>
-    <summary>Merged public contribution. +96 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
