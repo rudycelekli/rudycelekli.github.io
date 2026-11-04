@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 83,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-11-02T17:00:35Z",
+      "deletions": 0,
+      "merged_at": "2026-11-04T03:21:18Z",
+      "number": 5297,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(import): include committed OpenCode WAL updates in scan windows",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5297"
+    },
+    {
       "additions": 59,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -57168,7 +57184,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3571,
+  "record_count": 3572,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }

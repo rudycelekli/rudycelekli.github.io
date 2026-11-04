@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T02:49:39Z</updated>
+  <updated>2026-11-04T03:21:18Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5297: fix(import): include committed OpenCode WAL updates in scan windows</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5297</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5297"/>
+    <updated>2026-11-04T03:21:18Z</updated>
+    <summary>Merged public contribution. +83 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5309: fix(search): match relative backslash evidence in folder queries</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5309</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/370"/>
     <updated>2026-11-02T17:17:28Z</updated>
     <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5292: fix(import): deduplicate Codex prompts by their native identity</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5292</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5292"/>
-    <updated>2026-11-02T17:07:23Z</updated>
-    <summary>Merged public contribution. +124 / -4 across 4 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,571**
+Records: **3,572**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5297: fix(import): include committed OpenCode WAL updates in scan windows](https://github.com/thedotmack/claude-mem/pull/5297) | +83 / -0 across 2 files | 0 reviews · 3 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5309: fix(search): match relative backslash evidence in folder queries](https://github.com/thedotmack/claude-mem/pull/5309) | +59 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5303: fix(prompt-import): read the configured Codex and OpenCode profiles](https://github.com/thedotmack/claude-mem/pull/5303) | +134 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-11-03 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9781: Ignore commented Java-home overrides in PyGhidra launch properties](https://github.com/NationalSecurityAgency/ghidra/pull/9781) | +2 / -0 across 1 files | 1 reviews · 1 comments |
