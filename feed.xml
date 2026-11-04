@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T07:50:07Z</updated>
+  <updated>2026-11-04T09:29:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bee-san/RustScan #964: fix(config): accept documented lowercase script modes</title>
+    <id>https://github.com/bee-san/RustScan/pull/964</id>
+    <link href="https://github.com/bee-san/RustScan/pull/964"/>
+    <updated>2026-11-04T09:29:20Z</updated>
+    <summary>Merged public contribution. +52 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/RustScan #962: fix(scripts): preserve literal hashes in metadata</title>
+    <id>https://github.com/bee-san/RustScan/pull/962</id>
+    <link href="https://github.com/bee-san/RustScan/pull/962"/>
+    <updated>2026-11-04T09:29:08Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/Ciphey #1128: fix(uuencode): accept leading zero-length data lines</title>
+    <id>https://github.com/bee-san/Ciphey/pull/1128</id>
+    <link href="https://github.com/bee-san/Ciphey/pull/1128"/>
+    <updated>2026-11-04T09:28:32Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>bee-san/Ciphey #1127: fix(quoted-printable): discard literal transport whitespace at hard line ends</title>
+    <id>https://github.com/bee-san/Ciphey/pull/1127</id>
+    <link href="https://github.com/bee-san/Ciphey/pull/1127"/>
+    <updated>2026-11-04T09:28:28Z</updated>
+    <summary>Merged public contribution. +41 / -2 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>anmolkapil/plexo #185: fix: shorten a download path under home when the name's accents differ</title>
     <id>https://github.com/anmolkapil/plexo/pull/185</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/389"/>
     <updated>2026-11-02T17:18:51Z</updated>
     <summary>Merged public contribution. +68 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #388: fix(windtunnel): require usable clean controls before verdicts</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/388</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/388"/>
-    <updated>2026-11-02T17:18:46Z</updated>
-    <summary>Merged public contribution. +72 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #386: fix(windtunnel): reject duplicate profile and inspection identities</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/386</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/386"/>
-    <updated>2026-11-02T17:18:41Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #385: fix(trajectory): retain OTLP instrumentation-scope coverage gaps</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/385</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/385"/>
-    <updated>2026-11-02T17:18:35Z</updated>
-    <summary>Merged public contribution. +61 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #384: fix: refuse verification of unsupported manifest schemas</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/384</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/384"/>
-    <updated>2026-11-02T17:18:29Z</updated>
-    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

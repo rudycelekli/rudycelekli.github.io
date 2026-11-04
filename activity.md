@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,584**
+Records: **3,588**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [bee-san/RustScan](https://github.com/bee-san/RustScan) | [#964: fix(config): accept documented lowercase script modes](https://github.com/bee-san/RustScan/pull/964) | +52 / -0 across 1 files | 0 reviews · 1 comments |
+| 2026-11-04 | [bee-san/RustScan](https://github.com/bee-san/RustScan) | [#962: fix(scripts): preserve literal hashes in metadata](https://github.com/bee-san/RustScan/pull/962) | +16 / -2 across 1 files | 0 reviews · 1 comments |
+| 2026-11-04 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | [#1128: fix(uuencode): accept leading zero-length data lines](https://github.com/bee-san/Ciphey/pull/1128) | +24 / -2 across 1 files | 0 reviews · 0 comments |
+| 2026-11-04 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | [#1127: fix(quoted-printable): discard literal transport whitespace at hard line ends](https://github.com/bee-san/Ciphey/pull/1127) | +41 / -2 across 1 files | 0 reviews · 0 comments |
 | 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#185: fix: shorten a download path under home when the name's accents differ](https://github.com/anmolkapil/plexo/pull/185) | +33 / -12 across 2 files | 1 reviews · 0 comments |
 | 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#183: fix: keep spaces in an unquoted Content-Disposition filename](https://github.com/anmolkapil/plexo/pull/183) | +8 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#182: fix: don't call a file or host named with TLS or SSL a certificate problem](https://github.com/anmolkapil/plexo/pull/182) | +20 / -1 across 2 files | 1 reviews · 0 comments |
