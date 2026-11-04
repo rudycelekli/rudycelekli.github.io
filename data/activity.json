@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 331,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-02T17:51:37Z",
+      "deletions": 3,
+      "merged_at": "2026-11-04T04:37:17Z",
+      "number": 5300,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(prompt-import): exclude copied Codex fork prompts and token history",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5300"
+    },
+    {
       "additions": 83,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -57184,7 +57200,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3572,
+  "record_count": 3573,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }

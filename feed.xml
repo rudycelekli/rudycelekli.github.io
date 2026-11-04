@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T03:21:18Z</updated>
+  <updated>2026-11-04T04:37:17Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5300: fix(prompt-import): exclude copied Codex fork prompts and token history</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5300</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5300"/>
+    <updated>2026-11-04T04:37:17Z</updated>
+    <summary>Merged public contribution. +331 / -3 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5297: fix(import): include committed OpenCode WAL updates in scan windows</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5297</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/371"/>
     <updated>2026-11-02T17:17:33Z</updated>
     <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #370: fix(windtunnel): refuse comparisons across changed injection contracts</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/370</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/370"/>
-    <updated>2026-11-02T17:17:28Z</updated>
-    <summary>Merged public contribution. +42 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
