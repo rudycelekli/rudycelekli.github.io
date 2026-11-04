@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,600**
+Records: **3,605**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#4148: fix(table): keep negative numbers numeric in a copied or downloaded table](https://github.com/milind-soni/OpenMausBot/pull/4148) | +8 / -1 across 2 files | 2 reviews · 2 comments |
+| 2026-11-04 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#4147: fix(logins): mask a held password in its form-urlencoded spelling](https://github.com/milind-soni/OpenMausBot/pull/4147) | +9 / -0 across 2 files | 2 reviews · 2 comments |
+| 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#245: fix(metrics): tolerate malformed run account shapes](https://github.com/tigerless-labs/autoharness/pull/245) | +39 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#226: fix(lib): reject trailing newlines in filesystem identifiers](https://github.com/tigerless-labs/autoharness/pull/226) | +26 / -4 across 4 files | 0 reviews · 0 comments |
+| 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#224: fix(dispatch): apply child-agent backstops to curator events](https://github.com/tigerless-labs/autoharness/pull/224) | +85 / -5 across 4 files | 0 reviews · 2 comments |
 | 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#228: fix(counters): serialize session resets and clears with increments](https://github.com/tigerless-labs/autoharness/pull/228) | +39 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#223: fix(spawn): preserve process launch failures in run accounts](https://github.com/tigerless-labs/autoharness/pull/223) | +44 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-04 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [#4382: window: honour postMessage's targetOrigin](https://github.com/lightpanda-io/browser/pull/4382) | +96 / -4 across 2 files | 0 reviews · 0 comments |

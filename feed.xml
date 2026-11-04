@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T16:08:13Z</updated>
+  <updated>2026-11-04T17:00:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>milind-soni/OpenMausBot #4148: fix(table): keep negative numbers numeric in a copied or downloaded table</title>
+    <id>https://github.com/milind-soni/OpenMausBot/pull/4148</id>
+    <link href="https://github.com/milind-soni/OpenMausBot/pull/4148"/>
+    <updated>2026-11-04T17:00:43Z</updated>
+    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>milind-soni/OpenMausBot #4147: fix(logins): mask a held password in its form-urlencoded spelling</title>
+    <id>https://github.com/milind-soni/OpenMausBot/pull/4147</id>
+    <link href="https://github.com/milind-soni/OpenMausBot/pull/4147"/>
+    <updated>2026-11-04T17:00:43Z</updated>
+    <summary>Merged public contribution. +9 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #245: fix(metrics): tolerate malformed run account shapes</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/245</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/245"/>
+    <updated>2026-11-04T16:43:25Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #226: fix(lib): reject trailing newlines in filesystem identifiers</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/226</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/226"/>
+    <updated>2026-11-04T16:42:08Z</updated>
+    <summary>Merged public contribution. +26 / -4 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #224: fix(dispatch): apply child-agent backstops to curator events</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/224</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/224"/>
+    <updated>2026-11-04T16:41:14Z</updated>
+    <summary>Merged public contribution. +85 / -5 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #228: fix(counters): serialize session resets and clears with increments</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/228</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/Nutlope/hallmark/pull/116"/>
     <updated>2026-11-03T09:00:16Z</updated>
     <summary>Merged public contribution. +68 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>chunkhound/chunkhound #473: fix(embeddings): reject VoyageAI look-alike hosts in official-endpoint check</title>
-    <id>https://github.com/chunkhound/chunkhound/pull/473</id>
-    <link href="https://github.com/chunkhound/chunkhound/pull/473"/>
-    <updated>2026-11-03T08:56:11Z</updated>
-    <summary>Merged public contribution. +45 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>lightpanda-io/browser #4368: cdp: DOM.querySelector returns nodeId 0 when nothing matches</title>
-    <id>https://github.com/lightpanda-io/browser/pull/4368</id>
-    <link href="https://github.com/lightpanda-io/browser/pull/4368"/>
-    <updated>2026-11-02T21:03:41Z</updated>
-    <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>haydenschmitty/floorplan #65: Put Django urls included under a prefix at their full path</title>
-    <id>https://github.com/haydenschmitty/floorplan/pull/65</id>
-    <link href="https://github.com/haydenschmitty/floorplan/pull/65"/>
-    <updated>2026-11-02T19:51:50Z</updated>
-    <summary>Merged public contribution. +47 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>haydenschmitty/floorplan #62: Don't treat a /* inside a string as a comment</title>
-    <id>https://github.com/haydenschmitty/floorplan/pull/62</id>
-    <link href="https://github.com/haydenschmitty/floorplan/pull/62"/>
-    <updated>2026-11-02T19:51:50Z</updated>
-    <summary>Merged public contribution. +39 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>CopilotKit/OpenBot #923: Allow overlapping Bot audiences in shared-app approvals</title>
-    <id>https://github.com/CopilotKit/OpenBot/pull/923</id>
-    <link href="https://github.com/CopilotKit/OpenBot/pull/923"/>
-    <updated>2026-11-02T18:47:38Z</updated>
-    <summary>Merged public contribution. +95 / -8 across 4 changed files.</summary>
   </entry>
 </feed>
