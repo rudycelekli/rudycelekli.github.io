@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,573**
+Records: **3,574**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5301: fix(setup): preserve hook prompts when session reads are incomplete](https://github.com/thedotmack/claude-mem/pull/5301) | +112 / -16 across 3 files | 0 reviews · 2 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5300: fix(prompt-import): exclude copied Codex fork prompts and token history](https://github.com/thedotmack/claude-mem/pull/5300) | +331 / -3 across 4 files | 0 reviews · 2 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5297: fix(import): include committed OpenCode WAL updates in scan windows](https://github.com/thedotmack/claude-mem/pull/5297) | +83 / -0 across 2 files | 0 reviews · 3 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5309: fix(search): match relative backslash evidence in folder queries](https://github.com/thedotmack/claude-mem/pull/5309) | +59 / -3 across 2 files | 0 reviews · 2 comments |

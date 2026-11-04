@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 112,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-02T19:05:47Z",
+      "deletions": 16,
+      "merged_at": "2026-11-04T05:42:47Z",
+      "number": 5301,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(setup): preserve hook prompts when session reads are incomplete",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5301"
+    },
+    {
       "additions": 331,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -57200,7 +57216,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3573,
+  "record_count": 3574,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T04:37:17Z</updated>
+  <updated>2026-11-04T05:42:47Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5301: fix(setup): preserve hook prompts when session reads are incomplete</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5301</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5301"/>
+    <updated>2026-11-04T05:42:47Z</updated>
+    <summary>Merged public contribution. +112 / -16 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5300: fix(prompt-import): exclude copied Codex fork prompts and token history</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5300</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/372"/>
     <updated>2026-11-02T17:17:38Z</updated>
     <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #371: fix(policy-lab): snapshot admitted replay bindings</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/371</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/371"/>
-    <updated>2026-11-02T17:17:33Z</updated>
-    <summary>Merged public contribution. +49 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
