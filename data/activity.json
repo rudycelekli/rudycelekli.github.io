@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 468,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 3,
+      "commits": 7,
+      "created_at": "2026-11-02T16:24:00Z",
+      "deletions": 46,
+      "merged_at": "2026-11-04T06:33:07Z",
+      "number": 5296,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 1,
+      "title": "fix(adoption): preserve actual checkout paths before remapping memories",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5296"
+    },
+    {
+      "additions": 95,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-02T20:12:20Z",
+      "deletions": 10,
+      "merged_at": "2026-11-04T06:05:08Z",
+      "number": 5304,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 0,
+      "title": "fix(prompt-import): recognize OpenCode tool inputs as agent-authored",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5304"
+    },
+    {
       "additions": 112,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -57216,7 +57248,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3574,
+  "record_count": 3576,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }
