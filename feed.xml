@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T06:33:07Z</updated>
+  <updated>2026-11-04T07:50:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>anmolkapil/plexo #185: fix: shorten a download path under home when the name's accents differ</title>
+    <id>https://github.com/anmolkapil/plexo/pull/185</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/185"/>
+    <updated>2026-11-04T07:50:07Z</updated>
+    <summary>Merged public contribution. +33 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #183: fix: keep spaces in an unquoted Content-Disposition filename</title>
+    <id>https://github.com/anmolkapil/plexo/pull/183</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/183"/>
+    <updated>2026-11-04T07:49:56Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #182: fix: don't call a file or host named with TLS or SSL a certificate problem</title>
+    <id>https://github.com/anmolkapil/plexo/pull/182</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/182"/>
+    <updated>2026-11-04T07:49:44Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #181: fix: name the file from the link when Content-Disposition has filename=""</title>
+    <id>https://github.com/anmolkapil/plexo/pull/181</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/181"/>
+    <updated>2026-11-04T07:49:32Z</updated>
+    <summary>Merged public contribution. +3 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #179: fix: refuse torrent files that differ only by Unicode normalization</title>
+    <id>https://github.com/anmolkapil/plexo/pull/179</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/179"/>
+    <updated>2026-11-04T07:49:21Z</updated>
+    <summary>Merged public contribution. +9 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #178: fix: decode a link's file name when an earlier folder has a bad escape</title>
+    <id>https://github.com/anmolkapil/plexo/pull/178</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/178"/>
+    <updated>2026-11-04T07:49:09Z</updated>
+    <summary>Merged public contribution. +14 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #177: fix: refuse a redirect without a Location during link probing</title>
+    <id>https://github.com/anmolkapil/plexo/pull/177</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/177"/>
+    <updated>2026-11-04T07:48:56Z</updated>
+    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #176: fix: refuse superscript Windows device names in a torrent</title>
+    <id>https://github.com/anmolkapil/plexo/pull/176</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/176"/>
+    <updated>2026-11-04T07:48:44Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5296: fix(adoption): preserve actual checkout paths before remapping memories</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5296</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/384"/>
     <updated>2026-11-02T17:18:29Z</updated>
     <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #382: fix: reject malformed and ambiguous comparison scorecards</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/382</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/382"/>
-    <updated>2026-11-02T17:18:24Z</updated>
-    <summary>Merged public contribution. +59 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #381: fix(policy-lab): revalidate evidence before export and comparison</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/381</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/381"/>
-    <updated>2026-11-02T17:18:18Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #380: fix: withhold JSON confidence intervals for unscored inspections</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/380</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/380"/>
-    <updated>2026-11-02T17:18:11Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #379: fix(trajectory): keep native JSONL exports within replay limits</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/379</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/379"/>
-    <updated>2026-11-02T17:18:06Z</updated>
-    <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #378: fix(windtunnel): keep inconclusive scores out of detection claims</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/378</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/378"/>
-    <updated>2026-11-02T17:18:01Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #376: fix: preserve scorecard gate decisions when loading comparisons</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/376</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/376"/>
-    <updated>2026-11-02T17:17:57Z</updated>
-    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #375: fix(windtunnel): enforce private exclusive evidence creation</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/375</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/375"/>
-    <updated>2026-11-02T17:17:52Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #374: fix(policy-lab): reject futures as deferred replay results</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/374</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/374"/>
-    <updated>2026-11-02T17:17:47Z</updated>
-    <summary>Merged public contribution. +34 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

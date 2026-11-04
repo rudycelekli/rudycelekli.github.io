@@ -4,10 +4,18 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,576**
+Records: **3,584**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#185: fix: shorten a download path under home when the name's accents differ](https://github.com/anmolkapil/plexo/pull/185) | +33 / -12 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#183: fix: keep spaces in an unquoted Content-Disposition filename](https://github.com/anmolkapil/plexo/pull/183) | +8 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#182: fix: don't call a file or host named with TLS or SSL a certificate problem](https://github.com/anmolkapil/plexo/pull/182) | +20 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#181: fix: name the file from the link when Content-Disposition has filename=""](https://github.com/anmolkapil/plexo/pull/181) | +3 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#179: fix: refuse torrent files that differ only by Unicode normalization](https://github.com/anmolkapil/plexo/pull/179) | +9 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#178: fix: decode a link's file name when an earlier folder has a bad escape](https://github.com/anmolkapil/plexo/pull/178) | +14 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#177: fix: refuse a redirect without a Location during link probing](https://github.com/anmolkapil/plexo/pull/177) | +13 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-04 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#176: fix: refuse superscript Windows device names in a torrent](https://github.com/anmolkapil/plexo/pull/176) | +11 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5296: fix(adoption): preserve actual checkout paths before remapping memories](https://github.com/thedotmack/claude-mem/pull/5296) | +468 / -46 across 5 files | 1 reviews · 3 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5304: fix(prompt-import): recognize OpenCode tool inputs as agent-authored](https://github.com/thedotmack/claude-mem/pull/5304) | +95 / -10 across 2 files | 0 reviews · 2 comments |
 | 2026-11-04 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5301: fix(setup): preserve hook prompts when session reads are incomplete](https://github.com/thedotmack/claude-mem/pull/5301) | +112 / -16 across 3 files | 0 reviews · 2 comments |
