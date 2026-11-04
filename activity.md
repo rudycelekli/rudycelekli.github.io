@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,588**
+Records: **3,590**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4647: fix(shared): isolate rate limiter reset for empty keys](https://github.com/ruvnet/ruflo/pull/4647) | +28 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-11-04 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4646: fix(shared): match complete HTTP status tokens in retry predicates](https://github.com/ruvnet/ruflo/pull/4646) | +37 / -2 across 2 files | 0 reviews · 2 comments |
 | 2026-11-04 | [bee-san/RustScan](https://github.com/bee-san/RustScan) | [#964: fix(config): accept documented lowercase script modes](https://github.com/bee-san/RustScan/pull/964) | +52 / -0 across 1 files | 0 reviews · 1 comments |
 | 2026-11-04 | [bee-san/RustScan](https://github.com/bee-san/RustScan) | [#962: fix(scripts): preserve literal hashes in metadata](https://github.com/bee-san/RustScan/pull/962) | +16 / -2 across 1 files | 0 reviews · 1 comments |
 | 2026-11-04 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | [#1128: fix(uuencode): accept leading zero-length data lines](https://github.com/bee-san/Ciphey/pull/1128) | +24 / -2 across 1 files | 0 reviews · 0 comments |

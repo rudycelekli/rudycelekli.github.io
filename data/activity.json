@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 28,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-01T17:11:48Z",
+      "deletions": 2,
+      "merged_at": "2026-11-04T09:53:16Z",
+      "number": 4647,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(shared): isolate rate limiter reset for empty keys",
+      "url": "https://github.com/ruvnet/ruflo/pull/4647"
+    },
+    {
+      "additions": 37,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-01T17:11:48Z",
+      "deletions": 2,
+      "merged_at": "2026-11-04T09:53:16Z",
+      "number": 4646,
+      "repository": "ruvnet/ruflo",
+      "repository_url": "https://github.com/ruvnet/ruflo",
+      "reviews": 0,
+      "title": "fix(shared): match complete HTTP status tokens in retry predicates",
+      "url": "https://github.com/ruvnet/ruflo/pull/4646"
+    },
+    {
       "additions": 52,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -57440,7 +57472,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3588,
+  "record_count": 3590,
   "schema_version": 1,
   "updated_at_utc": "2026-11-04"
 }

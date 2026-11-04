@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T09:29:20Z</updated>
+  <updated>2026-11-04T09:53:16Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/ruflo #4647: fix(shared): isolate rate limiter reset for empty keys</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4647</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4647"/>
+    <updated>2026-11-04T09:53:16Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo #4646: fix(shared): match complete HTTP status tokens in retry predicates</title>
+    <id>https://github.com/ruvnet/ruflo/pull/4646</id>
+    <link href="https://github.com/ruvnet/ruflo/pull/4646"/>
+    <updated>2026-11-04T09:53:16Z</updated>
+    <summary>Merged public contribution. +37 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>bee-san/RustScan #964: fix(config): accept documented lowercase script modes</title>
     <id>https://github.com/bee-san/RustScan/pull/964</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5295"/>
     <updated>2026-11-02T17:40:35Z</updated>
     <summary>Merged public contribution. +96 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5289: fix(import): read whitespace-formatted Claude transcripts and usage</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5289</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5289"/>
-    <updated>2026-11-02T17:40:00Z</updated>
-    <summary>Merged public contribution. +80 / -7 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #389: fix(policy-lab): preserve repair and comparison outcomes in Markdown</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/389</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/389"/>
-    <updated>2026-11-02T17:18:51Z</updated>
-    <summary>Merged public contribution. +68 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
