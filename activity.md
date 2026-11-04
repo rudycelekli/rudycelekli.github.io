@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-04 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,605**
+Records: **3,606**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-04 | [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | [#85: Return the document string value to XPath expressions](https://github.com/antchfx/htmlquery/pull/85) | +27 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-04 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#4148: fix(table): keep negative numbers numeric in a copied or downloaded table](https://github.com/milind-soni/OpenMausBot/pull/4148) | +8 / -1 across 2 files | 2 reviews · 2 comments |
 | 2026-11-04 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#4147: fix(logins): mask a held password in its form-urlencoded spelling](https://github.com/milind-soni/OpenMausBot/pull/4147) | +9 / -0 across 2 files | 2 reviews · 2 comments |
 | 2026-11-04 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#245: fix(metrics): tolerate malformed run account shapes](https://github.com/tigerless-labs/autoharness/pull/245) | +39 / -1 across 2 files | 0 reviews · 0 comments |
