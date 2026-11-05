@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,619**
+Records: **3,621**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | [#4668: Retry failed plugin worktree lookups instead of caching misses](https://github.com/max-sixty/worktrunk/pull/4668) | +39 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-05 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1706: fix(connectors): end the Duo poll window where Duo's logs are available](https://github.com/beenuar/AiSOC/pull/1706) | +80 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose](https://github.com/headroomlabs-ai/headroom/pull/4295) | +41 / -0 across 2 files | 5 reviews · 4 comments |
 | 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4291: fix(transforms): recognise code fences whose info string is not a bare word](https://github.com/headroomlabs-ai/headroom/pull/4291) | +69 / -2 across 2 files | 7 reviews · 4 comments |
 | 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4288: fix(config): use the longest matching model_context_limits prefix](https://github.com/headroomlabs-ai/headroom/pull/4288) | +22 / -4 across 2 files | 4 reviews · 4 comments |

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T04:44:43Z</updated>
+  <updated>2026-11-05T05:19:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>max-sixty/worktrunk #4668: Retry failed plugin worktree lookups instead of caching misses</title>
+    <id>https://github.com/max-sixty/worktrunk/pull/4668</id>
+    <link href="https://github.com/max-sixty/worktrunk/pull/4668"/>
+    <updated>2026-11-05T05:19:38Z</updated>
+    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>beenuar/AiSOC #1706: fix(connectors): end the Duo poll window where Duo's logs are available</title>
+    <id>https://github.com/beenuar/AiSOC/pull/1706</id>
+    <link href="https://github.com/beenuar/AiSOC/pull/1706"/>
+    <updated>2026-11-05T04:56:36Z</updated>
+    <summary>Merged public contribution. +80 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>headroomlabs-ai/headroom #4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose</title>
     <id>https://github.com/headroomlabs-ai/headroom/pull/4295</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5297"/>
     <updated>2026-11-04T03:21:18Z</updated>
     <summary>Merged public contribution. +83 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5309: fix(search): match relative backslash evidence in folder queries</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5309</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5309"/>
-    <updated>2026-11-04T02:49:39Z</updated>
-    <summary>Merged public contribution. +59 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5303: fix(prompt-import): read the configured Codex and OpenCode profiles</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5303</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5303"/>
-    <updated>2026-11-04T02:49:11Z</updated>
-    <summary>Merged public contribution. +134 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
