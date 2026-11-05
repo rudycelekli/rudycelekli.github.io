@@ -4,8 +4,169 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T18:29:04Z</updated>
+  <updated>2026-11-05T19:03:08Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2341: fix(voice): speak a \circ superscript as degrees</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2341</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2341"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2319: fix(events): clear the get_event_bus cache in EventBus.reset</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2319</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2319"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +20 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2318: fix(tools): raise ValueError, not TypeError, on a None LLM response</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2318</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2318"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +61 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2317: fix(cli): decode non-UTF-8 markdown in notebook add-md/replace-md</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2317</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2317"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2316: fix(co_writer): don't italicize intra-word underscores in DOCX export</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2316</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2316"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2315: fix(partners): slugify partner id when migrating a legacy TutorBot</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2315</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2315"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +30 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2314: fix(cli): do not crash the chat REPL on a malformed /notebook add ref</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2314</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2314"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2313: fix(notes): drop fenced-code info string from Anki export body</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2313</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2313"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2312: fix(web): keep a code block open at an info-bearing inner fence</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2312</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2312"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +19 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2311: fix(ingestion): separate EPUB table cells during text extraction</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2311</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2311"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2310: fix(llm): detect response_format value rejections that omit the param name</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2310</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2310"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +38 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2309: fix(llm): make the tool-format-error regex marker actually match</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2309</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2309"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +28 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2308: fix(memory): keep footnote-like tokens in entry text on round-trip</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2308</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2308"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2307: fix(rag): count LightRAG docs from the native workspace store</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2307</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2307"/>
+    <updated>2026-11-05T19:03:08Z</updated>
+    <summary>Merged public contribution. +62 / -22 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2349: fix(runtime): apply the tool-call id fallback in run_labeled_step</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2349</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2349"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +117 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2348: fix(partners): drop &lt;style&gt;/&lt;script&gt; bodies in email HTML-to-text</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2348</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2348"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2347: fix(llm): use the resolved attachment MIME for store-URL images</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2347</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2347"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +33 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2346: fix(api): honor a data: URL's declared MIME for quiz-answer images</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2346</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2346"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +49 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2345: fix(web_source): recognize unlisted regional locales in URL language prefix</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2345</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2345"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2344: fix(mastery): resolve a module name fragment to the most specific match</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2344</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2344"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +40 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2343: fix(book): keep flash-card newlines inside the Markdown table row</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2343</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2343"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2342: fix(voice): read an escaped percent in math as "percent"</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2342</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2342"/>
+    <updated>2026-11-05T19:03:07Z</updated>
+    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/DeepTutor #2444: fix(video_lesson): match the Settings Edge voice against the lesson language</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2444</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2444"/>
+    <updated>2026-11-05T19:03:06Z</updated>
+    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2550: fix(ui): preserve existing Pi providers on name collisions</title>
     <id>https://github.com/JustVugg/colibri/pull/2550</id>
@@ -194,166 +355,5 @@
     <link href="https://github.com/The-PR-Agent/pr-agent/pull/4681"/>
     <updated>2026-11-05T08:07:14Z</updated>
     <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4677: fix(add_docs): validate model anchors and placement before insertion</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4677</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4677"/>
-    <updated>2026-11-05T08:07:06Z</updated>
-    <summary>Merged public contribution. +59 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>beenuar/AiSOC #1708: fix(connectors): follow Graph nextLink for Entra audits and risky sign-ins</title>
-    <id>https://github.com/beenuar/AiSOC/pull/1708</id>
-    <link href="https://github.com/beenuar/AiSOC/pull/1708"/>
-    <updated>2026-11-05T06:58:06Z</updated>
-    <summary>Merged public contribution. +81 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>max-sixty/worktrunk #4668: Retry failed plugin worktree lookups instead of caching misses</title>
-    <id>https://github.com/max-sixty/worktrunk/pull/4668</id>
-    <link href="https://github.com/max-sixty/worktrunk/pull/4668"/>
-    <updated>2026-11-05T05:19:38Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>beenuar/AiSOC #1706: fix(connectors): end the Duo poll window where Duo's logs are available</title>
-    <id>https://github.com/beenuar/AiSOC/pull/1706</id>
-    <link href="https://github.com/beenuar/AiSOC/pull/1706"/>
-    <updated>2026-11-05T04:56:36Z</updated>
-    <summary>Merged public contribution. +80 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4295</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4295"/>
-    <updated>2026-11-05T04:44:43Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4291: fix(transforms): recognise code fences whose info string is not a bare word</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4291</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4291"/>
-    <updated>2026-11-05T04:44:07Z</updated>
-    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4288: fix(config): use the longest matching model_context_limits prefix</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4288</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4288"/>
-    <updated>2026-11-05T04:42:38Z</updated>
-    <summary>Merged public contribution. +22 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>AstrBotDevs/AstrBot #10715: fix(telegram): fall back to display name for senders without a username</title>
-    <id>https://github.com/AstrBotDevs/AstrBot/pull/10715</id>
-    <link href="https://github.com/AstrBotDevs/AstrBot/pull/10715"/>
-    <updated>2026-11-05T01:17:08Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4682: fix(bitbucket): preserve significant spaces in rename paths</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4682</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4682"/>
-    <updated>2026-11-04T23:10:48Z</updated>
-    <summary>Merged public contribution. +48 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4663: fix(action): write Unicode outputs using UTF-8</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4663</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4663"/>
-    <updated>2026-11-04T23:10:41Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4668: fix(diff): preserve Git line boundaries in supplied diff parsing</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4668</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4668"/>
-    <updated>2026-11-04T22:55:44Z</updated>
-    <summary>Merged public contribution. +42 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4672: fix(azure): preserve physical lines in suggestion ranges and reconciliation</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4672</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4672"/>
-    <updated>2026-11-04T22:55:30Z</updated>
-    <summary>Merged public contribution. +31 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4669: fix(review): keep invalid chunk scores out of conservative reduction</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4669</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4669"/>
-    <updated>2026-11-04T22:40:05Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4667: fix(routing): skip overflowing model limits</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4667</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4667"/>
-    <updated>2026-11-04T22:39:14Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/pyWhat #296: fix: read complete supported file signatures</title>
-    <id>https://github.com/bee-san/pyWhat/pull/296</id>
-    <link href="https://github.com/bee-san/pyWhat/pull/296"/>
-    <updated>2026-11-04T19:36:21Z</updated>
-    <summary>Merged public contribution. +71 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/pyWhat #295: fix: preserve nested paths when reporting recursive matches</title>
-    <id>https://github.com/bee-san/pyWhat/pull/295</id>
-    <link href="https://github.com/bee-san/pyWhat/pull/295"/>
-    <updated>2026-11-04T19:24:07Z</updated>
-    <summary>Merged public contribution. +84 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/pyWhat #297: fix: scan directories with glob characters as literal paths</title>
-    <id>https://github.com/bee-san/pyWhat/pull/297</id>
-    <link href="https://github.com/bee-san/pyWhat/pull/297"/>
-    <updated>2026-11-04T19:11:10Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/htmlquery #85: Return the document string value to XPath expressions</title>
-    <id>https://github.com/antchfx/htmlquery/pull/85</id>
-    <link href="https://github.com/antchfx/htmlquery/pull/85"/>
-    <updated>2026-11-04T18:16:29Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>milind-soni/OpenMausBot #4148: fix(table): keep negative numbers numeric in a copied or downloaded table</title>
-    <id>https://github.com/milind-soni/OpenMausBot/pull/4148</id>
-    <link href="https://github.com/milind-soni/OpenMausBot/pull/4148"/>
-    <updated>2026-11-04T17:00:43Z</updated>
-    <summary>Merged public contribution. +8 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>milind-soni/OpenMausBot #4147: fix(logins): mask a held password in its form-urlencoded spelling</title>
-    <id>https://github.com/milind-soni/OpenMausBot/pull/4147</id>
-    <link href="https://github.com/milind-soni/OpenMausBot/pull/4147"/>
-    <updated>2026-11-04T17:00:43Z</updated>
-    <summary>Merged public contribution. +9 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #245: fix(metrics): tolerate malformed run account shapes</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/245</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/245"/>
-    <updated>2026-11-04T16:43:25Z</updated>
-    <summary>Merged public contribution. +39 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #226: fix(lib): reject trailing newlines in filesystem identifiers</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/226</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/226"/>
-    <updated>2026-11-04T16:42:08Z</updated>
-    <summary>Merged public contribution. +26 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #224: fix(dispatch): apply child-agent backstops to curator events</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/224</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/224"/>
-    <updated>2026-11-04T16:41:14Z</updated>
-    <summary>Merged public contribution. +85 / -5 across 4 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,33 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,650**
+Records: **3,673**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2341: fix(voice): speak a \circ superscript as degrees](https://github.com/HKUDS/DeepTutor/pull/2341) | +36 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2319: fix(events): clear the get_event_bus cache in EventBus.reset](https://github.com/HKUDS/DeepTutor/pull/2319) | +20 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2318: fix(tools): raise ValueError, not TypeError, on a None LLM response](https://github.com/HKUDS/DeepTutor/pull/2318) | +61 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2317: fix(cli): decode non-UTF-8 markdown in notebook add-md/replace-md](https://github.com/HKUDS/DeepTutor/pull/2317) | +25 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2316: fix(co_writer): don't italicize intra-word underscores in DOCX export](https://github.com/HKUDS/DeepTutor/pull/2316) | +51 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2315: fix(partners): slugify partner id when migrating a legacy TutorBot](https://github.com/HKUDS/DeepTutor/pull/2315) | +30 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2314: fix(cli): do not crash the chat REPL on a malformed /notebook add ref](https://github.com/HKUDS/DeepTutor/pull/2314) | +19 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2313: fix(notes): drop fenced-code info string from Anki export body](https://github.com/HKUDS/DeepTutor/pull/2313) | +12 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2312: fix(web): keep a code block open at an info-bearing inner fence](https://github.com/HKUDS/DeepTutor/pull/2312) | +19 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2311: fix(ingestion): separate EPUB table cells during text extraction](https://github.com/HKUDS/DeepTutor/pull/2311) | +17 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2310: fix(llm): detect response_format value rejections that omit the param name](https://github.com/HKUDS/DeepTutor/pull/2310) | +38 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2309: fix(llm): make the tool-format-error regex marker actually match](https://github.com/HKUDS/DeepTutor/pull/2309) | +28 / -7 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2308: fix(memory): keep footnote-like tokens in entry text on round-trip](https://github.com/HKUDS/DeepTutor/pull/2308) | +32 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2307: fix(rag): count LightRAG docs from the native workspace store](https://github.com/HKUDS/DeepTutor/pull/2307) | +62 / -22 across 3 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2349: fix(runtime): apply the tool-call id fallback in run_labeled_step](https://github.com/HKUDS/DeepTutor/pull/2349) | +117 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2348: fix(partners): drop <style>/<script> bodies in email HTML-to-text](https://github.com/HKUDS/DeepTutor/pull/2348) | +30 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2347: fix(llm): use the resolved attachment MIME for store-URL images](https://github.com/HKUDS/DeepTutor/pull/2347) | +33 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2346: fix(api): honor a data: URL's declared MIME for quiz-answer images](https://github.com/HKUDS/DeepTutor/pull/2346) | +49 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2345: fix(web_source): recognize unlisted regional locales in URL language prefix](https://github.com/HKUDS/DeepTutor/pull/2345) | +31 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2344: fix(mastery): resolve a module name fragment to the most specific match](https://github.com/HKUDS/DeepTutor/pull/2344) | +40 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2343: fix(book): keep flash-card newlines inside the Markdown table row](https://github.com/HKUDS/DeepTutor/pull/2343) | +16 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2342: fix(voice): read an escaped percent in math as "percent"](https://github.com/HKUDS/DeepTutor/pull/2342) | +28 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2444: fix(video_lesson): match the Settings Edge voice against the lesson language](https://github.com/HKUDS/DeepTutor/pull/2444) | +15 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2550: fix(ui): preserve existing Pi providers on name collisions](https://github.com/JustVugg/colibri/pull/2550) | +50 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2562: fix(ui): reap exited owned gateways during stop](https://github.com/JustVugg/colibri/pull/2562) | +328 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2561: fix(ui): snapshot the gateway after switch admission](https://github.com/JustVugg/colibri/pull/2561) | +335 / -19 across 2 files | 0 reviews · 0 comments |
