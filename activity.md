@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,615**
+Records: **3,616**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10715: fix(telegram): fall back to display name for senders without a username](https://github.com/AstrBotDevs/AstrBot/pull/10715) | +1 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4682: fix(bitbucket): preserve significant spaces in rename paths](https://github.com/The-PR-Agent/pr-agent/pull/4682) | +48 / -2 across 2 files | 1 reviews · 1 comments |
 | 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4663: fix(action): write Unicode outputs using UTF-8](https://github.com/The-PR-Agent/pr-agent/pull/4663) | +22 / -1 across 2 files | 1 reviews · 1 comments |
 | 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4668: fix(diff): preserve Git line boundaries in supplied diff parsing](https://github.com/The-PR-Agent/pr-agent/pull/4668) | +42 / -3 across 4 files | 1 reviews · 1 comments |

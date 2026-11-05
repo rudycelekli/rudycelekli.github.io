@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-04T23:10:48Z</updated>
+  <updated>2026-11-05T01:17:08Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>AstrBotDevs/AstrBot #10715: fix(telegram): fall back to display name for senders without a username</title>
+    <id>https://github.com/AstrBotDevs/AstrBot/pull/10715</id>
+    <link href="https://github.com/AstrBotDevs/AstrBot/pull/10715"/>
+    <updated>2026-11-05T01:17:08Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>The-PR-Agent/pr-agent #4682: fix(bitbucket): preserve significant spaces in rename paths</title>
     <id>https://github.com/The-PR-Agent/pr-agent/pull/4682</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/74"/>
     <updated>2026-11-03T17:14:50Z</updated>
     <summary>Merged public contribution. +36 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Anil-matcha/open-duet #202: fix(memory): keep a comma inside a quoted topic alias</title>
-    <id>https://github.com/Anil-matcha/open-duet/pull/202</id>
-    <link href="https://github.com/Anil-matcha/open-duet/pull/202"/>
-    <updated>2026-11-03T17:08:19Z</updated>
-    <summary>Merged public contribution. +28 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
