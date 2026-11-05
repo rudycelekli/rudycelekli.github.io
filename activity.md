@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,628**
+Records: **3,633**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5369: fix(prompt-import): decode JSON tool strings while preserving raw input](https://github.com/thedotmack/claude-mem/pull/5369) | +159 / -8 across 2 files | 0 reviews · 2 comments |
+| 2026-11-05 | [morluto/rea](https://github.com/morluto/rea) | [#7528: fix(native): reject nonzero reserved ELF dynamic symbols](https://github.com/morluto/rea/pull/7528) | +106 / -1 across 3 files | 0 reviews · 3 comments |
+| 2026-11-05 | [morluto/rea](https://github.com/morluto/rea) | [#7530: fix(pe): classify valid DOS targets as unsupported](https://github.com/morluto/rea/pull/7530) | +115 / -2 across 5 files | 0 reviews · 3 comments |
+| 2026-11-05 | [proffesor-for-testing/agentic-qe](https://github.com/proffesor-for-testing/agentic-qe) | [#1372: fix(mcp): keep generated tests out of execution outcomes](https://github.com/proffesor-for-testing/agentic-qe/pull/1372) | +29 / -29 across 3 files | 0 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4662: fix(review): preserve distinct ticket identities across chunks](https://github.com/The-PR-Agent/pr-agent/pull/4662) | +65 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4674: fix(improve): preserve literal data in already aligned replacements](https://github.com/The-PR-Agent/pr-agent/pull/4674) | +11 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4680: fix(diff): keep negative context settings from corrupting hunk counts](https://github.com/The-PR-Agent/pr-agent/pull/4680) | +38 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4664: fix(usage): reject negative and boolean token counts](https://github.com/The-PR-Agent/pr-agent/pull/4664) | +44 / -2 across 2 files | 1 reviews · 1 comments |

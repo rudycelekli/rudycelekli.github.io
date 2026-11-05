@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T08:34:03Z</updated>
+  <updated>2026-11-05T09:38:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5369: fix(prompt-import): decode JSON tool strings while preserving raw input</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5369</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5369"/>
+    <updated>2026-11-05T09:38:36Z</updated>
+    <summary>Merged public contribution. +159 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #7528: fix(native): reject nonzero reserved ELF dynamic symbols</title>
+    <id>https://github.com/morluto/rea/pull/7528</id>
+    <link href="https://github.com/morluto/rea/pull/7528"/>
+    <updated>2026-11-05T09:32:21Z</updated>
+    <summary>Merged public contribution. +106 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #7530: fix(pe): classify valid DOS targets as unsupported</title>
+    <id>https://github.com/morluto/rea/pull/7530</id>
+    <link href="https://github.com/morluto/rea/pull/7530"/>
+    <updated>2026-11-05T09:31:36Z</updated>
+    <summary>Merged public contribution. +115 / -2 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>proffesor-for-testing/agentic-qe #1372: fix(mcp): keep generated tests out of execution outcomes</title>
+    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1372</id>
+    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1372"/>
+    <updated>2026-11-05T09:10:24Z</updated>
+    <summary>Merged public contribution. +29 / -29 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4662: fix(review): preserve distinct ticket identities across chunks</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4662</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4662"/>
+    <updated>2026-11-05T08:37:25Z</updated>
+    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>The-PR-Agent/pr-agent #4674: fix(improve): preserve literal data in already aligned replacements</title>
     <id>https://github.com/The-PR-Agent/pr-agent/pull/4674</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/anmolkapil/plexo/pull/185"/>
     <updated>2026-11-04T07:50:07Z</updated>
     <summary>Merged public contribution. +33 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #183: fix: keep spaces in an unquoted Content-Disposition filename</title>
-    <id>https://github.com/anmolkapil/plexo/pull/183</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/183"/>
-    <updated>2026-11-04T07:49:56Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #182: fix: don't call a file or host named with TLS or SSL a certificate problem</title>
-    <id>https://github.com/anmolkapil/plexo/pull/182</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/182"/>
-    <updated>2026-11-04T07:49:44Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #181: fix: name the file from the link when Content-Disposition has filename=""</title>
-    <id>https://github.com/anmolkapil/plexo/pull/181</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/181"/>
-    <updated>2026-11-04T07:49:32Z</updated>
-    <summary>Merged public contribution. +3 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #179: fix: refuse torrent files that differ only by Unicode normalization</title>
-    <id>https://github.com/anmolkapil/plexo/pull/179</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/179"/>
-    <updated>2026-11-04T07:49:21Z</updated>
-    <summary>Merged public contribution. +9 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #178: fix: decode a link's file name when an earlier folder has a bad escape</title>
-    <id>https://github.com/anmolkapil/plexo/pull/178</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/178"/>
-    <updated>2026-11-04T07:49:09Z</updated>
-    <summary>Merged public contribution. +14 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
