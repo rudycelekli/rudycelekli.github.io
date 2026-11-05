@@ -1,0 +1,401 @@
+{
+  "schema": "pr-agent-4668.isolated-reconstruction.v1",
+  "captured_at_utc": "2026-11-05T00:57:39.116636+00:00",
+  "source_files": [
+    {
+      "path": "sources/baseline/pr_agent/git_providers/diff_parsing.py",
+      "source_path": "pr_agent/git_providers/diff_parsing.py",
+      "revision": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d92765fc0e5bb2488b153947ef63e0da29fcffcc/pr_agent/git_providers/diff_parsing.py",
+      "sha256": "832acfff4897aa155217ba7e5f34238b9e0d40a5c6b5970f10785853eef6a36f"
+    },
+    {
+      "path": "sources/baseline/pr_agent/algo/git_patch_processing.py",
+      "source_path": "pr_agent/algo/git_patch_processing.py",
+      "revision": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d92765fc0e5bb2488b153947ef63e0da29fcffcc/pr_agent/algo/git_patch_processing.py",
+      "sha256": "76bc99448854ac3aaed7f050614a75448226f674a5551e998c2fa57c14f265de"
+    },
+    {
+      "path": "sources/baseline/LICENSE",
+      "source_path": "LICENSE",
+      "revision": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d92765fc0e5bb2488b153947ef63e0da29fcffcc/LICENSE",
+      "sha256": "ea19f3b6bfd70ce0bf8d60fc5b15cdb789fcf86a63c0d6542977f888519f5788"
+    },
+    {
+      "path": "sources/baseline/pyproject.toml",
+      "source_path": "pyproject.toml",
+      "revision": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d92765fc0e5bb2488b153947ef63e0da29fcffcc/pyproject.toml",
+      "sha256": "edea6019023cd13d0f433d3b6b8963c7aa35860ecdbab83e861ab3f0a46efb44"
+    },
+    {
+      "path": "sources/candidate/pr_agent/git_providers/diff_parsing.py",
+      "source_path": "pr_agent/git_providers/diff_parsing.py",
+      "revision": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d8fcf7772cd531a36bdabebf145b819949d111ce/pr_agent/git_providers/diff_parsing.py",
+      "sha256": "e5611bdb3a9d61270a14c8fec55cf2c7bdf56d8f8925ca388c1b3a6385a39f3b"
+    },
+    {
+      "path": "sources/candidate/pr_agent/algo/git_patch_processing.py",
+      "source_path": "pr_agent/algo/git_patch_processing.py",
+      "revision": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d8fcf7772cd531a36bdabebf145b819949d111ce/pr_agent/algo/git_patch_processing.py",
+      "sha256": "76bc99448854ac3aaed7f050614a75448226f674a5551e998c2fa57c14f265de"
+    },
+    {
+      "path": "sources/candidate/LICENSE",
+      "source_path": "LICENSE",
+      "revision": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d8fcf7772cd531a36bdabebf145b819949d111ce/LICENSE",
+      "sha256": "ea19f3b6bfd70ce0bf8d60fc5b15cdb789fcf86a63c0d6542977f888519f5788"
+    },
+    {
+      "path": "sources/candidate/pyproject.toml",
+      "source_path": "pyproject.toml",
+      "revision": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+      "url": "https://raw.githubusercontent.com/The-PR-Agent/pr-agent/d8fcf7772cd531a36bdabebf145b819949d111ce/pyproject.toml",
+      "sha256": "edea6019023cd13d0f433d3b6b8963c7aa35860ecdbab83e861ab3f0a46efb44"
+    }
+  ],
+  "python": "3.12.12",
+  "baseline": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+  "candidate": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+  "manifest_sha256": "69b4b0706a8d1e8bb31bc6205dea68f840aecf5151604e6a5f327db22ee2e6f0",
+  "runner_sha256": "d43da1962dd4ad9c014530e901692323457068ab30def0955c0afda71da20568",
+  "unidiff": {
+    "name": "unidiff",
+    "version": "1.0.1",
+    "url": "https://files.pythonhosted.org/packages/af/c9/a0529375e0162327fd1cb0dc6785c7a6e56dfae011c2d7b57d611ff84347/unidiff-1.0.1-py3-none-any.whl",
+    "filename": "unidiff-1.0.1-py3-none-any.whl",
+    "sha256": "5e2ca461eda8a4c761ad0922e3e8a65742f359dc60301a3a055b70fd7c158680",
+    "upstream_pin": "unidiff==1.0.1"
+  },
+  "cases_per_variant": 11,
+  "failures": {
+    "baseline": [
+      "unicode_line",
+      "unicode_paragraph",
+      "nel",
+      "form_feed",
+      "vertical_tab",
+      "file_separator",
+      "carriage_return",
+      "separator_before_later_hunk",
+      "repeated_carriage_returns"
+    ],
+    "candidate": [],
+    "old_splitlines_mutant": [
+      "unicode_line",
+      "unicode_paragraph",
+      "nel",
+      "form_feed",
+      "vertical_tab",
+      "file_separator",
+      "carriage_return",
+      "separator_before_later_hunk",
+      "repeated_carriage_returns"
+    ],
+    "old_rstrip_mutant": [
+      "repeated_carriage_returns"
+    ]
+  },
+  "results": {
+    "baseline": [
+      {
+        "case": "unicode_line",
+        "expected": "first\u2028continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "unicode_paragraph",
+        "expected": "first\u2029continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "nel",
+        "expected": "first\u0085continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "form_feed",
+        "expected": "first\fcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "vertical_tab",
+        "expected": "first\u000bcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "file_separator",
+        "expected": "first\u001ccontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "carriage_return",
+        "expected": "first\rcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "separator_before_later_hunk",
+        "expected": "first\u2028continued\nunchanged\nold\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "repeated_carriage_returns",
+        "expected": "first\r\nold\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "ordinary_lf_control",
+        "expected": "first\nold\nlast\n",
+        "actual": "first\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "mismatched_head_rejected",
+        "expected": null,
+        "actual": null,
+        "matches_ground_truth": true
+      }
+    ],
+    "candidate": [
+      {
+        "case": "unicode_line",
+        "expected": "first\u2028continued\nold\nlast\n",
+        "actual": "first\u2028continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "unicode_paragraph",
+        "expected": "first\u2029continued\nold\nlast\n",
+        "actual": "first\u2029continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "nel",
+        "expected": "first\u0085continued\nold\nlast\n",
+        "actual": "first\u0085continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "form_feed",
+        "expected": "first\fcontinued\nold\nlast\n",
+        "actual": "first\fcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "vertical_tab",
+        "expected": "first\u000bcontinued\nold\nlast\n",
+        "actual": "first\u000bcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "file_separator",
+        "expected": "first\u001ccontinued\nold\nlast\n",
+        "actual": "first\u001ccontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "carriage_return",
+        "expected": "first\rcontinued\nold\nlast\n",
+        "actual": "first\rcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "separator_before_later_hunk",
+        "expected": "first\u2028continued\nunchanged\nold\n",
+        "actual": "first\u2028continued\nunchanged\nold\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "repeated_carriage_returns",
+        "expected": "first\r\nold\n",
+        "actual": "first\r\nold\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "ordinary_lf_control",
+        "expected": "first\nold\nlast\n",
+        "actual": "first\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "mismatched_head_rejected",
+        "expected": null,
+        "actual": null,
+        "matches_ground_truth": true
+      }
+    ],
+    "old_splitlines_mutant": [
+      {
+        "case": "unicode_line",
+        "expected": "first\u2028continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "unicode_paragraph",
+        "expected": "first\u2029continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "nel",
+        "expected": "first\u0085continued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "form_feed",
+        "expected": "first\fcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "vertical_tab",
+        "expected": "first\u000bcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "file_separator",
+        "expected": "first\u001ccontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "carriage_return",
+        "expected": "first\rcontinued\nold\nlast\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "separator_before_later_hunk",
+        "expected": "first\u2028continued\nunchanged\nold\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "repeated_carriage_returns",
+        "expected": "first\r\nold\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "ordinary_lf_control",
+        "expected": "first\nold\nlast\n",
+        "actual": "first\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "mismatched_head_rejected",
+        "expected": null,
+        "actual": null,
+        "matches_ground_truth": true
+      }
+    ],
+    "old_rstrip_mutant": [
+      {
+        "case": "unicode_line",
+        "expected": "first\u2028continued\nold\nlast\n",
+        "actual": "first\u2028continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "unicode_paragraph",
+        "expected": "first\u2029continued\nold\nlast\n",
+        "actual": "first\u2029continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "nel",
+        "expected": "first\u0085continued\nold\nlast\n",
+        "actual": "first\u0085continued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "form_feed",
+        "expected": "first\fcontinued\nold\nlast\n",
+        "actual": "first\fcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "vertical_tab",
+        "expected": "first\u000bcontinued\nold\nlast\n",
+        "actual": "first\u000bcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "file_separator",
+        "expected": "first\u001ccontinued\nold\nlast\n",
+        "actual": "first\u001ccontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "carriage_return",
+        "expected": "first\rcontinued\nold\nlast\n",
+        "actual": "first\rcontinued\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "separator_before_later_hunk",
+        "expected": "first\u2028continued\nunchanged\nold\n",
+        "actual": "first\u2028continued\nunchanged\nold\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "repeated_carriage_returns",
+        "expected": "first\r\nold\n",
+        "actual": null,
+        "matches_ground_truth": false
+      },
+      {
+        "case": "ordinary_lf_control",
+        "expected": "first\nold\nlast\n",
+        "actual": "first\nold\nlast\n",
+        "matches_ground_truth": true
+      },
+      {
+        "case": "mismatched_head_rejected",
+        "expected": null,
+        "actual": null,
+        "matches_ground_truth": true
+      }
+    ]
+  },
+  "scope": "Fresh isolated function replay, not full upstream module/provider integration or historical suite rerun",
+  "injected_dependencies": [
+    "Pinned unidiff PatchSet and UnidiffParseError",
+    "stdlib logging adapter through get_logger"
+  ],
+  "loaded_definitions": [
+    "split_diff_lines",
+    "reconstruct_base_file_checked",
+    "reconstruct_base_file"
+  ],
+  "exercised_entrypoint": "reconstruct_base_file_checked",
+  "candidate_exercised_helpers": [
+    "split_diff_lines"
+  ],
+  "compiled_only_definitions": [
+    "reconstruct_base_file"
+  ],
+  "mutants": "Separately labeled mutants intentionally alter one expression each; ordinary candidate AST definitions are unmodified",
+  "limits": [
+    "Known regression cases derived from the public fix, not a protected holdout.",
+    "Does not exercise MOSAICO supplied-diff parsing, complete package imports, provider APIs, application configuration, released package bytes, customer acceptance, or unassisted authorship."
+  ],
+  "status": "BASELINE_REPRODUCED_CANDIDATE_PASS_MUTANTS_REJECTED"
+}

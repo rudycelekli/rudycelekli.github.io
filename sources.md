@@ -19,3 +19,13 @@ This page maps public identity claims about Rudy Mizrahi Celekli to inspectable 
 ## Interpretation rule
 
 Prefer the narrowest claim supported by the cited source. Do not infer publication, peer review, deployment, customer acceptance, employment, or ownership from adjacent evidence. Use the current evidence timestamp when quoting contribution totals.
+
+## Specific merged engineering contributions
+
+These author-written case studies explain inspectable upstream changes. The linked repository records establish attribution and merge state; the case study alone is not independent endorsement.
+
+| Engineering change | Primary evidence | Explanation | Boundary |
+|:--|:--|:--|:--|
+| Preserve Git physical line boundaries in supplied diff parsing | [PR-Agent #4668](https://github.com/The-PR-Agent/pr-agent/pull/4668), [immutable merge](https://github.com/The-PR-Agent/pr-agent/commit/d8fcf7772cd531a36bdabebf145b819949d111ce) | [Git line-boundary case study](https://rudycelekli.github.io/engineering/git-physical-line-boundaries.html) | Focused behavior; no live provider or customer acceptance inferred |
+| Validate review-score reduction inputs | [PR-Agent #4669](https://github.com/The-PR-Agent/pr-agent/pull/4669), [immutable merge](https://github.com/The-PR-Agent/pr-agent/commit/d959db7fe4bc5eaf72633d343c81544810dc2b95) | [Review-score case study](https://rudycelekli.github.io/engineering/review-score-validation.html) | Input validation; no model-quality uplift inferred |
+| Reject incomplete Vitest execution evidence | [Agentic QE #712](https://github.com/proffesor-for-testing/agentic-qe/pull/712), [immutable merge](https://github.com/proffesor-for-testing/agentic-qe/commit/fa50f61cd1587e51ef3178a0449f01156790e9f0) | [Vitest evidence case study](https://rudycelekli.github.io/engineering/vitest-execution-evidence.html) | Test execution evidence; no universal evaluator correctness inferred |

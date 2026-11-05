@@ -1,0 +1,9 @@
+{
+  "bundle": "engineering/reproductions/pr-agent-4668.zip",
+  "sha256": "9d0f22dc06722d095462b689de0d2d12afd6675429a21ae8f8e12b29d7e653d3",
+  "bytes": 55825,
+  "members": 17,
+  "baseline": "d92765fc0e5bb2488b153947ef63e0da29fcffcc",
+  "candidate": "d8fcf7772cd531a36bdabebf145b819949d111ce",
+  "scope": "Known-regression isolated reconstruction replay; no full app/provider integration"
+}

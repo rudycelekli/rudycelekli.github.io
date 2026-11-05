@@ -1,0 +1,38 @@
+name: Reproduce published engineering evidence
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'engineering/reproductions/**'
+      - 'docs/engineering-reproduction-lock.json'
+      - 'scripts/check_reproduction_bundle.py'
+      - '.github/workflows/reproduce-engineering-evidence.yml'
+  pull_request:
+    paths:
+      - 'engineering/reproductions/**'
+      - 'docs/engineering-reproduction-lock.json'
+      - 'scripts/check_reproduction_bundle.py'
+      - '.github/workflows/reproduce-engineering-evidence.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: engineering-evidence-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  offline-replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify the actual published ZIP and replay without provider access
+        run: python scripts/check_reproduction_bundle.py

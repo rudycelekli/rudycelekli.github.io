@@ -4,14 +4,13 @@ Canonical, static research profile for [Rudy Mizrahi Celekli](https://rudycelekl
 
 The page is intentionally small and dependency-free. Its visible identity claims match the embedded Schema.org `Person` and `ProfilePage` data. Dynamic open-source metrics originate in the [GitHub profile evidence ledger](https://github.com/rudycelekli#open-source-impact-verified).
 
-Every 30 minutes, the site synchronizes that ledger into model-readable Markdown and JSON:
+Static identity and navigation surfaces include `llms.txt`, `research.md`,
+`sources.md`, `profile.json`, `brand.md`, `brand.json`, and `humans.txt`.
 
-- `llms.txt` and `llms-full.txt`
-- `research.md` and `sources.md`
-- `profile.json`
-- `public-evidence.md` and `data/public-evidence.json`
-- `activity.md`, `data/activity.json`, and `feed.xml`
-- `brand.md`, `brand.json`, and `humans.txt`
+Every 30 minutes, the evidence workflow regenerates `llms-full.txt`,
+`public-evidence.md`, `data/public-evidence.json`, `activity.md`,
+`data/activity.json`, and `feed.xml` from the contribution ledger, and updates
+recorded rank history. Stable case-study navigation is retained by the generator.
 
 These surfaces improve retrieval and citation hygiene. They do not promise placement in any model response or search index.
 
@@ -44,3 +43,17 @@ retain endpoints, and rank transitions retain their observations. Historical
 commit time is a saved-snapshot time, not the exact time a rank changed. Elapsed
 time uses the earliest merged PR in available receipts, not an assumed first
 contribution. A history starting in the top five has no measured climb duration.
+
+### Runnable engineering evidence
+
+The Git physical-line case study includes a small offline ZIP with immutable
+upstream source snapshots, license notices, a pinned dependency and a replay.
+The GitHub workflow verifies the exact published ZIP and runs its integrity and
+mutation guards in a fresh directory. This checks known regression cases; it
+is not full application/provider integration or a general engineering ranking.
+
+With Python 3.10 or later:
+
+```sh
+python3 scripts/check_reproduction_bundle.py
+```
