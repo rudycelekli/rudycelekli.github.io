@@ -1,0 +1,19 @@
+{
+  "package": "agentic-qe",
+  "version": "3.15.18",
+  "registry_url": "https://registry.npmjs.org/agentic-qe/3.15.18",
+  "tarball": "https://registry.npmjs.org/agentic-qe/-/agentic-qe-3.15.18.tgz",
+  "registry_integrity": "sha512-gPZa7BZPtKa5PT35CcvLtkC3fBnK0Q5qSB1k3bVaPmdbQjp9/ZE4SxyA3b/tnY+BnxqkrfRiRUFDFfyeJBl0hg==",
+  "verified_integrity": "sha512-gPZa7BZPtKa5PT35CcvLtkC3fBnK0Q5qSB1k3bVaPmdbQjp9/ZE4SxyA3b/tnY+BnxqkrfRiRUFDFfyeJBl0hg==",
+  "tarball_sha256": "11c04bece56f2743e741edac8dc601227877eaa7b271df5ebb27d04ffc371403",
+  "bytes": 12371106,
+  "gitHead": null,
+  "members": [
+    {
+      "member": "package/dist/shared/vitest-json-report.js",
+      "sha256": "436d5054aaeda4dcdf2ca825c8f1965912ce840cbdbe53b8e9a643017cff2572"
+    }
+  ],
+  "method": "Downloaded tarball; verified registry SHA512; read named member in memory without extracting archive or executing code",
+  "boundary": "Artifact inspection only; not runtime, installation, adoption, downstream outcomes or worldwide impact rank"
+}
