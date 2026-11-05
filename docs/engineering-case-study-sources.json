@@ -1,0 +1,24 @@
+{
+  "checked_date": "2026-11-04",
+  "method": "GitHub PR metadata and complete diffs inspected; no historical upstream test rerun",
+  "cases": [
+    {
+      "slug": "vitest-execution-evidence",
+      "repo": "proffesor-for-testing/agentic-qe",
+      "number": 712,
+      "sha": "fa50f61cd1587e51ef3178a0449f01156790e9f0"
+    },
+    {
+      "slug": "git-physical-line-boundaries",
+      "repo": "The-PR-Agent/pr-agent",
+      "number": 4668,
+      "sha": "d8fcf7772cd531a36bdabebf145b819949d111ce"
+    },
+    {
+      "slug": "review-score-validation",
+      "repo": "The-PR-Agent/pr-agent",
+      "number": 4669,
+      "sha": "d959db7fe4bc5eaf72633d343c81544810dc2b95"
+    }
+  ]
+}
