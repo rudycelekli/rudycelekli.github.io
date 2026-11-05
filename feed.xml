@@ -4,15 +4,8 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T12:37:09Z</updated>
+  <updated>2026-11-05T09:38:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
-  <entry>
-    <title>maziyarpanahi/openmed #4173: feat: preflight bounded multimodal asset batches</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4173</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4173"/>
-    <updated>2026-11-05T12:37:09Z</updated>
-    <summary>Merged public contribution. +676 / -0 across 6 changed files.</summary>
-  </entry>
   <entry>
     <title>thedotmack/claude-mem #5369: fix(prompt-import): decode JSON tool strings while preserving raw input</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5369</id>
@@ -355,5 +348,12 @@
     <link href="https://github.com/bee-san/Ciphey/pull/1127"/>
     <updated>2026-11-04T09:28:28Z</updated>
     <summary>Merged public contribution. +41 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>anmolkapil/plexo #185: fix: shorten a download path under home when the name's accents differ</title>
+    <id>https://github.com/anmolkapil/plexo/pull/185</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/185"/>
+    <updated>2026-11-04T07:50:07Z</updated>
+    <summary>Merged public contribution. +33 / -12 across 2 changed files.</summary>
   </entry>
 </feed>
