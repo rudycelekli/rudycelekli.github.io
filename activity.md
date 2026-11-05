@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,616**
+Records: **3,619**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose](https://github.com/headroomlabs-ai/headroom/pull/4295) | +41 / -0 across 2 files | 5 reviews · 4 comments |
+| 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4291: fix(transforms): recognise code fences whose info string is not a bare word](https://github.com/headroomlabs-ai/headroom/pull/4291) | +69 / -2 across 2 files | 7 reviews · 4 comments |
+| 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4288: fix(config): use the longest matching model_context_limits prefix](https://github.com/headroomlabs-ai/headroom/pull/4288) | +22 / -4 across 2 files | 4 reviews · 4 comments |
 | 2026-11-05 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10715: fix(telegram): fall back to display name for senders without a username](https://github.com/AstrBotDevs/AstrBot/pull/10715) | +1 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4682: fix(bitbucket): preserve significant spaces in rename paths](https://github.com/The-PR-Agent/pr-agent/pull/4682) | +48 / -2 across 2 files | 1 reviews · 1 comments |
 | 2026-11-04 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4663: fix(action): write Unicode outputs using UTF-8](https://github.com/The-PR-Agent/pr-agent/pull/4663) | +22 / -1 across 2 files | 1 reviews · 1 comments |

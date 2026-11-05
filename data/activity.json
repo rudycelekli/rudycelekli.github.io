@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 41,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-10-19T15:48:05Z",
+      "deletions": 0,
+      "merged_at": "2026-11-05T04:44:43Z",
+      "number": 4295,
+      "repository": "headroomlabs-ai/headroom",
+      "repository_url": "https://github.com/headroomlabs-ai/headroom",
+      "reviews": 5,
+      "title": "fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose",
+      "url": "https://github.com/headroomlabs-ai/headroom/pull/4295"
+    },
+    {
+      "additions": 69,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-10-19T15:26:09Z",
+      "deletions": 2,
+      "merged_at": "2026-11-05T04:44:07Z",
+      "number": 4291,
+      "repository": "headroomlabs-ai/headroom",
+      "repository_url": "https://github.com/headroomlabs-ai/headroom",
+      "reviews": 7,
+      "title": "fix(transforms): recognise code fences whose info string is not a bare word",
+      "url": "https://github.com/headroomlabs-ai/headroom/pull/4291"
+    },
+    {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-10-19T15:09:03Z",
+      "deletions": 4,
+      "merged_at": "2026-11-05T04:42:38Z",
+      "number": 4288,
+      "repository": "headroomlabs-ai/headroom",
+      "repository_url": "https://github.com/headroomlabs-ai/headroom",
+      "reviews": 4,
+      "title": "fix(config): use the longest matching model_context_limits prefix",
+      "url": "https://github.com/headroomlabs-ai/headroom/pull/4288"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -57888,7 +57936,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3616,
+  "record_count": 3619,
   "schema_version": 1,
   "updated_at_utc": "2026-11-05"
 }

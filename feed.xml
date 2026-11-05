@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T01:17:08Z</updated>
+  <updated>2026-11-05T04:44:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>headroomlabs-ai/headroom #4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4295</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4295"/>
+    <updated>2026-11-05T04:44:43Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4291: fix(transforms): recognise code fences whose info string is not a bare word</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4291</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4291"/>
+    <updated>2026-11-05T04:44:07Z</updated>
+    <summary>Merged public contribution. +69 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4288: fix(config): use the longest matching model_context_limits prefix</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4288</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4288"/>
+    <updated>2026-11-05T04:42:38Z</updated>
+    <summary>Merged public contribution. +22 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>AstrBotDevs/AstrBot #10715: fix(telegram): fall back to display name for senders without a username</title>
     <id>https://github.com/AstrBotDevs/AstrBot/pull/10715</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5303"/>
     <updated>2026-11-04T02:49:11Z</updated>
     <summary>Merged public contribution. +134 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9781: Ignore commented Java-home overrides in PyGhidra launch properties</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9781</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9781"/>
-    <updated>2026-11-03T19:39:43Z</updated>
-    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #88: Validate embedding vectors before replacing cached projections</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/88</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/88"/>
-    <updated>2026-11-03T17:27:53Z</updated>
-    <summary>Merged public contribution. +71 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #74: fix(core): apply evidence-date validation to direct memory corrections</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/74</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/74"/>
-    <updated>2026-11-03T17:14:50Z</updated>
-    <summary>Merged public contribution. +36 / -0 across 3 changed files.</summary>
   </entry>
 </feed>
