@@ -7,7 +7,8 @@ The page is intentionally small and dependency-free. Its visible identity claims
 Static identity and navigation surfaces include `llms.txt`, `research.md`,
 `sources.md`, `profile.json`, `brand.md`, `brand.json`, and `humans.txt`.
 
-Every 30 minutes, the evidence workflow regenerates `llms-full.txt`,
+Every 30 minutes, the evidence workflow refreshes the static ledger snapshot in
+`contributions.html` and regenerates `llms-full.txt`,
 `public-evidence.md`, `data/public-evidence.json`, `activity.md`,
 `data/activity.json`, and `feed.xml` from the contribution ledger, and updates
 recorded rank history. Stable case-study navigation is retained by the generator.
@@ -57,3 +58,5 @@ With Python 3.10 or later:
 ```sh
 python3 scripts/check_reproduction_bundle.py
 ```
+
+The contribution explorer includes every ledger row in its published HTML. JavaScript enhances the same data with live refresh, sorting and filtering. If live refresh fails, the dated published snapshot remains visible. The balanced score is a disclosed browsing aid, not a worldwide contributor ranking.
