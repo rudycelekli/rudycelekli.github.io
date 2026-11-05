@@ -4,10 +4,16 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,622**
+Records: **3,628**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4674: fix(improve): preserve literal data in already aligned replacements](https://github.com/The-PR-Agent/pr-agent/pull/4674) | +11 / -0 across 2 files | 1 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4680: fix(diff): keep negative context settings from corrupting hunk counts](https://github.com/The-PR-Agent/pr-agent/pull/4680) | +38 / -0 across 2 files | 1 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4664: fix(usage): reject negative and boolean token counts](https://github.com/The-PR-Agent/pr-agent/pull/4664) | +44 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4676: fix(describe): retain files when unused optional summaries are malformed](https://github.com/The-PR-Agent/pr-agent/pull/4676) | +28 / -1 across 2 files | 1 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4681: fix(improve): retain suggestions with quoted or unusable length caps](https://github.com/The-PR-Agent/pr-agent/pull/4681) | +47 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-11-05 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4677: fix(add_docs): validate model anchors and placement before insertion](https://github.com/The-PR-Agent/pr-agent/pull/4677) | +59 / -8 across 2 files | 1 reviews · 1 comments |
 | 2026-11-05 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1708: fix(connectors): follow Graph nextLink for Entra audits and risky sign-ins](https://github.com/beenuar/AiSOC/pull/1708) | +81 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-11-05 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | [#4668: Retry failed plugin worktree lookups instead of caching misses](https://github.com/max-sixty/worktrunk/pull/4668) | +39 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-11-05 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1706: fix(connectors): end the Duo poll window where Duo's logs are available](https://github.com/beenuar/AiSOC/pull/1706) | +80 / -2 across 2 files | 0 reviews · 1 comments |

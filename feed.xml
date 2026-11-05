@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T06:58:06Z</updated>
+  <updated>2026-11-05T08:34:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4674: fix(improve): preserve literal data in already aligned replacements</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4674</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4674"/>
+    <updated>2026-11-05T08:34:03Z</updated>
+    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4680: fix(diff): keep negative context settings from corrupting hunk counts</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4680</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4680"/>
+    <updated>2026-11-05T08:28:07Z</updated>
+    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4664: fix(usage): reject negative and boolean token counts</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4664</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4664"/>
+    <updated>2026-11-05T08:28:00Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4676: fix(describe): retain files when unused optional summaries are malformed</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4676</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4676"/>
+    <updated>2026-11-05T08:13:33Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4681: fix(improve): retain suggestions with quoted or unusable length caps</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4681</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4681"/>
+    <updated>2026-11-05T08:07:14Z</updated>
+    <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>The-PR-Agent/pr-agent #4677: fix(add_docs): validate model anchors and placement before insertion</title>
+    <id>https://github.com/The-PR-Agent/pr-agent/pull/4677</id>
+    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4677"/>
+    <updated>2026-11-05T08:07:06Z</updated>
+    <summary>Merged public contribution. +59 / -8 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>beenuar/AiSOC #1708: fix(connectors): follow Graph nextLink for Entra audits and risky sign-ins</title>
     <id>https://github.com/beenuar/AiSOC/pull/1708</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/anmolkapil/plexo/pull/178"/>
     <updated>2026-11-04T07:49:09Z</updated>
     <summary>Merged public contribution. +14 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #177: fix: refuse a redirect without a Location during link probing</title>
-    <id>https://github.com/anmolkapil/plexo/pull/177</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/177"/>
-    <updated>2026-11-04T07:48:56Z</updated>
-    <summary>Merged public contribution. +13 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #176: fix: refuse superscript Windows device names in a torrent</title>
-    <id>https://github.com/anmolkapil/plexo/pull/176</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/176"/>
-    <updated>2026-11-04T07:48:44Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5296: fix(adoption): preserve actual checkout paths before remapping memories</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5296</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5296"/>
-    <updated>2026-11-04T06:33:07Z</updated>
-    <summary>Merged public contribution. +468 / -46 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5304: fix(prompt-import): recognize OpenCode tool inputs as agent-authored</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5304</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5304"/>
-    <updated>2026-11-04T06:05:08Z</updated>
-    <summary>Merged public contribution. +95 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5301: fix(setup): preserve hook prompts when session reads are incomplete</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5301</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5301"/>
-    <updated>2026-11-04T05:42:47Z</updated>
-    <summary>Merged public contribution. +112 / -16 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5300: fix(prompt-import): exclude copied Codex fork prompts and token history</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5300</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5300"/>
-    <updated>2026-11-04T04:37:17Z</updated>
-    <summary>Merged public contribution. +331 / -3 across 4 changed files.</summary>
   </entry>
 </feed>
