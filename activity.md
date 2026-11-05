@@ -4,10 +4,19 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,641**
+Records: **3,650**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2550: fix(ui): preserve existing Pi providers on name collisions](https://github.com/JustVugg/colibri/pull/2550) | +50 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2562: fix(ui): reap exited owned gateways during stop](https://github.com/JustVugg/colibri/pull/2562) | +328 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2561: fix(ui): snapshot the gateway after switch admission](https://github.com/JustVugg/colibri/pull/2561) | +335 / -19 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2560: fix(ui): keep model job identities unique across simultaneous submissions](https://github.com/JustVugg/colibri/pull/2560) | +109 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2555: fix(responses): forward reasoning and structured output settings](https://github.com/JustVugg/colibri/pull/2555) | +144 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2551: fix(api): keep Muse tool arguments valid JSON for nonfinite values](https://github.com/JustVugg/colibri/pull/2551) | +50 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2549: fix(tools): reject invalid routing counts before cross-validation](https://github.com/JustVugg/colibri/pull/2549) | +42 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2548: fix(responses): preserve failed and incomplete upstream outcomes](https://github.com/JustVugg/colibri/pull/2548) | +260 / -22 across 3 files | 0 reviews · 0 comments |
+| 2026-11-05 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2547: fix(responses): preserve forced function and custom tool selection](https://github.com/JustVugg/colibri/pull/2547) | +38 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#50: fix(capture): recover from invalid session metadata shapes](https://github.com/tigerless-labs/cost-xray/pull/50) | +20 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#30: fix(openai): retain refusal text in output attribution](https://github.com/tigerless-labs/cost-xray/pull/30) | +19 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#40: fix(capture): decode complete multiline SSE data events](https://github.com/tigerless-labs/cost-xray/pull/40) | +27 / -5 across 2 files | 0 reviews · 0 comments |
