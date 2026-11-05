@@ -206,6 +206,15 @@
           })}`;
       render();
     } catch (error) {
+      if (elements.body.querySelector("tr[data-evidence-snapshot]")) {
+        elements.freshness.textContent += " · live refresh unavailable";
+        elements.status.textContent = "Showing the published snapshot; interactive refresh unavailable.";
+        [elements.filter, elements.sort, elements.direction, elements.topFive,
+          ...elements.headers.flatMap((header) => Array.from(header.querySelectorAll("button")))]
+          .forEach((control) => { control.disabled = true; });
+        console.error(error);
+        return;
+      }
       elements.body.innerHTML = '<tr><td colspan="8" class="load-error">The live ledger could not be loaded. <a href="/public-evidence.md">Open the synchronized Markdown evidence.</a></td></tr>';
       elements.freshness.textContent = "Live evidence temporarily unavailable";
       elements.status.textContent = "Contribution evidence failed to load.";

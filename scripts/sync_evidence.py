@@ -4,9 +4,13 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
+import math
 import pathlib
+import re
 import urllib.request
+from urllib.parse import urlparse
 from xml.sax.saxutils import escape
 
 
@@ -370,6 +374,67 @@ def atom_feed(evidence: dict, limit: int = 50) -> str:
     return "\n".join(rows) + "\n"
 
 
+def explorer_snapshot(evidence: dict, template: str) -> str:
+    """Publish the same ledger before client-side enhancement or network access."""
+    def replace(pattern: str, value: str) -> None:
+        nonlocal template
+        template, count = re.subn(pattern, lambda match: match[1] + value + match[2],
+                                  template, flags=re.DOTALL)
+        if count != 1:
+            raise ValueError("Explorer template must contain exactly one target: " + pattern)
+
+    def link(value: str) -> str:
+        parsed = urlparse(value or "")
+        if parsed.scheme != "https" or parsed.netloc != "github.com":
+            raise ValueError("Contribution evidence must link to HTTPS github.com")
+        return html.escape(value, quote=True)
+
+    rows = evidence["upstream_contributions"]
+    max_prs = max((row["merged_pull_requests"] for row in rows), default=0)
+    max_stars = max((row["repository_stars"] for row in rows), default=0)
+    def ratio(value: int, maximum: int) -> float:
+        return math.log1p(value) / math.log1p(maximum) if value > 0 and maximum > 0 else 0
+
+    scored = []
+    for row in rows:
+        rank = row.get("contributor_rank")
+        score = math.floor(100 * (0.5 * ratio(row["merged_pull_requests"], max_prs) +
+                          0.3 * (1 / math.sqrt(rank) if rank else 0) +
+                          0.2 * ratio(row["repository_stars"], max_stars)) + 0.5)
+        scored.append((score, row))
+    rendered = []
+    for score, row in sorted(scored, key=lambda item: (-item[0], item[1]["name"].lower())):
+        tier = row["verification_tier"]
+        proof = (row.get("contributors_url") if tier == "github_listed_contributor" else
+                 row.get("commits_url") if tier == "default_branch_commit_verified" else
+                 row.get("pull_requests_url") or row["url"])
+        rank = "#" + number(row["contributor_rank"]) if row.get("contributor_rank") else "—"
+        rendered.append(
+            '<tr data-evidence-snapshot="true"><th scope="row">'
+            f'<a class="project-link" href="{link(row["url"])}">{html.escape(row["name"])}</a>'
+            f'<a class="evidence-link" href="{link(proof)}">{html.escape(row["verification_label"])} ↗</a></th>'
+            f'<td data-label="API rank">{rank}</td>'
+            f'<td data-label="Merged PRs"><a href="{link(row["pull_requests_url"])}">{number(row["merged_pull_requests"])}</a></td>'
+            f'<td data-label="Commits">{number(row["attributed_commits"])}</td>'
+            f'<td data-label="Line changes"><span class="positive">+{number(row["accepted_additions"])}</span>'
+            f'<span class="negative">−{number(row["accepted_deletions"])}</span></td>'
+            f'<td data-label="Stars">{number(row["repository_stars"])}</td>'
+            f'<td data-label="Forks">{number(row["repository_forks"])}</td>'
+            f'<td data-label="Balanced"><span class="score-value">{score}</span></td></tr>'
+        )
+    if not rendered:
+        rendered = ['<tr><td colspan="8">No verified projects in this published snapshot.</td></tr>']
+    replace(r'(<tbody id="contribution-rows"[^>]*>).*?(</tbody>)', "\n".join(rendered))
+    for target, field in [("projects", "verified_upstream_projects"), ("prs", "merged_pull_requests"),
+                          ("commits", "attributed_commits"), ("stars", "combined_repository_stars")]:
+        replace(r'(<strong id="summary-' + target + r'">).*?(</strong>)', number(evidence["summary"][field]))
+    replace(r'(<p id="evidence-freshness"[^>]*>).*?(</p>)',
+            "Published evidence snapshot: " + html.escape(evidence["updated_at_utc"]) + " UTC")
+    replace(r'(<p id="result-status"[^>]*>).*?(</p>)',
+            f'{number(len(rows))} verified projects in the published snapshot; balanced view, not a worldwide impact ranking.')
+    return template
+
+
 def write_outputs(evidence: dict, output_dir: pathlib.Path) -> None:
     data_dir = output_dir / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
@@ -397,6 +462,10 @@ def write_outputs(evidence: dict, output_dir: pathlib.Path) -> None:
         activity_markdown(evidence), encoding="utf-8"
     )
     (output_dir / "feed.xml").write_text(atom_feed(evidence), encoding="utf-8")
+    explorer = output_dir / "contributions.html"
+    if explorer.exists():
+        explorer.write_text(explorer_snapshot(evidence, explorer.read_text(encoding="utf-8")),
+                            encoding="utf-8")
 
 
 def main() -> None:
