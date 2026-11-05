@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,621**
+Records: **3,622**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1708: fix(connectors): follow Graph nextLink for Entra audits and risky sign-ins](https://github.com/beenuar/AiSOC/pull/1708) | +81 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | [#4668: Retry failed plugin worktree lookups instead of caching misses](https://github.com/max-sixty/worktrunk/pull/4668) | +39 / -2 across 2 files | 1 reviews · 0 comments |
 | 2026-11-05 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | [#1706: fix(connectors): end the Duo poll window where Duo's logs are available](https://github.com/beenuar/AiSOC/pull/1706) | +80 / -2 across 2 files | 0 reviews · 1 comments |
 | 2026-11-05 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4295: fix(transforms): stop the dense-line elider cutting Chinese, Japanese and Thai prose](https://github.com/headroomlabs-ai/headroom/pull/4295) | +41 / -0 across 2 files | 5 reviews · 4 comments |
