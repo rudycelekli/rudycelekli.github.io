@@ -117,6 +117,20 @@
       <noscript><p class="load-error">This explorer needs JavaScript for sorting. The same evidence remains available in <a href="/public-evidence.md">Markdown</a> and <a href="/data/public-evidence.json">JSON</a>.</p></noscript>
     </section>
 
+    <section class="explorer-boundary" aria-labelledby="engineering-impact-title">
+      <p class="eyebrow">Open-source engineering / selected accepted work</p>
+      <h2 id="engineering-impact-title">Rudy Celekli’s open-source contributions.</h2>
+      <div>
+        <p>Rudy Celekli is an AI engineer in Charlotte, North Carolina who contributes to upstream AI agent and evaluation software. The examples below connect accepted code changes to concrete failure modes. The sortable ledger measures contribution activity; these case studies explain the engineering behavior behind selected changes.</p>
+        <ul>
+          <li><strong>PR-Agent: preserve Git diff line boundaries.</strong> Keep Unicode source characters inside their physical Git lines during supplied-diff parsing and reverse patching. <a href="https://github.com/The-PR-Agent/pr-agent/pull/4668">Merged PR #4668</a> · <a href="/engineering/git-physical-line-boundaries.html#reproduce">Case study and offline before/after replay</a>.</li>
+          <li><strong>PR-Agent: validate review-score inputs.</strong> Exclude negative and over-100 values before conservative score reduction, while preserving a valid zero. <a href="https://github.com/The-PR-Agent/pr-agent/pull/4669">Merged PR #4669</a> · <a href="/engineering/review-score-validation.html">Case study</a>.</li>
+          <li><strong>Agentic QE: reject incomplete test execution evidence.</strong> Require completed Vitest execution evidence before reporting a successful run. <a href="https://github.com/proffesor-for-testing/agentic-qe/pull/712">Merged PR #712</a> · <a href="/engineering/vitest-execution-evidence.html">Case study</a>.</li>
+        </ul>
+        <p>GitHub records confirm attribution and acceptance of these changes. The explanations are author-written. Merge status and focused regression checks do not establish production rollout, user adoption, customer outcomes or a worldwide impact ranking. Inspect <a href="/sources.md">claim sources</a>, <a href="/engineering/">validation boundaries</a> and the linked upstream records when evaluating the work.</p>
+      </div>
+    </section>
+
     <section class="explorer-boundary" aria-labelledby="boundary-title">
       <p class="eyebrow">Interpretation boundary</p>
       <h2 id="boundary-title">Reach is context.<br>Acceptance is evidence.</h2>
