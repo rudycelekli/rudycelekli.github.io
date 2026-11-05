@@ -4,10 +4,16 @@ Evidence timestamp: **2026-11-05 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,635**
+Records: **3,641**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#50: fix(capture): recover from invalid session metadata shapes](https://github.com/tigerless-labs/cost-xray/pull/50) | +20 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#30: fix(openai): retain refusal text in output attribution](https://github.com/tigerless-labs/cost-xray/pull/30) | +19 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#40: fix(capture): decode complete multiline SSE data events](https://github.com/tigerless-labs/cost-xray/pull/40) | +27 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#24: fix(raw-codec): skip malformed dedup store entries](https://github.com/tigerless-labs/cost-xray/pull/24) | +21 / -24 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#29: fix(openai): prefer authoritative completion output and model](https://github.com/tigerless-labs/cost-xray/pull/29) | +35 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-05 | [tigerless-labs/cost-xray](https://github.com/tigerless-labs/cost-xray) | [#48: fix(capture): retry a wake when the consumer pipe closes](https://github.com/tigerless-labs/cost-xray/pull/48) | +115 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-05 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4159: feat: render provider capability compatibility matrix](https://github.com/maziyarpanahi/openmed/pull/4159) | +523 / -0 across 6 files | 0 reviews · 0 comments |
 | 2026-11-05 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4173: feat: preflight bounded multimodal asset batches](https://github.com/maziyarpanahi/openmed/pull/4173) | +676 / -0 across 6 files | 0 reviews · 0 comments |
 | 2026-11-05 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5369: fix(prompt-import): decode JSON tool strings while preserving raw input](https://github.com/thedotmack/claude-mem/pull/5369) | +159 / -8 across 2 files | 0 reviews · 2 comments |

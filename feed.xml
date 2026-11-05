@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T13:04:37Z</updated>
+  <updated>2026-11-05T17:10:26Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #50: fix(capture): recover from invalid session metadata shapes</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/50</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/50"/>
+    <updated>2026-11-05T17:10:26Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #30: fix(openai): retain refusal text in output attribution</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/30</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/30"/>
+    <updated>2026-11-05T17:09:32Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #40: fix(capture): decode complete multiline SSE data events</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/40</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/40"/>
+    <updated>2026-11-05T17:08:34Z</updated>
+    <summary>Merged public contribution. +27 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #24: fix(raw-codec): skip malformed dedup store entries</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/24</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/24"/>
+    <updated>2026-11-05T17:07:42Z</updated>
+    <summary>Merged public contribution. +21 / -24 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #29: fix(openai): prefer authoritative completion output and model</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/29</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/29"/>
+    <updated>2026-11-05T17:06:51Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/cost-xray #48: fix(capture): retry a wake when the consumer pipe closes</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/48</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/48"/>
+    <updated>2026-11-05T17:05:03Z</updated>
+    <summary>Merged public contribution. +115 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4159: feat: render provider capability compatibility matrix</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4159</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/Nutlope/hallmark/pull/81"/>
     <updated>2026-11-04T11:36:20Z</updated>
     <summary>Merged public contribution. +6 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Nutlope/hallmark #87: Read --scope as a flag instead of a slug</title>
-    <id>https://github.com/Nutlope/hallmark/pull/87</id>
-    <link href="https://github.com/Nutlope/hallmark/pull/87"/>
-    <updated>2026-11-04T11:36:03Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4647: fix(shared): isolate rate limiter reset for empty keys</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4647</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4647"/>
-    <updated>2026-11-04T09:53:16Z</updated>
-    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/ruflo #4646: fix(shared): match complete HTTP status tokens in retry predicates</title>
-    <id>https://github.com/ruvnet/ruflo/pull/4646</id>
-    <link href="https://github.com/ruvnet/ruflo/pull/4646"/>
-    <updated>2026-11-04T09:53:16Z</updated>
-    <summary>Merged public contribution. +37 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/RustScan #964: fix(config): accept documented lowercase script modes</title>
-    <id>https://github.com/bee-san/RustScan/pull/964</id>
-    <link href="https://github.com/bee-san/RustScan/pull/964"/>
-    <updated>2026-11-04T09:29:20Z</updated>
-    <summary>Merged public contribution. +52 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/RustScan #962: fix(scripts): preserve literal hashes in metadata</title>
-    <id>https://github.com/bee-san/RustScan/pull/962</id>
-    <link href="https://github.com/bee-san/RustScan/pull/962"/>
-    <updated>2026-11-04T09:29:08Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bee-san/Ciphey #1128: fix(uuencode): accept leading zero-length data lines</title>
-    <id>https://github.com/bee-san/Ciphey/pull/1128</id>
-    <link href="https://github.com/bee-san/Ciphey/pull/1128"/>
-    <updated>2026-11-04T09:28:32Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
