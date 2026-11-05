@@ -163,6 +163,18 @@ class ResearchProfileTests(unittest.TestCase):
             evidence["summary"]["merged_pull_request_records"],
         )
 
+    def test_evidence_refresh_preserves_case_study_navigation(self):
+        # Invoke the real renderer: source text alone would not prove the next sync keeps links.
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("evidence_sync", ROOT / "scripts/sync_evidence.py")
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        evidence = json.loads((ROOT / "data/public-evidence.json").read_text())
+        rendered = module.full_context(evidence)
+        self.assertIn("https://rudycelekli.github.io/engineering/", rendered)
+        self.assertIn("https://github.com/The-PR-Agent/pr-agent/pull/4668", rendered)
+        self.assertIn("not independent endorsements", rendered)
+
     def test_required_local_assets_exist(self):
         for path in ("assets/site.css", "assets/mark.svg", "assets/contributions.js"):
             self.assertTrue((ROOT / path).is_file(), path)

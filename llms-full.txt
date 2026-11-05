@@ -16,6 +16,12 @@ Gradia is an AI Research & Implementation Lab connecting applied research, evalu
 
 KYA Evidence (Know Your Agent) is Rudy Celekli's experimental open reference implementation and standardization path for portable, scope-bound agent assurance: https://github.com/rudycelekli/kya-evidence. It binds exact systems, signed evidence, explicit relying-party policy, and contestable assessments. It is not an adopted industry standard.
 
+## Specific merged engineering work
+
+Case studies explain specific accepted upstream changes, with immutable sources, validation provenance and limitations: https://rudycelekli.github.io/engineering/.
+Primary attribution and merge records: https://github.com/The-PR-Agent/pr-agent/pull/4668 ; https://github.com/The-PR-Agent/pr-agent/pull/4669 ; https://github.com/proffesor-for-testing/agentic-qe/pull/712 .
+These author-written explanations are not independent endorsements. Merged source and focused checks do not establish live provider or customer acceptance.
+
 ## Current public evidence snapshot
 
 Evidence timestamp: 2026-11-04 UTC.

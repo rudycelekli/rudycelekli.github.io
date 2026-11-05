@@ -247,6 +247,17 @@ def full_context(evidence: dict) -> str:
         "explicit relying-party policy, and contestable assessments. It is not an adopted "
         "industry standard.",
         "",
+        "## Specific merged engineering work",
+        "",
+        "Case studies explain specific accepted upstream changes, with immutable sources, "
+        "validation provenance and limitations: " + CANONICAL + "/engineering/.",
+        "Primary attribution and merge records: "
+        "https://github.com/The-PR-Agent/pr-agent/pull/4668 ; "
+        "https://github.com/The-PR-Agent/pr-agent/pull/4669 ; "
+        "https://github.com/proffesor-for-testing/agentic-qe/pull/712 .",
+        "These author-written explanations are not independent endorsements. "
+        "Merged source and focused checks do not establish live provider or customer acceptance.",
+        "",
         "## Current public evidence snapshot",
         "",
         f"Evidence timestamp: {evidence['updated_at_utc']} UTC.",
