@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-06T18:26:23Z</updated>
+  <updated>2026-11-06T18:42:35Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>dosco/graphjin #691: fix(openapi): discover fields inherited through allOf response schemas</title>
+    <id>https://github.com/dosco/graphjin/pull/691</id>
+    <link href="https://github.com/dosco/graphjin/pull/691"/>
+    <updated>2026-11-06T18:42:35Z</updated>
+    <summary>Merged public contribution. +290 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #689: fix(graph): resolve fragments independently of definition order</title>
+    <id>https://github.com/dosco/graphjin/pull/689</id>
+    <link href="https://github.com/dosco/graphjin/pull/689"/>
+    <updated>2026-11-06T18:42:28Z</updated>
+    <summary>Merged public contribution. +262 / -28 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>dosco/graphjin #683: fix(qcode): encode constraint string literals as JSON</title>
+    <id>https://github.com/dosco/graphjin/pull/683</id>
+    <link href="https://github.com/dosco/graphjin/pull/683"/>
+    <updated>2026-11-06T18:42:22Z</updated>
+    <summary>Merged public contribution. +135 / -7 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/agent-memory #73: fix(core): resolve truth-file fallbacks by stored memory identity</title>
     <id>https://github.com/tigerless-labs/agent-memory/pull/73</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2344"/>
     <updated>2026-11-05T19:03:07Z</updated>
     <summary>Merged public contribution. +40 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2343: fix(book): keep flash-card newlines inside the Markdown table row</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2343</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2343"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2342: fix(voice): read an escaped percent in math as "percent"</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2342</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2342"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2444: fix(video_lesson): match the Settings Edge voice against the lesson language</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2444</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2444"/>
-    <updated>2026-11-05T19:03:06Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
