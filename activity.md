@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-06 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,703**
+Records: **3,704**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-06 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#601: fix(report): keep a non-roll condition's roll cells blank in metric](https://github.com/Kentucky-ai/opentakeoff/pull/601) | +5 / -1 across 3 files | 0 reviews · 2 comments |
 | 2026-11-06 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#691: fix(openapi): discover fields inherited through allOf response schemas](https://github.com/dosco/graphjin/pull/691) | +290 / -8 across 3 files | 0 reviews · 1 comments |
 | 2026-11-06 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#689: fix(graph): resolve fragments independently of definition order](https://github.com/dosco/graphjin/pull/689) | +262 / -28 across 3 files | 0 reviews · 1 comments |
 | 2026-11-06 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#683: fix(qcode): encode constraint string literals as JSON](https://github.com/dosco/graphjin/pull/683) | +135 / -7 across 3 files | 0 reviews · 1 comments |

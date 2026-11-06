@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-06T18:42:35Z</updated>
+  <updated>2026-11-06T20:21:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Kentucky-ai/opentakeoff #601: fix(report): keep a non-roll condition's roll cells blank in metric</title>
+    <id>https://github.com/Kentucky-ai/opentakeoff/pull/601</id>
+    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/601"/>
+    <updated>2026-11-06T20:21:56Z</updated>
+    <summary>Merged public contribution. +5 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>dosco/graphjin #691: fix(openapi): discover fields inherited through allOf response schemas</title>
     <id>https://github.com/dosco/graphjin/pull/691</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2345"/>
     <updated>2026-11-05T19:03:07Z</updated>
     <summary>Merged public contribution. +31 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2344: fix(mastery): resolve a module name fragment to the most specific match</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2344</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2344"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +40 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

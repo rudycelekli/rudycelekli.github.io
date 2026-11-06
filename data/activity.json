@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 5,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-05T03:16:46Z",
+      "deletions": 1,
+      "merged_at": "2026-11-06T20:21:56Z",
+      "number": 601,
+      "repository": "Kentucky-ai/opentakeoff",
+      "repository_url": "https://github.com/Kentucky-ai/opentakeoff",
+      "reviews": 0,
+      "title": "fix(report): keep a non-roll condition's roll cells blank in metric",
+      "url": "https://github.com/Kentucky-ai/opentakeoff/pull/601"
+    },
+    {
       "additions": 290,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -59280,7 +59296,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3703,
+  "record_count": 3704,
   "schema_version": 1,
   "updated_at_utc": "2026-11-06"
 }
