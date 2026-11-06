@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-06 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,698**
+Records: **3,700**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-06 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#73: fix(core): resolve truth-file fallbacks by stored memory identity](https://github.com/tigerless-labs/agent-memory/pull/73) | +22 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-11-06 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#83: Preserve ISO instants and seconds in benchmark evidence timestamps](https://github.com/tigerless-labs/agent-memory/pull/83) | +30 / -1 across 3 files | 0 reviews · 0 comments |
 | 2026-11-06 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#87: Release memory-system resources when replay execution raises](https://github.com/tigerless-labs/agent-memory/pull/87) | +42 / -2 across 3 files | 0 reviews · 0 comments |
 | 2026-11-06 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4570: fix(setup): register Claude Code under CLAUDE_CONFIG_DIR when it is set](https://github.com/morluto/jacobian/pull/4570) | +51 / -4 across 2 files | 0 reviews · 5 comments |
 | 2026-11-06 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#78: Compare cited evidence times chronologically across time zones](https://github.com/tigerless-labs/agent-memory/pull/78) | +22 / -1 across 3 files | 0 reviews · 0 comments |

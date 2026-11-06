@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T15:58:00Z",
+      "deletions": 1,
+      "merged_at": "2026-11-06T18:26:23Z",
+      "number": 73,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "fix(core): resolve truth-file fallbacks by stored memory identity",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/73"
+    },
+    {
+      "additions": 30,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:17:02Z",
+      "deletions": 1,
+      "merged_at": "2026-11-06T18:17:39Z",
+      "number": 83,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Preserve ISO instants and seconds in benchmark evidence timestamps",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/83"
+    },
+    {
       "additions": 42,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -59200,7 +59232,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3698,
+  "record_count": 3700,
   "schema_version": 1,
   "updated_at_utc": "2026-11-06"
 }

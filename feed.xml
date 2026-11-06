@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-06T17:51:01Z</updated>
+  <updated>2026-11-06T18:26:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/agent-memory #73: fix(core): resolve truth-file fallbacks by stored memory identity</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/73</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/73"/>
+    <updated>2026-11-06T18:26:23Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/agent-memory #83: Preserve ISO instants and seconds in benchmark evidence timestamps</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/83</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/83"/>
+    <updated>2026-11-06T18:17:39Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/agent-memory #87: Release memory-system resources when replay execution raises</title>
     <id>https://github.com/tigerless-labs/agent-memory/pull/87</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2444"/>
     <updated>2026-11-05T19:03:06Z</updated>
     <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2550: fix(ui): preserve existing Pi providers on name collisions</title>
-    <id>https://github.com/JustVugg/colibri/pull/2550</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2550"/>
-    <updated>2026-11-05T18:29:04Z</updated>
-    <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2562: fix(ui): reap exited owned gateways during stop</title>
-    <id>https://github.com/JustVugg/colibri/pull/2562</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2562"/>
-    <updated>2026-11-05T18:29:03Z</updated>
-    <summary>Merged public contribution. +328 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
