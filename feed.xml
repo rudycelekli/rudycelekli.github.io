@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T21:10:45Z</updated>
+  <updated>2026-11-05T23:37:05Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>lz4/lz4 #2057: lz4file: accept complete short skippable frames</title>
+    <id>https://github.com/lz4/lz4/pull/2057</id>
+    <link href="https://github.com/lz4/lz4/pull/2057"/>
+    <updated>2026-11-05T23:37:05Z</updated>
+    <summary>Merged public contribution. +31 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>lz4/lz4 #2054: meson: specify the language for static feature arguments</title>
     <id>https://github.com/lz4/lz4/pull/2054</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/The-PR-Agent/pr-agent/pull/4680"/>
     <updated>2026-11-05T08:28:07Z</updated>
     <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4664: fix(usage): reject negative and boolean token counts</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4664</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4664"/>
-    <updated>2026-11-05T08:28:00Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

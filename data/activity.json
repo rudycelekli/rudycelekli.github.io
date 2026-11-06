@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 31,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-11-05T20:16:29Z",
+      "deletions": 1,
+      "merged_at": "2026-11-05T23:37:05Z",
+      "number": 2057,
+      "repository": "lz4/lz4",
+      "repository_url": "https://github.com/lz4/lz4",
+      "reviews": 0,
+      "title": "lz4file: accept complete short skippable frames",
+      "url": "https://github.com/lz4/lz4/pull/2057"
+    },
+    {
       "additions": 8,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -58832,7 +58848,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3675,
+  "record_count": 3676,
   "schema_version": 1,
   "updated_at_utc": "2026-11-05"
 }
