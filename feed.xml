@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-06T01:23:48Z</updated>
+  <updated>2026-11-06T17:14:19Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/agent-memory #86: Mark replay runs failed when the experience phase failed</title>
+    <id>https://github.com/tigerless-labs/agent-memory/pull/86</id>
+    <link href="https://github.com/tigerless-labs/agent-memory/pull/86"/>
+    <updated>2026-11-06T17:14:19Z</updated>
+    <summary>Merged public contribution. +41 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4569: fix(setup): check the JACOBIAN_UV_BIN executable before configuring</title>
+    <id>https://github.com/morluto/jacobian/pull/4569</id>
+    <link href="https://github.com/morluto/jacobian/pull/4569"/>
+    <updated>2026-11-06T17:10:23Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/jacobian #4568: fix(setup): keep comments that introduce the next Codex table</title>
+    <id>https://github.com/morluto/jacobian/pull/4568</id>
+    <link href="https://github.com/morluto/jacobian/pull/4568"/>
+    <updated>2026-11-06T17:10:09Z</updated>
+    <summary>Merged public contribution. +124 / -16 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Thysrael/Horizon #204: fix: skip unavailable Hacker News stories before enrichment</title>
     <id>https://github.com/Thysrael/Horizon/pull/204</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2555"/>
     <updated>2026-11-05T18:29:03Z</updated>
     <summary>Merged public contribution. +144 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2551: fix(api): keep Muse tool arguments valid JSON for nonfinite values</title>
-    <id>https://github.com/JustVugg/colibri/pull/2551</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2551"/>
-    <updated>2026-11-05T18:29:03Z</updated>
-    <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2549: fix(tools): reject invalid routing counts before cross-validation</title>
-    <id>https://github.com/JustVugg/colibri/pull/2549</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2549"/>
-    <updated>2026-11-05T18:29:03Z</updated>
-    <summary>Merged public contribution. +42 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2548: fix(responses): preserve failed and incomplete upstream outcomes</title>
-    <id>https://github.com/JustVugg/colibri/pull/2548</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2548"/>
-    <updated>2026-11-05T18:29:03Z</updated>
-    <summary>Merged public contribution. +260 / -22 across 3 changed files.</summary>
   </entry>
 </feed>

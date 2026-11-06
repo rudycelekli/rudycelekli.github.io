@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-06 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,692**
+Records: **3,695**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-06 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | [#86: Mark replay runs failed when the experience phase failed](https://github.com/tigerless-labs/agent-memory/pull/86) | +41 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-11-06 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4569: fix(setup): check the JACOBIAN_UV_BIN executable before configuring](https://github.com/morluto/jacobian/pull/4569) | +40 / -3 across 2 files | 0 reviews · 4 comments |
+| 2026-11-06 | [morluto/jacobian](https://github.com/morluto/jacobian) | [#4568: fix(setup): keep comments that introduce the next Codex table](https://github.com/morluto/jacobian/pull/4568) | +124 / -16 across 2 files | 1 reviews · 5 comments |
 | 2026-11-06 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | [#204: fix: skip unavailable Hacker News stories before enrichment](https://github.com/Thysrael/Horizon/pull/204) | +23 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-06 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | [#203: fix: enforce the precise Google News publication window](https://github.com/Thysrael/Horizon/pull/203) | +20 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-06 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | [#201: fix: keep token usage snapshots stable across requests](https://github.com/Thysrael/Horizon/pull/201) | +27 / -2 across 2 files | 0 reviews · 0 comments |
