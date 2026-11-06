@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 42,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:19:33Z",
+      "deletions": 2,
+      "merged_at": "2026-11-06T17:51:01Z",
+      "number": 87,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Release memory-system resources when replay execution raises",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/87"
+    },
+    {
+      "additions": 51,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 5,
+      "commits": 2,
+      "created_at": "2026-11-05T03:16:34Z",
+      "deletions": 4,
+      "merged_at": "2026-11-06T17:44:58Z",
+      "number": 4570,
+      "repository": "morluto/jacobian",
+      "repository_url": "https://github.com/morluto/jacobian",
+      "reviews": 0,
+      "title": "fix(setup): register Claude Code under CLAUDE_CONFIG_DIR when it is set",
+      "url": "https://github.com/morluto/jacobian/pull/4570"
+    },
+    {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T16:15:39Z",
+      "deletions": 1,
+      "merged_at": "2026-11-06T17:30:15Z",
+      "number": 78,
+      "repository": "tigerless-labs/agent-memory",
+      "repository_url": "https://github.com/tigerless-labs/agent-memory",
+      "reviews": 0,
+      "title": "Compare cited evidence times chronologically across time zones",
+      "url": "https://github.com/tigerless-labs/agent-memory/pull/78"
+    },
+    {
       "additions": 41,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -59152,7 +59200,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3695,
+  "record_count": 3698,
   "schema_version": 1,
   "updated_at_utc": "2026-11-06"
 }
