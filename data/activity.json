@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 17,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-05T03:23:22Z",
+      "deletions": 2,
+      "merged_at": "2026-11-06T20:28:44Z",
+      "number": 602,
+      "repository": "Kentucky-ai/opentakeoff",
+      "repository_url": "https://github.com/Kentucky-ai/opentakeoff",
+      "reviews": 0,
+      "title": "fix(chat): read a code fence that carries a longer info string",
+      "url": "https://github.com/Kentucky-ai/opentakeoff/pull/602"
+    },
+    {
       "additions": 5,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -59296,7 +59312,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3704,
+  "record_count": 3705,
   "schema_version": 1,
   "updated_at_utc": "2026-11-06"
 }
