@@ -4,8 +4,120 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-05T23:37:05Z</updated>
+  <updated>2026-11-06T01:23:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Thysrael/Horizon #204: fix: skip unavailable Hacker News stories before enrichment</title>
+    <id>https://github.com/Thysrael/Horizon/pull/204</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/204"/>
+    <updated>2026-11-06T01:23:48Z</updated>
+    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #203: fix: enforce the precise Google News publication window</title>
+    <id>https://github.com/Thysrael/Horizon/pull/203</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/203"/>
+    <updated>2026-11-06T01:23:48Z</updated>
+    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #201: fix: keep token usage snapshots stable across requests</title>
+    <id>https://github.com/Thysrael/Horizon/pull/201</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/201"/>
+    <updated>2026-11-06T01:23:48Z</updated>
+    <summary>Merged public contribution. +27 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #200: fix: preserve GDELT articles after malformed sibling records</title>
+    <id>https://github.com/Thysrael/Horizon/pull/200</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/200"/>
+    <updated>2026-11-06T01:23:48Z</updated>
+    <summary>Merged public contribution. +18 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #218: fix: normalize Hacker News HTML into faithful source text</title>
+    <id>https://github.com/Thysrael/Horizon/pull/218</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/218"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +46 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #217: fix: prevent duplicate output language processing and delivery</title>
+    <id>https://github.com/Thysrael/Horizon/pull/217</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/217"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +25 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #215: fix: preserve corrupted subscriber data for recovery</title>
+    <id>https://github.com/Thysrael/Horizon/pull/215</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/215"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #214: fix: distinguish tweet account handles from display names in reply filtering</title>
+    <id>https://github.com/Thysrael/Horizon/pull/214</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/214"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #212: fix: avoid attributing nested quoted tweets to timeline owners</title>
+    <id>https://github.com/Thysrael/Horizon/pull/212</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/212"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +36 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #211: fix: enforce a total deadline for Apify polling</title>
+    <id>https://github.com/Thysrael/Horizon/pull/211</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/211"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +62 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #210: fix: handle numeric and HTTP-date Telegram retry delays</title>
+    <id>https://github.com/Thysrael/Horizon/pull/210</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/210"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +53 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #209: fix: keep full-article parsing off the async event loop</title>
+    <id>https://github.com/Thysrael/Horizon/pull/209</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/209"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #207: fix: preserve distinct OpenBB watchlist processing routes</title>
+    <id>https://github.com/Thysrael/Horizon/pull/207</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/207"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #206: fix: select Telegram canonical article links by hostname</title>
+    <id>https://github.com/Thysrael/Horizon/pull/206</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/206"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #205: fix: preserve MCP run listing when one metadata file is corrupt</title>
+    <id>https://github.com/Thysrael/Horizon/pull/205</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/205"/>
+    <updated>2026-11-06T01:23:47Z</updated>
+    <summary>Merged public contribution. +41 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>Thysrael/Horizon #199: fix: preserve published releases when GitHub returns drafts</title>
+    <id>https://github.com/Thysrael/Horizon/pull/199</id>
+    <link href="https://github.com/Thysrael/Horizon/pull/199"/>
+    <updated>2026-11-06T01:13:12Z</updated>
+    <summary>Merged public contribution. +35 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>lz4/lz4 #2057: lz4file: accept complete short skippable frames</title>
     <id>https://github.com/lz4/lz4/pull/2057</id>
@@ -243,117 +355,5 @@
     <link href="https://github.com/JustVugg/colibri/pull/2548"/>
     <updated>2026-11-05T18:29:03Z</updated>
     <summary>Merged public contribution. +260 / -22 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2547: fix(responses): preserve forced function and custom tool selection</title>
-    <id>https://github.com/JustVugg/colibri/pull/2547</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2547"/>
-    <updated>2026-11-05T18:29:03Z</updated>
-    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #50: fix(capture): recover from invalid session metadata shapes</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/50</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/50"/>
-    <updated>2026-11-05T17:10:26Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #30: fix(openai): retain refusal text in output attribution</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/30</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/30"/>
-    <updated>2026-11-05T17:09:32Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #40: fix(capture): decode complete multiline SSE data events</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/40</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/40"/>
-    <updated>2026-11-05T17:08:34Z</updated>
-    <summary>Merged public contribution. +27 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #24: fix(raw-codec): skip malformed dedup store entries</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/24</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/24"/>
-    <updated>2026-11-05T17:07:42Z</updated>
-    <summary>Merged public contribution. +21 / -24 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #29: fix(openai): prefer authoritative completion output and model</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/29</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/29"/>
-    <updated>2026-11-05T17:06:51Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #48: fix(capture): retry a wake when the consumer pipe closes</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/48</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/48"/>
-    <updated>2026-11-05T17:05:03Z</updated>
-    <summary>Merged public contribution. +115 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4159: feat: render provider capability compatibility matrix</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4159</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4159"/>
-    <updated>2026-11-05T13:04:37Z</updated>
-    <summary>Merged public contribution. +523 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4173: feat: preflight bounded multimodal asset batches</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4173</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4173"/>
-    <updated>2026-11-05T12:37:09Z</updated>
-    <summary>Merged public contribution. +676 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5369: fix(prompt-import): decode JSON tool strings while preserving raw input</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5369</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5369"/>
-    <updated>2026-11-05T09:38:36Z</updated>
-    <summary>Merged public contribution. +159 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7528: fix(native): reject nonzero reserved ELF dynamic symbols</title>
-    <id>https://github.com/morluto/rea/pull/7528</id>
-    <link href="https://github.com/morluto/rea/pull/7528"/>
-    <updated>2026-11-05T09:32:21Z</updated>
-    <summary>Merged public contribution. +106 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #7530: fix(pe): classify valid DOS targets as unsupported</title>
-    <id>https://github.com/morluto/rea/pull/7530</id>
-    <link href="https://github.com/morluto/rea/pull/7530"/>
-    <updated>2026-11-05T09:31:36Z</updated>
-    <summary>Merged public contribution. +115 / -2 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>proffesor-for-testing/agentic-qe #1372: fix(mcp): keep generated tests out of execution outcomes</title>
-    <id>https://github.com/proffesor-for-testing/agentic-qe/pull/1372</id>
-    <link href="https://github.com/proffesor-for-testing/agentic-qe/pull/1372"/>
-    <updated>2026-11-05T09:10:24Z</updated>
-    <summary>Merged public contribution. +29 / -29 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4662: fix(review): preserve distinct ticket identities across chunks</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4662</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4662"/>
-    <updated>2026-11-05T08:37:25Z</updated>
-    <summary>Merged public contribution. +65 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4674: fix(improve): preserve literal data in already aligned replacements</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4674</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4674"/>
-    <updated>2026-11-05T08:34:03Z</updated>
-    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4680: fix(diff): keep negative context settings from corrupting hunk counts</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4680</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4680"/>
-    <updated>2026-11-05T08:28:07Z</updated>
-    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
