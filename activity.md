@@ -4,10 +4,22 @@ Evidence timestamp: **2026-11-07 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,714**
+Records: **3,726**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-07 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4167: feat: add synthetic malformed-asset preflight fixtures](https://github.com/maziyarpanahi/openmed/pull/4167) | +711 / -0 across 7 files | 0 reviews · 1 comments |
+| 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1421: An object storage prefix is listed as written, so a folder named "Case #12" syncs its files](https://github.com/deeplethe/utopia/pull/1421) | +31 / -1 across 1 files | 2 reviews · 1 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#387: fix(policy-lab): verify repair evidence before report export](https://github.com/ifixai-ai/iFixAi/pull/387) | +46 / -1 across 4 files | 1 reviews · 2 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#383: fix(windtunnel): retain selected-detector completeness before reporting](https://github.com/ifixai-ai/iFixAi/pull/383) | +113 / -0 across 2 files | 1 reviews · 1 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#377: fix: scrub artifact metadata and diagnostic text consistently](https://github.com/ifixai-ai/iFixAi/pull/377) | +62 / -7 across 3 files | 1 reviews · 1 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#397: fix(p13): keep the coverage diagnostic from padding the evidence floor](https://github.com/ifixai-ai/iFixAi/pull/397) | +91 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#396: fix: compute P13/P19/P22/P27/P32/S02 confidence intervals over the scored subset](https://github.com/ifixai-ai/iFixAi/pull/396) | +108 / -12 across 7 files | 1 reviews · 0 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#395: fix: compute B08 and B17 confidence intervals over the scored subset](https://github.com/ifixai-ai/iFixAi/pull/395) | +88 / -6 across 3 files | 1 reviews · 0 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#394: fix(quick-build): treat purge, wipe, erase, truncate, destroy and terminate tools as critical deletes](https://github.com/ifixai-ai/iFixAi/pull/394) | +44 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-07 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#393: fix(discovery): infer purge, wipe, erase, truncate, destroy and terminate tools as delete](https://github.com/ifixai-ai/iFixAi/pull/393) | +15 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1411: A MySQL TIME past a day or below zero reads as itself, so TIMEDIFF of 30 hours is 30:15:00, not null](https://github.com/deeplethe/utopia/pull/1411) | +53 / -3 across 1 files | 2 reviews · 1 comments |
+| 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1407: A month or a year stored at its own precision can be truncated, so "2024-03" truncated to a month is 2024-03-01 instead of no value](https://github.com/deeplethe/utopia/pull/1407) | +54 / -8 across 2 files | 2 reviews · 1 comments |
 | 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1405: A period written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July](https://github.com/deeplethe/utopia/pull/1405) | +32 / -2 across 1 files | 2 reviews · 1 comments |
 | 2026-11-07 | [antchfx/xpath](https://github.com/antchfx/xpath) | [#188: Count last() over the following and following-sibling axes](https://github.com/antchfx/xpath/pull/188) | +87 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-11-07 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4175: feat: generate bounded waveform stimuli with explicit event truth](https://github.com/maziyarpanahi/openmed/pull/4175) | +416 / -0 across 6 files | 0 reviews · 1 comments |
