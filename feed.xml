@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-07T22:08:46Z</updated>
+  <updated>2026-11-07T22:59:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Softeria/ms-365-mcp-server #748: fix(stdio): apply --enabled-tools, --read-only and MS365_MCP_OAUTH_TOKEN to the account tools</title>
+    <id>https://github.com/Softeria/ms-365-mcp-server/pull/748</id>
+    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/748"/>
+    <updated>2026-11-07T22:59:24Z</updated>
+    <summary>Merged public contribution. +231 / -39 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>deeplethe/utopia #1429: An ODS time cell reads as the time it shows, so PT09H30M00S becomes 09:30</title>
     <id>https://github.com/deeplethe/utopia/pull/1429</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Thysrael/Horizon/pull/209"/>
     <updated>2026-11-06T01:23:47Z</updated>
     <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Thysrael/Horizon #207: fix: preserve distinct OpenBB watchlist processing routes</title>
-    <id>https://github.com/Thysrael/Horizon/pull/207</id>
-    <link href="https://github.com/Thysrael/Horizon/pull/207"/>
-    <updated>2026-11-06T01:23:47Z</updated>
-    <summary>Merged public contribution. +25 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

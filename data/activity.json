@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 231,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 8,
+      "comments": 4,
+      "commits": 2,
+      "created_at": "2026-10-17T22:42:46Z",
+      "deletions": 39,
+      "merged_at": "2026-11-07T22:59:24Z",
+      "number": 748,
+      "repository": "Softeria/ms-365-mcp-server",
+      "repository_url": "https://github.com/Softeria/ms-365-mcp-server",
+      "reviews": 0,
+      "title": "fix(stdio): apply --enabled-tools, --read-only and MS365_MCP_OAUTH_TOKEN to the account tools",
+      "url": "https://github.com/Softeria/ms-365-mcp-server/pull/748"
+    },
+    {
       "additions": 92,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -59696,7 +59712,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3729,
+  "record_count": 3730,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }
