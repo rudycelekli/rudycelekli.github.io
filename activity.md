@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-07 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,705**
+Records: **3,706**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-07 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4672: fix(tokenizers): resolve chatgpt-4o-* aliases to o200k_base](https://github.com/headroomlabs-ai/headroom/pull/4672) | +7 / -1 across 3 files | 2 reviews · 2 comments |
 | 2026-11-06 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#602: fix(chat): read a code fence that carries a longer info string](https://github.com/Kentucky-ai/opentakeoff/pull/602) | +17 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-11-06 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#601: fix(report): keep a non-roll condition's roll cells blank in metric](https://github.com/Kentucky-ai/opentakeoff/pull/601) | +5 / -1 across 3 files | 0 reviews · 2 comments |
 | 2026-11-06 | [dosco/graphjin](https://github.com/dosco/graphjin) | [#691: fix(openapi): discover fields inherited through allOf response schemas](https://github.com/dosco/graphjin/pull/691) | +290 / -8 across 3 files | 0 reviews · 1 comments |
