@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 87,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-05T03:14:10Z",
+      "deletions": 1,
+      "merged_at": "2026-11-07T15:38:29Z",
+      "number": 188,
+      "repository": "antchfx/xpath",
+      "repository_url": "https://github.com/antchfx/xpath",
+      "reviews": 0,
+      "title": "Count last() over the following and following-sibling axes",
+      "url": "https://github.com/antchfx/xpath/pull/188"
+    },
+    {
       "additions": 416,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -59424,7 +59440,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3712,
+  "record_count": 3713,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }

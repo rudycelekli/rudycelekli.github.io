@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-07T11:21:21Z</updated>
+  <updated>2026-11-07T15:38:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>antchfx/xpath #188: Count last() over the following and following-sibling axes</title>
+    <id>https://github.com/antchfx/xpath/pull/188</id>
+    <link href="https://github.com/antchfx/xpath/pull/188"/>
+    <updated>2026-11-07T15:38:29Z</updated>
+    <summary>Merged public contribution. +87 / -1 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4175: feat: generate bounded waveform stimuli with explicit event truth</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4175</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2311"/>
     <updated>2026-11-05T19:03:08Z</updated>
     <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2310: fix(llm): detect response_format value rejections that omit the param name</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2310</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2310"/>
-    <updated>2026-11-05T19:03:08Z</updated>
-    <summary>Merged public contribution. +38 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
