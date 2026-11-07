@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 53,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-10-24T22:50:19Z",
+      "deletions": 0,
+      "merged_at": "2026-11-07T18:42:34Z",
+      "number": 1422,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A number in accounting parentheses is read as negative, so \"(1,234)\" is -1234 instead of no value",
+      "url": "https://github.com/deeplethe/utopia/pull/1422"
+    },
+    {
       "additions": 25,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -59664,7 +59680,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3727,
+  "record_count": 3728,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }
