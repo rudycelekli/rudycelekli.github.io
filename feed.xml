@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-07T04:13:23Z</updated>
+  <updated>2026-11-07T04:36:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>zhayujie/CowAgent #3913: fix(ssrf): block the shared address space in the SSRF guard</title>
+    <id>https://github.com/zhayujie/CowAgent/pull/3913</id>
+    <link href="https://github.com/zhayujie/CowAgent/pull/3913"/>
+    <updated>2026-11-07T04:36:38Z</updated>
+    <summary>Merged public contribution. +29 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/xmlquery #143: Preserve document and CDATA XPath string values</title>
     <id>https://github.com/antchfx/xmlquery/pull/143</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2309"/>
     <updated>2026-11-05T19:03:08Z</updated>
     <summary>Merged public contribution. +28 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2308: fix(memory): keep footnote-like tokens in entry text on round-trip</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2308</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2308"/>
-    <updated>2026-11-05T19:03:08Z</updated>
-    <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

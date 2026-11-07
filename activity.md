@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-07 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,710**
+Records: **3,711**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-07 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | [#3913: fix(ssrf): block the shared address space in the SSRF guard](https://github.com/zhayujie/CowAgent/pull/3913) | +29 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#143: Preserve document and CDATA XPath string values](https://github.com/antchfx/xmlquery/pull/143) | +30 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#144: Restore namespace aliases after leaving a child element](https://github.com/antchfx/xmlquery/pull/144) | +130 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#145: Keep namespace declarations out of the XPath attribute axis](https://github.com/antchfx/xmlquery/pull/145) | +60 / -4 across 2 files | 0 reviews · 0 comments |
