@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-07T03:22:01Z</updated>
+  <updated>2026-11-07T03:29:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>headroomlabs-ai/headroom #4674: fix(proxy): drop headers named by Connection when forwarding responses</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4674</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4674"/>
+    <updated>2026-11-07T03:29:46Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>headroomlabs-ai/headroom #4672: fix(tokenizers): resolve chatgpt-4o-* aliases to o200k_base</title>
     <id>https://github.com/headroomlabs-ai/headroom/pull/4672</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2348"/>
     <updated>2026-11-05T19:03:07Z</updated>
     <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2347: fix(llm): use the resolved attachment MIME for store-URL images</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2347</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2347"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +33 / -3 across 2 changed files.</summary>
   </entry>
 </feed>
