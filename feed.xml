@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-07T03:29:46Z</updated>
+  <updated>2026-11-07T04:13:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>antchfx/xmlquery #143: Preserve document and CDATA XPath string values</title>
+    <id>https://github.com/antchfx/xmlquery/pull/143</id>
+    <link href="https://github.com/antchfx/xmlquery/pull/143"/>
+    <updated>2026-11-07T04:13:23Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>antchfx/xmlquery #144: Restore namespace aliases after leaving a child element</title>
+    <id>https://github.com/antchfx/xmlquery/pull/144</id>
+    <link href="https://github.com/antchfx/xmlquery/pull/144"/>
+    <updated>2026-11-07T04:09:31Z</updated>
+    <summary>Merged public contribution. +130 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>antchfx/xmlquery #145: Keep namespace declarations out of the XPath attribute axis</title>
+    <id>https://github.com/antchfx/xmlquery/pull/145</id>
+    <link href="https://github.com/antchfx/xmlquery/pull/145"/>
+    <updated>2026-11-07T03:57:57Z</updated>
+    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>headroomlabs-ai/headroom #4674: fix(proxy): drop headers named by Connection when forwarding responses</title>
     <id>https://github.com/headroomlabs-ai/headroom/pull/4674</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/HKUDS/DeepTutor/pull/2308"/>
     <updated>2026-11-05T19:03:08Z</updated>
     <summary>Merged public contribution. +32 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2307: fix(rag): count LightRAG docs from the native workspace store</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2307</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2307"/>
-    <updated>2026-11-05T19:03:08Z</updated>
-    <summary>Merged public contribution. +62 / -22 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2349: fix(runtime): apply the tool-call id fallback in run_labeled_step</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2349</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2349"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +117 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/DeepTutor #2348: fix(partners): drop &lt;style&gt;/&lt;script&gt; bodies in email HTML-to-text</title>
-    <id>https://github.com/HKUDS/DeepTutor/pull/2348</id>
-    <link href="https://github.com/HKUDS/DeepTutor/pull/2348"/>
-    <updated>2026-11-05T19:03:07Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

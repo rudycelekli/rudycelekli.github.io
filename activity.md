@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-07 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,707**
+Records: **3,710**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#143: Preserve document and CDATA XPath string values](https://github.com/antchfx/xmlquery/pull/143) | +30 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#144: Restore namespace aliases after leaving a child element](https://github.com/antchfx/xmlquery/pull/144) | +130 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-07 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | [#145: Keep namespace declarations out of the XPath attribute axis](https://github.com/antchfx/xmlquery/pull/145) | +60 / -4 across 2 files | 0 reviews · 0 comments |
 | 2026-11-07 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4674: fix(proxy): drop headers named by Connection when forwarding responses](https://github.com/headroomlabs-ai/headroom/pull/4674) | +30 / -1 across 2 files | 2 reviews · 2 comments |
 | 2026-11-07 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4672: fix(tokenizers): resolve chatgpt-4o-* aliases to o200k_base](https://github.com/headroomlabs-ai/headroom/pull/4672) | +7 / -1 across 3 files | 2 reviews · 2 comments |
 | 2026-11-06 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#602: fix(chat): read a code fence that carries a longer info string](https://github.com/Kentucky-ai/opentakeoff/pull/602) | +17 / -2 across 3 files | 0 reviews · 2 comments |
