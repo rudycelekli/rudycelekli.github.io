@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-24T22:35:22Z",
+      "deletions": 4,
+      "merged_at": "2026-11-07T18:20:27Z",
+      "number": 1418,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A counted figure is read into a larger declared unit, so \"12,000\u4eba\" under \"\u4e07\u4eba\" is 1.2",
+      "url": "https://github.com/deeplethe/utopia/pull/1418"
+    },
+    {
       "additions": 711,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 7,
@@ -59648,7 +59664,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3726,
+  "record_count": 3727,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }
