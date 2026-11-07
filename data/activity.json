@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 32,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-10-24T02:54:26Z",
+      "deletions": 2,
+      "merged_at": "2026-11-07T17:23:11Z",
+      "number": 1405,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A period written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July",
+      "url": "https://github.com/deeplethe/utopia/pull/1405"
+    },
+    {
       "additions": 87,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -59440,7 +59456,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3713,
+  "record_count": 3714,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }
