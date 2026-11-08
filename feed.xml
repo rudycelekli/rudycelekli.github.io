@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T12:23:48Z</updated>
+  <updated>2026-11-08T14:10:01Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2552: fix(api): select the full GLM-5.3 prompt contract from checkpoint metadata</title>
+    <id>https://github.com/JustVugg/colibri/pull/2552</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2552"/>
+    <updated>2026-11-08T14:10:01Z</updated>
+    <summary>Merged public contribution. +217 / -10 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2558: fix(proxy): cancel confirmed resets and close upstream responses</title>
+    <id>https://github.com/JustVugg/colibri/pull/2558</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2558"/>
+    <updated>2026-11-08T14:10:00Z</updated>
+    <summary>Merged public contribution. +732 / -79 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>antchfx/jsonquery #32: Preserve carriage returns through XML output round trips</title>
     <id>https://github.com/antchfx/jsonquery/pull/32</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1405"/>
     <updated>2026-11-07T17:23:11Z</updated>
     <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xpath #188: Count last() over the following and following-sibling axes</title>
-    <id>https://github.com/antchfx/xpath/pull/188</id>
-    <link href="https://github.com/antchfx/xpath/pull/188"/>
-    <updated>2026-11-07T15:38:29Z</updated>
-    <summary>Merged public contribution. +87 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4175: feat: generate bounded waveform stimuli with explicit event truth</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4175</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4175"/>
-    <updated>2026-11-07T11:21:21Z</updated>
-    <summary>Merged public contribution. +416 / -0 across 6 changed files.</summary>
   </entry>
 </feed>

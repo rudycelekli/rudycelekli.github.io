@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,761**
+Records: **3,763**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2552: fix(api): select the full GLM-5.3 prompt contract from checkpoint metadata](https://github.com/JustVugg/colibri/pull/2552) | +217 / -10 across 6 files | 0 reviews · 0 comments |
+| 2026-11-08 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2558: fix(proxy): cancel confirmed resets and close upstream responses](https://github.com/JustVugg/colibri/pull/2558) | +732 / -79 across 4 files | 1 reviews · 0 comments |
 | 2026-11-08 | [antchfx/jsonquery](https://github.com/antchfx/jsonquery) | [#32: Preserve carriage returns through XML output round trips](https://github.com/antchfx/jsonquery/pull/32) | +36 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-08 | [antchfx/jsonquery](https://github.com/antchfx/jsonquery) | [#31: Preserve JSON null spelling in text and XML output](https://github.com/antchfx/jsonquery/pull/31) | +47 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-08 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [#3819: fix: community batch, November (21 fixes, one commit each)](https://github.com/debpalash/VoiceStudio/pull/3819) | +1,140 / -62 across 48 files | 2 reviews · 3 comments |
