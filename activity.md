@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,753**
+Records: **3,758**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2183: fix(backtest): keep fast-path margin positive at a negative entry price](https://github.com/HKUDS/Vibe-Trading/pull/2183) | +28 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2182: fix(comps): reject a non-finite target book value](https://github.com/HKUDS/Vibe-Trading/pull/2182) | +18 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2181: fix(combination): keep a missing weight missing in a later rebalance row](https://github.com/HKUDS/Vibe-Trading/pull/2181) | +20 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2180: fix(alpha-bench): skip single-observation IC series in the strict bench](https://github.com/HKUDS/Vibe-Trading/pull/2180) | +36 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2179: fix(attribution): degrade asset-class Brinson when a class member is unpriced](https://github.com/HKUDS/Vibe-Trading/pull/2179) | +55 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-08 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4603: fix(post-tool-verifier): stop truncating compaction percent overrides](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603) | +57,596 / -50,264 across 1,336 files | 1 reviews · 1 comments |
 | 2026-11-08 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4602: fix(notifications): accept approval keywords followed by punctuation](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602) | +57,522 / -50,266 across 1,337 files | 0 reviews · 2 comments |
 | 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1430: A date written with "Sept." is read, so "Sept. 30, 2025" becomes 2025-09-30 instead of no value](https://github.com/deeplethe/utopia/pull/1430) | +25 / -0 across 1 files | 1 reviews · 0 comments |

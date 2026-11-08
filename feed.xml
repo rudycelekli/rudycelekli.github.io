@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T03:11:24Z</updated>
+  <updated>2026-11-08T05:26:22Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2183: fix(backtest): keep fast-path margin positive at a negative entry price</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2183</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2183"/>
+    <updated>2026-11-08T05:26:22Z</updated>
+    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2182: fix(comps): reject a non-finite target book value</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2182</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2182"/>
+    <updated>2026-11-08T05:26:22Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2181: fix(combination): keep a missing weight missing in a later rebalance row</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2181</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2181"/>
+    <updated>2026-11-08T05:26:22Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2180: fix(alpha-bench): skip single-observation IC series in the strict bench</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2180</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2180"/>
+    <updated>2026-11-08T05:26:22Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>HKUDS/Vibe-Trading #2179: fix(attribution): degrade asset-class Brinson when a class member is unpriced</title>
+    <id>https://github.com/HKUDS/Vibe-Trading/pull/2179</id>
+    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2179"/>
+    <updated>2026-11-08T05:26:22Z</updated>
+    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4603: fix(post-tool-verifier): stop truncating compaction percent overrides</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/antchfx/xmlquery/pull/144"/>
     <updated>2026-11-07T04:09:31Z</updated>
     <summary>Merged public contribution. +130 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xmlquery #145: Keep namespace declarations out of the XPath attribute axis</title>
-    <id>https://github.com/antchfx/xmlquery/pull/145</id>
-    <link href="https://github.com/antchfx/xmlquery/pull/145"/>
-    <updated>2026-11-07T03:57:57Z</updated>
-    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4674: fix(proxy): drop headers named by Connection when forwarding responses</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4674</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4674"/>
-    <updated>2026-11-07T03:29:46Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4672: fix(tokenizers): resolve chatgpt-4o-* aliases to o200k_base</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4672</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4672"/>
-    <updated>2026-11-07T03:22:01Z</updated>
-    <summary>Merged public contribution. +7 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #602: fix(chat): read a code fence that carries a longer info string</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/602</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/602"/>
-    <updated>2026-11-06T20:28:44Z</updated>
-    <summary>Merged public contribution. +17 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #601: fix(report): keep a non-roll condition's roll cells blank in metric</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/601</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/601"/>
-    <updated>2026-11-06T20:21:56Z</updated>
-    <summary>Merged public contribution. +5 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
