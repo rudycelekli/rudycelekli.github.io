@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T02:52:04Z</updated>
+  <updated>2026-11-08T03:11:24Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4603: fix(post-tool-verifier): stop truncating compaction percent overrides</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603"/>
+    <updated>2026-11-08T03:11:24Z</updated>
+    <summary>Merged public contribution. +57596 / -50264 across 1336 changed files.</summary>
+  </entry>
   <entry>
     <title>Yeachan-Heo/oh-my-claudecode #4602: fix(notifications): accept approval keywords followed by punctuation</title>
     <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602</id>
@@ -56,86 +63,86 @@
     <summary>Merged public contribution. +40 / -8 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #816: fix(slideshow-risk): do not count unspecified camera movement as movement for cinematic claims</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/816</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/816"/>
+    <title>OpenMontageInc/OpenMontage #816: fix(slideshow-risk): do not count unspecified camera movement as movement for cinematic claims</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/816</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/816"/>
     <updated>2026-11-08T00:40:48Z</updated>
     <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #807: fix(frames): keep scene-guided samples inside short shots</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/807</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/807"/>
+    <title>OpenMontageInc/OpenMontage #807: fix(frames): keep scene-guided samples inside short shots</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/807</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/807"/>
     <updated>2026-11-08T00:40:40Z</updated>
     <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #806: fix(audio): keep short music cue fades inside segment bounds</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/806</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/806"/>
+    <title>OpenMontageInc/OpenMontage #806: fix(audio): keep short music cue fades inside segment bounds</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/806</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/806"/>
     <updated>2026-11-08T00:40:36Z</updated>
     <summary>Merged public contribution. +57 / -5 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #792: fix(audio): schedule every channel of delayed tracks</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/792</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/792"/>
+    <title>OpenMontageInc/OpenMontage #792: fix(audio): schedule every channel of delayed tracks</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/792</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/792"/>
     <updated>2026-11-08T00:40:28Z</updated>
     <summary>Merged public contribution. +62 / -3 across 3 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #785: fix(cache): reject oversized assets before evicting usable entries</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/785</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/785"/>
+    <title>OpenMontageInc/OpenMontage #785: fix(cache): reject oversized assets before evicting usable entries</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/785</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/785"/>
     <updated>2026-11-08T00:40:24Z</updated>
     <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #708: fix(media): escape apostrophes in FFconcat filenames</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/708</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/708"/>
+    <title>OpenMontageInc/OpenMontage #708: fix(media): escape apostrophes in FFconcat filenames</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/708</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/708"/>
     <updated>2026-11-08T00:38:40Z</updated>
     <summary>Merged public contribution. +83 / -3 across 3 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #707: fix(reframe): honor explicit dimensions at the same aspect ratio</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/707</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/707"/>
+    <title>OpenMontageInc/OpenMontage #707: fix(reframe): honor explicit dimensions at the same aspect ratio</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/707</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/707"/>
     <updated>2026-11-08T00:38:36Z</updated>
     <summary>Merged public contribution. +92 / -6 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #705: fix(backlot): track concurrent scene generation by call</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/705</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/705"/>
+    <title>OpenMontageInc/OpenMontage #705: fix(backlot): track concurrent scene generation by call</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/705</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/705"/>
     <updated>2026-11-08T00:38:30Z</updated>
     <summary>Merged public contribution. +115 / -4 across 3 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #703: fix(frames): return only frames sampled by the current call</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/703</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/703"/>
+    <title>OpenMontageInc/OpenMontage #703: fix(frames): return only frames sampled by the current call</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/703</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/703"/>
     <updated>2026-11-08T00:38:26Z</updated>
     <summary>Merged public contribution. +118 / -10 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #701: fix(pacing): match TerminalScene frame rounding</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/701</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/701"/>
+    <title>OpenMontageInc/OpenMontage #701: fix(pacing): match TerminalScene frame rounding</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/701</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/701"/>
     <updated>2026-11-08T00:38:22Z</updated>
     <summary>Merged public contribution. +61 / -4 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #700: fix(fal): preserve image format across resumable jobs</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/700</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/700"/>
+    <title>OpenMontageInc/OpenMontage #700: fix(fal): preserve image format across resumable jobs</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/700</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/700"/>
     <updated>2026-11-08T00:38:18Z</updated>
     <summary>Merged public contribution. +99 / -2 across 2 changed files.</summary>
   </entry>
   <entry>
-    <title>calesthio/OpenMontage #786: fix(graphics): consolidate backend readiness and cache identity</title>
-    <id>https://github.com/calesthio/OpenMontage/pull/786</id>
-    <link href="https://github.com/calesthio/OpenMontage/pull/786"/>
+    <title>OpenMontageInc/OpenMontage #786: fix(graphics): consolidate backend readiness and cache identity</title>
+    <id>https://github.com/OpenMontageInc/OpenMontage/pull/786</id>
+    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/786"/>
     <updated>2026-11-08T00:35:54Z</updated>
     <summary>Merged public contribution. +10140 / -770 across 98 changed files.</summary>
   </entry>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Kentucky-ai/opentakeoff/pull/601"/>
     <updated>2026-11-06T20:21:56Z</updated>
     <summary>Merged public contribution. +5 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #691: fix(openapi): discover fields inherited through allOf response schemas</title>
-    <id>https://github.com/dosco/graphjin/pull/691</id>
-    <link href="https://github.com/dosco/graphjin/pull/691"/>
-    <updated>2026-11-06T18:42:35Z</updated>
-    <summary>Merged public contribution. +290 / -8 across 3 changed files.</summary>
   </entry>
 </feed>
