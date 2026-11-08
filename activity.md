@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,748**
+Records: **3,749**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1442: A full-width yen sign is read as the currency, so "￥5,000万" is 50000000 instead of no value](https://github.com/deeplethe/utopia/pull/1442) | +15 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#745: fix(config): reject malformed YAML before saving configuration](https://github.com/Panniantong/Agent-Reach/pull/745) | +35 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#863: fix(update): report failed setup in the installed copy](https://github.com/Panniantong/Agent-Reach/pull/863) | +65 / -10 across 2 files | 0 reviews · 1 comments |
 | 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#864: fix(youtube): preserve subtitle cue text and omit metadata](https://github.com/Panniantong/Agent-Reach/pull/864) | +40 / -8 across 2 files | 0 reviews · 1 comments |

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T00:55:52Z</updated>
+  <updated>2026-11-08T02:11:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>deeplethe/utopia #1442: A full-width yen sign is read as the currency, so "￥5,000万" is 50000000 instead of no value</title>
+    <id>https://github.com/deeplethe/utopia/pull/1442</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1442"/>
+    <updated>2026-11-08T02:11:36Z</updated>
+    <summary>Merged public contribution. +15 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>Panniantong/Agent-Reach #745: fix(config): reject malformed YAML before saving configuration</title>
     <id>https://github.com/Panniantong/Agent-Reach/pull/745</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/tigerless-labs/agent-memory/pull/73"/>
     <updated>2026-11-06T18:26:23Z</updated>
     <summary>Merged public contribution. +22 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #83: Preserve ISO instants and seconds in benchmark evidence timestamps</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/83</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/83"/>
-    <updated>2026-11-06T18:17:39Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
