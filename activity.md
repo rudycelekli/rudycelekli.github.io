@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,759**
+Records: **3,761**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [antchfx/jsonquery](https://github.com/antchfx/jsonquery) | [#32: Preserve carriage returns through XML output round trips](https://github.com/antchfx/jsonquery/pull/32) | +36 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-08 | [antchfx/jsonquery](https://github.com/antchfx/jsonquery) | [#31: Preserve JSON null spelling in text and XML output](https://github.com/antchfx/jsonquery/pull/31) | +47 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-08 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [#3819: fix: community batch, November (21 fixes, one commit each)](https://github.com/debpalash/VoiceStudio/pull/3819) | +1,140 / -62 across 48 files | 2 reviews · 3 comments |
 | 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2183: fix(backtest): keep fast-path margin positive at a negative entry price](https://github.com/HKUDS/Vibe-Trading/pull/2183) | +28 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-08 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [#2182: fix(comps): reject a non-finite target book value](https://github.com/HKUDS/Vibe-Trading/pull/2182) | +18 / -2 across 2 files | 0 reviews · 0 comments |

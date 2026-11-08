@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 36,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-01T16:52:18Z",
+      "deletions": 2,
+      "merged_at": "2026-11-08T12:23:48Z",
+      "number": 32,
+      "repository": "antchfx/jsonquery",
+      "repository_url": "https://github.com/antchfx/jsonquery",
+      "reviews": 0,
+      "title": "Preserve carriage returns through XML output round trips",
+      "url": "https://github.com/antchfx/jsonquery/pull/32"
+    },
+    {
+      "additions": 47,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-01T16:52:14Z",
+      "deletions": 0,
+      "merged_at": "2026-11-08T12:21:55Z",
+      "number": 31,
+      "repository": "antchfx/jsonquery",
+      "repository_url": "https://github.com/antchfx/jsonquery",
+      "reviews": 0,
+      "title": "Preserve JSON null spelling in text and XML output",
+      "url": "https://github.com/antchfx/jsonquery/pull/31"
+    },
+    {
       "additions": 1140,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 48,
@@ -60176,7 +60208,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3759,
+  "record_count": 3761,
   "schema_version": 1,
   "updated_at_utc": "2026-11-08"
 }
