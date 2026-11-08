@@ -1,13 +1,30 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-11-07 UTC**
+Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,731**
+Records: **3,748**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#745: fix(config): reject malformed YAML before saving configuration](https://github.com/Panniantong/Agent-Reach/pull/745) | +35 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#863: fix(update): report failed setup in the installed copy](https://github.com/Panniantong/Agent-Reach/pull/863) | +65 / -10 across 2 files | 0 reviews · 1 comments |
+| 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#864: fix(youtube): preserve subtitle cue text and omit metadata](https://github.com/Panniantong/Agent-Reach/pull/864) | +40 / -8 across 2 files | 0 reviews · 1 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#816: fix(slideshow-risk): do not count unspecified camera movement as movement for cinematic claims](https://github.com/calesthio/OpenMontage/pull/816) | +50 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#807: fix(frames): keep scene-guided samples inside short shots](https://github.com/calesthio/OpenMontage/pull/807) | +39 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#806: fix(audio): keep short music cue fades inside segment bounds](https://github.com/calesthio/OpenMontage/pull/806) | +57 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#792: fix(audio): schedule every channel of delayed tracks](https://github.com/calesthio/OpenMontage/pull/792) | +62 / -3 across 3 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#785: fix(cache): reject oversized assets before evicting usable entries](https://github.com/calesthio/OpenMontage/pull/785) | +51 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#708: fix(media): escape apostrophes in FFconcat filenames](https://github.com/calesthio/OpenMontage/pull/708) | +83 / -3 across 3 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#707: fix(reframe): honor explicit dimensions at the same aspect ratio](https://github.com/calesthio/OpenMontage/pull/707) | +92 / -6 across 2 files | 1 reviews · 1 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#705: fix(backlot): track concurrent scene generation by call](https://github.com/calesthio/OpenMontage/pull/705) | +115 / -4 across 3 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#703: fix(frames): return only frames sampled by the current call](https://github.com/calesthio/OpenMontage/pull/703) | +118 / -10 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#701: fix(pacing): match TerminalScene frame rounding](https://github.com/calesthio/OpenMontage/pull/701) | +61 / -4 across 2 files | 1 reviews · 0 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#700: fix(fal): preserve image format across resumable jobs](https://github.com/calesthio/OpenMontage/pull/700) | +99 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-11-08 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | [#786: fix(graphics): consolidate backend readiness and cache identity](https://github.com/calesthio/OpenMontage/pull/786) | +10,140 / -770 across 98 files | 3 reviews · 0 comments |
+| 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1433: A company name with a comma before "Inc." recalls its entity, so "Acme, Inc." finds Acme instead of creating a second one](https://github.com/deeplethe/utopia/pull/1433) | +15 / -2 across 1 files | 1 reviews · 0 comments |
+| 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1443: A sub-property ring is reported from its own members, so p ⊑ q ⊑ r ⊑ q names the ring q, r instead of p, q, r](https://github.com/deeplethe/utopia/pull/1443) | +21 / -0 across 1 files | 1 reviews · 0 comments |
 | 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1432: Docs search ignores letter case, so search_docs("Mcp") finds the "Agents over MCP" sections instead of nothing](https://github.com/deeplethe/utopia/pull/1432) | +39 / -4 across 1 files | 1 reviews · 0 comments |
 | 2026-11-07 | [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | [#748: fix(stdio): apply --enabled-tools, --read-only and MS365_MCP_OAUTH_TOKEN to the account tools](https://github.com/Softeria/ms-365-mcp-server/pull/748) | +231 / -39 across 8 files | 0 reviews · 4 comments |
 | 2026-11-07 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1429: An ODS time cell reads as the time it shows, so PT09H30M00S becomes 09:30](https://github.com/deeplethe/utopia/pull/1429) | +92 / -0 across 2 files | 1 reviews · 0 comments |
