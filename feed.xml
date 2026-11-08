@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T02:11:36Z</updated>
+  <updated>2026-11-08T02:52:04Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Yeachan-Heo/oh-my-claudecode #4602: fix(notifications): accept approval keywords followed by punctuation</title>
+    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602</id>
+    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602"/>
+    <updated>2026-11-08T02:52:04Z</updated>
+    <summary>Merged public contribution. +57522 / -50266 across 1337 changed files.</summary>
+  </entry>
+  <entry>
+    <title>deeplethe/utopia #1430: A date written with "Sept." is read, so "Sept. 30, 2025" becomes 2025-09-30 instead of no value</title>
+    <id>https://github.com/deeplethe/utopia/pull/1430</id>
+    <link href="https://github.com/deeplethe/utopia/pull/1430"/>
+    <updated>2026-11-08T02:47:27Z</updated>
+    <summary>Merged public contribution. +25 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4673: fix(init): handle non-UTF-8 directory names when deriving the init profile</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4673</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4673"/>
+    <updated>2026-11-08T02:35:35Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>deeplethe/utopia #1442: A full-width yen sign is read as the currency, so "￥5,000万" is 50000000 instead of no value</title>
     <id>https://github.com/deeplethe/utopia/pull/1442</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/dosco/graphjin/pull/691"/>
     <updated>2026-11-06T18:42:35Z</updated>
     <summary>Merged public contribution. +290 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #689: fix(graph): resolve fragments independently of definition order</title>
-    <id>https://github.com/dosco/graphjin/pull/689</id>
-    <link href="https://github.com/dosco/graphjin/pull/689"/>
-    <updated>2026-11-06T18:42:28Z</updated>
-    <summary>Merged public contribution. +262 / -28 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>dosco/graphjin #683: fix(qcode): encode constraint string literals as JSON</title>
-    <id>https://github.com/dosco/graphjin/pull/683</id>
-    <link href="https://github.com/dosco/graphjin/pull/683"/>
-    <updated>2026-11-06T18:42:22Z</updated>
-    <summary>Merged public contribution. +135 / -7 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/agent-memory #73: fix(core): resolve truth-file fallbacks by stored memory identity</title>
-    <id>https://github.com/tigerless-labs/agent-memory/pull/73</id>
-    <link href="https://github.com/tigerless-labs/agent-memory/pull/73"/>
-    <updated>2026-11-06T18:26:23Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 3 changed files.</summary>
   </entry>
 </feed>

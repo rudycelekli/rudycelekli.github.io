@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,749**
+Records: **3,752**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#4602: fix(notifications): accept approval keywords followed by punctuation](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602) | +57,522 / -50,266 across 1,337 files | 0 reviews · 2 comments |
+| 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1430: A date written with "Sept." is read, so "Sept. 30, 2025" becomes 2025-09-30 instead of no value](https://github.com/deeplethe/utopia/pull/1430) | +25 / -0 across 1 files | 1 reviews · 0 comments |
+| 2026-11-08 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4673: fix(init): handle non-UTF-8 directory names when deriving the init profile](https://github.com/headroomlabs-ai/headroom/pull/4673) | +22 / -1 across 2 files | 2 reviews · 2 comments |
 | 2026-11-08 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1442: A full-width yen sign is read as the currency, so "￥5,000万" is 50000000 instead of no value](https://github.com/deeplethe/utopia/pull/1442) | +15 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#745: fix(config): reject malformed YAML before saving configuration](https://github.com/Panniantong/Agent-Reach/pull/745) | +35 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-08 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#863: fix(update): report failed setup in the installed copy](https://github.com/Panniantong/Agent-Reach/pull/863) | +65 / -10 across 2 files | 0 reviews · 1 comments |
