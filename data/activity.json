@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 44,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 3,
+      "commits": 3,
+      "created_at": "2026-11-07T19:32:22Z",
+      "deletions": 3,
+      "merged_at": "2026-11-08T21:40:36Z",
+      "number": 5480,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 2,
+      "title": "fix(work-view): read commit subjects from $(cat <<EOF) messages and all gh pr title forms",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5480"
+    },
+    {
       "additions": 19,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -60336,7 +60352,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3769,
+  "record_count": 3770,
   "schema_version": 1,
   "updated_at_utc": "2026-11-08"
 }

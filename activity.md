@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,769**
+Records: **3,770**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5480: fix(work-view): read commit subjects from $(cat <<EOF) messages and all gh pr title forms](https://github.com/thedotmack/claude-mem/pull/5480) | +44 / -3 across 3 files | 2 reviews · 3 comments |
 | 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5479: fix(timeline): read a "#123" observation anchor as an id, not a date](https://github.com/thedotmack/claude-mem/pull/5479) | +19 / -2 across 2 files | 1 reviews · 2 comments |
 | 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5478: fix(server): keep surrogate pairs whole when truncating event payloads in the generation prompt](https://github.com/thedotmack/claude-mem/pull/5478) | +14 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5477: fix(server): rotate the legacy SERVER_BETA key when the canonical key is blank](https://github.com/thedotmack/claude-mem/pull/5477) | +21 / -2 across 2 files | 0 reviews · 2 comments |

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T20:51:19Z</updated>
+  <updated>2026-11-08T21:40:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5480: fix(work-view): read commit subjects from $(cat &lt;&lt;EOF) messages and all gh pr title forms</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5480</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5480"/>
+    <updated>2026-11-08T21:40:36Z</updated>
+    <summary>Merged public contribution. +44 / -3 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5479: fix(timeline): read a "#123" observation anchor as an id, not a date</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5479</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/397"/>
     <updated>2026-11-07T17:39:16Z</updated>
     <summary>Merged public contribution. +91 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #396: fix: compute P13/P19/P22/P27/P32/S02 confidence intervals over the scored subset</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/396</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/396"/>
-    <updated>2026-11-07T17:39:11Z</updated>
-    <summary>Merged public contribution. +108 / -12 across 7 changed files.</summary>
   </entry>
 </feed>
