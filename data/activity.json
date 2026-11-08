@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 39,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-25T15:36:22Z",
+      "deletions": 4,
+      "merged_at": "2026-11-07T23:51:08Z",
+      "number": 1432,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 1,
+      "title": "Docs search ignores letter case, so search_docs(\"Mcp\") finds the \"Agents over MCP\" sections instead of nothing",
+      "url": "https://github.com/deeplethe/utopia/pull/1432"
+    },
+    {
       "additions": 231,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 8,
@@ -59712,7 +59728,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3730,
+  "record_count": 3731,
   "schema_version": 1,
   "updated_at_utc": "2026-11-07"
 }
