@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 1140,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 48,
+      "comments": 3,
+      "commits": 22,
+      "created_at": "2026-11-05T03:29:16Z",
+      "deletions": 62,
+      "merged_at": "2026-11-08T07:28:15Z",
+      "number": 3819,
+      "repository": "debpalash/VoiceStudio",
+      "repository_url": "https://github.com/debpalash/VoiceStudio",
+      "reviews": 2,
+      "title": "fix: community batch, November (21 fixes, one commit each)",
+      "url": "https://github.com/debpalash/VoiceStudio/pull/3819"
+    },
+    {
       "additions": 28,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -60160,7 +60176,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3758,
+  "record_count": 3759,
   "schema_version": 1,
   "updated_at_utc": "2026-11-08"
 }
