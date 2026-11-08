@@ -4,10 +4,16 @@ Evidence timestamp: **2026-11-08 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,763**
+Records: **3,769**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5479: fix(timeline): read a "#123" observation anchor as an id, not a date](https://github.com/thedotmack/claude-mem/pull/5479) | +19 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5478: fix(server): keep surrogate pairs whole when truncating event payloads in the generation prompt](https://github.com/thedotmack/claude-mem/pull/5478) | +14 / -2 across 3 files | 0 reviews · 2 comments |
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5477: fix(server): rotate the legacy SERVER_BETA key when the canonical key is blank](https://github.com/thedotmack/claude-mem/pull/5477) | +21 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5476: fix(prompt-import): read Claude Code transcripts and settings from CLAUDE_CONFIG_DIR](https://github.com/thedotmack/claude-mem/pull/5476) | +55 / -4 across 3 files | 0 reviews · 2 comments |
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5475: fix(openclaw): stamp platformSource "openclaw" on worker session posts](https://github.com/thedotmack/claude-mem/pull/5475) | +27 / -0 across 2 files | 0 reviews · 2 comments |
+| 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5474: fix(openclaw): keep a one-word numeric query in /claude-mem-search](https://github.com/thedotmack/claude-mem/pull/5474) | +16 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-11-08 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2552: fix(api): select the full GLM-5.3 prompt contract from checkpoint metadata](https://github.com/JustVugg/colibri/pull/2552) | +217 / -10 across 6 files | 0 reviews · 0 comments |
 | 2026-11-08 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2558: fix(proxy): cancel confirmed resets and close upstream responses](https://github.com/JustVugg/colibri/pull/2558) | +732 / -79 across 4 files | 1 reviews · 0 comments |
 | 2026-11-08 | [antchfx/jsonquery](https://github.com/antchfx/jsonquery) | [#32: Preserve carriage returns through XML output round trips](https://github.com/antchfx/jsonquery/pull/32) | +36 / -2 across 2 files | 0 reviews · 0 comments |

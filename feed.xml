@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T14:10:01Z</updated>
+  <updated>2026-11-08T20:51:19Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5479: fix(timeline): read a "#123" observation anchor as an id, not a date</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5479</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5479"/>
+    <updated>2026-11-08T20:51:19Z</updated>
+    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5478: fix(server): keep surrogate pairs whole when truncating event payloads in the generation prompt</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5478</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5478"/>
+    <updated>2026-11-08T20:50:47Z</updated>
+    <summary>Merged public contribution. +14 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5477: fix(server): rotate the legacy SERVER_BETA key when the canonical key is blank</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5477</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5477"/>
+    <updated>2026-11-08T20:50:21Z</updated>
+    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5476: fix(prompt-import): read Claude Code transcripts and settings from CLAUDE_CONFIG_DIR</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5476</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5476"/>
+    <updated>2026-11-08T20:49:54Z</updated>
+    <summary>Merged public contribution. +55 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5475: fix(openclaw): stamp platformSource "openclaw" on worker session posts</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5475</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5475"/>
+    <updated>2026-11-08T20:49:06Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5474: fix(openclaw): keep a one-word numeric query in /claude-mem-search</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5474</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5474"/>
+    <updated>2026-11-08T20:47:05Z</updated>
+    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2552: fix(api): select the full GLM-5.3 prompt contract from checkpoint metadata</title>
     <id>https://github.com/JustVugg/colibri/pull/2552</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/396"/>
     <updated>2026-11-07T17:39:11Z</updated>
     <summary>Merged public contribution. +108 / -12 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #395: fix: compute B08 and B17 confidence intervals over the scored subset</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/395</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/395"/>
-    <updated>2026-11-07T17:39:06Z</updated>
-    <summary>Merged public contribution. +88 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #394: fix(quick-build): treat purge, wipe, erase, truncate, destroy and terminate tools as critical deletes</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/394</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/394"/>
-    <updated>2026-11-07T17:39:01Z</updated>
-    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #393: fix(discovery): infer purge, wipe, erase, truncate, destroy and terminate tools as delete</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/393</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/393"/>
-    <updated>2026-11-07T17:38:55Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1411: A MySQL TIME past a day or below zero reads as itself, so TIMEDIFF of 30 hours is 30:15:00, not null</title>
-    <id>https://github.com/deeplethe/utopia/pull/1411</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1411"/>
-    <updated>2026-11-07T17:34:06Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1407: A month or a year stored at its own precision can be truncated, so "2024-03" truncated to a month is 2024-03-01 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1407</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1407"/>
-    <updated>2026-11-07T17:29:02Z</updated>
-    <summary>Merged public contribution. +54 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1405: A period written from one quarter to another ends in the last month, so Q1 to Q3 runs through September instead of stopping in July</title>
-    <id>https://github.com/deeplethe/utopia/pull/1405</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1405"/>
-    <updated>2026-11-07T17:23:11Z</updated>
-    <summary>Merged public contribution. +32 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
