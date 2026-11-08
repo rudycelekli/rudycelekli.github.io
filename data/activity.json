@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 46,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 2,
+      "created_at": "2026-11-04T19:02:06Z",
+      "deletions": 0,
+      "merged_at": "2026-11-08T21:58:06Z",
+      "number": 4675,
+      "repository": "The-PR-Agent/pr-agent",
+      "repository_url": "https://github.com/The-PR-Agent/pr-agent",
+      "reviews": 2,
+      "title": "fix(improve): reject reflection feedback for another file",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/4675"
+    },
+    {
       "additions": 44,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -60352,7 +60368,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3770,
+  "record_count": 3771,
   "schema_version": 1,
   "updated_at_utc": "2026-11-08"
 }
