@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 40,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 4,
+      "created_at": "2026-11-05T03:10:08Z",
+      "deletions": 1,
+      "merged_at": "2026-11-09T13:39:29Z",
+      "number": 1569,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 1,
+      "title": "fix(perimeters): show a 0.25-acre fire as 0.25 ac, not 0 ac",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1569"
+    },
+    {
       "additions": 59,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -60464,7 +60480,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3777,
+  "record_count": 3778,
   "schema_version": 1,
   "updated_at_utc": "2026-11-09"
 }

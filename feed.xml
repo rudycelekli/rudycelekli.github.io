@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T09:01:36Z</updated>
+  <updated>2026-11-09T13:39:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1569: fix(perimeters): show a 0.25-acre fire as 0.25 ac, not 0 ac</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1569</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1569"/>
+    <updated>2026-11-09T13:39:29Z</updated>
+    <summary>Merged public contribution. +40 / -1 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5473: fix(launcher): expand a leading ~ in CLAUDE_MEM_DATA_DIR when recording an empty hook payload</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5473</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1429"/>
     <updated>2026-11-07T22:08:46Z</updated>
     <summary>Merged public contribution. +92 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1422: A number in accounting parentheses is read as negative, so "(1,234)" is -1234 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1422</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1422"/>
-    <updated>2026-11-07T18:42:34Z</updated>
-    <summary>Merged public contribution. +53 / -0 across 1 changed files.</summary>
   </entry>
 </feed>
