@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,778**
+Records: **3,781**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1091: fix(matryoshka): avoid NaN panics in public search paths](https://github.com/ruvnet/RuVector/pull/1091) | +93 / -16 across 2 files | 0 reviews · 0 comments |
+| 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1090: fix(lsm-ann): prevent NaN panics across search tiers](https://github.com/ruvnet/RuVector/pull/1090) | +135 / -21 across 3 files | 0 reviews · 0 comments |
+| 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1088: fix(agent-memory): avoid NaN panics in search and compaction ranking](https://github.com/ruvnet/RuVector/pull/1088) | +58 / -4 across 3 files | 0 reviews · 2 comments |
 | 2026-11-09 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1569: fix(perimeters): show a 0.25-acre fire as 0.25 ac, not 0 ac](https://github.com/bilawalsidhu/gods-eye-view/pull/1569) | +40 / -1 across 4 files | 1 reviews · 1 comments |
 | 2026-11-09 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5473: fix(launcher): expand a leading ~ in CLAUDE_MEM_DATA_DIR when recording an empty hook payload](https://github.com/thedotmack/claude-mem/pull/5473) | +59 / -2 across 4 files | 1 reviews · 2 comments |
 | 2026-11-09 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5472: fix(install): read BOM-prefixed OpenCode, Kimi and Antigravity host configs](https://github.com/thedotmack/claude-mem/pull/5472) | +77 / -6 across 4 files | 0 reviews · 2 comments |

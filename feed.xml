@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T13:39:29Z</updated>
+  <updated>2026-11-09T15:43:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/RuVector #1091: fix(matryoshka): avoid NaN panics in public search paths</title>
+    <id>https://github.com/ruvnet/RuVector/pull/1091</id>
+    <link href="https://github.com/ruvnet/RuVector/pull/1091"/>
+    <updated>2026-11-09T15:43:33Z</updated>
+    <summary>Merged public contribution. +93 / -16 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/RuVector #1090: fix(lsm-ann): prevent NaN panics across search tiers</title>
+    <id>https://github.com/ruvnet/RuVector/pull/1090</id>
+    <link href="https://github.com/ruvnet/RuVector/pull/1090"/>
+    <updated>2026-11-09T15:03:03Z</updated>
+    <summary>Merged public contribution. +135 / -21 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ruvnet/RuVector #1088: fix(agent-memory): avoid NaN panics in search and compaction ranking</title>
+    <id>https://github.com/ruvnet/RuVector/pull/1088</id>
+    <link href="https://github.com/ruvnet/RuVector/pull/1088"/>
+    <updated>2026-11-09T15:02:59Z</updated>
+    <summary>Merged public contribution. +58 / -4 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1569: fix(perimeters): show a 0.25-acre fire as 0.25 ac, not 0 ac</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1569</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1443"/>
     <updated>2026-11-08T00:12:55Z</updated>
     <summary>Merged public contribution. +21 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1432: Docs search ignores letter case, so search_docs("Mcp") finds the "Agents over MCP" sections instead of nothing</title>
-    <id>https://github.com/deeplethe/utopia/pull/1432</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1432"/>
-    <updated>2026-11-07T23:51:08Z</updated>
-    <summary>Merged public contribution. +39 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Softeria/ms-365-mcp-server #748: fix(stdio): apply --enabled-tools, --read-only and MS365_MCP_OAUTH_TOKEN to the account tools</title>
-    <id>https://github.com/Softeria/ms-365-mcp-server/pull/748</id>
-    <link href="https://github.com/Softeria/ms-365-mcp-server/pull/748"/>
-    <updated>2026-11-07T22:59:24Z</updated>
-    <summary>Merged public contribution. +231 / -39 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1429: An ODS time cell reads as the time it shows, so PT09H30M00S becomes 09:30</title>
-    <id>https://github.com/deeplethe/utopia/pull/1429</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1429"/>
-    <updated>2026-11-07T22:08:46Z</updated>
-    <summary>Merged public contribution. +92 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
