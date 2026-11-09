@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 118,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-09-29T10:19:25Z",
+      "deletions": 18,
+      "merged_at": "2026-11-09T15:52:56Z",
+      "number": 1093,
+      "repository": "ruvnet/RuVector",
+      "repository_url": "https://github.com/ruvnet/RuVector",
+      "reviews": 0,
+      "title": "fix(temporal-coherence): handle non-finite search scores safely",
+      "url": "https://github.com/ruvnet/RuVector/pull/1093"
+    },
+    {
       "additions": 93,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -60528,7 +60544,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3781,
+  "record_count": 3782,
   "schema_version": 1,
   "updated_at_utc": "2026-11-09"
 }

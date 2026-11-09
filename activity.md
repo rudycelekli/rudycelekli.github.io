@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,781**
+Records: **3,782**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1093: fix(temporal-coherence): handle non-finite search scores safely](https://github.com/ruvnet/RuVector/pull/1093) | +118 / -18 across 2 files | 0 reviews · 0 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1091: fix(matryoshka): avoid NaN panics in public search paths](https://github.com/ruvnet/RuVector/pull/1091) | +93 / -16 across 2 files | 0 reviews · 0 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1090: fix(lsm-ann): prevent NaN panics across search tiers](https://github.com/ruvnet/RuVector/pull/1090) | +135 / -21 across 3 files | 0 reviews · 0 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1088: fix(agent-memory): avoid NaN panics in search and compaction ranking](https://github.com/ruvnet/RuVector/pull/1088) | +58 / -4 across 3 files | 0 reviews · 2 comments |

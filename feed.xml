@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T15:43:33Z</updated>
+  <updated>2026-11-09T15:52:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ruvnet/RuVector #1093: fix(temporal-coherence): handle non-finite search scores safely</title>
+    <id>https://github.com/ruvnet/RuVector/pull/1093</id>
+    <link href="https://github.com/ruvnet/RuVector/pull/1093"/>
+    <updated>2026-11-09T15:52:56Z</updated>
+    <summary>Merged public contribution. +118 / -18 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/RuVector #1091: fix(matryoshka): avoid NaN panics in public search paths</title>
     <id>https://github.com/ruvnet/RuVector/pull/1091</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1433"/>
     <updated>2026-11-08T00:31:38Z</updated>
     <summary>Merged public contribution. +15 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1443: A sub-property ring is reported from its own members, so p ⊑ q ⊑ r ⊑ q names the ring q, r instead of p, q, r</title>
-    <id>https://github.com/deeplethe/utopia/pull/1443</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1443"/>
-    <updated>2026-11-08T00:12:55Z</updated>
-    <summary>Merged public contribution. +21 / -0 across 1 changed files.</summary>
   </entry>
 </feed>
