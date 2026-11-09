@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,772**
+Records: **3,774**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5470: fix(dsh): keep the configured platformSource on ingested tool memories](https://github.com/thedotmack/claude-mem/pull/5470) | +52 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-11-09 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5469: fix(cli): accept --flag=value in server api-key, memory ingest and adopt options](https://github.com/thedotmack/claude-mem/pull/5469) | +110 / -9 across 7 files | 2 reviews · 3 comments |
 | 2026-11-09 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5468: fix(claude-md): head folder CLAUDE.md rows with a file that is in the folder](https://github.com/thedotmack/claude-mem/pull/5468) | +44 / -28 across 2 files | 0 reviews · 2 comments |
 | 2026-11-08 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4675: fix(improve): reject reflection feedback for another file](https://github.com/The-PR-Agent/pr-agent/pull/4675) | +46 / -0 across 2 files | 2 reviews · 2 comments |
 | 2026-11-08 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5480: fix(work-view): read commit subjects from $(cat <<EOF) messages and all gh pr title forms](https://github.com/thedotmack/claude-mem/pull/5480) | +44 / -3 across 3 files | 2 reviews · 3 comments |

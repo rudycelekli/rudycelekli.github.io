@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 52,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-11-07T19:28:37Z",
+      "deletions": 1,
+      "merged_at": "2026-11-09T06:50:04Z",
+      "number": 5470,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 1,
+      "title": "fix(dsh): keep the configured platformSource on ingested tool memories",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5470"
+    },
+    {
+      "additions": 110,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 3,
+      "commits": 3,
+      "created_at": "2026-11-07T19:28:00Z",
+      "deletions": 9,
+      "merged_at": "2026-11-09T06:49:32Z",
+      "number": 5469,
+      "repository": "thedotmack/claude-mem",
+      "repository_url": "https://github.com/thedotmack/claude-mem",
+      "reviews": 2,
+      "title": "fix(cli): accept --flag=value in server api-key, memory ingest and adopt options",
+      "url": "https://github.com/thedotmack/claude-mem/pull/5469"
+    },
+    {
       "additions": 44,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -60384,7 +60416,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3772,
+  "record_count": 3774,
   "schema_version": 1,
   "updated_at_utc": "2026-11-09"
 }

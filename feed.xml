@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T02:29:34Z</updated>
+  <updated>2026-11-09T06:50:04Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5470: fix(dsh): keep the configured platformSource on ingested tool memories</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5470</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5470"/>
+    <updated>2026-11-09T06:50:04Z</updated>
+    <summary>Merged public contribution. +52 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem #5469: fix(cli): accept --flag=value in server api-key, memory ingest and adopt options</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5469</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5469"/>
+    <updated>2026-11-09T06:49:32Z</updated>
+    <summary>Merged public contribution. +110 / -9 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>thedotmack/claude-mem #5468: fix(claude-md): head folder CLAUDE.md rows with a file that is in the folder</title>
     <id>https://github.com/thedotmack/claude-mem/pull/5468</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1421"/>
     <updated>2026-11-07T17:40:19Z</updated>
     <summary>Merged public contribution. +31 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #387: fix(policy-lab): verify repair evidence before report export</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/387</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/387"/>
-    <updated>2026-11-07T17:39:31Z</updated>
-    <summary>Merged public contribution. +46 / -1 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #383: fix(windtunnel): retain selected-detector completeness before reporting</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/383</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/383"/>
-    <updated>2026-11-07T17:39:26Z</updated>
-    <summary>Merged public contribution. +113 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
