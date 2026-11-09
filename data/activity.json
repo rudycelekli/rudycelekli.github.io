@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 29,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:21Z",
+      "deletions": 2,
+      "merged_at": "2026-11-09T16:58:30Z",
+      "number": 222,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(session-start): tolerate malformed run summary schemas",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/222"
+    },
+    {
+      "additions": 65,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-09T14:57:18Z",
+      "deletions": 7,
+      "merged_at": "2026-11-09T16:52:32Z",
+      "number": 221,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(dispatch): surface detached reflection launch failures",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/221"
+    },
+    {
       "additions": 118,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -60544,7 +60576,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3782,
+  "record_count": 3784,
   "schema_version": 1,
   "updated_at_utc": "2026-11-09"
 }

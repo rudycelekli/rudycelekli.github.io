@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,782**
+Records: **3,784**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#222: fix(session-start): tolerate malformed run summary schemas](https://github.com/tigerless-labs/autoharness/pull/222) | +29 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-09 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#221: fix(dispatch): surface detached reflection launch failures](https://github.com/tigerless-labs/autoharness/pull/221) | +65 / -7 across 4 files | 0 reviews · 2 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1093: fix(temporal-coherence): handle non-finite search scores safely](https://github.com/ruvnet/RuVector/pull/1093) | +118 / -18 across 2 files | 0 reviews · 0 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1091: fix(matryoshka): avoid NaN panics in public search paths](https://github.com/ruvnet/RuVector/pull/1091) | +93 / -16 across 2 files | 0 reviews · 0 comments |
 | 2026-11-09 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1090: fix(lsm-ann): prevent NaN panics across search tiers](https://github.com/ruvnet/RuVector/pull/1090) | +135 / -21 across 3 files | 0 reviews · 0 comments |

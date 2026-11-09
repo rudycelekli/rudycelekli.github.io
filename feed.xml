@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T15:52:56Z</updated>
+  <updated>2026-11-09T16:58:30Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #222: fix(session-start): tolerate malformed run summary schemas</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/222</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/222"/>
+    <updated>2026-11-09T16:58:30Z</updated>
+    <summary>Merged public contribution. +29 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #221: fix(dispatch): surface detached reflection launch failures</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/221</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/221"/>
+    <updated>2026-11-09T16:52:32Z</updated>
+    <summary>Merged public contribution. +65 / -7 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/RuVector #1093: fix(temporal-coherence): handle non-finite search scores safely</title>
     <id>https://github.com/ruvnet/RuVector/pull/1093</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/OpenMontageInc/OpenMontage/pull/700"/>
     <updated>2026-11-08T00:38:18Z</updated>
     <summary>Merged public contribution. +99 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #786: fix(graphics): consolidate backend readiness and cache identity</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/786</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/786"/>
-    <updated>2026-11-08T00:35:54Z</updated>
-    <summary>Merged public contribution. +10140 / -770 across 98 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1433: A company name with a comma before "Inc." recalls its entity, so "Acme, Inc." finds Acme instead of creating a second one</title>
-    <id>https://github.com/deeplethe/utopia/pull/1433</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1433"/>
-    <updated>2026-11-08T00:31:38Z</updated>
-    <summary>Merged public contribution. +15 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
