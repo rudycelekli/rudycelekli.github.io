@@ -4,8 +4,246 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T16:58:30Z</updated>
+  <updated>2026-11-09T18:21:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>headroomlabs-ai/headroom #4675: fix(storage): return the latest snapshot from JSONLStorage.get</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4675</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4675"/>
+    <updated>2026-11-09T18:21:38Z</updated>
+    <summary>Merged public contribution. +83 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom #4503: fix(evals): exclude provider failures from answer scores</title>
+    <id>https://github.com/headroomlabs-ai/headroom/pull/4503</id>
+    <link href="https://github.com/headroomlabs-ai/headroom/pull/4503"/>
+    <updated>2026-11-09T18:21:16Z</updated>
+    <summary>Merged public contribution. +423 / -22 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2080: fix(hooks): split a home route without globbing its aliases</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2080</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2080"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2079: fix(hooks): treat an inbox-notice-only marker as a settings boundary in script hooks</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2079</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2079"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +14 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2076: fix(workstream): skip a non-UTF-8 transcript line when following a Claude /clear</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2076</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2076"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +45 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2075: fix(init): keep the token pepper when --force rewrites the config</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2075</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2075"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +34 / -9 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2074: fix(consolidate): keep fenced code out of the A2 compaction summary</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2074</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2074"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2073: fix(cli): keep a BOM from hiding a home route header on the first line</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2073</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2073"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +21 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2072: fix(install-mcp): drop the MCP URL's query before peeling /mcp in Pi guidance</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2072</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2072"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +29 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2071: fix(hooks): keep a mounted server_url's path from doubling on spool retry</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2071</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2071"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2070: fix(backup): keep plugin manifest directories in backup-agents archives</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2070</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2070"/>
+    <updated>2026-11-09T17:53:52Z</updated>
+    <summary>Merged public contribution. +73 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2101: fix(consolidate): group lint duplicate titles across whitespace like the collision guard</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2101</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2101"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2100: fix(admin): saturate the handoff expiry cutoff instead of wrapping it</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2100</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2100"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2099: fix(workstream): launch Codex's e, a and cloud-tasks aliases like their full names</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2099</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2099"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +45 / -8 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2098: fix(workstream): keep a %+X sequence verbatim when decoding a file URI</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2098</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2098"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +7 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2097: fix(workstream): keep Grok's native tool-call ids on tool calls and results</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2097</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2097"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2096: fix(workstream): keep Kimi's native tool-call ids on appended messages</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2096</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2096"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2095: fix(core): recognize a hook ledger saved with a UTF-8 BOM</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2095</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2095"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +16 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2094: fix(core): skip fenced code in the SessionStart brief excerpt</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2094</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2094"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +56 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2093: fix(web): read a blank session jump field as omitted, not a 400</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2093</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2093"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +37 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2092: fix(mcp): read a blank handoff-accept cwd as omitted</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2092</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2092"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +64 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2091: fix(hooks): split acknowledgment phrases on any whitespace</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2091</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2091"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2090: fix(hooks): count a recap prompt with no room for its text as omitted</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2090</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2090"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +17 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2089: fix(hooks): keep bare tool-family labels out of session titles and summaries</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2089</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2089"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2088: fix(store): keep accented Latin words whole in query-signal similarity</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2088</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2088"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +20 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2087: fix(hooks): say "ago" once in the pending-handoff notice</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2087</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2087"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2086: fix(web): show a project refusal instead of redirecting to change-password</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2086</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2086"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +63 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2085: fix(admin): answer a reject of an already-decided proposal with 409, not 500</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2085</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2085"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +42 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2084: fix(consolidate): keep a rule titled after a DOS device on a portable path</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2084</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2084"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +23 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2083: fix(llm): find the JSON answer after braced prose</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2083</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2083"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +39 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2082: fix(mcp): refuse a blank message recipient instead of delivering to the current project</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2082</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2082"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2081: fix(hooks): match home drive routes against a backslash Windows cwd</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2081</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2081"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +12 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2078: fix(consolidate): stop flagging pinned and compacted pages as stale in lint</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2078</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2078"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +43 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2077: fix(wiki): treat a protocol-relative link destination as external</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2077</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2077"/>
+    <updated>2026-11-09T17:53:51Z</updated>
+    <summary>Merged public contribution. +12 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #222: fix(session-start): tolerate malformed run summary schemas</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/222</id>
@@ -117,243 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5479"/>
     <updated>2026-11-08T20:51:19Z</updated>
     <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5478: fix(server): keep surrogate pairs whole when truncating event payloads in the generation prompt</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5478</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5478"/>
-    <updated>2026-11-08T20:50:47Z</updated>
-    <summary>Merged public contribution. +14 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5477: fix(server): rotate the legacy SERVER_BETA key when the canonical key is blank</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5477</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5477"/>
-    <updated>2026-11-08T20:50:21Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5476: fix(prompt-import): read Claude Code transcripts and settings from CLAUDE_CONFIG_DIR</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5476</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5476"/>
-    <updated>2026-11-08T20:49:54Z</updated>
-    <summary>Merged public contribution. +55 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5475: fix(openclaw): stamp platformSource "openclaw" on worker session posts</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5475</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5475"/>
-    <updated>2026-11-08T20:49:06Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5474: fix(openclaw): keep a one-word numeric query in /claude-mem-search</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5474</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5474"/>
-    <updated>2026-11-08T20:47:05Z</updated>
-    <summary>Merged public contribution. +16 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2552: fix(api): select the full GLM-5.3 prompt contract from checkpoint metadata</title>
-    <id>https://github.com/JustVugg/colibri/pull/2552</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2552"/>
-    <updated>2026-11-08T14:10:01Z</updated>
-    <summary>Merged public contribution. +217 / -10 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JustVugg/colibri #2558: fix(proxy): cancel confirmed resets and close upstream responses</title>
-    <id>https://github.com/JustVugg/colibri/pull/2558</id>
-    <link href="https://github.com/JustVugg/colibri/pull/2558"/>
-    <updated>2026-11-08T14:10:00Z</updated>
-    <summary>Merged public contribution. +732 / -79 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/jsonquery #32: Preserve carriage returns through XML output round trips</title>
-    <id>https://github.com/antchfx/jsonquery/pull/32</id>
-    <link href="https://github.com/antchfx/jsonquery/pull/32"/>
-    <updated>2026-11-08T12:23:48Z</updated>
-    <summary>Merged public contribution. +36 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/jsonquery #31: Preserve JSON null spelling in text and XML output</title>
-    <id>https://github.com/antchfx/jsonquery/pull/31</id>
-    <link href="https://github.com/antchfx/jsonquery/pull/31"/>
-    <updated>2026-11-08T12:21:55Z</updated>
-    <summary>Merged public contribution. +47 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>debpalash/VoiceStudio #3819: fix: community batch, November (21 fixes, one commit each)</title>
-    <id>https://github.com/debpalash/VoiceStudio/pull/3819</id>
-    <link href="https://github.com/debpalash/VoiceStudio/pull/3819"/>
-    <updated>2026-11-08T07:28:15Z</updated>
-    <summary>Merged public contribution. +1140 / -62 across 48 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2183: fix(backtest): keep fast-path margin positive at a negative entry price</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2183</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2183"/>
-    <updated>2026-11-08T05:26:22Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2182: fix(comps): reject a non-finite target book value</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2182</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2182"/>
-    <updated>2026-11-08T05:26:22Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2181: fix(combination): keep a missing weight missing in a later rebalance row</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2181</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2181"/>
-    <updated>2026-11-08T05:26:22Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2180: fix(alpha-bench): skip single-observation IC series in the strict bench</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2180</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2180"/>
-    <updated>2026-11-08T05:26:22Z</updated>
-    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>HKUDS/Vibe-Trading #2179: fix(attribution): degrade asset-class Brinson when a class member is unpriced</title>
-    <id>https://github.com/HKUDS/Vibe-Trading/pull/2179</id>
-    <link href="https://github.com/HKUDS/Vibe-Trading/pull/2179"/>
-    <updated>2026-11-08T05:26:22Z</updated>
-    <summary>Merged public contribution. +55 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4603: fix(post-tool-verifier): stop truncating compaction percent overrides</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4603"/>
-    <updated>2026-11-08T03:11:24Z</updated>
-    <summary>Merged public contribution. +57596 / -50264 across 1336 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Yeachan-Heo/oh-my-claudecode #4602: fix(notifications): accept approval keywords followed by punctuation</title>
-    <id>https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602</id>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4602"/>
-    <updated>2026-11-08T02:52:04Z</updated>
-    <summary>Merged public contribution. +57522 / -50266 across 1337 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1430: A date written with "Sept." is read, so "Sept. 30, 2025" becomes 2025-09-30 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1430</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1430"/>
-    <updated>2026-11-08T02:47:27Z</updated>
-    <summary>Merged public contribution. +25 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>headroomlabs-ai/headroom #4673: fix(init): handle non-UTF-8 directory names when deriving the init profile</title>
-    <id>https://github.com/headroomlabs-ai/headroom/pull/4673</id>
-    <link href="https://github.com/headroomlabs-ai/headroom/pull/4673"/>
-    <updated>2026-11-08T02:35:35Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1442: A full-width yen sign is read as the currency, so "￥5,000万" is 50000000 instead of no value</title>
-    <id>https://github.com/deeplethe/utopia/pull/1442</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1442"/>
-    <updated>2026-11-08T02:11:36Z</updated>
-    <summary>Merged public contribution. +15 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Panniantong/Agent-Reach #745: fix(config): reject malformed YAML before saving configuration</title>
-    <id>https://github.com/Panniantong/Agent-Reach/pull/745</id>
-    <link href="https://github.com/Panniantong/Agent-Reach/pull/745"/>
-    <updated>2026-11-08T00:55:52Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Panniantong/Agent-Reach #863: fix(update): report failed setup in the installed copy</title>
-    <id>https://github.com/Panniantong/Agent-Reach/pull/863</id>
-    <link href="https://github.com/Panniantong/Agent-Reach/pull/863"/>
-    <updated>2026-11-08T00:55:08Z</updated>
-    <summary>Merged public contribution. +65 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Panniantong/Agent-Reach #864: fix(youtube): preserve subtitle cue text and omit metadata</title>
-    <id>https://github.com/Panniantong/Agent-Reach/pull/864</id>
-    <link href="https://github.com/Panniantong/Agent-Reach/pull/864"/>
-    <updated>2026-11-08T00:54:50Z</updated>
-    <summary>Merged public contribution. +40 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #816: fix(slideshow-risk): do not count unspecified camera movement as movement for cinematic claims</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/816</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/816"/>
-    <updated>2026-11-08T00:40:48Z</updated>
-    <summary>Merged public contribution. +50 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #807: fix(frames): keep scene-guided samples inside short shots</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/807</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/807"/>
-    <updated>2026-11-08T00:40:40Z</updated>
-    <summary>Merged public contribution. +39 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #806: fix(audio): keep short music cue fades inside segment bounds</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/806</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/806"/>
-    <updated>2026-11-08T00:40:36Z</updated>
-    <summary>Merged public contribution. +57 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #792: fix(audio): schedule every channel of delayed tracks</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/792</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/792"/>
-    <updated>2026-11-08T00:40:28Z</updated>
-    <summary>Merged public contribution. +62 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #785: fix(cache): reject oversized assets before evicting usable entries</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/785</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/785"/>
-    <updated>2026-11-08T00:40:24Z</updated>
-    <summary>Merged public contribution. +51 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #708: fix(media): escape apostrophes in FFconcat filenames</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/708</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/708"/>
-    <updated>2026-11-08T00:38:40Z</updated>
-    <summary>Merged public contribution. +83 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #707: fix(reframe): honor explicit dimensions at the same aspect ratio</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/707</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/707"/>
-    <updated>2026-11-08T00:38:36Z</updated>
-    <summary>Merged public contribution. +92 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #705: fix(backlot): track concurrent scene generation by call</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/705</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/705"/>
-    <updated>2026-11-08T00:38:30Z</updated>
-    <summary>Merged public contribution. +115 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #703: fix(frames): return only frames sampled by the current call</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/703</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/703"/>
-    <updated>2026-11-08T00:38:26Z</updated>
-    <summary>Merged public contribution. +118 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #701: fix(pacing): match TerminalScene frame rounding</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/701</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/701"/>
-    <updated>2026-11-08T00:38:22Z</updated>
-    <summary>Merged public contribution. +61 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>OpenMontageInc/OpenMontage #700: fix(fal): preserve image format across resumable jobs</title>
-    <id>https://github.com/OpenMontageInc/OpenMontage/pull/700</id>
-    <link href="https://github.com/OpenMontageInc/OpenMontage/pull/700"/>
-    <updated>2026-11-08T00:38:18Z</updated>
-    <summary>Merged public contribution. +99 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
