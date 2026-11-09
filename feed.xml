@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-08T21:58:06Z</updated>
+  <updated>2026-11-09T02:29:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>thedotmack/claude-mem #5468: fix(claude-md): head folder CLAUDE.md rows with a file that is in the folder</title>
+    <id>https://github.com/thedotmack/claude-mem/pull/5468</id>
+    <link href="https://github.com/thedotmack/claude-mem/pull/5468"/>
+    <updated>2026-11-09T02:29:34Z</updated>
+    <summary>Merged public contribution. +44 / -28 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>The-PR-Agent/pr-agent #4675: fix(improve): reject reflection feedback for another file</title>
     <id>https://github.com/The-PR-Agent/pr-agent/pull/4675</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/383"/>
     <updated>2026-11-07T17:39:26Z</updated>
     <summary>Merged public contribution. +113 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #377: fix: scrub artifact metadata and diagnostic text consistently</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/377</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/377"/>
-    <updated>2026-11-07T17:39:21Z</updated>
-    <summary>Merged public contribution. +62 / -7 across 3 changed files.</summary>
   </entry>
 </feed>
