@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,818**
+Records: **3,821**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#714: fix(add-portal): keep generated tests offline in CI](https://github.com/ai-job-search-dev/ai-job-search/pull/714) | +325 / -27 across 2 files | 2 reviews · 0 comments |
+| 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#711: fix(fetch-page): decode standard zlib-wrapped HTTP deflate](https://github.com/ai-job-search-dev/ai-job-search/pull/711) | +400 / -25 across 3 files | 2 reviews · 1 comments |
+| 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#636: fix(rank): report a non-object seen_jobs.json entry instead of a traceback](https://github.com/ai-job-search-dev/ai-job-search/pull/636) | +41 / -0 across 2 files | 3 reviews · 6 comments |
 | 2026-11-09 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4675: fix(storage): return the latest snapshot from JSONLStorage.get](https://github.com/headroomlabs-ai/headroom/pull/4675) | +83 / -5 across 2 files | 4 reviews · 3 comments |
 | 2026-11-09 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | [#4503: fix(evals): exclude provider failures from answer scores](https://github.com/headroomlabs-ai/headroom/pull/4503) | +423 / -22 across 4 files | 5 reviews · 4 comments |
 | 2026-11-09 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#2080: fix(hooks): split a home route without globbing its aliases](https://github.com/akitaonrails/ai-memory/pull/2080) | +11 / -0 across 2 files | 0 reviews · 0 comments |

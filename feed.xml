@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-09T18:21:38Z</updated>
+  <updated>2026-11-09T20:17:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #714: fix(add-portal): keep generated tests offline in CI</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/714</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/714"/>
+    <updated>2026-11-09T20:17:38Z</updated>
+    <summary>Merged public contribution. +325 / -27 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #711: fix(fetch-page): decode standard zlib-wrapped HTTP deflate</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/711</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/711"/>
+    <updated>2026-11-09T20:17:05Z</updated>
+    <summary>Merged public contribution. +400 / -25 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #636: fix(rank): report a non-object seen_jobs.json entry instead of a traceback</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/636</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/636"/>
+    <updated>2026-11-09T20:01:23Z</updated>
+    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>headroomlabs-ai/headroom #4675: fix(storage): return the latest snapshot from JSONLStorage.get</title>
     <id>https://github.com/headroomlabs-ai/headroom/pull/4675</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/thedotmack/claude-mem/pull/5468"/>
     <updated>2026-11-09T02:29:34Z</updated>
     <summary>Merged public contribution. +44 / -28 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>The-PR-Agent/pr-agent #4675: fix(improve): reject reflection feedback for another file</title>
-    <id>https://github.com/The-PR-Agent/pr-agent/pull/4675</id>
-    <link href="https://github.com/The-PR-Agent/pr-agent/pull/4675"/>
-    <updated>2026-11-08T21:58:06Z</updated>
-    <summary>Merged public contribution. +46 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5480: fix(work-view): read commit subjects from $(cat &lt;&lt;EOF) messages and all gh pr title forms</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5480</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5480"/>
-    <updated>2026-11-08T21:40:36Z</updated>
-    <summary>Merged public contribution. +44 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>thedotmack/claude-mem #5479: fix(timeline): read a "#123" observation anchor as an id, not a date</title>
-    <id>https://github.com/thedotmack/claude-mem/pull/5479</id>
-    <link href="https://github.com/thedotmack/claude-mem/pull/5479"/>
-    <updated>2026-11-08T20:51:19Z</updated>
-    <summary>Merged public contribution. +19 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
