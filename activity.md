@@ -4,10 +4,19 @@ Evidence timestamp: **2026-11-09 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,821**
+Records: **3,830**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#406: fix(p32, s02): build human-review worklists from the judge majority, not one sample](https://github.com/ifixai-ai/iFixAi/pull/406) | +136 / -27 across 3 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#405: fix: de-duplicate user ids before capping users in 14 inspection runners](https://github.com/ifixai-ai/iFixAi/pull/405) | +142 / -26 across 16 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#404: fix: give every B03/B06/B08/B13/B16/B18/B21/B25 probe its own evidence id](https://github.com/ifixai-ai/iFixAi/pull/404) | +52 / -1 across 9 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#403: fix(b16): render the per-run holdout user ids into the probes](https://github.com/ifixai-ai/iFixAi/pull/403) | +54 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#402: fix(fixtures): report malformed legacy fixtures as validation errors, not tracebacks](https://github.com/ifixai-ai/iFixAi/pull/402) | +48 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#401: fix(cli): reject a malformed IFIXAI_EXTRA_HEADERS instead of silently dropping it](https://github.com/ifixai-ai/iFixAi/pull/401) | +55 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#400: fix(secrets): redact Basic and quoted auth headers echoed in provider errors](https://github.com/ifixai-ai/iFixAi/pull/400) | +68 / -2 across 2 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#399: fix(langchain): retry transient LangServe failures and type malformed JSON replies](https://github.com/ifixai-ai/iFixAi/pull/399) | +93 / -0 across 2 files | 1 reviews · 0 comments |
+| 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#398: fix(http, langchain): keep content-flag 403s from stopping the run as key refusals](https://github.com/ifixai-ai/iFixAi/pull/398) | +99 / -1 across 3 files | 1 reviews · 0 comments |
 | 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#714: fix(add-portal): keep generated tests offline in CI](https://github.com/ai-job-search-dev/ai-job-search/pull/714) | +325 / -27 across 2 files | 2 reviews · 0 comments |
 | 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#711: fix(fetch-page): decode standard zlib-wrapped HTTP deflate](https://github.com/ai-job-search-dev/ai-job-search/pull/711) | +400 / -25 across 3 files | 2 reviews · 1 comments |
 | 2026-11-09 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#636: fix(rank): report a non-object seen_jobs.json entry instead of a traceback](https://github.com/ai-job-search-dev/ai-job-search/pull/636) | +41 / -0 across 2 files | 3 reviews · 6 comments |
