@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 142,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-11-04T18:47:08Z",
+      "deletions": 14,
+      "merged_at": "2026-11-10T07:27:43Z",
+      "number": 216,
+      "repository": "Thysrael/Horizon",
+      "repository_url": "https://github.com/Thysrael/Horizon",
+      "reviews": 1,
+      "title": "fix: validate positive collection windows across entry points",
+      "url": "https://github.com/Thysrael/Horizon/pull/216"
+    },
+    {
+      "additions": 78,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 2,
+      "commits": 3,
+      "created_at": "2026-10-23T22:36:59Z",
+      "deletions": 5,
+      "merged_at": "2026-11-10T07:02:18Z",
+      "number": 1399,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A cron weekday written as a number reads as standard cron, so 1-5 syncs Monday to Friday instead of Sunday to Thursday",
+      "url": "https://github.com/deeplethe/utopia/pull/1399"
+    },
+    {
       "additions": 57,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -61424,7 +61456,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3837,
+  "record_count": 3839,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }
