@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 57,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-10-24T02:22:13Z",
+      "deletions": 5,
+      "merged_at": "2026-11-10T06:55:36Z",
+      "number": 1403,
+      "repository": "deeplethe/utopia",
+      "repository_url": "https://github.com/deeplethe/utopia",
+      "reviews": 2,
+      "title": "A number attribute matches a rule's \"is one of\" set, so a reading stored as 3.0 is one of {3}",
+      "url": "https://github.com/deeplethe/utopia/pull/1403"
+    },
+    {
       "additions": 41,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -61408,7 +61424,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3836,
+  "record_count": 3837,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }

@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-10 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,836**
+Records: **3,837**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-10 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | [#1403: A number attribute matches a rule's "is one of" set, so a reading stored as 3.0 is one of {3}](https://github.com/deeplethe/utopia/pull/1403) | +57 / -5 across 2 files | 2 reviews · 2 comments |
 | 2026-11-10 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2687: fix(execd): return 400 for an invalid /files/search pattern](https://github.com/opensandbox-group/OpenSandbox/pull/2687) | +41 / -0 across 4 files | 2 reviews · 1 comments |
 | 2026-11-10 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2692: fix(cli): report an empty egress rule target as a usage error](https://github.com/opensandbox-group/OpenSandbox/pull/2692) | +10 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-10 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2691: fix(cli): render None table cells as "-"](https://github.com/opensandbox-group/OpenSandbox/pull/2691) | +12 / -1 across 2 files | 2 reviews · 1 comments |
