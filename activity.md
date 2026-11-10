@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-10 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,830**
+Records: **3,832**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-10 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2695: fix(helm): skip the dev route-key Secret when existingSecret is set](https://github.com/opensandbox-group/OpenSandbox/pull/2695) | +2 / -2 across 2 files | 3 reviews · 1 comments |
+| 2026-11-10 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1435: fix(core,graph): batch validation, live HNSW identities, generated IDs, replacement indexes](https://github.com/ruvnet/RuVector/pull/1435) | +816 / -40 across 15 files | 0 reviews · 2 comments |
 | 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#406: fix(p32, s02): build human-review worklists from the judge majority, not one sample](https://github.com/ifixai-ai/iFixAi/pull/406) | +136 / -27 across 3 files | 1 reviews · 0 comments |
 | 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#405: fix: de-duplicate user ids before capping users in 14 inspection runners](https://github.com/ifixai-ai/iFixAi/pull/405) | +142 / -26 across 16 files | 1 reviews · 0 comments |
 | 2026-11-09 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#404: fix: give every B03/B06/B08/B13/B16/B18/B21/B25 probe its own evidence id](https://github.com/ifixai-ai/iFixAi/pull/404) | +52 / -1 across 9 files | 1 reviews · 0 comments |

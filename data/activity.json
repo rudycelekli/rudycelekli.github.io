@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-10T00:59:19Z",
+      "deletions": 2,
+      "merged_at": "2026-11-10T02:29:51Z",
+      "number": 2695,
+      "repository": "opensandbox-group/OpenSandbox",
+      "repository_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "reviews": 3,
+      "title": "fix(helm): skip the dev route-key Secret when existingSecret is set",
+      "url": "https://github.com/opensandbox-group/OpenSandbox/pull/2695"
+    },
+    {
+      "additions": 816,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 15,
+      "comments": 2,
+      "commits": 4,
+      "created_at": "2026-11-09T15:18:22Z",
+      "deletions": 40,
+      "merged_at": "2026-11-10T02:04:31Z",
+      "number": 1435,
+      "repository": "ruvnet/RuVector",
+      "repository_url": "https://github.com/ruvnet/RuVector",
+      "reviews": 0,
+      "title": "fix(core,graph): batch validation, live HNSW identities, generated IDs, replacement indexes",
+      "url": "https://github.com/ruvnet/RuVector/pull/1435"
+    },
+    {
       "additions": 136,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -61312,7 +61344,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3830,
+  "record_count": 3832,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }
