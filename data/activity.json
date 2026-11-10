@@ -8,6 +8,70 @@
   },
   "items": [
     {
+      "additions": 1,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-21T05:02:35Z",
+      "deletions": 1,
+      "merged_at": "2026-11-10T19:25:42Z",
+      "number": 727,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "reviews": 1,
+      "title": "docs(scrape): align query dates with the discovery window",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/727"
+    },
+    {
+      "additions": 10,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-21T05:02:19Z",
+      "deletions": 1,
+      "merged_at": "2026-11-10T19:18:16Z",
+      "number": 726,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "reviews": 1,
+      "title": "fix(outcome): use latest activity for follow-up quiet days",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/726"
+    },
+    {
+      "additions": 22,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-21T05:02:03Z",
+      "deletions": 4,
+      "merged_at": "2026-11-10T19:10:37Z",
+      "number": 725,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "reviews": 1,
+      "title": "fix(security): reject Bun prepare wrapper hooks",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/725"
+    },
+    {
+      "additions": 28,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-10-21T05:01:09Z",
+      "deletions": 2,
+      "merged_at": "2026-11-10T19:03:22Z",
+      "number": 724,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "reviews": 1,
+      "title": "fix(verify_pdf): exclude currency amounts from ASCII date checks",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/724"
+    },
+    {
       "additions": 18,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -7137,11 +7201,11 @@
       "deletions": 117,
       "merged_at": "2026-10-30T12:01:11Z",
       "number": 1056,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 15,
       "title": "fix(report): retain serial duration with interrupted retry verdicts",
-      "url": "https://github.com/tester-army/e2e/pull/1056"
+      "url": "https://github.com/e2e-inc/e2e/pull/1056"
     },
     {
       "additions": 200,
@@ -8657,11 +8721,11 @@
       "deletions": 13,
       "merged_at": "2026-10-29T00:32:28Z",
       "number": 1044,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 8,
       "title": "feat(web): inspect upstream responses from route handlers",
-      "url": "https://github.com/tester-army/e2e/pull/1044"
+      "url": "https://github.com/e2e-inc/e2e/pull/1044"
     },
     {
       "additions": 175,
@@ -8673,11 +8737,11 @@
       "deletions": 6,
       "merged_at": "2026-10-29T00:32:18Z",
       "number": 1046,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "feat(web): clear selected cookies without resetting app storage",
-      "url": "https://github.com/tester-army/e2e/pull/1046"
+      "url": "https://github.com/e2e-inc/e2e/pull/1046"
     },
     {
       "additions": 344,
@@ -8689,11 +8753,11 @@
       "deletions": 67,
       "merged_at": "2026-10-28T20:35:02Z",
       "number": 1048,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "feat(web): collect multiple downloads from one trigger",
-      "url": "https://github.com/tester-army/e2e/pull/1048"
+      "url": "https://github.com/e2e-inc/e2e/pull/1048"
     },
     {
       "additions": 85,
@@ -9121,11 +9185,11 @@
       "deletions": 57,
       "merged_at": "2026-10-27T23:31:38Z",
       "number": 1037,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "feat(locator): support hasNotText filters across engines",
-      "url": "https://github.com/tester-army/e2e/pull/1037"
+      "url": "https://github.com/e2e-inc/e2e/pull/1037"
     },
     {
       "additions": 86,
@@ -15841,11 +15905,11 @@
       "deletions": 1,
       "merged_at": "2026-10-22T16:39:52Z",
       "number": 996,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 6,
       "title": "fix(runner): validate numeric SDK list shards",
-      "url": "https://github.com/tester-army/e2e/pull/996"
+      "url": "https://github.com/e2e-inc/e2e/pull/996"
     },
     {
       "additions": 218,
@@ -15857,11 +15921,11 @@
       "deletions": 21,
       "merged_at": "2026-10-22T16:39:23Z",
       "number": 1049,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 6,
       "title": "feat(locator): combine alternatives with or",
-      "url": "https://github.com/tester-army/e2e/pull/1049"
+      "url": "https://github.com/e2e-inc/e2e/pull/1049"
     },
     {
       "additions": 24,
@@ -15905,11 +15969,11 @@
       "deletions": 2,
       "merged_at": "2026-10-22T16:24:00Z",
       "number": 900,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(web): exclude hidden select choices before observation limits",
-      "url": "https://github.com/tester-army/e2e/pull/900"
+      "url": "https://github.com/e2e-inc/e2e/pull/900"
     },
     {
       "additions": 273,
@@ -15969,11 +16033,11 @@
       "deletions": 5,
       "merged_at": "2026-10-22T15:57:16Z",
       "number": 1072,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(cache): report eviction only after store deletion succeeds",
-      "url": "https://github.com/tester-army/e2e/pull/1072"
+      "url": "https://github.com/e2e-inc/e2e/pull/1072"
     },
     {
       "additions": 89,
@@ -20737,11 +20801,11 @@
       "deletions": 11,
       "merged_at": "2026-10-19T13:57:16Z",
       "number": 1041,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 4,
       "title": "feat(web): clear all browser fixture routes",
-      "url": "https://github.com/tester-army/e2e/pull/1041"
+      "url": "https://github.com/e2e-inc/e2e/pull/1041"
     },
     {
       "additions": 374,
@@ -23633,11 +23697,11 @@
       "deletions": 3,
       "merged_at": "2026-10-17T13:40:11Z",
       "number": 1050,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "feat(web): expose native dialog kinds to handlers",
-      "url": "https://github.com/tester-army/e2e/pull/1050"
+      "url": "https://github.com/e2e-inc/e2e/pull/1050"
     },
     {
       "additions": 76,
@@ -24433,11 +24497,11 @@
       "deletions": 2,
       "merged_at": "2026-10-16T13:46:45Z",
       "number": 1070,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(bench): compare run exit statuses alongside test outcomes",
-      "url": "https://github.com/tester-army/e2e/pull/1070"
+      "url": "https://github.com/e2e-inc/e2e/pull/1070"
     },
     {
       "additions": 17,
@@ -24449,11 +24513,11 @@
       "deletions": 2,
       "merged_at": "2026-10-16T13:46:17Z",
       "number": 1071,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(bench): report instability independently on both builds",
-      "url": "https://github.com/tester-army/e2e/pull/1071"
+      "url": "https://github.com/e2e-inc/e2e/pull/1071"
     },
     {
       "additions": 33,
@@ -24465,11 +24529,11 @@
       "deletions": 3,
       "merged_at": "2026-10-16T13:38:52Z",
       "number": 897,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 1,
       "title": "fix(eas): validate session minute limits before acquiring devices",
-      "url": "https://github.com/tester-army/e2e/pull/897"
+      "url": "https://github.com/e2e-inc/e2e/pull/897"
     },
     {
       "additions": 50,
@@ -24481,11 +24545,11 @@
       "deletions": 4,
       "merged_at": "2026-10-16T13:38:09Z",
       "number": 1038,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "fix(github): distinguish API throttling from token permissions",
-      "url": "https://github.com/tester-army/e2e/pull/1038"
+      "url": "https://github.com/e2e-inc/e2e/pull/1038"
     },
     {
       "additions": 38,
@@ -24497,11 +24561,11 @@
       "deletions": 1,
       "merged_at": "2026-10-16T13:37:37Z",
       "number": 1035,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "fix(decision): account for responses received after cancellation",
-      "url": "https://github.com/tester-army/e2e/pull/1035"
+      "url": "https://github.com/e2e-inc/e2e/pull/1035"
     },
     {
       "additions": 67,
@@ -24513,11 +24577,11 @@
       "deletions": 3,
       "merged_at": "2026-10-16T13:37:11Z",
       "number": 1029,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(report): align code frames to terminal display columns",
-      "url": "https://github.com/tester-army/e2e/pull/1029"
+      "url": "https://github.com/e2e-inc/e2e/pull/1029"
     },
     {
       "additions": 30,
@@ -24529,11 +24593,11 @@
       "deletions": 1,
       "merged_at": "2026-10-16T13:36:57Z",
       "number": 1027,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(report): keep multiline live titles on one terminal row",
-      "url": "https://github.com/tester-army/e2e/pull/1027"
+      "url": "https://github.com/e2e-inc/e2e/pull/1027"
     },
     {
       "additions": 59,
@@ -27265,11 +27329,11 @@
       "deletions": 6,
       "merged_at": "2026-10-15T11:27:03Z",
       "number": 1042,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "feat(web): support held keyboard keys and modifiers",
-      "url": "https://github.com/tester-army/e2e/pull/1042"
+      "url": "https://github.com/e2e-inc/e2e/pull/1042"
     },
     {
       "additions": 1,
@@ -27601,11 +27665,11 @@
       "deletions": 5,
       "merged_at": "2026-10-15T08:22:26Z",
       "number": 895,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(web): read recognized ARIA role fallbacks",
-      "url": "https://github.com/tester-army/e2e/pull/895"
+      "url": "https://github.com/e2e-inc/e2e/pull/895"
     },
     {
       "additions": 10,
@@ -27985,11 +28049,11 @@
       "deletions": 6,
       "merged_at": "2026-10-14T17:00:09Z",
       "number": 1043,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "feat(web): expose saved download absolute paths",
-      "url": "https://github.com/tester-army/e2e/pull/1043"
+      "url": "https://github.com/e2e-inc/e2e/pull/1043"
     },
     {
       "additions": 39,
@@ -33857,11 +33921,11 @@
       "deletions": 6,
       "merged_at": "2026-10-12T15:39:51Z",
       "number": 1052,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(config): resolve nested TypeScript solution references",
-      "url": "https://github.com/tester-army/e2e/pull/1052"
+      "url": "https://github.com/e2e-inc/e2e/pull/1052"
     },
     {
       "additions": 77,
@@ -33873,11 +33937,11 @@
       "deletions": 19,
       "merged_at": "2026-10-12T15:38:41Z",
       "number": 933,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "fix(oauth): cancel model calls waiting for token refresh",
-      "url": "https://github.com/tester-army/e2e/pull/933"
+      "url": "https://github.com/e2e-inc/e2e/pull/933"
     },
     {
       "additions": 7,
@@ -33889,11 +33953,11 @@
       "deletions": 1,
       "merged_at": "2026-10-12T15:36:41Z",
       "number": 934,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 1,
       "title": "test(core): assert the remaining download wait budget",
-      "url": "https://github.com/tester-army/e2e/pull/934"
+      "url": "https://github.com/e2e-inc/e2e/pull/934"
     },
     {
       "additions": 29,
@@ -33921,11 +33985,11 @@
       "deletions": 5,
       "merged_at": "2026-10-12T14:54:17Z",
       "number": 944,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(core): recheck cached session expiry before restore",
-      "url": "https://github.com/tester-army/e2e/pull/944"
+      "url": "https://github.com/e2e-inc/e2e/pull/944"
     },
     {
       "additions": 99,
@@ -33937,11 +34001,11 @@
       "deletions": 7,
       "merged_at": "2026-10-12T14:44:16Z",
       "number": 932,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(core): stop surviving app-command descendants",
-      "url": "https://github.com/tester-army/e2e/pull/932"
+      "url": "https://github.com/e2e-inc/e2e/pull/932"
     },
     {
       "additions": 640,
@@ -40641,11 +40705,11 @@
       "deletions": 13,
       "merged_at": "2026-10-09T07:07:14Z",
       "number": 935,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(oauth): cancel ChatGPT authorization-code exchange",
-      "url": "https://github.com/tester-army/e2e/pull/935"
+      "url": "https://github.com/e2e-inc/e2e/pull/935"
     },
     {
       "additions": 148,
@@ -43009,11 +43073,11 @@
       "deletions": 6,
       "merged_at": "2026-10-08T17:54:59Z",
       "number": 941,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 1,
       "title": "fix(web): serialize method functions for page evaluation",
-      "url": "https://github.com/tester-army/e2e/pull/941"
+      "url": "https://github.com/e2e-inc/e2e/pull/941"
     },
     {
       "additions": 475,
@@ -43185,11 +43249,11 @@
       "deletions": 4,
       "merged_at": "2026-10-08T12:54:31Z",
       "number": 936,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(core): cancel readiness HTTP probes when interrupted",
-      "url": "https://github.com/tester-army/e2e/pull/936"
+      "url": "https://github.com/e2e-inc/e2e/pull/936"
     },
     {
       "additions": 145,
@@ -43217,11 +43281,11 @@
       "deletions": 1,
       "merged_at": "2026-10-08T11:47:40Z",
       "number": 943,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(web): scope shadow landmarks to outer sections",
-      "url": "https://github.com/tester-army/e2e/pull/943"
+      "url": "https://github.com/e2e-inc/e2e/pull/943"
     },
     {
       "additions": 160,
@@ -43233,11 +43297,11 @@
       "deletions": 9,
       "merged_at": "2026-10-08T11:46:44Z",
       "number": 893,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(run): stop abandoned fixture setup before later test work",
-      "url": "https://github.com/tester-army/e2e/pull/893"
+      "url": "https://github.com/e2e-inc/e2e/pull/893"
     },
     {
       "additions": 98,
@@ -43249,11 +43313,11 @@
       "deletions": 6,
       "merged_at": "2026-10-08T11:46:13Z",
       "number": 903,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(web): validate the focused keyboard control",
-      "url": "https://github.com/tester-army/e2e/pull/903"
+      "url": "https://github.com/e2e-inc/e2e/pull/903"
     },
     {
       "additions": 45,
@@ -43265,11 +43329,11 @@
       "deletions": 2,
       "merged_at": "2026-10-08T11:45:50Z",
       "number": 889,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 4,
       "title": "fix(web): dismiss an unanswered dialog when its handler throws",
-      "url": "https://github.com/tester-army/e2e/pull/889"
+      "url": "https://github.com/e2e-inc/e2e/pull/889"
     },
     {
       "additions": 89,
@@ -43857,11 +43921,11 @@
       "deletions": 2,
       "merged_at": "2026-10-07T21:53:26Z",
       "number": 927,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(core): match Unicode characters in test globs",
-      "url": "https://github.com/tester-army/e2e/pull/927"
+      "url": "https://github.com/e2e-inc/e2e/pull/927"
     },
     {
       "additions": 27,
@@ -43873,11 +43937,11 @@
       "deletions": 3,
       "merged_at": "2026-10-07T21:51:43Z",
       "number": 906,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 1,
       "title": "fix(eas): refuse cancelled acquisition before creating sessions",
-      "url": "https://github.com/tester-army/e2e/pull/906"
+      "url": "https://github.com/e2e-inc/e2e/pull/906"
     },
     {
       "additions": 72,
@@ -43905,11 +43969,11 @@
       "deletions": 5,
       "merged_at": "2026-10-07T21:50:32Z",
       "number": 905,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(oauth): reject read-only credentials before starting login",
-      "url": "https://github.com/tester-army/e2e/pull/905"
+      "url": "https://github.com/e2e-inc/e2e/pull/905"
     },
     {
       "additions": 12,
@@ -43921,11 +43985,11 @@
       "deletions": 1,
       "merged_at": "2026-10-07T21:48:56Z",
       "number": 904,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(kernel): preserve the default idle timeout for undefined options",
-      "url": "https://github.com/tester-army/e2e/pull/904"
+      "url": "https://github.com/e2e-inc/e2e/pull/904"
     },
     {
       "additions": 55,
@@ -43937,11 +44001,11 @@
       "deletions": 1,
       "merged_at": "2026-10-07T21:48:03Z",
       "number": 901,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 4,
       "title": "fix(mcp): skip cancelled queued tool calls",
-      "url": "https://github.com/tester-army/e2e/pull/901"
+      "url": "https://github.com/e2e-inc/e2e/pull/901"
     },
     {
       "additions": 88,
@@ -43953,11 +44017,11 @@
       "deletions": 8,
       "merged_at": "2026-10-07T17:07:23Z",
       "number": 899,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(oauth): cancel the initial device-code request on interrupt",
-      "url": "https://github.com/tester-army/e2e/pull/899"
+      "url": "https://github.com/e2e-inc/e2e/pull/899"
     },
     {
       "additions": 289,
@@ -44129,11 +44193,11 @@
       "deletions": 4,
       "merged_at": "2026-10-07T14:36:15Z",
       "number": 898,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(web): accept case-insensitive aria-selected and aria-hidden",
-      "url": "https://github.com/tester-army/e2e/pull/898"
+      "url": "https://github.com/e2e-inc/e2e/pull/898"
     },
     {
       "additions": 25,
@@ -44145,11 +44209,11 @@
       "deletions": 7,
       "merged_at": "2026-10-07T14:35:11Z",
       "number": 907,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(locator): preserve the direct read deadline through retries",
-      "url": "https://github.com/tester-army/e2e/pull/907"
+      "url": "https://github.com/e2e-inc/e2e/pull/907"
     },
     {
       "additions": 159,
@@ -46993,11 +47057,11 @@
       "deletions": 9,
       "merged_at": "2026-10-06T10:01:26Z",
       "number": 891,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 3,
       "title": "fix(web): infer row headers beside table data cells",
-      "url": "https://github.com/tester-army/e2e/pull/891"
+      "url": "https://github.com/e2e-inc/e2e/pull/891"
     },
     {
       "additions": 61,
@@ -47041,11 +47105,11 @@
       "deletions": 4,
       "merged_at": "2026-10-06T09:36:39Z",
       "number": 902,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 5,
       "title": "fix(init): retain MCP server environment and client settings",
-      "url": "https://github.com/tester-army/e2e/pull/902"
+      "url": "https://github.com/e2e-inc/e2e/pull/902"
     },
     {
       "additions": 58,
@@ -47057,11 +47121,11 @@
       "deletions": 3,
       "merged_at": "2026-10-06T09:34:04Z",
       "number": 894,
-      "repository": "tester-army/e2e",
-      "repository_url": "https://github.com/tester-army/e2e",
+      "repository": "e2e-inc/e2e",
+      "repository_url": "https://github.com/e2e-inc/e2e",
       "reviews": 2,
       "title": "fix(mcp): preserve project tool model output and error status",
-      "url": "https://github.com/tester-army/e2e/pull/894"
+      "url": "https://github.com/e2e-inc/e2e/pull/894"
     },
     {
       "additions": 81,
@@ -61568,7 +61632,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3846,
+  "record_count": 3850,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }

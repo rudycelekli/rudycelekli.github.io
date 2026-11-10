@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-10T18:54:09Z</updated>
+  <updated>2026-11-10T19:25:42Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #727: docs(scrape): align query dates with the discovery window</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/727</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/727"/>
+    <updated>2026-11-10T19:25:42Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #726: fix(outcome): use latest activity for follow-up quiet days</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/726</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/726"/>
+    <updated>2026-11-10T19:18:16Z</updated>
+    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #725: fix(security): reject Bun prepare wrapper hooks</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/725</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/725"/>
+    <updated>2026-11-10T19:10:37Z</updated>
+    <summary>Merged public contribution. +22 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #724: fix(verify_pdf): exclude currency amounts from ASCII date checks</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/724</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/724"/>
+    <updated>2026-11-10T19:03:22Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ai-job-search-dev/ai-job-search #720: fix(salary): match thorn and eth in Nordic ASCII spellings</title>
     <id>https://github.com/ai-job-search-dev/ai-job-search/pull/720</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/2095"/>
     <updated>2026-11-09T17:53:51Z</updated>
     <summary>Merged public contribution. +16 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2094: fix(core): skip fenced code in the SessionStart brief excerpt</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2094</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2094"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +56 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2093: fix(web): read a blank session jump field as omitted, not a 400</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2093</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2093"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +37 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2092: fix(mcp): read a blank handoff-accept cwd as omitted</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2092</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2092"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +64 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2091: fix(hooks): split acknowledgment phrases on any whitespace</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2091</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2091"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
