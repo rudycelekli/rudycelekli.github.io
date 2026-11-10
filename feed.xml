@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-10T08:11:54Z</updated>
+  <updated>2026-11-10T18:29:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #715: fix(gmail-sync): query discovered label names instead of IDs</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/715</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/715"/>
+    <updated>2026-11-10T18:29:48Z</updated>
+    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>tigerless-labs/autoharness #242: fix(mcp): reject non-object tool parameters</title>
     <id>https://github.com/tigerless-labs/autoharness/pull/242</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/2088"/>
     <updated>2026-11-09T17:53:51Z</updated>
     <summary>Merged public contribution. +20 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2087: fix(hooks): say "ago" once in the pending-handoff notice</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2087</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2087"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
   </entry>
 </feed>
