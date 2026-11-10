@@ -4,8 +4,113 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-10T19:48:28Z</updated>
+  <updated>2026-11-10T21:27:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>AgriciDaniel/claude-seo #381: fix(seo-updates): parse --since robustly instead of crashing</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/381</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/381"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +58 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #380: fix(pagespeed): exit non-zero when every --psi-only call fails</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/380</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/380"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #379: fix(indexing-notify): do not overwrite the batch-truncation warning</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/379</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/379"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +54 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #378: fix(content-verify): keep the citation Proper-Noun anchor case-sensitive</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/378</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/378"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #377: fix(content-verify): detect a bare percentage statistic</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/377</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/377"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #376: fix(preload): tolerate a non-object speculationrules body</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/376</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/376"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +47 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #375: fix(fetch): ignore charset= hidden in another meta attribute</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/375</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/375"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +77 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #374: fix(content): do not score a filler phrase inside a longer one</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/374</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/374"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #373: fix(sitemap): keep Sitemap URLs when a comment follows</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/373</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/373"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +54 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #372: fix(schema): accept a list of offer priceSpecification objects</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/372</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/372"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +50 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #371: fix(indexnow): compare the key file host, not a URL substring</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/371</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/371"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +76 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #370: fix(gbp): score verified status from DataForSEO is_claimed</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/370</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/370"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +43 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #369: fix(seo): pass the full /seo input through $ARGUMENTS</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/369</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/369"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #368: fix(sitemap): keep the 50,000 URL limit when news tags are present</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/368</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/368"/>
+    <updated>2026-11-10T21:27:34Z</updated>
+    <summary>Merged public contribution. +34 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo #400: fix(normalize): map currency symbols to ISO codes, not just $</title>
+    <id>https://github.com/AgriciDaniel/claude-seo/pull/400</id>
+    <link href="https://github.com/AgriciDaniel/claude-seo/pull/400"/>
+    <updated>2026-11-10T21:27:33Z</updated>
+    <summary>Merged public contribution. +50 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ai-job-search-dev/ai-job-search #764: fix(fetch-page): drop unclosed script and template blocks from --text</title>
     <id>https://github.com/ai-job-search-dev/ai-job-search/pull/764</id>
@@ -250,110 +355,5 @@
     <link href="https://github.com/headroomlabs-ai/headroom/pull/4503"/>
     <updated>2026-11-09T18:21:16Z</updated>
     <summary>Merged public contribution. +423 / -22 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2080: fix(hooks): split a home route without globbing its aliases</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2080</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2080"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +11 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2079: fix(hooks): treat an inbox-notice-only marker as a settings boundary in script hooks</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2079</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2079"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +14 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2076: fix(workstream): skip a non-UTF-8 transcript line when following a Claude /clear</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2076</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2076"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +45 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2075: fix(init): keep the token pepper when --force rewrites the config</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2075</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2075"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +34 / -9 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2074: fix(consolidate): keep fenced code out of the A2 compaction summary</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2074</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2074"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +24 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2073: fix(cli): keep a BOM from hiding a home route header on the first line</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2073</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2073"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +21 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2072: fix(install-mcp): drop the MCP URL's query before peeling /mcp in Pi guidance</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2072</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2072"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +29 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2071: fix(hooks): keep a mounted server_url's path from doubling on spool retry</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2071</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2071"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2070: fix(backup): keep plugin manifest directories in backup-agents archives</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2070</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2070"/>
-    <updated>2026-11-09T17:53:52Z</updated>
-    <summary>Merged public contribution. +73 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2101: fix(consolidate): group lint duplicate titles across whitespace like the collision guard</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2101</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2101"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2100: fix(admin): saturate the handoff expiry cutoff instead of wrapping it</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2100</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2100"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +57 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2099: fix(workstream): launch Codex's e, a and cloud-tasks aliases like their full names</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2099</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2099"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +45 / -8 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2098: fix(workstream): keep a %+X sequence verbatim when decoding a file URI</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2098</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2098"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +7 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2097: fix(workstream): keep Grok's native tool-call ids on tool calls and results</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2097</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2097"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2096: fix(workstream): keep Kimi's native tool-call ids on appended messages</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2096</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2096"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 1 changed files.</summary>
   </entry>
 </feed>

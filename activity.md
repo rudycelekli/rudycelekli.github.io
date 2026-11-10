@@ -4,10 +4,25 @@ Evidence timestamp: **2026-11-10 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,851**
+Records: **3,866**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#381: fix(seo-updates): parse --since robustly instead of crashing](https://github.com/AgriciDaniel/claude-seo/pull/381) | +58 / -9 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#380: fix(pagespeed): exit non-zero when every --psi-only call fails](https://github.com/AgriciDaniel/claude-seo/pull/380) | +54 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#379: fix(indexing-notify): do not overwrite the batch-truncation warning](https://github.com/AgriciDaniel/claude-seo/pull/379) | +54 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#378: fix(content-verify): keep the citation Proper-Noun anchor case-sensitive](https://github.com/AgriciDaniel/claude-seo/pull/378) | +18 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#377: fix(content-verify): detect a bare percentage statistic](https://github.com/AgriciDaniel/claude-seo/pull/377) | +20 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#376: fix(preload): tolerate a non-object speculationrules body](https://github.com/AgriciDaniel/claude-seo/pull/376) | +47 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#375: fix(fetch): ignore charset= hidden in another meta attribute](https://github.com/AgriciDaniel/claude-seo/pull/375) | +77 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#374: fix(content): do not score a filler phrase inside a longer one](https://github.com/AgriciDaniel/claude-seo/pull/374) | +35 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#373: fix(sitemap): keep Sitemap URLs when a comment follows](https://github.com/AgriciDaniel/claude-seo/pull/373) | +54 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#372: fix(schema): accept a list of offer priceSpecification objects](https://github.com/AgriciDaniel/claude-seo/pull/372) | +50 / -3 across 3 files | 0 reviews · 1 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#371: fix(indexnow): compare the key file host, not a URL substring](https://github.com/AgriciDaniel/claude-seo/pull/371) | +76 / -2 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#370: fix(gbp): score verified status from DataForSEO is_claimed](https://github.com/AgriciDaniel/claude-seo/pull/370) | +43 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#369: fix(seo): pass the full /seo input through $ARGUMENTS](https://github.com/AgriciDaniel/claude-seo/pull/369) | +25 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#368: fix(sitemap): keep the 50,000 URL limit when news tags are present](https://github.com/AgriciDaniel/claude-seo/pull/368) | +34 / -6 across 3 files | 0 reviews · 0 comments |
+| 2026-11-10 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [#400: fix(normalize): map currency symbols to ISO codes, not just $](https://github.com/AgriciDaniel/claude-seo/pull/400) | +50 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#764: fix(fetch-page): drop unclosed script and template blocks from --text](https://github.com/ai-job-search-dev/ai-job-search/pull/764) | +53 / -6 across 2 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#727: docs(scrape): align query dates with the discovery window](https://github.com/ai-job-search-dev/ai-job-search/pull/727) | +1 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#726: fix(outcome): use latest activity for follow-up quiet days](https://github.com/ai-job-search-dev/ai-job-search/pull/726) | +10 / -1 across 2 files | 1 reviews · 0 comments |
