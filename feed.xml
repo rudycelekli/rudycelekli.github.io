@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-10T18:29:48Z</updated>
+  <updated>2026-11-10T18:54:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #720: fix(salary): match thorn and eth in Nordic ASCII spellings</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/720</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/720"/>
+    <updated>2026-11-10T18:54:09Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #717: fix(posting-guard): match hidden CSS declaration names</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/717</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/717"/>
+    <updated>2026-11-10T18:46:03Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ai-job-search-dev/ai-job-search #716: fix(archive): preserve submitted template source extensions</title>
+    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/716</id>
+    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/716"/>
+    <updated>2026-11-10T18:37:09Z</updated>
+    <summary>Merged public contribution. +42 / -13 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>ai-job-search-dev/ai-job-search #715: fix(gmail-sync): query discovered label names instead of IDs</title>
     <id>https://github.com/ai-job-search-dev/ai-job-search/pull/715</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/2091"/>
     <updated>2026-11-09T17:53:51Z</updated>
     <summary>Merged public contribution. +20 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2090: fix(hooks): count a recap prompt with no room for its text as omitted</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2090</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2090"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +17 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2089: fix(hooks): keep bare tool-family labels out of session titles and summaries</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2089</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2089"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2088: fix(store): keep accented Latin words whole in query-signal similarity</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2088</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2088"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +20 / -10 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-10 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,843**
+Records: **3,846**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#720: fix(salary): match thorn and eth in Nordic ASCII spellings](https://github.com/ai-job-search-dev/ai-job-search/pull/720) | +18 / -1 across 2 files | 1 reviews · 0 comments |
+| 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#717: fix(posting-guard): match hidden CSS declaration names](https://github.com/ai-job-search-dev/ai-job-search/pull/717) | +35 / -2 across 2 files | 2 reviews · 0 comments |
+| 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#716: fix(archive): preserve submitted template source extensions](https://github.com/ai-job-search-dev/ai-job-search/pull/716) | +42 / -13 across 5 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#715: fix(gmail-sync): query discovered label names instead of IDs](https://github.com/ai-job-search-dev/ai-job-search/pull/715) | +3 / -3 across 1 files | 1 reviews · 0 comments |
 | 2026-11-10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#242: fix(mcp): reject non-object tool parameters](https://github.com/tigerless-labs/autoharness/pull/242) | +26 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-10 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | [#238: fix: return validation findings for malformed intent values](https://github.com/tigerless-labs/autoharness/pull/238) | +44 / -1 across 2 files | 0 reviews · 0 comments |
