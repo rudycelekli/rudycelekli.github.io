@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-10T07:27:43Z</updated>
+  <updated>2026-11-10T08:11:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/autoharness #242: fix(mcp): reject non-object tool parameters</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/242</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/242"/>
+    <updated>2026-11-10T08:11:54Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #238: fix: return validation findings for malformed intent values</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/238</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/238"/>
+    <updated>2026-11-10T08:10:07Z</updated>
+    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>tigerless-labs/autoharness #231: fix(ledger): serialize provenance readers with append writers</title>
+    <id>https://github.com/tigerless-labs/autoharness/pull/231</id>
+    <link href="https://github.com/tigerless-labs/autoharness/pull/231"/>
+    <updated>2026-11-10T08:07:19Z</updated>
+    <summary>Merged public contribution. +77 / -19 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>Thysrael/Horizon #216: fix: validate positive collection windows across entry points</title>
     <id>https://github.com/Thysrael/Horizon/pull/216</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/akitaonrails/ai-memory/pull/2087"/>
     <updated>2026-11-09T17:53:51Z</updated>
     <summary>Merged public contribution. +3 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2086: fix(web): show a project refusal instead of redirecting to change-password</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2086</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2086"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +63 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2085: fix(admin): answer a reject of an already-decided proposal with 409, not 500</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2085</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2085"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +42 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2084: fix(consolidate): keep a rule titled after a DOS device on a portable path</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2084</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2084"/>
-    <updated>2026-11-09T17:53:51Z</updated>
-    <summary>Merged public contribution. +23 / -1 across 1 changed files.</summary>
   </entry>
 </feed>

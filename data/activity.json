@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 26,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T14:58:13Z",
+      "deletions": 1,
+      "merged_at": "2026-11-10T08:11:54Z",
+      "number": 242,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(mcp): reject non-object tool parameters",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/242"
+    },
+    {
+      "additions": 44,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T14:58:03Z",
+      "deletions": 1,
+      "merged_at": "2026-11-10T08:10:07Z",
+      "number": 238,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix: return validation findings for malformed intent values",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/238"
+    },
+    {
+      "additions": 77,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-09T14:57:44Z",
+      "deletions": 19,
+      "merged_at": "2026-11-10T08:07:19Z",
+      "number": 231,
+      "repository": "tigerless-labs/autoharness",
+      "repository_url": "https://github.com/tigerless-labs/autoharness",
+      "reviews": 0,
+      "title": "fix(ledger): serialize provenance readers with append writers",
+      "url": "https://github.com/tigerless-labs/autoharness/pull/231"
+    },
+    {
       "additions": 142,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 6,
@@ -61456,7 +61504,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3839,
+  "record_count": 3842,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }
