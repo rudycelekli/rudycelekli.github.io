@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 53,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-23T22:58:41Z",
+      "deletions": 6,
+      "merged_at": "2026-11-10T19:48:28Z",
+      "number": 764,
+      "repository": "ai-job-search-dev/ai-job-search",
+      "repository_url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "reviews": 1,
+      "title": "fix(fetch-page): drop unclosed script and template blocks from --text",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/764"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -61632,7 +61648,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3850,
+  "record_count": 3851,
   "schema_version": 1,
   "updated_at_utc": "2026-11-10"
 }

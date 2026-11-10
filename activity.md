@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-10 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,850**
+Records: **3,851**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#764: fix(fetch-page): drop unclosed script and template blocks from --text](https://github.com/ai-job-search-dev/ai-job-search/pull/764) | +53 / -6 across 2 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#727: docs(scrape): align query dates with the discovery window](https://github.com/ai-job-search-dev/ai-job-search/pull/727) | +1 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#726: fix(outcome): use latest activity for follow-up quiet days](https://github.com/ai-job-search-dev/ai-job-search/pull/726) | +10 / -1 across 2 files | 1 reviews · 0 comments |
 | 2026-11-10 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | [#725: fix(security): reject Bun prepare wrapper hooks](https://github.com/ai-job-search-dev/ai-job-search/pull/725) | +22 / -4 across 2 files | 1 reviews · 0 comments |
