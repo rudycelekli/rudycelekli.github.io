@@ -8,7 +8,7 @@ Records: **3,870**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
-| 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2026: Fix traffic-flux verifier sandbox resources](https://github.com/harbor-framework/terminal-bench-science/pull/2026) | +4 / -0 across 1 files | 2 reviews · 9 comments |
+| 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2026: Fix traffic-flux verifier sandbox resources](https://github.com/harbor-framework/terminal-bench-science/pull/2026) | +4 / -0 across 1 files | 2 reviews · 10 comments |
 | 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2029: Fix highdim verifier sandbox resources](https://github.com/harbor-framework/terminal-bench-science/pull/2029) | +4 / -0 across 1 files | 2 reviews · 8 comments |
 | 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1980: fix(3x2pt-inference): verify reported summaries against posterior samples](https://github.com/harbor-framework/terminal-bench-science/pull/1980) | +123 / -0 across 3 files | 1 reviews · 11 comments |
 | 2026-11-10 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2045: fix(dna-storage-codec): unlink directory aliases during workspace reset](https://github.com/harbor-framework/terminal-bench-science/pull/2045) | +44 / -1 across 2 files | 2 reviews · 7 comments |
