@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T17:40:33Z</updated>
+  <updated>2026-11-11T18:49:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JetBrains/thinkrail #1051: fix(web): preserve image drafts across chat remounts</title>
+    <id>https://github.com/JetBrains/thinkrail/pull/1051</id>
+    <link href="https://github.com/JetBrains/thinkrail/pull/1051"/>
+    <updated>2026-11-11T18:49:09Z</updated>
+    <summary>Merged public contribution. +318 / -76 across 11 changed files.</summary>
+  </entry>
   <entry>
     <title>JetBrains/thinkrail #1052: fix(web): align loose-list text with its marker</title>
     <id>https://github.com/JetBrains/thinkrail/pull/1052</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2692"/>
     <updated>2026-11-10T05:09:53Z</updated>
     <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2691: fix(cli): render None table cells as "-"</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2691</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2691"/>
-    <updated>2026-11-10T03:34:48Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
