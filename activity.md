@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-11 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,876**
+Records: **3,878**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-11 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2689: fix(execd): fail fast with 400 when no kernel exists for a language](https://github.com/opensandbox-group/OpenSandbox/pull/2689) | +99 / -3 across 6 files | 2 reviews · 1 comments |
+| 2026-11-11 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2686: fix(execd): return 404 for unknown command logs and validate cursor](https://github.com/opensandbox-group/OpenSandbox/pull/2686) | +64 / -4 across 4 files | 2 reviews · 1 comments |
 | 2026-11-11 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2685: fix(execd): render SQL text columns as strings](https://github.com/opensandbox-group/OpenSandbox/pull/2685) | +92 / -3 across 2 files | 3 reviews · 1 comments |
 | 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1716: Fix oracle pruning when output directories are absent](https://github.com/harbor-framework/terminal-bench-science/pull/1716) | +118 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1910: fix(ci): require every task validation check to pass](https://github.com/harbor-framework/terminal-bench-science/pull/1910) | +13 / -16 across 1 files | 0 reviews · 0 comments |

@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 99,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-10T00:50:31Z",
+      "deletions": 3,
+      "merged_at": "2026-11-11T07:08:10Z",
+      "number": 2689,
+      "repository": "opensandbox-group/OpenSandbox",
+      "repository_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "reviews": 2,
+      "title": "fix(execd): fail fast with 400 when no kernel exists for a language",
+      "url": "https://github.com/opensandbox-group/OpenSandbox/pull/2689"
+    },
+    {
+      "additions": 64,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-10T00:42:46Z",
+      "deletions": 4,
+      "merged_at": "2026-11-11T07:01:27Z",
+      "number": 2686,
+      "repository": "opensandbox-group/OpenSandbox",
+      "repository_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "reviews": 2,
+      "title": "fix(execd): return 404 for unknown command logs and validate cursor",
+      "url": "https://github.com/opensandbox-group/OpenSandbox/pull/2686"
+    },
+    {
       "additions": 92,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -62048,7 +62080,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3876,
+  "record_count": 3878,
   "schema_version": 1,
   "updated_at_utc": "2026-11-11"
 }
