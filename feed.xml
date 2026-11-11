@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T07:48:09Z</updated>
+  <updated>2026-11-11T12:32:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>tigerless-labs/cost-xray #57: fix(verify): retain unmatched output event observations</title>
+    <id>https://github.com/tigerless-labs/cost-xray/pull/57</id>
+    <link href="https://github.com/tigerless-labs/cost-xray/pull/57"/>
+    <updated>2026-11-11T12:32:54Z</updated>
+    <summary>Merged public contribution. +56 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2703: fix(server): return structured codes for network-policy and fsb route errors</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2703</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2703"/>
+    <updated>2026-11-11T12:26:13Z</updated>
+    <summary>Merged public contribution. +70 / -6 across 7 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2702: fix(server): return 400 when Kubernetes rejects a pool spec</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2702</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2702"/>
+    <updated>2026-11-11T12:25:42Z</updated>
+    <summary>Merged public contribution. +53 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2701: fix(server): match '..' as a whole host-path component</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2701</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2694"/>
     <updated>2026-11-10T03:01:44Z</updated>
     <summary>Merged public contribution. +1 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2695: fix(helm): skip the dev route-key Secret when existingSecret is set</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2695</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2695"/>
-    <updated>2026-11-10T02:29:51Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1435: fix(core,graph): batch validation, live HNSW identities, generated IDs, replacement indexes</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1435</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1435"/>
-    <updated>2026-11-10T02:04:31Z</updated>
-    <summary>Merged public contribution. +816 / -40 across 15 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #406: fix(p32, s02): build human-review worklists from the judge majority, not one sample</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/406</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/406"/>
-    <updated>2026-11-09T21:22:47Z</updated>
-    <summary>Merged public contribution. +136 / -27 across 3 changed files.</summary>
   </entry>
 </feed>
