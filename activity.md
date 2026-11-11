@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-11 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,885**
+Records: **3,887**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-11 | [morluto/rea](https://github.com/morluto/rea) | [#10134: fix(adb): classify mDNS wireless serials as TCP](https://github.com/morluto/rea/pull/10134) | +55 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-11 | [morluto/rea](https://github.com/morluto/rea) | [#10136: fix(native): normalize the CPU names lipo prints for i386 slices](https://github.com/morluto/rea/pull/10136) | +23 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-11-11 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1911: fix(ci): fail validation when results cannot be reported](https://github.com/harbor-framework/terminal-bench-science/pull/1911) | +79 / -10 across 3 files | 0 reviews · 0 comments |
 | 2026-11-11 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [#1051: fix(web): preserve image drafts across chat remounts](https://github.com/JetBrains/thinkrail/pull/1051) | +318 / -76 across 11 files | 7 reviews · 1 comments |
 | 2026-11-11 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [#1052: fix(web): align loose-list text with its marker](https://github.com/JetBrains/thinkrail/pull/1052) | +180 / -2 across 3 files | 3 reviews · 0 comments |

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T20:16:11Z</updated>
+  <updated>2026-11-11T22:20:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>morluto/rea #10134: fix(adb): classify mDNS wireless serials as TCP</title>
+    <id>https://github.com/morluto/rea/pull/10134</id>
+    <link href="https://github.com/morluto/rea/pull/10134"/>
+    <updated>2026-11-11T22:20:07Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>morluto/rea #10136: fix(native): normalize the CPU names lipo prints for i386 slices</title>
+    <id>https://github.com/morluto/rea/pull/10136</id>
+    <link href="https://github.com/morluto/rea/pull/10136"/>
+    <updated>2026-11-11T22:20:02Z</updated>
+    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #1911: fix(ci): fail validation when results cannot be reported</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/1911</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/deeplethe/utopia/pull/1399"/>
     <updated>2026-11-10T07:02:18Z</updated>
     <summary>Merged public contribution. +78 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>deeplethe/utopia #1403: A number attribute matches a rule's "is one of" set, so a reading stored as 3.0 is one of {3}</title>
-    <id>https://github.com/deeplethe/utopia/pull/1403</id>
-    <link href="https://github.com/deeplethe/utopia/pull/1403"/>
-    <updated>2026-11-10T06:55:36Z</updated>
-    <summary>Merged public contribution. +57 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2687: fix(execd): return 400 for an invalid /files/search pattern</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2687</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2687"/>
-    <updated>2026-11-10T05:57:06Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 4 changed files.</summary>
   </entry>
 </feed>

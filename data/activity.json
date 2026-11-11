@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 55,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 4,
+      "created_at": "2026-11-11T18:35:33Z",
+      "deletions": 1,
+      "merged_at": "2026-11-11T22:20:07Z",
+      "number": 10134,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 0,
+      "title": "fix(adb): classify mDNS wireless serials as TCP",
+      "url": "https://github.com/morluto/rea/pull/10134"
+    },
+    {
+      "additions": 23,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-11-11T18:41:13Z",
+      "deletions": 0,
+      "merged_at": "2026-11-11T22:20:02Z",
+      "number": 10136,
+      "repository": "morluto/rea",
+      "repository_url": "https://github.com/morluto/rea",
+      "reviews": 0,
+      "title": "fix(native): normalize the CPU names lipo prints for i386 slices",
+      "url": "https://github.com/morluto/rea/pull/10136"
+    },
+    {
       "additions": 79,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -62192,7 +62224,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3885,
+  "record_count": 3887,
   "schema_version": 1,
   "updated_at_utc": "2026-11-11"
 }
