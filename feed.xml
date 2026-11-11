@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T01:13:43Z</updated>
+  <updated>2026-11-11T01:22:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2026: Fix traffic-flux verifier sandbox resources</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2026</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2026"/>
+    <updated>2026-11-11T01:22:20Z</updated>
+    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2029: Fix highdim verifier sandbox resources</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2029</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2029"/>
+    <updated>2026-11-11T01:22:15Z</updated>
+    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #1980: fix(3x2pt-inference): verify reported summaries against posterior samples</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/1980</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/714"/>
     <updated>2026-11-09T20:17:38Z</updated>
     <summary>Merged public contribution. +325 / -27 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ai-job-search-dev/ai-job-search #711: fix(fetch-page): decode standard zlib-wrapped HTTP deflate</title>
-    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/711</id>
-    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/711"/>
-    <updated>2026-11-09T20:17:05Z</updated>
-    <summary>Merged public contribution. +400 / -25 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ai-job-search-dev/ai-job-search #636: fix(rank): report a non-object seen_jobs.json entry instead of a traceback</title>
-    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/636</id>
-    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/636"/>
-    <updated>2026-11-09T20:01:23Z</updated>
-    <summary>Merged public contribution. +41 / -0 across 2 changed files.</summary>
   </entry>
 </feed>
