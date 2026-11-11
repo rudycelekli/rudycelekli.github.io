@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T05:37:09Z</updated>
+  <updated>2026-11-11T06:53:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2685: fix(execd): render SQL text columns as strings</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2685</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2685"/>
+    <updated>2026-11-11T06:53:41Z</updated>
+    <summary>Merged public contribution. +92 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1716: Fix oracle pruning when output directories are absent</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1716</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1716"/>
+    <updated>2026-11-11T06:45:18Z</updated>
+    <summary>Merged public contribution. +118 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1910: fix(ci): require every task validation check to pass</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1910</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1910"/>
+    <updated>2026-11-11T06:45:14Z</updated>
+    <summary>Merged public contribution. +13 / -16 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #1899: Retry transient network failures during task image prebuild</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/1899</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/ifixai-ai/iFixAi/pull/403"/>
     <updated>2026-11-09T21:22:30Z</updated>
     <summary>Merged public contribution. +54 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #402: fix(fixtures): report malformed legacy fixtures as validation errors, not tracebacks</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/402</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/402"/>
-    <updated>2026-11-09T21:22:24Z</updated>
-    <summary>Merged public contribution. +48 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #401: fix(cli): reject a malformed IFIXAI_EXTRA_HEADERS instead of silently dropping it</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/401</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/401"/>
-    <updated>2026-11-09T21:22:19Z</updated>
-    <summary>Merged public contribution. +55 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #400: fix(secrets): redact Basic and quoted auth headers echoed in provider errors</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/400</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/400"/>
-    <updated>2026-11-09T21:22:13Z</updated>
-    <summary>Merged public contribution. +68 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
