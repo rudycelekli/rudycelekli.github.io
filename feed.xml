@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-12T02:03:02Z</updated>
+  <updated>2026-11-12T03:30:43Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>we-promise/sure #4922: Use the destructive token for the required-field asterisk</title>
+    <id>https://github.com/we-promise/sure/pull/4922</id>
+    <link href="https://github.com/we-promise/sure/pull/4922"/>
+    <updated>2026-11-12T03:30:43Z</updated>
+    <summary>Merged public contribution. +13 / -3 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2747: fix(cli): keep metrics watch going when a stream line is invalid</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2747</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/717"/>
     <updated>2026-11-10T18:46:03Z</updated>
     <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ai-job-search-dev/ai-job-search #716: fix(archive): preserve submitted template source extensions</title>
-    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/716</id>
-    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/716"/>
-    <updated>2026-11-10T18:37:09Z</updated>
-    <summary>Merged public contribution. +42 / -13 across 5 changed files.</summary>
   </entry>
 </feed>

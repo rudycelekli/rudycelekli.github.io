@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,893**
+Records: **3,894**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [we-promise/sure](https://github.com/we-promise/sure) | [#4922: Use the destructive token for the required-field asterisk](https://github.com/we-promise/sure/pull/4922) | +13 / -3 across 3 files | 1 reviews · 2 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2747: fix(cli): keep metrics watch going when a stream line is invalid](https://github.com/opensandbox-group/OpenSandbox/pull/2747) | +52 / -4 across 2 files | 2 reviews · 1 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2748: fix(cli): keep the out-of-range reason on duration flags](https://github.com/opensandbox-group/OpenSandbox/pull/2748) | +15 / -6 across 2 files | 2 reviews · 1 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2742: fix(cli): reject a non-positive request timeout](https://github.com/opensandbox-group/OpenSandbox/pull/2742) | +56 / -6 across 4 files | 2 reviews · 1 comments |
