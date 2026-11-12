@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,897**
+Records: **3,899**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2745: fix(cli): show the template manifest ref in table output](https://github.com/opensandbox-group/OpenSandbox/pull/2745) | +17 / -0 across 2 files | 2 reviews · 1 comments |
+| 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2743: fix(cli): exit 1 when config init refuses to overwrite](https://github.com/opensandbox-group/OpenSandbox/pull/2743) | +3 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-12 | [antchfx/xpath](https://github.com/antchfx/xpath) | [#187: Return positional step results in document order](https://github.com/antchfx/xpath/pull/187) | +60 / -16 across 2 files | 0 reviews · 1 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2757: fix(execd): retry SQL setup after a failed database connection](https://github.com/opensandbox-group/OpenSandbox/pull/2757) | +42 / -35 across 3 files | 2 reviews · 1 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2741: fix(execd): encode control characters in Content-Disposition filenames](https://github.com/opensandbox-group/OpenSandbox/pull/2741) | +7 / -1 across 2 files | 2 reviews · 1 comments |
