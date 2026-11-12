@@ -4,10 +4,19 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,672**
+Records: **3,681**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#24: fix(scoring): deduplicate overlapping result roots](https://github.com/facebookresearch/swe-sweep/pull/24) | +59 / -0 across 2 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#26: fix(scoring): report the mean over graded trials](https://github.com/facebookresearch/swe-sweep/pull/26) | +57 / -2 across 2 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#58: fix(scoring): count grader crashes that omit the trial fields](https://github.com/facebookresearch/swe-sweep/pull/58) | +89 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#21: fix(grader): preserve literal JSON escapes on Python 3.13](https://github.com/facebookresearch/swe-sweep/pull/21) | +127 / -100 across 101 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#22: fix(cli): isolate temporary task overrides from symlink sources](https://github.com/facebookresearch/swe-sweep/pull/22) | +47 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#39: fix(release): commit the refreshed lockfile with version bumps](https://github.com/facebookresearch/swe-sweep/pull/39) | +63 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#44: fix(cli): bound Docker infrastructure health checks](https://github.com/facebookresearch/swe-sweep/pull/44) | +75 / -6 across 2 files | 0 reviews · 2 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#62: fix(cli): pass Harbor --yes from sweep eval](https://github.com/facebookresearch/swe-sweep/pull/62) | +2 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#43: docs: normalize the weighted benchmark score equation](https://github.com/facebookresearch/swe-sweep/pull/43) | +1 / -1 across 1 files | 0 reviews · 2 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1436: fix: NaN-stable graph and hyperbolic search, plus original-graph mincut bounds](https://github.com/ruvnet/RuVector/pull/1436) | +594 / -665 across 16 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1096: fix(streaming-qng): make non-finite search inputs safe](https://github.com/ruvnet/RuVector/pull/1096) | +88 / -16 across 5 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1441: fix(rvf-wasm): refuse malformed and dimensionless stores](https://github.com/ruvnet/RuVector/pull/1441) | +33 / -44 across 3 files | 0 reviews · 0 comments |
