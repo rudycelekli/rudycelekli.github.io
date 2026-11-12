@@ -1,6 +1,6 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-11-11 UTC**
+Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
@@ -3659,7 +3659,7 @@ Records: **3,889**
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#231: fix: Preserve local rsync source directory trailing separators](https://github.com/mvschwarz/openrig/pull/231) | +47 / -1 across 2 files | 1 reviews · 2 comments |
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#233: fix(daemon): release SSE subscriptions aborted during replay](https://github.com/mvschwarz/openrig/pull/233) | +94 / -37 across 6 files | 1 reviews · 2 comments |
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#232: fix: Disclose stale environment service receipts in CLI output](https://github.com/mvschwarz/openrig/pull/232) | +39 / -0 across 2 files | 1 reviews · 2 comments |
-| 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#237: fix(daemon): preserve discovery claims during async rescans](https://github.com/mvschwarz/openrig/pull/237) | +67 / -1 across 2 files | 1 reviews · 2 comments |
+| 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#237: fix(daemon): preserve discovery claims during async rescans](https://github.com/mvschwarz/openrig/pull/237) | +67 / -1 across 2 files | 2 reviews · 2 comments |
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#230: fix: Preserve UTF-8 across SSH and rsync output chunks](https://github.com/mvschwarz/openrig/pull/230) | +86 / -4 across 4 files | 1 reviews · 2 comments |
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#234: fix(daemon): serve oversized suffix ranges within asset bounds](https://github.com/mvschwarz/openrig/pull/234) | +42 / -2 across 4 files | 1 reviews · 2 comments |
 | 2026-09-30 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | [#236: fix(daemon): exclude fenced examples from context addresses](https://github.com/mvschwarz/openrig/pull/236) | +47 / -1 across 3 files | 1 reviews · 2 comments |
