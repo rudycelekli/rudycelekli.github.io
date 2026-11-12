@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-12T15:26:43Z</updated>
+  <updated>2026-11-12T20:47:44Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>we-promise/sure #4917: Add four missing en keys that render as translation_missing</title>
+    <id>https://github.com/we-promise/sure/pull/4917</id>
+    <link href="https://github.com/we-promise/sure/pull/4917"/>
+    <updated>2026-11-12T20:47:44Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>ruvnet/RuVector #1437: fix(python): collection, MCP, CLI, and integration correctness</title>
     <id>https://github.com/ruvnet/RuVector/pull/1437</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1980"/>
     <updated>2026-11-11T01:13:43Z</updated>
     <summary>Merged public contribution. +123 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2045: fix(dna-storage-codec): unlink directory aliases during workspace reset</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2045</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2045"/>
-    <updated>2026-11-10T23:56:26Z</updated>
-    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

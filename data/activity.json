@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 5,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 3,
+      "commits": 1,
+      "created_at": "2026-11-11T23:18:50Z",
+      "deletions": 0,
+      "merged_at": "2026-11-12T20:47:44Z",
+      "number": 4917,
+      "repository": "we-promise/sure",
+      "repository_url": "https://github.com/we-promise/sure",
+      "reviews": 1,
+      "title": "Add four missing en keys that render as translation_missing",
+      "url": "https://github.com/we-promise/sure/pull/4917"
+    },
+    {
       "additions": 1853,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 50,
@@ -58944,7 +58960,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3682,
+  "record_count": 3683,
   "schema_version": 1,
   "updated_at_utc": "2026-11-12"
 }
