@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,901**
+Records: **3,905**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1436: fix: NaN-stable graph and hyperbolic search, plus original-graph mincut bounds](https://github.com/ruvnet/RuVector/pull/1436) | +594 / -665 across 16 files | 0 reviews · 0 comments |
+| 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1441: fix(rvf-wasm): refuse malformed and dimensionless stores](https://github.com/ruvnet/RuVector/pull/1441) | +33 / -44 across 3 files | 0 reviews · 0 comments |
+| 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1434: fix(rvlite): CLI persistence, vector checks, cosine range, and browser writer leases](https://github.com/ruvnet/RuVector/pull/1434) | +562 / -52 across 14 files | 0 reviews · 1 comments |
+| 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1439: fix(rvf): store metric, batch dimensions, and quarantined id maps](https://github.com/ruvnet/RuVector/pull/1439) | +247 / -41 across 8 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1433: fix(rvforge): validate proofs, registry reads, and object identity](https://github.com/ruvnet/RuVector/pull/1433) | +164 / -13 across 8 files | 0 reviews · 0 comments |
 | 2026-11-12 | [go-resty/resty](https://github.com/go-resty/resty) | [#1272: fix: strip fragments and empty queries from load balancer bases](https://github.com/go-resty/resty/pull/1272) | +38 / -0 across 2 files | 2 reviews · 2 comments |
 | 2026-11-12 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2745: fix(cli): show the template manifest ref in table output](https://github.com/opensandbox-group/OpenSandbox/pull/2745) | +17 / -0 across 2 files | 2 reviews · 1 comments |
