@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 1853,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 50,
+      "comments": 1,
+      "commits": 27,
+      "created_at": "2026-11-09T15:21:23Z",
+      "deletions": 86,
+      "merged_at": "2026-11-12T15:26:43Z",
+      "number": 1437,
+      "repository": "ruvnet/RuVector",
+      "repository_url": "https://github.com/ruvnet/RuVector",
+      "reviews": 0,
+      "title": "fix(python): collection, MCP, CLI, and integration correctness",
+      "url": "https://github.com/ruvnet/RuVector/pull/1437"
+    },
+    {
       "additions": 59,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -58928,7 +58944,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3681,
+  "record_count": 3682,
   "schema_version": 1,
   "updated_at_utc": "2026-11-12"
 }
