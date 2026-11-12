@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,748**
+Records: **3,752**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2783: [TASK FIX] certified-sparse-regression: size the verifier pool by the container CPU quota](https://github.com/harbor-framework/terminal-bench-science/pull/2783) | +98 / -1 across 1 files | 0 reviews · 8 comments |
+| 2026-11-12 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2788: [TASK FIX] energy-routing: stop requiring an undisclosed order between the two experiments](https://github.com/harbor-framework/terminal-bench-science/pull/2788) | +20 / -6 across 1 files | 0 reviews · 6 comments |
+| 2026-11-12 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2112: [TASK FIX] noisy-blackbox-optimization: support annotated dataclass solvers](https://github.com/harbor-framework/terminal-bench-science/pull/2112) | +95 / -0 across 3 files | 1 reviews · 12 comments |
+| 2026-11-12 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2797: [TASK FIX] noisy-blackbox-optimization: drop the reward values from the policy and failure rules](https://github.com/harbor-framework/terminal-bench-science/pull/2797) | +5 / -5 across 1 files | 1 reviews · 6 comments |
 | 2026-11-12 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#2216: fix(admin): invalidate the scope cache on adopt-project-identity](https://github.com/akitaonrails/ai-memory/pull/2216) | +128 / -0 across 3 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#412: feat: one-command self-check, local MCP server, SARIF and trace intake](https://github.com/ifixai-ai/iFixAi/pull/412) | +7,358 / -0 across 62 files | 2 reviews · 0 comments |
 | 2026-11-12 | [we-promise/sure](https://github.com/we-promise/sure) | [#4917: Add four missing en keys that render as translation_missing](https://github.com/we-promise/sure/pull/4917) | +5 / -0 across 4 files | 1 reviews · 3 comments |
