@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 164,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 8,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-09T15:09:35Z",
+      "deletions": 13,
+      "merged_at": "2026-11-12T10:28:53Z",
+      "number": 1433,
+      "repository": "ruvnet/RuVector",
+      "repository_url": "https://github.com/ruvnet/RuVector",
+      "reviews": 0,
+      "title": "fix(rvforge): validate proofs, registry reads, and object identity",
+      "url": "https://github.com/ruvnet/RuVector/pull/1433"
+    },
+    {
       "additions": 38,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -62432,7 +62448,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3900,
+  "record_count": 3901,
   "schema_version": 1,
   "updated_at_utc": "2026-11-12"
 }
