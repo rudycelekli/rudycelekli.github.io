@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,746**
+Records: **3,748**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-12 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | [#2216: fix(admin): invalidate the scope cache on adopt-project-identity](https://github.com/akitaonrails/ai-memory/pull/2216) | +128 / -0 across 3 files | 0 reviews · 0 comments |
+| 2026-11-12 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | [#412: feat: one-command self-check, local MCP server, SARIF and trace intake](https://github.com/ifixai-ai/iFixAi/pull/412) | +7,358 / -0 across 62 files | 2 reviews · 0 comments |
 | 2026-11-12 | [we-promise/sure](https://github.com/we-promise/sure) | [#4917: Add four missing en keys that render as translation_missing](https://github.com/we-promise/sure/pull/4917) | +5 / -0 across 4 files | 1 reviews · 3 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1437: fix(python): collection, MCP, CLI, and integration correctness](https://github.com/ruvnet/RuVector/pull/1437) | +1,853 / -86 across 50 files | 0 reviews · 1 comments |
 | 2026-11-12 | [facebookresearch/swe-sweep](https://github.com/facebookresearch/swe-sweep) | [#24: fix(scoring): deduplicate overlapping result roots](https://github.com/facebookresearch/swe-sweep/pull/24) | +59 / -0 across 2 files | 0 reviews · 2 comments |

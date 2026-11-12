@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 128,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-11-12T17:49:42Z",
+      "deletions": 0,
+      "merged_at": "2026-11-12T21:44:06Z",
+      "number": 2216,
+      "repository": "akitaonrails/ai-memory",
+      "repository_url": "https://github.com/akitaonrails/ai-memory",
+      "reviews": 0,
+      "title": "fix(admin): invalidate the scope cache on adopt-project-identity",
+      "url": "https://github.com/akitaonrails/ai-memory/pull/2216"
+    },
+    {
+      "additions": 7358,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 62,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-11T17:14:44Z",
+      "deletions": 0,
+      "merged_at": "2026-11-12T21:36:11Z",
+      "number": 412,
+      "repository": "ifixai-ai/iFixAi",
+      "repository_url": "https://github.com/ifixai-ai/iFixAi",
+      "reviews": 2,
+      "title": "feat: one-command self-check, local MCP server, SARIF and trace intake",
+      "url": "https://github.com/ifixai-ai/iFixAi/pull/412"
+    },
+    {
       "additions": 5,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -59968,7 +60000,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3746,
+  "record_count": 3748,
   "schema_version": 1,
   "updated_at_utc": "2026-11-12"
 }
