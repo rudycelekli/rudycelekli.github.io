@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-11T22:56:15Z</updated>
+  <updated>2026-11-12T02:03:02Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2747: fix(cli): keep metrics watch going when a stream line is invalid</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2747</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2747"/>
+    <updated>2026-11-12T02:03:02Z</updated>
+    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2748: fix(cli): keep the out-of-range reason on duration flags</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2748</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2748"/>
+    <updated>2026-11-12T02:02:17Z</updated>
+    <summary>Merged public contribution. +15 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2742: fix(cli): reject a non-positive request timeout</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2742</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2742"/>
+    <updated>2026-11-12T02:00:40Z</updated>
+    <summary>Merged public contribution. +56 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2751: fix(server): reject memory and disk limits above int64</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2751</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2751"/>
+    <updated>2026-11-12T02:00:07Z</updated>
+    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>morluto/rea #10133: fix(elf): reject tables inside the declared ELF header</title>
     <id>https://github.com/morluto/rea/pull/10133</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/716"/>
     <updated>2026-11-10T18:37:09Z</updated>
     <summary>Merged public contribution. +42 / -13 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ai-job-search-dev/ai-job-search #715: fix(gmail-sync): query discovered label names instead of IDs</title>
-    <id>https://github.com/ai-job-search-dev/ai-job-search/pull/715</id>
-    <link href="https://github.com/ai-job-search-dev/ai-job-search/pull/715"/>
-    <updated>2026-11-10T18:29:48Z</updated>
-    <summary>Merged public contribution. +3 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #242: fix(mcp): reject non-object tool parameters</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/242</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/242"/>
-    <updated>2026-11-10T08:11:54Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #238: fix: return validation findings for malformed intent values</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/238</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/238"/>
-    <updated>2026-11-10T08:10:07Z</updated>
-    <summary>Merged public contribution. +44 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/autoharness #231: fix(ledger): serialize provenance readers with append writers</title>
-    <id>https://github.com/tigerless-labs/autoharness/pull/231</id>
-    <link href="https://github.com/tigerless-labs/autoharness/pull/231"/>
-    <updated>2026-11-10T08:07:19Z</updated>
-    <summary>Merged public contribution. +77 / -19 across 2 changed files.</summary>
   </entry>
 </feed>
