@@ -4,11 +4,12 @@ Evidence timestamp: **2026-11-12 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,905**
+Records: **3,906**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1436: fix: NaN-stable graph and hyperbolic search, plus original-graph mincut bounds](https://github.com/ruvnet/RuVector/pull/1436) | +594 / -665 across 16 files | 0 reviews · 0 comments |
+| 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1096: fix(streaming-qng): make non-finite search inputs safe](https://github.com/ruvnet/RuVector/pull/1096) | +88 / -16 across 5 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1441: fix(rvf-wasm): refuse malformed and dimensionless stores](https://github.com/ruvnet/RuVector/pull/1441) | +33 / -44 across 3 files | 0 reviews · 0 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1434: fix(rvlite): CLI persistence, vector checks, cosine range, and browser writer leases](https://github.com/ruvnet/RuVector/pull/1434) | +562 / -52 across 14 files | 0 reviews · 1 comments |
 | 2026-11-12 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | [#1439: fix(rvf): store metric, batch dimensions, and quarantined id maps](https://github.com/ruvnet/RuVector/pull/1439) | +247 / -41 across 8 files | 0 reviews · 0 comments |

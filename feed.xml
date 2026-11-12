@@ -14,6 +14,13 @@
     <summary>Merged public contribution. +594 / -665 across 16 changed files.</summary>
   </entry>
   <entry>
+    <title>ruvnet/RuVector #1096: fix(streaming-qng): make non-finite search inputs safe</title>
+    <id>https://github.com/ruvnet/RuVector/pull/1096</id>
+    <link href="https://github.com/ruvnet/RuVector/pull/1096"/>
+    <updated>2026-11-12T11:24:08Z</updated>
+    <summary>Merged public contribution. +88 / -16 across 5 changed files.</summary>
+  </entry>
+  <entry>
     <title>ruvnet/RuVector #1441: fix(rvf-wasm): refuse malformed and dimensionless stores</title>
     <id>https://github.com/ruvnet/RuVector/pull/1441</id>
     <link href="https://github.com/ruvnet/RuVector/pull/1441"/>
@@ -348,12 +355,5 @@
     <link href="https://github.com/AgriciDaniel/claude-seo/pull/372"/>
     <updated>2026-11-10T21:27:34Z</updated>
     <summary>Merged public contribution. +50 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>AgriciDaniel/claude-seo #371: fix(indexnow): compare the key file host, not a URL substring</title>
-    <id>https://github.com/AgriciDaniel/claude-seo/pull/371</id>
-    <link href="https://github.com/AgriciDaniel/claude-seo/pull/371"/>
-    <updated>2026-11-10T21:27:34Z</updated>
-    <summary>Merged public contribution. +76 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
