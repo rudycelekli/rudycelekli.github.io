@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-12T22:20:11Z</updated>
+  <updated>2026-11-12T22:36:34Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>akitaonrails/ai-memory #2221: fix(admin): invalidate scope cache on rename-project</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2221</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2221"/>
+    <updated>2026-11-12T22:36:34Z</updated>
+    <summary>Merged public contribution. +106 / -0 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2225: fix(web): send no-store on the /pending triage page</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2225</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2225"/>
+    <updated>2026-11-12T22:36:17Z</updated>
+    <summary>Merged public contribution. +45 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1989: fix(dna-storage-codec): keep verifier plaintext private</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1989</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1989"/>
+    <updated>2026-11-12T22:35:39Z</updated>
+    <summary>Merged public contribution. +12 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1964: fix(koopman-mfg-id): reject complex physical output arrays</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1964</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1964"/>
+    <updated>2026-11-12T22:33:43Z</updated>
+    <summary>Merged public contribution. +74 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2042: fix(ode-law-discovery): align prediction rows by trajectory and time</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2042</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2042"/>
+    <updated>2026-11-12T22:33:39Z</updated>
+    <summary>Merged public contribution. +73 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1968: fix(ode-law-discovery): broadcast constant vector-field components</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1968</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1968"/>
+    <updated>2026-11-12T22:33:35Z</updated>
+    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2025: fix(amr-poisson): enforce runtime solver restrictions</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2025</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2025"/>
+    <updated>2026-11-12T22:33:31Z</updated>
+    <summary>Merged public contribution. +51 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #2783: [TASK FIX] certified-sparse-regression: size the verifier pool by the container CPU quota</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/2783</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2703"/>
     <updated>2026-11-11T12:26:13Z</updated>
     <summary>Merged public contribution. +70 / -6 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2702: fix(server): return 400 when Kubernetes rejects a pool spec</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2702</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2702"/>
-    <updated>2026-11-11T12:25:42Z</updated>
-    <summary>Merged public contribution. +53 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2701: fix(server): match '..' as a whole host-path component</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2701</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2701"/>
-    <updated>2026-11-11T07:48:09Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2689: fix(execd): fail fast with 400 when no kernel exists for a language</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2689</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2689"/>
-    <updated>2026-11-11T07:08:10Z</updated>
-    <summary>Merged public contribution. +99 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2686: fix(execd): return 404 for unknown command logs and validate cursor</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2686</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2686"/>
-    <updated>2026-11-11T07:01:27Z</updated>
-    <summary>Merged public contribution. +64 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2685: fix(execd): render SQL text columns as strings</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2685</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2685"/>
-    <updated>2026-11-11T06:53:41Z</updated>
-    <summary>Merged public contribution. +92 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1716: Fix oracle pruning when output directories are absent</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1716</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1716"/>
-    <updated>2026-11-11T06:45:18Z</updated>
-    <summary>Merged public contribution. +118 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1910: fix(ci): require every task validation check to pass</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1910</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1910"/>
-    <updated>2026-11-11T06:45:14Z</updated>
-    <summary>Merged public contribution. +13 / -16 across 1 changed files.</summary>
   </entry>
 </feed>
