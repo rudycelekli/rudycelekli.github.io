@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,788**
+Records: **3,793**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#550: fix(timesfm_2p5): align timesfm + xreg residuals with the backcast](https://github.com/google-research/timesfm/pull/550) | +115 / -6 across 3 files | 0 reviews · 0 comments |
+| 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#549: fix(timesfm3/torch): honor ModelConfig.use_sdpa in attention modules](https://github.com/google-research/timesfm/pull/549) | +90 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#548: fix(timesfm3/mlx): decode at patch-rounded horizon like torch](https://github.com/google-research/timesfm/pull/548) | +53 / -5 across 2 files | 1 reviews · 0 comments |
+| 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#547: fix(timesfm3/torch): accept a 2D ndarray of contexts in TimesFM3Evaluator](https://github.com/google-research/timesfm/pull/547) | +18 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#546: fix(timesfm3/torch): mask covariate placeholders in mixed batches](https://github.com/google-research/timesfm/pull/546) | +86 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2802: fix(egress): keep DNS replies to non-EDNS UDP clients within 512 bytes](https://github.com/opensandbox-group/OpenSandbox/pull/2802) | +57 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2809: fix(egress): reject an invalid port in OPENSANDBOX_EGRESS_DNS_UPSTREAM](https://github.com/opensandbox-group/OpenSandbox/pull/2809) | +7 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-13 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2795: [TASK FIX] tumor-immune-interface: state the two acceptance parts as requirements](https://github.com/harbor-framework/terminal-bench-science/pull/2795) | +1 / -1 across 1 files | 1 reviews · 8 comments |

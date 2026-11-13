@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-13T02:16:51Z</updated>
+  <updated>2026-11-13T04:49:04Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>google-research/timesfm #550: fix(timesfm_2p5): align timesfm + xreg residuals with the backcast</title>
+    <id>https://github.com/google-research/timesfm/pull/550</id>
+    <link href="https://github.com/google-research/timesfm/pull/550"/>
+    <updated>2026-11-13T04:49:04Z</updated>
+    <summary>Merged public contribution. +115 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/timesfm #549: fix(timesfm3/torch): honor ModelConfig.use_sdpa in attention modules</title>
+    <id>https://github.com/google-research/timesfm/pull/549</id>
+    <link href="https://github.com/google-research/timesfm/pull/549"/>
+    <updated>2026-11-13T04:38:21Z</updated>
+    <summary>Merged public contribution. +90 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/timesfm #548: fix(timesfm3/mlx): decode at patch-rounded horizon like torch</title>
+    <id>https://github.com/google-research/timesfm/pull/548</id>
+    <link href="https://github.com/google-research/timesfm/pull/548"/>
+    <updated>2026-11-13T04:38:21Z</updated>
+    <summary>Merged public contribution. +53 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/timesfm #547: fix(timesfm3/torch): accept a 2D ndarray of contexts in TimesFM3Evaluator</title>
+    <id>https://github.com/google-research/timesfm/pull/547</id>
+    <link href="https://github.com/google-research/timesfm/pull/547"/>
+    <updated>2026-11-13T04:38:21Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>google-research/timesfm #546: fix(timesfm3/torch): mask covariate placeholders in mixed batches</title>
+    <id>https://github.com/google-research/timesfm/pull/546</id>
+    <link href="https://github.com/google-research/timesfm/pull/546"/>
+    <updated>2026-11-13T04:38:21Z</updated>
+    <summary>Merged public contribution. +86 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2802: fix(egress): keep DNS replies to non-EDNS UDP clients within 512 bytes</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2802</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/facebookresearch/swe-sweep/pull/24"/>
     <updated>2026-11-12T14:37:34Z</updated>
     <summary>Merged public contribution. +59 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #26: fix(scoring): report the mean over graded trials</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/26</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/26"/>
-    <updated>2026-11-12T14:37:22Z</updated>
-    <summary>Merged public contribution. +57 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #58: fix(scoring): count grader crashes that omit the trial fields</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/58</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/58"/>
-    <updated>2026-11-12T14:37:10Z</updated>
-    <summary>Merged public contribution. +89 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #21: fix(grader): preserve literal JSON escapes on Python 3.13</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/21</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/21"/>
-    <updated>2026-11-12T14:36:58Z</updated>
-    <summary>Merged public contribution. +127 / -100 across 101 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #22: fix(cli): isolate temporary task overrides from symlink sources</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/22</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/22"/>
-    <updated>2026-11-12T14:36:47Z</updated>
-    <summary>Merged public contribution. +47 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #39: fix(release): commit the refreshed lockfile with version bumps</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/39</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/39"/>
-    <updated>2026-11-12T14:36:36Z</updated>
-    <summary>Merged public contribution. +63 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
