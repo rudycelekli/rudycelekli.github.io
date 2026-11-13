@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-13 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,794**
+Records: **3,795**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2808: fix(console): keep system pods and events out of a tenant-filtered K8s view](https://github.com/opensandbox-group/OpenSandbox/pull/2808) | +73 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2699: fix(sdk-js): return the renew response from SandboxManager.renewSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/2699) | +9 / -3 across 2 files | 2 reviews · 1 comments |
 | 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#550: fix(timesfm_2p5): align timesfm + xreg residuals with the backcast](https://github.com/google-research/timesfm/pull/550) | +115 / -6 across 3 files | 0 reviews · 0 comments |
 | 2026-11-13 | [google-research/timesfm](https://github.com/google-research/timesfm) | [#549: fix(timesfm3/torch): honor ModelConfig.use_sdpa in attention modules](https://github.com/google-research/timesfm/pull/549) | +90 / -0 across 2 files | 0 reviews · 0 comments |
