@@ -4,8 +4,197 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-12T22:36:34Z</updated>
+  <updated>2026-11-13T00:46:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2795: [TASK FIX] tumor-immune-interface: state the two acceptance parts as requirements</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2795</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2795"/>
+    <updated>2026-11-13T00:46:31Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2040: fix(foraging-cognitive-model): load valid dataclass models</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2040</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2040"/>
+    <updated>2026-11-13T00:40:05Z</updated>
+    <summary>Merged public contribution. +62 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2038: fix(ont-tn-qc): reject nonfinite reported effect sizes</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2038</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2038"/>
+    <updated>2026-11-13T00:39:43Z</updated>
+    <summary>Merged public contribution. +53 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1978: fix(geometric-pharmacophore-alignment): accept valid hydrogen-first atom orderings</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1978</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1978"/>
+    <updated>2026-11-13T00:38:30Z</updated>
+    <summary>Merged public contribution. +103 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1974: fix(tamp-skill-planning): enforce first occurrences of declared calls</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1974</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1974"/>
+    <updated>2026-11-13T00:37:49Z</updated>
+    <summary>Merged public contribution. +112 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1962: fix(reactor-safety-control): isolate controller logs from protocol replies</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1962</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1962"/>
+    <updated>2026-11-13T00:37:20Z</updated>
+    <summary>Merged public contribution. +116 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1956: fix(ankle-mri-findings): penalize unsupported acute tendon tears</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1956</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1956"/>
+    <updated>2026-11-13T00:36:50Z</updated>
+    <summary>Merged public contribution. +77 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1954: fix(foraging-cognitive-model): count unsigned and slotted latent states</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1954</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1954"/>
+    <updated>2026-11-13T00:36:25Z</updated>
+    <summary>Merged public contribution. +78 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1952: fix(betalactam-multimodal-transfer): require valid resistance probabilities</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1952</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1952"/>
+    <updated>2026-11-13T00:34:33Z</updated>
+    <summary>Merged public contribution. +100 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1948: fix(guided-wave-localization): register imported prediction modules</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1948</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1948"/>
+    <updated>2026-11-13T00:33:23Z</updated>
+    <summary>Merged public contribution. +58 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1944: fix(sparse-network-assimilation): validate real arrays before conversion</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1944</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1944"/>
+    <updated>2026-11-13T00:32:55Z</updated>
+    <summary>Merged public contribution. +85 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1909: fix(readme): clear inverse-waveguide static drift</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1909</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1909"/>
+    <updated>2026-11-13T00:32:29Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1905: Clarify QSM quality gates versus diagnostic metrics</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1905</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1905"/>
+    <updated>2026-11-13T00:31:27Z</updated>
+    <summary>Merged public contribution. +6 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1902: Clarify Landsat versus composite ice evidence</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1902</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1902"/>
+    <updated>2026-11-13T00:31:02Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1901: Define polynomial-pocket detection in masked remap task</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1901</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1901"/>
+    <updated>2026-11-13T00:30:36Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1900: Clarify cilia nucleus instance-matching requirements</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1900</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1900"/>
+    <updated>2026-11-13T00:30:12Z</updated>
+    <summary>Merged public contribution. +10 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1897: Fix reactor feed cutoff at the dosing-window boundary</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1897</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1897"/>
+    <updated>2026-11-13T00:29:36Z</updated>
+    <summary>Merged public contribution. +19 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2802: [TASK FIX] geometric-pharmacophore-alignment: describe the reference solution the rubric grades</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2802</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2802"/>
+    <updated>2026-11-13T00:22:26Z</updated>
+    <summary>Merged public contribution. +7 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2024: [TASK FIX] duan-thesis: allow PDF extraction tooling</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2024</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2024"/>
+    <updated>2026-11-13T00:18:10Z</updated>
+    <summary>Merged public contribution. +0 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>akitaonrails/ai-memory #2215: fix(web): render an unreadable storage read as unknown, not zero</title>
+    <id>https://github.com/akitaonrails/ai-memory/pull/2215</id>
+    <link href="https://github.com/akitaonrails/ai-memory/pull/2215"/>
+    <updated>2026-11-13T00:14:54Z</updated>
+    <summary>Merged public contribution. +153 / -19 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2746: fix(cli): show the next cursor in command logs table output</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2746</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2746"/>
+    <updated>2026-11-13T00:07:11Z</updated>
+    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2753: fix(server): compare Windows size minimums before rounding</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2753</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2753"/>
+    <updated>2026-11-13T00:06:51Z</updated>
+    <summary>Merged public contribution. +41 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2756: fix(server): return INVALID_PARAMETER for a proxy websocket upgrade</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2756</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2756"/>
+    <updated>2026-11-13T00:06:28Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2758: fix(server): count both ends of the Docker host port range</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2758</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2758"/>
+    <updated>2026-11-13T00:06:08Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2781: fix(server): bracket IPv6 pod IPs in BatchSandbox and agent-sandbox endpoints</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2781</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2781"/>
+    <updated>2026-11-13T00:05:43Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2784: fix(server): reject one-character OSSFS bucket names</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2784</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2784"/>
+    <updated>2026-11-13T00:05:20Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2787: fix(server): keep the diagnostics summary for fsb sandboxes</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2787</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2787"/>
+    <updated>2026-11-13T00:05:00Z</updated>
+    <summary>Merged public contribution. +30 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>akitaonrails/ai-memory #2221: fix(admin): invalidate scope cache on rename-project</title>
     <id>https://github.com/akitaonrails/ai-memory/pull/2221</id>
@@ -166,194 +355,5 @@
     <link href="https://github.com/facebookresearch/swe-sweep/pull/62"/>
     <updated>2026-11-12T14:36:14Z</updated>
     <summary>Merged public contribution. +2 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>facebookresearch/swe-sweep #43: docs: normalize the weighted benchmark score equation</title>
-    <id>https://github.com/facebookresearch/swe-sweep/pull/43</id>
-    <link href="https://github.com/facebookresearch/swe-sweep/pull/43"/>
-    <updated>2026-11-12T14:36:02Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1436: fix: NaN-stable graph and hyperbolic search, plus original-graph mincut bounds</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1436</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1436"/>
-    <updated>2026-11-12T11:24:19Z</updated>
-    <summary>Merged public contribution. +594 / -665 across 16 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1096: fix(streaming-qng): make non-finite search inputs safe</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1096</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1096"/>
-    <updated>2026-11-12T11:24:08Z</updated>
-    <summary>Merged public contribution. +88 / -16 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1441: fix(rvf-wasm): refuse malformed and dimensionless stores</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1441</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1441"/>
-    <updated>2026-11-12T11:22:51Z</updated>
-    <summary>Merged public contribution. +33 / -44 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1434: fix(rvlite): CLI persistence, vector checks, cosine range, and browser writer leases</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1434</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1434"/>
-    <updated>2026-11-12T11:19:17Z</updated>
-    <summary>Merged public contribution. +562 / -52 across 14 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1439: fix(rvf): store metric, batch dimensions, and quarantined id maps</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1439</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1439"/>
-    <updated>2026-11-12T11:14:25Z</updated>
-    <summary>Merged public contribution. +247 / -41 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ruvnet/RuVector #1433: fix(rvforge): validate proofs, registry reads, and object identity</title>
-    <id>https://github.com/ruvnet/RuVector/pull/1433</id>
-    <link href="https://github.com/ruvnet/RuVector/pull/1433"/>
-    <updated>2026-11-12T10:28:53Z</updated>
-    <summary>Merged public contribution. +164 / -13 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>go-resty/resty #1272: fix: strip fragments and empty queries from load balancer bases</title>
-    <id>https://github.com/go-resty/resty/pull/1272</id>
-    <link href="https://github.com/go-resty/resty/pull/1272"/>
-    <updated>2026-11-12T09:36:57Z</updated>
-    <summary>Merged public contribution. +38 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2745: fix(cli): show the template manifest ref in table output</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2745</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2745"/>
-    <updated>2026-11-12T08:55:50Z</updated>
-    <summary>Merged public contribution. +17 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2743: fix(cli): exit 1 when config init refuses to overwrite</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2743</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2743"/>
-    <updated>2026-11-12T08:34:12Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>antchfx/xpath #187: Return positional step results in document order</title>
-    <id>https://github.com/antchfx/xpath/pull/187</id>
-    <link href="https://github.com/antchfx/xpath/pull/187"/>
-    <updated>2026-11-12T05:38:11Z</updated>
-    <summary>Merged public contribution. +60 / -16 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2757: fix(execd): retry SQL setup after a failed database connection</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2757</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2757"/>
-    <updated>2026-11-12T05:33:42Z</updated>
-    <summary>Merged public contribution. +42 / -35 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2741: fix(execd): encode control characters in Content-Disposition filenames</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2741</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2741"/>
-    <updated>2026-11-12T05:32:21Z</updated>
-    <summary>Merged public contribution. +7 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>we-promise/sure #4922: Use the destructive token for the required-field asterisk</title>
-    <id>https://github.com/we-promise/sure/pull/4922</id>
-    <link href="https://github.com/we-promise/sure/pull/4922"/>
-    <updated>2026-11-12T03:30:43Z</updated>
-    <summary>Merged public contribution. +13 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2747: fix(cli): keep metrics watch going when a stream line is invalid</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2747</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2747"/>
-    <updated>2026-11-12T02:03:02Z</updated>
-    <summary>Merged public contribution. +52 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2748: fix(cli): keep the out-of-range reason on duration flags</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2748</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2748"/>
-    <updated>2026-11-12T02:02:17Z</updated>
-    <summary>Merged public contribution. +15 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2742: fix(cli): reject a non-positive request timeout</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2742</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2742"/>
-    <updated>2026-11-12T02:00:40Z</updated>
-    <summary>Merged public contribution. +56 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2751: fix(server): reject memory and disk limits above int64</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2751</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2751"/>
-    <updated>2026-11-12T02:00:07Z</updated>
-    <summary>Merged public contribution. +14 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #10133: fix(elf): reject tables inside the declared ELF header</title>
-    <id>https://github.com/morluto/rea/pull/10133</id>
-    <link href="https://github.com/morluto/rea/pull/10133"/>
-    <updated>2026-11-11T22:56:15Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #10135: fix(browser): count only grammatical CSP nonce and hash sources</title>
-    <id>https://github.com/morluto/rea/pull/10135</id>
-    <link href="https://github.com/morluto/rea/pull/10135"/>
-    <updated>2026-11-11T22:56:11Z</updated>
-    <summary>Merged public contribution. +36 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #10134: fix(adb): classify mDNS wireless serials as TCP</title>
-    <id>https://github.com/morluto/rea/pull/10134</id>
-    <link href="https://github.com/morluto/rea/pull/10134"/>
-    <updated>2026-11-11T22:20:07Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>morluto/rea #10136: fix(native): normalize the CPU names lipo prints for i386 slices</title>
-    <id>https://github.com/morluto/rea/pull/10136</id>
-    <link href="https://github.com/morluto/rea/pull/10136"/>
-    <updated>2026-11-11T22:20:02Z</updated>
-    <summary>Merged public contribution. +23 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1911: fix(ci): fail validation when results cannot be reported</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1911</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1911"/>
-    <updated>2026-11-11T20:16:11Z</updated>
-    <summary>Merged public contribution. +79 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JetBrains/thinkrail #1051: fix(web): preserve image drafts across chat remounts</title>
-    <id>https://github.com/JetBrains/thinkrail/pull/1051</id>
-    <link href="https://github.com/JetBrains/thinkrail/pull/1051"/>
-    <updated>2026-11-11T18:49:09Z</updated>
-    <summary>Merged public contribution. +318 / -76 across 11 changed files.</summary>
-  </entry>
-  <entry>
-    <title>JetBrains/thinkrail #1052: fix(web): align loose-list text with its marker</title>
-    <id>https://github.com/JetBrains/thinkrail/pull/1052</id>
-    <link href="https://github.com/JetBrains/thinkrail/pull/1052"/>
-    <updated>2026-11-11T17:40:33Z</updated>
-    <summary>Merged public contribution. +180 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>tigerless-labs/cost-xray #57: fix(verify): retain unmatched output event observations</title>
-    <id>https://github.com/tigerless-labs/cost-xray/pull/57</id>
-    <link href="https://github.com/tigerless-labs/cost-xray/pull/57"/>
-    <updated>2026-11-11T12:32:54Z</updated>
-    <summary>Merged public contribution. +56 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2703: fix(server): return structured codes for network-policy and fsb route errors</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2703</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2703"/>
-    <updated>2026-11-11T12:26:13Z</updated>
-    <summary>Merged public contribution. +70 / -6 across 7 changed files.</summary>
   </entry>
 </feed>
