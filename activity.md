@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,812**
+Records: **3,814**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2788: fix(execd): reuse upstream connections in the /proxy route](https://github.com/opensandbox-group/OpenSandbox/pull/2788) | +55 / -9 across 2 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2780: fix(helm): grant the controller pods/exec for the Restart recycle strategy](https://github.com/opensandbox-group/OpenSandbox/pull/2780) | +63 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2782: fix(execd): fail fast with 400 when a code context cwd is unusable](https://github.com/opensandbox-group/OpenSandbox/pull/2782) | +53 / -3 across 5 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2785: fix(execd): delete a code context whose Jupyter session is already gone](https://github.com/opensandbox-group/OpenSandbox/pull/2785) | +33 / -1 across 3 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2789: fix(helm): derive the node-agent health port from a host:port serverAddr](https://github.com/opensandbox-group/OpenSandbox/pull/2789) | +1 / -1 across 1 files | 2 reviews · 1 comments |
