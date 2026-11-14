@@ -4,10 +4,17 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,805**
+Records: **3,812**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2782: fix(execd): fail fast with 400 when a code context cwd is unusable](https://github.com/opensandbox-group/OpenSandbox/pull/2782) | +53 / -3 across 5 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2785: fix(execd): delete a code context whose Jupyter session is already gone](https://github.com/opensandbox-group/OpenSandbox/pull/2785) | +33 / -1 across 3 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2789: fix(helm): derive the node-agent health port from a host:port serverAddr](https://github.com/opensandbox-group/OpenSandbox/pull/2789) | +1 / -1 across 1 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2791: fix(server): drop renew-intent payloads that are not JSON objects](https://github.com/opensandbox-group/OpenSandbox/pull/2791) | +7 / -0 across 2 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2792: fix(execd): return 400 when listing contexts for a non-kernel language](https://github.com/opensandbox-group/OpenSandbox/pull/2792) | +25 / -2 across 4 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2800: fix(sdk-kotlin): keep the first SSE event after a leading UTF-8 BOM](https://github.com/opensandbox-group/OpenSandbox/pull/2800) | +46 / -3 across 6 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2805: fix(sdk-go): deliver WatchMetrics snapshots as they arrive](https://github.com/opensandbox-group/OpenSandbox/pull/2805) | +78 / -4 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#175: fix: send basic authorization from a link that includes it](https://github.com/anmolkapil/plexo/pull/175) | +61 / -0 across 3 files | 1 reviews · 2 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2799: fix(console): bracket IPv6 pod IPs in the node-agent readyz probe](https://github.com/opensandbox-group/OpenSandbox/pull/2799) | +55 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2803: fix(console): show eventTime for events.k8s.io events on the K8s events page](https://github.com/opensandbox-group/OpenSandbox/pull/2803) | +63 / -4 across 2 files | 2 reviews · 1 comments |
