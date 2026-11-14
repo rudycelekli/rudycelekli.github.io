@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,804**
+Records: **3,805**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#175: fix: send basic authorization from a link that includes it](https://github.com/anmolkapil/plexo/pull/175) | +61 / -0 across 3 files | 1 reviews · 2 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2799: fix(console): bracket IPv6 pod IPs in the node-agent readyz probe](https://github.com/opensandbox-group/OpenSandbox/pull/2799) | +55 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2803: fix(console): show eventTime for events.k8s.io events on the K8s events page](https://github.com/opensandbox-group/OpenSandbox/pull/2803) | +63 / -4 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1843: Show ACP token counts as unknown when the agent does not report them (R2.2)](https://github.com/storytold/craft-anything/pull/1843) | +171 / -39 across 20 files | 1 reviews · 3 comments |
