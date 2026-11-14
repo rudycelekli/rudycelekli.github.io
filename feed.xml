@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-14T07:36:23Z</updated>
+  <updated>2026-11-14T10:31:51Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2799: fix(console): bracket IPv6 pod IPs in the node-agent readyz probe</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2799</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2799"/>
+    <updated>2026-11-14T10:31:51Z</updated>
+    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2803: fix(console): show eventTime for events.k8s.io events on the K8s events page</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2803</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2803"/>
+    <updated>2026-11-14T10:31:25Z</updated>
+    <summary>Merged public contribution. +63 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>storytold/craft-anything #1843: Show ACP token counts as unknown when the agent does not report them (R2.2)</title>
     <id>https://github.com/storytold/craft-anything/pull/1843</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2042"/>
     <updated>2026-11-12T22:33:39Z</updated>
     <summary>Merged public contribution. +73 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1968: fix(ode-law-discovery): broadcast constant vector-field components</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1968</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1968"/>
-    <updated>2026-11-12T22:33:35Z</updated>
-    <summary>Merged public contribution. +56 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2025: fix(amr-poisson): enforce runtime solver restrictions</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2025</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2025"/>
-    <updated>2026-11-12T22:33:31Z</updated>
-    <summary>Merged public contribution. +51 / -0 across 2 changed files.</summary>
   </entry>
 </feed>

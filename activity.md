@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,802**
+Records: **3,804**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2799: fix(console): bracket IPv6 pod IPs in the node-agent readyz probe](https://github.com/opensandbox-group/OpenSandbox/pull/2799) | +55 / -1 across 2 files | 2 reviews · 1 comments |
+| 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2803: fix(console): show eventTime for events.k8s.io events on the K8s events page](https://github.com/opensandbox-group/OpenSandbox/pull/2803) | +63 / -4 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1843: Show ACP token counts as unknown when the agent does not report them (R2.2)](https://github.com/storytold/craft-anything/pull/1843) | +171 / -39 across 20 files | 1 reviews · 3 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1844: Verify Mac call observation with a real debugger (R2.4)](https://github.com/storytold/craft-anything/pull/1844) | +57 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1840: Check the browser exit diagnostic without timing the whole tool call (R5.2)](https://github.com/storytold/craft-anything/pull/1840) | +12 / -10 across 2 files | 0 reviews · 1 comments |
