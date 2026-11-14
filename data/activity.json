@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 171,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 20,
+      "comments": 3,
+      "commits": 3,
+      "created_at": "2026-11-14T05:12:27Z",
+      "deletions": 39,
+      "merged_at": "2026-11-14T07:36:23Z",
+      "number": 1843,
+      "repository": "storytold/craft-anything",
+      "repository_url": "https://github.com/storytold/craft-anything",
+      "reviews": 1,
+      "title": "Show ACP token counts as unknown when the agent does not report them (R2.2)",
+      "url": "https://github.com/storytold/craft-anything/pull/1843"
+    },
+    {
       "additions": 57,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -60848,7 +60864,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3801,
+  "record_count": 3802,
   "schema_version": 1,
   "updated_at_utc": "2026-11-14"
 }

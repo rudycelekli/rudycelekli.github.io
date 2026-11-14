@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,801**
+Records: **3,802**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1843: Show ACP token counts as unknown when the agent does not report them (R2.2)](https://github.com/storytold/craft-anything/pull/1843) | +171 / -39 across 20 files | 1 reviews · 3 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1844: Verify Mac call observation with a real debugger (R2.4)](https://github.com/storytold/craft-anything/pull/1844) | +57 / -2 across 3 files | 0 reviews · 1 comments |
 | 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1840: Check the browser exit diagnostic without timing the whole tool call (R5.2)](https://github.com/storytold/craft-anything/pull/1840) | +12 / -10 across 2 files | 0 reviews · 1 comments |
 | 2026-11-14 | [we-promise/sure](https://github.com/we-promise/sure) | [#4985: Record CoinSpot buys as cash out and sells as cash in](https://github.com/we-promise/sure/pull/4985) | +5 / -3 across 2 files | 2 reviews · 2 comments |

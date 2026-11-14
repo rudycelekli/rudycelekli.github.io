@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-14T07:15:22Z</updated>
+  <updated>2026-11-14T07:36:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>storytold/craft-anything #1843: Show ACP token counts as unknown when the agent does not report them (R2.2)</title>
+    <id>https://github.com/storytold/craft-anything/pull/1843</id>
+    <link href="https://github.com/storytold/craft-anything/pull/1843"/>
+    <updated>2026-11-14T07:36:23Z</updated>
+    <summary>Merged public contribution. +171 / -39 across 20 changed files.</summary>
+  </entry>
   <entry>
     <title>storytold/craft-anything #1844: Verify Mac call observation with a real debugger (R2.4)</title>
     <id>https://github.com/storytold/craft-anything/pull/1844</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2025"/>
     <updated>2026-11-12T22:33:31Z</updated>
     <summary>Merged public contribution. +51 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2783: [TASK FIX] certified-sparse-regression: size the verifier pool by the container CPU quota</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2783</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2783"/>
-    <updated>2026-11-12T22:20:11Z</updated>
-    <summary>Merged public contribution. +98 / -1 across 1 changed files.</summary>
   </entry>
 </feed>
