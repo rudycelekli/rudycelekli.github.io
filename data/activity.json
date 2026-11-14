@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 57,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-11-14T05:12:31Z",
+      "deletions": 2,
+      "merged_at": "2026-11-14T07:15:22Z",
+      "number": 1844,
+      "repository": "storytold/craft-anything",
+      "repository_url": "https://github.com/storytold/craft-anything",
+      "reviews": 0,
+      "title": "Verify Mac call observation with a real debugger (R2.4)",
+      "url": "https://github.com/storytold/craft-anything/pull/1844"
+    },
+    {
+      "additions": 12,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-14T05:10:31Z",
+      "deletions": 10,
+      "merged_at": "2026-11-14T07:15:16Z",
+      "number": 1840,
+      "repository": "storytold/craft-anything",
+      "repository_url": "https://github.com/storytold/craft-anything",
+      "reviews": 0,
+      "title": "Check the browser exit diagnostic without timing the whole tool call (R5.2)",
+      "url": "https://github.com/storytold/craft-anything/pull/1840"
+    },
+    {
+      "additions": 5,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-11-13T09:36:10Z",
+      "deletions": 3,
+      "merged_at": "2026-11-14T07:03:33Z",
+      "number": 4985,
+      "repository": "we-promise/sure",
+      "repository_url": "https://github.com/we-promise/sure",
+      "reviews": 2,
+      "title": "Record CoinSpot buys as cash out and sells as cash in",
+      "url": "https://github.com/we-promise/sure/pull/4985"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -60800,7 +60848,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3798,
+  "record_count": 3801,
   "schema_version": 1,
   "updated_at_utc": "2026-11-14"
 }

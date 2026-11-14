@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,798**
+Records: **3,801**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1844: Verify Mac call observation with a real debugger (R2.4)](https://github.com/storytold/craft-anything/pull/1844) | +57 / -2 across 3 files | 0 reviews · 1 comments |
+| 2026-11-14 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1840: Check the browser exit diagnostic without timing the whole tool call (R5.2)](https://github.com/storytold/craft-anything/pull/1840) | +12 / -10 across 2 files | 0 reviews · 1 comments |
+| 2026-11-14 | [we-promise/sure](https://github.com/we-promise/sure) | [#4985: Record CoinSpot buys as cash out and sells as cash in](https://github.com/we-promise/sure/pull/4985) | +5 / -3 across 2 files | 2 reviews · 2 comments |
 | 2026-11-14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [#786: fix(constraint-driven-development): run dependency-cruiser so the architecture gate can fail](https://github.com/addyosmani/agent-skills/pull/786) | +1 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [#787: fix(security-and-hardening): fail at startup when SESSION_SECRET is missing](https://github.com/addyosmani/agent-skills/pull/787) | +3 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2807: fix(sdk): require a confirmed zero exit for code-interpreter runtime probes](https://github.com/opensandbox-group/OpenSandbox/pull/2807) | +101 / -16 across 8 files | 2 reviews · 1 comments |
