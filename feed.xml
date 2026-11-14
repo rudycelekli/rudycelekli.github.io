@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-13T11:39:10Z</updated>
+  <updated>2026-11-14T04:26:32Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>addyosmani/agent-skills #786: fix(constraint-driven-development): run dependency-cruiser so the architecture gate can fail</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/786</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/786"/>
+    <updated>2026-11-14T04:26:32Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>addyosmani/agent-skills #787: fix(security-and-hardening): fail at startup when SESSION_SECRET is missing</title>
+    <id>https://github.com/addyosmani/agent-skills/pull/787</id>
+    <link href="https://github.com/addyosmani/agent-skills/pull/787"/>
+    <updated>2026-11-14T04:26:26Z</updated>
+    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2807: fix(sdk): require a confirmed zero exit for code-interpreter runtime probes</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2807</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2797"/>
     <updated>2026-11-12T22:18:44Z</updated>
     <summary>Merged public contribution. +5 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2216: fix(admin): invalidate the scope cache on adopt-project-identity</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2216</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2216"/>
-    <updated>2026-11-12T21:44:06Z</updated>
-    <summary>Merged public contribution. +128 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ifixai-ai/iFixAi #412: feat: one-command self-check, local MCP server, SARIF and trace intake</title>
-    <id>https://github.com/ifixai-ai/iFixAi/pull/412</id>
-    <link href="https://github.com/ifixai-ai/iFixAi/pull/412"/>
-    <updated>2026-11-12T21:36:11Z</updated>
-    <summary>Merged public contribution. +7358 / -0 across 62 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-14 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,796**
+Records: **3,798**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [#786: fix(constraint-driven-development): run dependency-cruiser so the architecture gate can fail](https://github.com/addyosmani/agent-skills/pull/786) | +1 / -1 across 1 files | 1 reviews · 0 comments |
+| 2026-11-14 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [#787: fix(security-and-hardening): fail at startup when SESSION_SECRET is missing](https://github.com/addyosmani/agent-skills/pull/787) | +3 / -1 across 1 files | 1 reviews · 0 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2807: fix(sdk): require a confirmed zero exit for code-interpreter runtime probes](https://github.com/opensandbox-group/OpenSandbox/pull/2807) | +101 / -16 across 8 files | 2 reviews · 1 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2808: fix(console): keep system pods and events out of a tenant-filtered K8s view](https://github.com/opensandbox-group/OpenSandbox/pull/2808) | +73 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-13 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2699: fix(sdk-js): return the renew response from SandboxManager.renewSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/2699) | +9 / -3 across 2 files | 2 reviews · 1 comments |
