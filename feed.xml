@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-15T19:50:31Z</updated>
+  <updated>2026-11-15T20:53:11Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>backnotprop/plannotator #3213: Guide viewer: a link's URL keeps its own closing paren</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3213</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3213"/>
+    <updated>2026-11-15T20:53:11Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #492: fix(ruby): send required source_id when creating a relationship</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/492</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/492"/>
+    <updated>2026-11-15T20:33:28Z</updated>
+    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #491: fix(python): match server contract for relationship create and decode</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/491</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/491"/>
+    <updated>2026-11-15T20:33:21Z</updated>
+    <summary>Merged public contribution. +131 / -18 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #490: fix(sdk): use source_entity/target_entity in Python and Swift entity merge</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/490</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/490"/>
+    <updated>2026-11-15T20:33:13Z</updated>
+    <summary>Merged public contribution. +71 / -6 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #489: fix(sdk): send graph limit as max_nodes in Python and TypeScript graph.get</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/489</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/489"/>
+    <updated>2026-11-15T20:33:05Z</updated>
+    <summary>Merged public contribution. +80 / -11 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #488: fix(python): send q / entity_name in graph label search and entity exists</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/488</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/488"/>
+    <updated>2026-11-15T20:32:57Z</updated>
+    <summary>Merged public contribution. +62 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>raphaelmansuy/edgequake #487: fix(mcp): forward document_list search as document_pattern</title>
+    <id>https://github.com/raphaelmansuy/edgequake/pull/487</id>
+    <link href="https://github.com/raphaelmansuy/edgequake/pull/487"/>
+    <updated>2026-11-15T20:32:50Z</updated>
+    <summary>Merged public contribution. +72 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3214: fix(dsh): a typed Windows path reaches the review whole</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3214</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3214"/>
+    <updated>2026-11-15T20:32:06Z</updated>
+    <summary>Merged public contribution. +31 / -5 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>maziyarpanahi/openmed #4190: feat(service): expose standard gRPC health readiness (#3917)</title>
     <id>https://github.com/maziyarpanahi/openmed/pull/4190</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2800"/>
     <updated>2026-11-14T15:25:12Z</updated>
     <summary>Merged public contribution. +46 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2805: fix(sdk-go): deliver WatchMetrics snapshots as they arrive</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2805</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2805"/>
-    <updated>2026-11-14T15:24:49Z</updated>
-    <summary>Merged public contribution. +78 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>anmolkapil/plexo #175: fix: send basic authorization from a link that includes it</title>
-    <id>https://github.com/anmolkapil/plexo/pull/175</id>
-    <link href="https://github.com/anmolkapil/plexo/pull/175"/>
-    <updated>2026-11-14T13:58:24Z</updated>
-    <summary>Merged public contribution. +61 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2799: fix(console): bracket IPv6 pod IPs in the node-agent readyz probe</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2799</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2799"/>
-    <updated>2026-11-14T10:31:51Z</updated>
-    <summary>Merged public contribution. +55 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2803: fix(console): show eventTime for events.k8s.io events on the K8s events page</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2803</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2803"/>
-    <updated>2026-11-14T10:31:25Z</updated>
-    <summary>Merged public contribution. +63 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>storytold/craft-anything #1843: Show ACP token counts as unknown when the agent does not report them (R2.2)</title>
-    <id>https://github.com/storytold/craft-anything/pull/1843</id>
-    <link href="https://github.com/storytold/craft-anything/pull/1843"/>
-    <updated>2026-11-14T07:36:23Z</updated>
-    <summary>Merged public contribution. +171 / -39 across 20 changed files.</summary>
-  </entry>
-  <entry>
-    <title>storytold/craft-anything #1844: Verify Mac call observation with a real debugger (R2.4)</title>
-    <id>https://github.com/storytold/craft-anything/pull/1844</id>
-    <link href="https://github.com/storytold/craft-anything/pull/1844"/>
-    <updated>2026-11-14T07:15:22Z</updated>
-    <summary>Merged public contribution. +57 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>storytold/craft-anything #1840: Check the browser exit diagnostic without timing the whole tool call (R5.2)</title>
-    <id>https://github.com/storytold/craft-anything/pull/1840</id>
-    <link href="https://github.com/storytold/craft-anything/pull/1840"/>
-    <updated>2026-11-14T07:15:16Z</updated>
-    <summary>Merged public contribution. +12 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>we-promise/sure #4985: Record CoinSpot buys as cash out and sells as cash in</title>
-    <id>https://github.com/we-promise/sure/pull/4985</id>
-    <link href="https://github.com/we-promise/sure/pull/4985"/>
-    <updated>2026-11-14T07:03:33Z</updated>
-    <summary>Merged public contribution. +5 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

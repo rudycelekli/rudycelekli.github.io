@@ -4,10 +4,18 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,848**
+Records: **3,856**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3213: Guide viewer: a link's URL keeps its own closing paren](https://github.com/backnotprop/plannotator/pull/3213) | +27 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#492: fix(ruby): send required source_id when creating a relationship](https://github.com/raphaelmansuy/edgequake/pull/492) | +16 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#491: fix(python): match server contract for relationship create and decode](https://github.com/raphaelmansuy/edgequake/pull/491) | +131 / -18 across 3 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#490: fix(sdk): use source_entity/target_entity in Python and Swift entity merge](https://github.com/raphaelmansuy/edgequake/pull/490) | +71 / -6 across 5 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#489: fix(sdk): send graph limit as max_nodes in Python and TypeScript graph.get](https://github.com/raphaelmansuy/edgequake/pull/489) | +80 / -11 across 6 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#488: fix(python): send q / entity_name in graph label search and entity exists](https://github.com/raphaelmansuy/edgequake/pull/488) | +62 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#487: fix(mcp): forward document_list search as document_pattern](https://github.com/raphaelmansuy/edgequake/pull/487) | +72 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-15 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3214: fix(dsh): a typed Windows path reaches the review whole](https://github.com/backnotprop/plannotator/pull/3214) | +31 / -5 across 3 files | 0 reviews · 0 comments |
 | 2026-11-15 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4190: feat(service): expose standard gRPC health readiness (#3917)](https://github.com/maziyarpanahi/openmed/pull/4190) | +411 / -8 across 10 files | 0 reviews · 0 comments |
 | 2026-11-15 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4170: test: add bounded service resource recovery soak profiles](https://github.com/maziyarpanahi/openmed/pull/4170) | +581 / -0 across 6 files | 0 reviews · 0 comments |
 | 2026-11-15 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | [#4156: fix: release owned web inference resources safely](https://github.com/maziyarpanahi/openmed/pull/4156) | +525 / -60 across 8 files | 0 reviews · 0 comments |
