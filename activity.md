@@ -4,10 +4,18 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,836**
+Records: **3,844**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#95: docs(skill): state the pixel size of each video format](https://github.com/latent-spaces/brag/pull/95) | +4 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#104: feat(plugin): mention /brag-slim in the plugin manifests](https://github.com/latent-spaces/brag/pull/104) | +8 / -8 across 4 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#87: docs: correct Codex, opencode, and brag-slim install notes](https://github.com/latent-spaces/brag/pull/87) | +7 / -0 across 1 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#94: fix(skill): honor an explicit duration instead of forcing 15–25 seconds](https://github.com/latent-spaces/brag/pull/94) | +6 / -4 across 3 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#90: fix(docs): use one Hyperframes URL and harden new-tab links](https://github.com/latent-spaces/brag/pull/90) | +1 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#91: docs: add a favicon for the launch site](https://github.com/latent-spaces/brag/pull/91) | +5 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#86: docs: describe /brag as a multi-agent skill in the product spec](https://github.com/latent-spaces/brag/pull/86) | +1 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#85: docs: install /brag on other agents with the skills CLI](https://github.com/latent-spaces/brag/pull/85) | +41 / -20 across 1 files | 0 reviews · 1 comments |
 | 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#77: fix(docs): give each gallery video its own accessible name](https://github.com/latent-spaces/brag/pull/77) | +12 / -12 across 1 files | 0 reviews · 1 comments |
 | 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#75: fix: keep brag-slim skill symlinks from being rewritten](https://github.com/latent-spaces/brag/pull/75) | +3 / -0 across 1 files | 0 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2801: fix(server): reject a pool capacity whose bufferMin exceeds bufferMax](https://github.com/opensandbox-group/OpenSandbox/pull/2801) | +55 / -0 across 2 files | 2 reviews · 1 comments |
