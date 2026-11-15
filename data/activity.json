@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 64,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-14T06:49:53Z",
+      "deletions": 18,
+      "merged_at": "2026-11-15T04:10:08Z",
+      "number": 1848,
+      "repository": "storytold/craft-anything",
+      "repository_url": "https://github.com/storytold/craft-anything",
+      "reviews": 1,
+      "title": "Show how to retry when project approvals refuse a builder action (R2.9)",
+      "url": "https://github.com/storytold/craft-anything/pull/1848"
+    },
+    {
+      "additions": 152,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 10,
+      "comments": 3,
+      "commits": 2,
+      "created_at": "2026-11-14T05:10:50Z",
+      "deletions": 3,
+      "merged_at": "2026-11-15T04:06:56Z",
+      "number": 1841,
+      "repository": "storytold/craft-anything",
+      "repository_url": "https://github.com/storytold/craft-anything",
+      "reviews": 1,
+      "title": "Let people set an AI backend\u2019s request rate in Settings",
+      "url": "https://github.com/storytold/craft-anything/pull/1841"
+    },
+    {
       "additions": 46,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -61136,7 +61168,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3819,
+  "record_count": 3821,
   "schema_version": 1,
   "updated_at_utc": "2026-11-15"
 }
