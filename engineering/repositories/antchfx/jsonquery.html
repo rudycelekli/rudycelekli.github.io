@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jsonquery case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving JSON values through text and XML serialization. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/antchfx/jsonquery.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "jsonquery · Preserving JSON values through text and XML serialization", "description": "Preserving JSON values through text and XML serialization. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/antchfx/jsonquery.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "antchfx/jsonquery", "codeRepository": "https://github.com/antchfx/jsonquery"}, "citation": ["https://github.com/antchfx/jsonquery/pull/32", "https://github.com/antchfx/jsonquery/pull/31", "https://github.com/antchfx/jsonquery/commit/95f245ab4cf798b89b2001d9e7a7c6690f08f303"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/antchfx/jsonquery">antchfx/jsonquery</a></p>
+      <h1>jsonquery · Preserving JSON values through text and XML serialization</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The Go JSON query library printed a native nil as Go&#x27;s &lt;nil&gt; placeholder, although the original JSON value was null. XML serialization also wrote carriage returns literally, letting the XML parser normalize them to line feeds on a round trip.</p>
+      <h2>Engineering response</h2>
+      <p>The text representation uses JSON&#x27;s null spelling while retaining the native nil value. XML output writes carriage returns as character references so consumers can parse the original string back.</p>
+      <h2>Evidence and scope</h2>
+      <p>The two PRs report baseline-failing regression tests and successful full Go and race runs. The fixtures distinguish null from the string null, false and zero, and exercise carriage returns alongside CRLF, tabs and XML metacharacters.</p>
+      <ul><li><a href="https://github.com/antchfx/jsonquery/pull/32">Merged upstream PR #32</a></li><li><a href="https://github.com/antchfx/jsonquery/pull/31">Merged upstream PR #31</a></li><li><a href="https://github.com/antchfx/jsonquery/commit/95f245ab4cf798b89b2001d9e7a7c6690f08f303">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,2734 @@
+{
+  "description": "AI-assisted editorial summaries of upstream engineering work and owned public projects in Rudy Celekli’s portfolio.",
+  "ledger_snapshot_utc": "2026-11-15",
+  "repositories": {
+    "addyosmani/agent-skills": {
+      "title": "Make the documented architecture gate detect a dependency cycle",
+      "problem": "The constraint-driven development skill passed the source directory as a dependency-cruiser option argument. The tool printed usage and returned success even when its architecture rules should have blocked the change.",
+      "change": "Run the checker against the source path with its ordinary config discovery. The documentation now gives a command that scans the tree.",
+      "validation": "The pull request demonstrates a successful exit on the original command with a planted cycle, a failure with the corrected command, and a successful corrected run once the cycle is removed.",
+      "sources": [
+        {
+          "label": "addyosmani/agent-skills merged pull request #786",
+          "url": "https://github.com/addyosmani/agent-skills/pull/786"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/addyosmani/agent-skills/commit/f3c02d3d4f89eaace6aad6e87927fab565b30fd5"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/addyosmani/agent-skills.html"
+    },
+    "ag-ui-protocol/ag-ui": {
+      "title": "Preserving pending tool-call IDs in AG-UI's Go SDK",
+      "problem": "The Go representation of a successful RUN_FINISHED outcome omitted the pending tool-call IDs. A Go relay could silently drop the information a frontend needed to resume with outstanding results.",
+      "change": "The Go model now reads and writes those IDs on the success outcome and keeps them off other variants to match the protocol shape.",
+      "validation": "The upstream fixture round-trips as JSON with the correction. The PR reports a revert-based failure control and 127 passing top-level Go tests.",
+      "sources": [
+        {
+          "label": "Merged pull request #3186",
+          "url": "https://github.com/ag-ui-protocol/ag-ui/pull/3186"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ag-ui-protocol/ag-ui/commit/2330368a2a74573902858867072406638ba3073d"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ag-ui-protocol/ag-ui.html"
+    },
+    "agno-agi/agno": {
+      "title": "Keeping the last good Agno session table after a failed write",
+      "problem": "JsonDb started overwriting the live session table before serialization and writes completed. A file-size limit could leave a partial JSON document where a previously readable session table had been.",
+      "change": "The normal file path stages the serialized table in a unique sibling file and publishes it with an atomic replace after a successful close. Error cleanup removes the writer's own staging file, and the implementation preserves existing behavior for nonregular paths and file metadata described in the PR.",
+      "validation": "A subprocess reproduced a native EFBIG through the public session API. The PR records a 347-byte valid table becoming a 411-byte partial file on the baseline. With the patch, the original bytes remain readable and get_session returns the saved session.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #10794",
+          "url": "https://github.com/agno-agi/agno/pull/10794"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/agno-agi/agno/commit/2ddddfb52785663f20e39588306b6139a7c6766c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/agno-agi/agno.html"
+    },
+    "AgriciDaniel/claude-seo": {
+      "title": "Returning an actionable exit status from claude-seo PageSpeed checks",
+      "problem": "The PageSpeed-only command stored errors below the selected strategies. Its process-exit check inspected a top-level field, so a pipeline could record success when every strategy failed.",
+      "change": "The result now exposes an overall error on total failure and preserves strategy details so the caller can inspect which request failed.",
+      "validation": "The merge record documents an offline trigger using an unsupported URL scheme. This tests command behavior without making a PageSpeed Insights request.",
+      "sources": [
+        {
+          "label": "Merged pull request #380",
+          "url": "https://github.com/AgriciDaniel/claude-seo/pull/380"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/AgriciDaniel/claude-seo/commit/dbcad62ecf97de412c99fde4a8f541d43217987a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/agricidaniel/claude-seo.html"
+    },
+    "ai-job-search-dev/ai-job-search": {
+      "title": "Keep hidden markup out of job-research text extraction",
+      "problem": "The job research retry could expose text from an HTML template or an unclosed script block to its agent context. A truncated fetch was enough to surface text a browser would not display.",
+      "change": "Reuse the posting guard's hidden-block handling in the text-extraction path. Treat an unclosed hidden block as extending to the end of the input and keep visible text after properly closed blocks.",
+      "validation": "The pull request records a failing-then-passing extraction regression and 837 local tests passing with 30 skips. It separately reports four hosted CLI typecheck failures on unchanged code.",
+      "sources": [
+        {
+          "label": "ai-job-search-dev/ai-job-search merged pull request #764",
+          "url": "https://github.com/ai-job-search-dev/ai-job-search/pull/764"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ai-job-search-dev/ai-job-search/commit/aca2ab9b3676ea8073e846a410d8b65d42b57e90"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ai-job-search-dev/ai-job-search.html"
+    },
+    "aindeev/agent-chrome-relay": {
+      "title": "Reclaiming Chrome tabs returned after agent disconnect",
+      "problem": "A Chrome tab could finish opening after the relay had swept the tabs of a disconnected agent. The late response then registered a tab with no connected owner. The same race affected popups.",
+      "change": "The relay marks the agent closed and checks that state before accepting late tab creation. It requests cleanup of the returned tab and drops queued page calls.",
+      "validation": "The PR reports two regressions at the deferred extension RPC boundary and a connected-agent control. The test uses the relay implementation with isolated RPC fixtures.",
+      "sources": [
+        {
+          "label": "Merged pull request #1",
+          "url": "https://github.com/aindeev/agent-chrome-relay/pull/1"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/aindeev/agent-chrome-relay/commit/96982ecdeb2911bda6e1dbcc123b940c5120c6b8"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/aindeev/agent-chrome-relay.html"
+    },
+    "akitaonrails/ai-memory": {
+      "title": "Show unavailable storage measurements in ai-memory",
+      "problem": "A failed advisory SQLite read became a zeroed storage structure on the health page. Operators could see a false empty-database measurement and lose the accompanying reclaimability signal.",
+      "change": "Represent a failed read as unavailable. Keep the health page usable while rendering storage measurements and reclaim guidance according to whether the database statistics are known.",
+      "validation": "The pull request reports 29 passing health tests and 12 passing localization tests. Restoring the original behavior made two new health regressions fail.",
+      "sources": [
+        {
+          "label": "akitaonrails/ai-memory merged pull request #2215",
+          "url": "https://github.com/akitaonrails/ai-memory/pull/2215"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/akitaonrails/ai-memory/commit/28b7b69f973fd988f2458e70d7cfe1de19f7630d"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/akitaonrails/ai-memory.html"
+    },
+    "Anil-matcha/suparagent": {
+      "title": "Separating Suparagent memories from fenced examples",
+      "problem": "A dated item inside a Markdown example could be read as a saved memory. Its sample date could also cause memory cleanup to remove it.",
+      "change": "The memory parser recognizes fenced code as example content before processing dated memory bullets. This keeps the example available to readers and out of memory accounting.",
+      "validation": "The merge record identifies a focused memory-budget regression and reports failure on the prior parser and success with the fix.",
+      "sources": [
+        {
+          "label": "Merged pull request #203",
+          "url": "https://github.com/Anil-matcha/suparagent/pull/203"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Anil-matcha/suparagent/commit/5f1eb2c913d39548c311d2f79c8e24747f197a15"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/anil-matcha/suparagent.html"
+    },
+    "anmolkapil/plexo": {
+      "title": "Keeping spaces in filenames downloaded by Plexo",
+      "problem": "Some servers send Content-Disposition filenames with spaces and without quotes. Plexo stopped at the first space, turning quarterly report.csv into quarterly.",
+      "change": "The parser consumes the unquoted value through the next parameter separator and trims the surrounding spaces and tabs. Quoted and extended filenames continue to use their existing paths.",
+      "validation": "An Electron Playwright regression reproduced the truncated name. The merged record reports 32 passing download and redirect checks with the correction.",
+      "sources": [
+        {
+          "label": "Merged pull request #183",
+          "url": "https://github.com/anmolkapil/plexo/pull/183"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/anmolkapil/plexo/commit/899d99b5a8d15e6472f0ebfd3eeb5d1df2401f14"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/anmolkapil/plexo.html"
+    },
+    "antchfx/htmlquery": {
+      "title": "Returning the XPath string value of an HTML document",
+      "problem": "HTML XPath queries could return an empty string when selecting the root document, even if descendant elements contained text. This affected string(/), root-context string(), and predicates that ask whether the document contains text.",
+      "change": "The navigator reuses the existing InnerText traversal for the document node, bringing its value into line with XPath's root-node string-value rule.",
+      "validation": "The regression tests cover root-context string and contains expressions and retain element and comment controls. The cited PR gives the XPath specification reference and reports local Go validation.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #85",
+          "url": "https://github.com/antchfx/htmlquery/pull/85"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/antchfx/htmlquery/commit/3a39692b4f24634f9812b74cd6e56ed8dd0867b4"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/antchfx/htmlquery.html"
+    },
+    "antchfx/jsonquery": {
+      "title": "Preserving JSON values through text and XML serialization",
+      "problem": "The Go JSON query library printed a native nil as Go's <nil> placeholder, although the original JSON value was null. XML serialization also wrote carriage returns literally, letting the XML parser normalize them to line feeds on a round trip.",
+      "change": "The text representation uses JSON's null spelling while retaining the native nil value. XML output writes carriage returns as character references so consumers can parse the original string back.",
+      "validation": "The two PRs report baseline-failing regression tests and successful full Go and race runs. The fixtures distinguish null from the string null, false and zero, and exercise carriage returns alongside CRLF, tabs and XML metacharacters.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #32",
+          "url": "https://github.com/antchfx/jsonquery/pull/32"
+        },
+        {
+          "label": "Merged upstream PR #31",
+          "url": "https://github.com/antchfx/jsonquery/pull/31"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/antchfx/jsonquery/commit/95f245ab4cf798b89b2001d9e7a7c6690f08f303"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/antchfx/jsonquery.html"
+    },
+    "antchfx/xmlquery": {
+      "title": "Keeping XML namespace declarations off the XPath attribute axis",
+      "problem": "xmlquery exposed xmlns and xmlns:p declarations through @*, altering attribute counts and positional predicates on namespaced XML.",
+      "change": "The XPath navigator skips namespace declarations when traversing attributes and keeps the source attribute representation available for XML serialization.",
+      "validation": "The contribution records passing Go and race checks with controls for ordinary attributes, xml:lang and serialized namespace declarations.",
+      "sources": [
+        {
+          "label": "Merged pull request #145",
+          "url": "https://github.com/antchfx/xmlquery/pull/145"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/antchfx/xmlquery/commit/c25e83d7c9870fffecabf749969df554dfedcd87"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/antchfx/xmlquery.html"
+    },
+    "antchfx/xpath": {
+      "title": "Counting the actual following-axis nodes in XPath",
+      "problem": "The last() predicate counted siblings of a candidate node even when the expression selected through the following or following-sibling axis. That count could prevent the final matching node from being returned.",
+      "change": "The following query supplies the positional filter with the size of its own selected node set, cached for the current context node.",
+      "validation": "The PR reports an axis-specific mutation that reproduces the incorrect result, passing Go tests and agreement with lxml on a separate XML fixture.",
+      "sources": [
+        {
+          "label": "Merged pull request #188",
+          "url": "https://github.com/antchfx/xpath/pull/188"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/antchfx/xpath/commit/d2ed292460c4db515f4d245a9442ee49d7c7fd54"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/antchfx/xpath.html"
+    },
+    "areal-project/AReaL": {
+      "title": "Passing local worker environment values without losing delimiters",
+      "problem": "The local scheduler serialized an environment dictionary into comma-separated key-value pairs. Commas in CUDA allocator settings and equals signs within values could then cause splitting errors before the worker launched.",
+      "change": "The local scheduler passes the original mapping into the launcher utilities. The string interface remains available and splits a pair only on its first equals sign.",
+      "validation": "The PR reports nine passing launcher tests, including two cases that fail without the correction. This validation runs in CPU-only tests and does not exercise launching a GPU worker.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1803",
+          "url": "https://github.com/areal-project/AReaL/pull/1803"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/areal-project/AReaL/commit/abace78b4ea53d47e7e1fe6872bd29450bb1f1a8"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/areal-project/areal.html"
+    },
+    "AstrBotDevs/AstrBot": {
+      "title": "Keeping Telegram sender names useful in AstrBot context",
+      "problem": "Telegram permits accounts without a public handle. AstrBot represented every such sender as Unknown in history, model context and the nickname available to plugins, despite having a display name.",
+      "change": "The adapter selects the Telegram username first, then the display name, then Unknown. This preserves the existing username convention for accounts that already provide one.",
+      "validation": "The pull request reports a parametrized adapter regression across the username, display-name and empty-data cases, with 56 passing Telegram adapter tests. Telegram production usage is outside that test evidence.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #10715",
+          "url": "https://github.com/AstrBotDevs/AstrBot/pull/10715"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/AstrBotDevs/AstrBot/commit/7a985e603d3c5b9c05cd92d165b7b6ce6f91857f"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/astrbotdevs/astrbot.html"
+    },
+    "Asymptote-Labs/agent-beacon": {
+      "title": "Preserve exact JSON-RPC IDs through agent-beacon",
+      "problem": "Decoding a request ID through float64 rounded some large integers. Two distinct client requests could receive the same response ID, interfering with response routing.",
+      "change": "Retain numbers as json.Number and echo their exact JSON value in success and error responses. String IDs and dispatch behavior continue to use the existing path.",
+      "validation": "The pull request reports 24 transport cases through stdio and loopback HTTP, with eight baseline failures. The fixed package passed its ordinary and race checks locally.",
+      "sources": [
+        {
+          "label": "Asymptote-Labs/agent-beacon merged pull request #1126",
+          "url": "https://github.com/Asymptote-Labs/agent-beacon/pull/1126"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Asymptote-Labs/agent-beacon/commit/6962c4d6bc65d470e5f4f3d76c3689fce243be35"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/asymptote-labs/agent-beacon.html"
+    },
+    "backnotprop/plannotator": {
+      "title": "Opening a review note without accidentally posting the decision",
+      "problem": "Plannotator used Mod+Shift+Enter to open a note in plan review, but code review shared the primary submit handler without inspecting Shift. A reviewer following that shortcut could post an irreversible decision before entering the note.",
+      "change": "The review editor registers the note action and routes the shifted chord to the composer. The unshifted shortcut remains associated with the primary decision.",
+      "validation": "The PR records a DOM regression that detects a submitted decision on the baseline and expects an open composer with no submission on the repaired path. The case covers the editor's keyboard behavior.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #3210",
+          "url": "https://github.com/backnotprop/plannotator/pull/3210"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/backnotprop/plannotator/commit/2037be0e76c4b9ea5c32b2c595aad427430c3471"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/backnotprop/plannotator.html"
+    },
+    "bee-san/Ciphey": {
+      "title": "Keeping JavaScript character codes distinct from byte sequences in Ciphey",
+      "problem": "Ciphey stripped String.fromCharCode from decimal input and treated its arguments as UTF-8 bytes. The same integers can represent different text under JavaScript's UTF-16 rules.",
+      "change": "The decoder retains the explicit JavaScript interpretation and applies its code-unit conversion in the supported numeric grammar. Bare decimal input follows the byte-decoding path.",
+      "validation": "The PR used Node as an independent oracle for ambiguous values and surrogate controls. It reports 2,420 local Rust tests passing and separately discloses an owned qualification run marked failed for its spelling command.",
+      "sources": [
+        {
+          "label": "Merged pull request #1126",
+          "url": "https://github.com/bee-san/Ciphey/pull/1126"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/bee-san/Ciphey/commit/ae0cc667a30fae87bc55301223c417f060e095e6"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/bee-san/ciphey.html"
+    },
+    "bee-san/pyWhat": {
+      "title": "Scanning literal directory names in pyWhat",
+      "problem": "Recursive identification interpreted user-supplied path components as part of a glob. A directory named scan[2026] could be skipped, while an asterisk could select an unintended sibling.",
+      "change": "The identifier escapes the directory path before appending the recursive glob, keeping glob syntax limited to the search portion it adds.",
+      "validation": "End-to-end fixtures verify discovery in the selected directory and absence of decoys from a sibling. The recorded cases went from three failures to three passes.",
+      "sources": [
+        {
+          "label": "Merged pull request #297",
+          "url": "https://github.com/bee-san/pyWhat/pull/297"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/bee-san/pyWhat/commit/e31f7cae1b5234fb63d581ca36c0291b9421c7ba"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/bee-san/pywhat.html"
+    },
+    "bee-san/RustScan": {
+      "title": "Preserving TOML and script metadata semantics in RustScan",
+      "problem": "Documented lowercase script modes were rejected by the config reader. The script metadata reader also removed every hash from a line, changing values such as language tags and URL fragments.",
+      "change": "The parser accepts documented lowercase aliases alongside the existing variant names and continues to reject unknown strings. Script metadata extraction removes only the leading comment marker, leaving embedded punctuation for TOML to interpret.",
+      "validation": "The config PR exercises the public Config::read path through temporary files and reports a baseline where the three lowercase cases fail. The metadata PR uses the real parser with a temporary fixture and checks the complete command-format string without executing it or scanning a network.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #964",
+          "url": "https://github.com/bee-san/RustScan/pull/964"
+        },
+        {
+          "label": "Merged upstream PR #962",
+          "url": "https://github.com/bee-san/RustScan/pull/962"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/bee-san/RustScan/commit/521f8bf720bcb14338a02762bab946c816bc0ca8"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/bee-san/rustscan.html"
+    },
+    "beenuar/AiSOC": {
+      "title": "Reading all available Entra audit pages in AiSOC",
+      "problem": "The Entra connector consumed only the first response page from Microsoft Graph. More than 200 matching audit or risky-sign-in entries in a poll could leave older entries unread before the next polling window.",
+      "change": "The connector follows the supplied @odata.nextLink for both feeds. It retains completed pages when a later request fails and warns at the 25-page limit.",
+      "validation": "A focused fixture retrieved 680 entries across both feeds and reproduced first-page loss when the source change was reverted. The merge record also notes existing test-environment failures and the absence of a live tenant run.",
+      "sources": [
+        {
+          "label": "Merged pull request #1708",
+          "url": "https://github.com/beenuar/AiSOC/pull/1708"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/beenuar/AiSOC/commit/dd3d418f73fc3bb93c29161b3c15e7b9c5c15eda"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/beenuar/aisoc.html"
+    },
+    "benbjohnson/litestream": {
+      "title": "Keeping Litestream's WAL read lock through request cancellation",
+      "problem": "A control-socket sync could open a long-lived SQLite read transaction using the short-lived request context. On return, database/sql rolled the transaction back while Litestream still held a pointer and treated the lock as active. Automatic checkpointing could then restart the WAL before replication read the newest frames.",
+      "change": "The change gives the read transaction a lifetime independent of the caller's cancellation, so it remains active until Litestream's lock management finishes with it.",
+      "validation": "The linked issue reproduction ran twice per binary. The PR records WAL restart and failing replica integrity checks for TXIDs 3 through 6 in both baseline runs, with neither failure in the two candidate runs. This evidence covers the reproduced control-socket setup.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1579",
+          "url": "https://github.com/benbjohnson/litestream/pull/1579"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/benbjohnson/litestream/commit/f282d0ef6815570235ca09ecbb53e81568acc5e7"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/benbjohnson/litestream.html"
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "title": "Wrap Local ADS-B track labels at north",
+      "problem": "The ADS-B decoder supplies tracks in a half-open range from zero up to 360 degrees. Rounding 359.7 degrees in the card yielded 360, inconsistent with north labels elsewhere in the globe interface.",
+      "change": "Wrap the whole-degree display after rounding so a track rounding to due north reads zero. The change is confined to the card model's display value.",
+      "validation": "The pull request reports a fixture changing from 360 to zero and five passing card localization tests. No live aircraft feed was required.",
+      "sources": [
+        {
+          "label": "bilawalsidhu/gods-eye-view merged pull request #1396",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1396"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view/commit/8886e063e6aeeb05f209947a23e0e2d124e64e37"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/bilawalsidhu/gods-eye-view.html"
+    },
+    "cathrynlavery/diagram-design": {
+      "title": "Preserving type syntax in draw.io imports",
+      "problem": "A plain draw.io label such as List<U> could lose its type parameter when the importer treated angle brackets as HTML. Applying entity decoding twice could also change the intended label.",
+      "change": "The importer now checks each cell's html=1 style before applying HTML cleanup. That decision covers node labels, edge labels and labels on edge children.",
+      "validation": "The merged contribution reports an import verifier with plain-text and HTML controls, plus the project's local validation commands. The report discloses Codex assistance.",
+      "sources": [
+        {
+          "label": "Merged pull request #468",
+          "url": "https://github.com/cathrynlavery/diagram-design/pull/468"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/cathrynlavery/diagram-design/commit/17686b948d1db9df02288919cf2c1a22e65a6e24"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/cathrynlavery/diagram-design.html"
+    },
+    "chunkhound/chunkhound": {
+      "title": "Distinguishing the official VoyageAI endpoint from look-alike hosts",
+      "problem": "ChunkHound classified an endpoint as official using a raw prefix check. Hostnames that appended a subdomain or hyphen suffix to api.voyageai.com could therefore enter configuration branches intended for VoyageAI's official service.",
+      "change": "The check now requires the exact official base or a slash boundary after it, matching the guard used for the analogous OpenAI endpoint helper.",
+      "validation": "The author reports eight focused cases covering official forms and suffix spoofing. Reverting the implementation made both spoofing assertions fail again. The helper was loaded directly for local testing because the full package's optional parser and database dependencies were unavailable.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #473",
+          "url": "https://github.com/chunkhound/chunkhound/pull/473"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/chunkhound/chunkhound/commit/456e6cbcc95d42e48affacfc53ffcf380f432186"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/chunkhound/chunkhound.html"
+    },
+    "CopilotKit/OpenBot": {
+      "title": "Preserving shared OAuth registrations across OpenBot replicas",
+      "problem": "A replica unable to decrypt an OAuth client could interpret the read fault as absence and register a replacement. Changing the shared pointer made the existing client unavailable to a healthy replica.",
+      "change": "Both reads, including the one inside the registration lock, distinguish typed credential-read faults and stop before registration. The connection route records a durable audit event and returns a retryable 503.",
+      "validation": "The PR describes controls with real encrypted rows and different keys, plus database route tests. The candidate preserved the existing pointer and made zero vendor registrations in the fault cases.",
+      "sources": [
+        {
+          "label": "Merged pull request #922",
+          "url": "https://github.com/CopilotKit/OpenBot/pull/922"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/CopilotKit/OpenBot/commit/aa332bc443e6358b1d6a8d8f469a92efa19913de"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/copilotkit/openbot.html"
+    },
+    "coreyhaines31/marketingskills": {
+      "title": "Validate OneSignal audiences before sending a request",
+      "problem": "The marketing CLI forwarded arrays or scalars where OneSignal's notification endpoint required an alias map. Its segment route also accepted invalid filter entries and out-of-range counts.",
+      "change": "Check that aliases form a dictionary and that the segment contains one to 200 filter or operator objects. Preserve shorthand aliases and leave field-level interpretation to the provider.",
+      "validation": "The pull request reports 22 affected contract tests and 899 passing CLI and asset tests in isolation. Delivery requests were mocked.",
+      "sources": [
+        {
+          "label": "coreyhaines31/marketingskills merged pull request #832",
+          "url": "https://github.com/coreyhaines31/marketingskills/pull/832"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/coreyhaines31/marketingskills/commit/ad937028c95d0cf7a92c3f252b6edcc25c23d17a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/coreyhaines31/marketingskills.html"
+    },
+    "cursor/plugins": {
+      "title": "Selecting the current pull request in Cursor's stack orchestrator",
+      "problem": "A branch can have a historical closed or merged pull request and an active replacement. Treating those rows as equivalent makes the stack orchestrator reject a branch that has one unambiguous current review.",
+      "change": "The stack store selects the sole active PR when present. It retains historical anchors when no active PR exists and still rejects a genuinely ambiguous branch with multiple active PRs.",
+      "validation": "The co-authored upstream diff adds tests for an active replacement alongside both closed and merged history, plus a control with two active PRs. Additional credited commits bound polling sleeps by the deadline and distinguish fork heads during discovery.",
+      "sources": [
+        {
+          "label": "Co-authored upstream commit 3c596e701b5c",
+          "url": "https://github.com/cursor/plugins/commit/3c596e701b5ca3d213e072464eec36baf0dee3e7"
+        },
+        {
+          "label": "Co-authored upstream commit fe096ef31c94",
+          "url": "https://github.com/cursor/plugins/commit/fe096ef31c94c30997207ffb6e30c51f15a34f16"
+        },
+        {
+          "label": "Co-authored upstream commit 96dec8ee58de",
+          "url": "https://github.com/cursor/plugins/commit/96dec8ee58deb7b388fa080fbceaba4460a7c9dd"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/cursor/plugins.html"
+    },
+    "debpalash/OpenGTM": {
+      "title": "Encode untrusted lead data for spreadsheet exports",
+      "problem": "OpenGTM's API and CLI wrote scraped lead strings into CSV. Spreadsheet programs can treat values beginning with formula markers as executable formulas when a user opens the export.",
+      "change": "Apply the same string-escaping policy across both lead export paths. Preserve numeric values and restricted phone-like strings while neutralizing formula prefixes.",
+      "validation": "The pull request reports regressions for the API route, CLI path and string cases, plus 44 passing related tests. That evidence covers export encoding behavior.",
+      "sources": [
+        {
+          "label": "debpalash/OpenGTM merged pull request #100",
+          "url": "https://github.com/debpalash/OpenGTM/pull/100"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/debpalash/OpenGTM/commit/87ebebc6b0099c5e8bbb503a5fe13f38e82e96a0"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/debpalash/opengtm.html"
+    },
+    "debpalash/VoiceStudio": {
+      "title": "Protecting busy VoiceStudio sidecar processes",
+      "problem": "An engine-level unload could kill a sidecar while it was handling a request. A duplicate unload override bypassed the reaper's existing operation-lock check.",
+      "change": "The engine now reaches the guarded unload path, where busy sidecars remain available and idle ones can shut down and respawn on demand.",
+      "validation": "The PR reports a reproduction using the shipped echo sidecar with its operation lock held and 51 focused checks of the corrected behavior. The offline fixture used native subprocesses and did not perform GPU synthesis.",
+      "sources": [
+        {
+          "label": "Merged pull request #2515",
+          "url": "https://github.com/debpalash/VoiceStudio/pull/2515"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/debpalash/VoiceStudio/commit/c10868fc9d8522a815223600a66bb10a80558a07"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/debpalash/voicestudio.html"
+    },
+    "deeplethe/utopia": {
+      "title": "Interpret numeric weekdays consistently in Utopia schedules",
+      "problem": "The Advanced scheduling field advertised standard cron while the evaluation library mapped numeric weekdays differently. An expression entered as Monday through Friday could fire Sunday through Thursday.",
+      "change": "Normalize numeric weekday expressions to named weekdays using standard cron semantics before storing new values. Previously stored numeric expressions keep their original behavior until resaved.",
+      "validation": "The pull request reports a baseline Sunday firing and a corrected Monday firing in an isolated Rust fixture pinned to the scheduler library. It does not report a full workspace build.",
+      "sources": [
+        {
+          "label": "deeplethe/utopia merged pull request #1399",
+          "url": "https://github.com/deeplethe/utopia/pull/1399"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/deeplethe/utopia/commit/daeba7583b52d3f1265e091bd20b016596e96c84"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/deeplethe/utopia.html"
+    },
+    "dosco/graphjin": {
+      "title": "Discover inherited OpenAPI response fields in GraphJin",
+      "problem": "GraphJin's OpenAPI introspection saw direct declarations but could miss fields inherited through allOf. Composed objects and array-item schemas could lose discoverable columns or result paths.",
+      "change": "Combine the relevant schema constraints across composition branches and reuse the resolved view for queries and mutations. Leave the loaded component schemas intact.",
+      "validation": "The PR reports a before-and-after regression for composed array items and passing OpenAPI package checks with the race detector. HTTP fixtures cover result extraction and component immutability.",
+      "sources": [
+        {
+          "label": "dosco/graphjin merged pull request #691",
+          "url": "https://github.com/dosco/graphjin/pull/691"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/dosco/graphjin/commit/03389487d83dd68647da9980bcf73dc7efb2cc84"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/dosco/graphjin.html"
+    },
+    "e2e-inc/e2e": {
+      "title": "Collect several browser downloads from one test action",
+      "problem": "An export can produce multiple files from a single click. The existing single-download path also let a stalled file transfer outlive its timeout.",
+      "change": "Add a collector that runs one trigger and gathers the requested number of downloads in start order. Use one timeout for start, completion and saving, and clean up started transfers when the wait aborts.",
+      "validation": "The pull request reports local Chromium and provider-path fixtures covering multiple files and stalled transfers, with 609 passing web-package tests.",
+      "sources": [
+        {
+          "label": "e2e-inc/e2e merged pull request #1048",
+          "url": "https://github.com/e2e-inc/e2e/pull/1048"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/e2e-inc/e2e/commit/7f4475cef9a6eed5b187e0ba898769d7aab15fe3"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/e2e-inc/e2e.html"
+    },
+    "earthtojake/text-to-cad": {
+      "title": "Preserving native CAD worker failure reasons in the Viewer",
+      "problem": "When a CAD daemon worker crashed or was killed, the Viewer could report a failed update without the diagnostic the process had already provided. This left both native crashes and intentional cancellation hard to distinguish at the job boundary.",
+      "change": "The daemon now records a worker's exit code or terminating signal as the job's failure reason. The maintainer rebased the contributor patch and integrated it alongside existing telemetry.",
+      "validation": "The maintainer's upstream commit explicitly credits the original PR and contains a daemon-client regression. A separate credited commit preserves daemon-channel descriptor ownership during cancellation. These changes concern recorded job state and transport ownership.",
+      "sources": [
+        {
+          "label": "Co-authored upstream commit fe454ff5be80",
+          "url": "https://github.com/earthtojake/text-to-cad/commit/fe454ff5be8003d3afc8f213a4de0d2013d39f4a"
+        },
+        {
+          "label": "Original contribution PR #545",
+          "url": "https://github.com/earthtojake/text-to-cad/pull/545"
+        },
+        {
+          "label": "Co-authored upstream commit 33df75608d13",
+          "url": "https://github.com/earthtojake/text-to-cad/commit/33df75608d13828aa51e04faefd00999fc61d381"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/earthtojake/text-to-cad.html"
+    },
+    "fabio-rovai/open-ontologies": {
+      "title": "Reject truncated XML before loading ontology records",
+      "problem": "A cut-off XML document could contain one complete record and one unfinished record. The importer loaded the completed prefix and reported success, concealing lost data.",
+      "change": "Reject end-of-file while element depth remains open, before mapping or loading records. Preserve valid handling of complete documents, including self-closing elements, CDATA and empty fields.",
+      "validation": "The PR records nine passing Linux integration checks after eight baseline failures. The validation includes the built command-line tool and file-dispatch paths.",
+      "sources": [
+        {
+          "label": "fabio-rovai/open-ontologies merged pull request #297",
+          "url": "https://github.com/fabio-rovai/open-ontologies/pull/297"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/fabio-rovai/open-ontologies/commit/8e3c27690b831e6427a321c5c0cf78c906c06660"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/fabio-rovai/open-ontologies.html"
+    },
+    "facebookresearch/swe-sweep": {
+      "title": "Accounting for grader crashes in SWE-Sweep",
+      "problem": "A grader crash writes a short reward record with a failure marker. The score reader expected fields from a completed trial, so a crashed trial could vanish from evaluation failure counts.",
+      "change": "The scorer checks the explicit grader_failed marker before requiring completed-trial fields. It reports the crash and keeps the trial out of the headline score.",
+      "validation": "The merged test plan covers scoring and grader-failure records, including the distinction between a crash and a file that is merely incomplete.",
+      "sources": [
+        {
+          "label": "Merged pull request #58",
+          "url": "https://github.com/facebookresearch/swe-sweep/pull/58"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/facebookresearch/swe-sweep/commit/be95c23526c9c5170c4db136ddf5233c19e285bf"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/facebookresearch/swe-sweep.html"
+    },
+    "facelessuser/wcmatch": {
+      "title": "Interpreting an empty glob root as the current directory",
+      "problem": "A caller passing an empty string or empty bytes for root_dir could get different results than a caller using the expected current directory. The behavior also mattered when the calling process supplied a directory file descriptor.",
+      "change": "The attributed upstream commit treats either empty root representation as the current directory, including within the directory descriptor's scope. It uses native path separators in test expectations to reflect Windows and POSIX behavior.",
+      "validation": "The upstream commit contains the regression and changelog entry. Its coauthor trailers credit Isaac Muse and Claude Sonnet 5.5 alongside the attributed contribution.",
+      "sources": [
+        {
+          "label": "Attributed upstream commit 2e66fa6afcf5",
+          "url": "https://github.com/facelessuser/wcmatch/commit/2e66fa6afcf515e58fed441bd751c342449ded54"
+        },
+        {
+          "label": "Repository source",
+          "url": "https://github.com/facelessuser/wcmatch"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/facelessuser/wcmatch.html"
+    },
+    "go-resty/resty": {
+      "title": "Normalizing Resty load-balancer URLs before joining request paths",
+      "problem": "A base URL with a fragment or a bare question-mark could absorb the request path when combined with the caller's relative URL. In the fragment example, a caller requesting /requested reached the upstream server's root.",
+      "change": "The client clears fragment-related fields and the empty-query marker alongside its existing base-path and query normalization.",
+      "validation": "The regression uses a loopback HTTP server through Resty's public load-balancer API. The PR reports three baseline failures and a passing ordinary-query control, followed by four passing cases and a passing full Go suite on the candidate.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1272",
+          "url": "https://github.com/go-resty/resty/pull/1272"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/go-resty/resty/commit/716987e2b60ffe0e55e6ede191b5c7854b5fba5a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/go-resty/resty.html"
+    },
+    "google-deepmind/concordia": {
+      "title": "Preserving choice labels in Concordia's simulation components",
+      "problem": "A choice offered through a hidden component wrapper needs a stable label so the simulation can identify the inner choice. The wrapper previously obscured the label that the caller expected to use.",
+      "change": "The upstream Copybara import exposes the inner choice label. A separate attributed import accepts sequences of component keys in narrative situation handling.",
+      "validation": "The public commits identify Rudy Mizrahi Celekli as the original author and preserve imported revision provenance. This case records the simulation-library API work. The commits provide no empirical social-simulation result.",
+      "sources": [
+        {
+          "label": "Attributed upstream commit 15169db65cb0",
+          "url": "https://github.com/google-deepmind/concordia/commit/15169db65cb00e9eadc126ecf19fe8aa6142e6f6"
+        },
+        {
+          "label": "Attributed upstream commit 4250a7c0f799",
+          "url": "https://github.com/google-deepmind/concordia/commit/4250a7c0f7998470fe4881bcdb109585f96dc997"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/google-deepmind/concordia.html"
+    },
+    "google-research/harness2": {
+      "title": "Rejecting conflicting judge verdicts in Google Research Harness²",
+      "problem": "The bundled LAB grader could take the first fenced JSON verdict before checking for disagreements. A response containing a pass example and a later fail verdict could therefore write a pass score.",
+      "change": "The patch routes every fenced verdict through the existing agreement check. Ambiguous responses retry, and exhausting retries leaves no cached score.",
+      "validation": "The PR reports ten offline tests through pinned LAB code, the score writer and Harness²'s adapter using scripted judge responses. The checks exercise evaluator behavior without calling a model.",
+      "sources": [
+        {
+          "label": "Merged pull request #24",
+          "url": "https://github.com/google-research/harness2/pull/24"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/google-research/harness2/commit/591554dd2518c3a1a6b132679dfad4f115a723f0"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/google-research/harness2.html"
+    },
+    "google-research/timesfm": {
+      "title": "Aligning TimesFM covariate residuals with the available backcast",
+      "problem": "TimesFM 2.5 sized covariate residuals from the full input even when the model cropped context. For very short inputs, a zero-length slice could unexpectedly select the full series.",
+      "change": "The residual window follows the context the model sees. The fit handles an empty residual series without invalid statistics and reports a clear error if every series is too short.",
+      "validation": "The PR reports six focused tests using a randomly initialized Torch model, checking output shapes and finiteness for long, short and mixed batches. That experiment measures shape handling.",
+      "sources": [
+        {
+          "label": "Merged pull request #550",
+          "url": "https://github.com/google-research/timesfm/pull/550"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/google-research/timesfm/commit/bebaccfe381e6b558f5ab06dcd8edc702e31b50c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/google-research/timesfm.html"
+    },
+    "Graphicle-AI/graphicle": {
+      "title": "Returning the correct JSON-RPC error for unavailable Graphicle methods",
+      "problem": "A workspace MCP connection returned Invalid params when it received a method that the connection did not expose. That made capability absence indistinguishable from an invalid request to a supported method.",
+      "change": "The dispatch layer now returns -32601 for an unavailable method. Errors such as an unknown tool within tools/call still use -32602.",
+      "validation": "The merge record reports 690 local Rust tests and identifies a workspace-scope control for both error codes.",
+      "sources": [
+        {
+          "label": "Merged pull request #6",
+          "url": "https://github.com/Graphicle-AI/graphicle/pull/6"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Graphicle-AI/graphicle/commit/51536c276e4b30f7dfe314eb41c02cbdfea97fc2"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/graphicle-ai/graphicle.html"
+    },
+    "Graphify-Labs/graphify": {
+      "title": "Resolving Python graph edges to the method named in source",
+      "problem": "Graphify assigned separate identifiers to methods such as run and _run, but the member-call resolver folded the names together when choosing a target. A valid call could therefore point to the wrong node in the graph.",
+      "change": "The attributed fix resolves a member call using the method spelling. Related commits harden evidence checks for mis-cased confidence values and keep parallel relations when exporting Obsidian notes.",
+      "validation": "The upstream commit records preserve the implementation and attribution. The cases concern graph fidelity at extraction and export boundaries, and provide no measured claim about retrieval performance.",
+      "sources": [
+        {
+          "label": "Attributed upstream commit 6e75b4214795",
+          "url": "https://github.com/Graphify-Labs/graphify/commit/6e75b42147956fa1b025a221ad228e10323950f9"
+        },
+        {
+          "label": "Attributed upstream commit 91c895434590",
+          "url": "https://github.com/Graphify-Labs/graphify/commit/91c8954345908fcca1379064143ccafc0b0c0741"
+        },
+        {
+          "label": "Attributed upstream commit 4c7d710f7560",
+          "url": "https://github.com/Graphify-Labs/graphify/commit/4c7d710f75601207b9e5a968709d1e0a5741415d"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/graphify-labs/graphify.html"
+    },
+    "harbor-framework/terminal-bench-science": {
+      "title": "Reject non-finite numbers in a scientific benchmark evaluator",
+      "problem": "A scientific output verifier parsed floating-point values and accepted non-finite representations as numeric findings. That let malformed values satisfy the shape of a finding without providing a usable estimate.",
+      "change": "Check finiteness after numeric parsing and retain the benchmark's existing missing-value path. Leave the scientific scoring method and admissible finite values unchanged.",
+      "validation": "The pull request reports negative controls for non-finite and overflow values, plus passing finite and missing-value controls. The evidence is local verifier testing.",
+      "sources": [
+        {
+          "label": "harbor-framework/terminal-bench-science merged pull request #2038",
+          "url": "https://github.com/harbor-framework/terminal-bench-science/pull/2038"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/harbor-framework/terminal-bench-science/commit/efe5a7bbcbde5c68cd15af6dc3cf23bdf1ec2786"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/harbor-framework/terminal-bench-science.html"
+    },
+    "HarnessRouter/harnessrouter": {
+      "title": "Normalize tool-call deltas across valid SSE encodings",
+      "problem": "HarnessRouter's DSH relay expected a space after the SSE data-field colon. Valid streams with no space bypassed cleanup, so empty continuation fields could erase an accumulated tool name and ID.",
+      "change": "Match the data field independent of its optional space, then apply the existing normalization to JSON objects. Leave non-object events and unrelated fields alone.",
+      "validation": "The pull request reports 18 focused cases passing, with the new case failing when the old guard is restored. The broader local suite recorded 31 failures.",
+      "sources": [
+        {
+          "label": "HarnessRouter/harnessrouter merged pull request #572",
+          "url": "https://github.com/HarnessRouter/harnessrouter/pull/572"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/HarnessRouter/harnessrouter/commit/268674149ae4f72b06028b2dbd029e000198a4d4"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/harnessrouter/harnessrouter.html"
+    },
+    "harry0703/MoneyPrinterTurbo": {
+      "title": "Generate from prepared video assets without an LLM credential",
+      "problem": "MoneyPrinterTurbo's setup helper required LLM credentials for callers who already supplied narration and either local footage or stock-search terms. Those inputs already bypass the corresponding text-generation steps.",
+      "change": "Inspect the effective script and terms options before deciding whether to ask for an LLM credential. Keep the material-provider checks that the selected asset path still needs.",
+      "validation": "The pull request reports three baseline failures, a missing-terms control and 54 passing helper tests. A CLI import test was deselected because optional media dependencies were absent. No live video generation was exercised.",
+      "sources": [
+        {
+          "label": "harry0703/MoneyPrinterTurbo merged pull request #1608",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo/pull/1608"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo/commit/dc4abd2d3844ed5da8ef589bb5b035eba9c542c0"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/harry0703/moneyprinterturbo.html"
+    },
+    "haydenschmitty/floorplan": {
+      "title": "Mapping routes through real framework boundaries in Floorplan",
+      "problem": "A codebase map can make incorrect inferences if it mistakes syntax for evidence. Floorplan lost Hono routes after reading a wildcard inside a string as a comment. Django child routes lost their mount prefix, while Express checks could leak from one route into the next.",
+      "change": "The changes preserve source positions while recognizing quoted strings, interpret Django include calls as mounts, and scope each Express middleware scan to that route call. Where the route uses a separately named handler, the extractor excludes the handler from the middleware list.",
+      "validation": "The PRs include fixtures with a Hono wildcard, a Django orders mount, and Express routes using named handlers. The recorded outputs show the affected routes appearing and the Express fixture identifying its actual unchecked routes. This evidence concerns static extraction from those fixtures.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #65",
+          "url": "https://github.com/haydenschmitty/floorplan/pull/65"
+        },
+        {
+          "label": "Merged upstream PR #62",
+          "url": "https://github.com/haydenschmitty/floorplan/pull/62"
+        },
+        {
+          "label": "Merged upstream PR #58",
+          "url": "https://github.com/haydenschmitty/floorplan/pull/58"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/haydenschmitty/floorplan/commit/58becb3104b4776c13d0902f0b579db69e0d4b44"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/haydenschmitty/floorplan.html"
+    },
+    "headroomlabs-ai/headroom": {
+      "title": "Removing provider outages from Headroom answer scores",
+      "problem": "Evaluation paths converted provider exceptions to ordinary answer strings. Two identical error messages could score as a perfect match, and a diagnostic that named the expected answer could receive credit.",
+      "change": "Failed calls now populate the existing error state and bypass answer scoring and judge evaluation. A successful response containing the literal text ERROR remains eligible for normal scoring.",
+      "validation": "The documented baseline awarded 2 of 2 cases in each affected evaluator. After the change, a controlled failure and one valid response correctly produced 1 of 2. The figures are fixture results.",
+      "sources": [
+        {
+          "label": "Merged pull request #4503",
+          "url": "https://github.com/headroomlabs-ai/headroom/pull/4503"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/headroomlabs-ai/headroom/commit/364c59544c0e27351e1bfaa91ed506f4d047d8d7"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/headroomlabs-ai/headroom.html"
+    },
+    "HelixDB/helix-foundry": {
+      "title": "Keep a completed Helix Foundry answer when Stop arrives late",
+      "problem": "A cancellation request could arrive just after an analyst run completed and overwrite its successful status. The saved answer remained, but follow-ups disappeared and retry could re-run the question.",
+      "change": "Refuse cancellation of a succeeded run with a conflict response and leave its answer and status in place. Preserve cancellation behavior for active runs and repeated requests for stopped runs.",
+      "validation": "The PR reports 11 passing thread tests and passing related route checks. The regression exercises an already-completed run at the API boundary.",
+      "sources": [
+        {
+          "label": "HelixDB/helix-foundry merged pull request #128",
+          "url": "https://github.com/HelixDB/helix-foundry/pull/128"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/HelixDB/helix-foundry/commit/52cfaa3ed2bde3fbeeca933fb77be55580a75efb"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/helixdb/helix-foundry.html"
+    },
+    "heygen-com/hyperframes": {
+      "title": "Encoding Hyperframes feedback that ends at an emoji boundary",
+      "problem": "The feedback command could truncate between two UTF-16 surrogate units. URL encoding the partial emoji then threw an exception before the issue URL was available.",
+      "change": "The truncator removes a trailing high surrogate if its matching low surrogate was cut off, while keeping the established limits and ellipsis.",
+      "validation": "A focused Vitest run found two baseline failures and recorded nine passes with the correction. Complete emoji at the boundary and ordinary ASCII were included as controls.",
+      "sources": [
+        {
+          "label": "Merged pull request #5721",
+          "url": "https://github.com/heygen-com/hyperframes/pull/5721"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/heygen-com/hyperframes/commit/d338baf873974735e7a867fba6dac6c21747fd25"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/heygen-com/hyperframes.html"
+    },
+    "HKUDS/DeepTutor": {
+      "title": "Speak LaTeX degree superscripts correctly in DeepTutor",
+      "problem": "DeepTutor expanded the circle command as function composition before examining superscripts. A decimal or symbolic angle reached the speech layer as garbled prose.",
+      "change": "Recognize the circle command in superscript position before expanding ordinary operators. The same command still means composition when it appears between functions.",
+      "validation": "The pull request reports 45 passing focused speech-processing tests and 68 passing voice service tests. Those checks cover the pre-TTS behavior.",
+      "sources": [
+        {
+          "label": "HKUDS/DeepTutor merged pull request #2341",
+          "url": "https://github.com/HKUDS/DeepTutor/pull/2341"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/HKUDS/DeepTutor/commit/f100460cdaf994638afe865048d755c019742187"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/hkuds/deeptutor.html"
+    },
+    "HKUDS/nanobot": {
+      "title": "Preserving spreadsheet cell provenance and inline media in Nanobot",
+      "problem": "Nanobot reconstructed spreadsheet coordinates by counting tab characters in text. A tab inside a cell was indistinguishable from a delimiter, so search results could cite the wrong Excel column. Its media reader also rejected a valid data URL when the base64 marker used uppercase letters.",
+      "change": "The workbook extractor records actual cell starts and uses those offsets to report search matches. The media parser accepts the marker case-insensitively while retaining strict payload checks. The media PR records a maintainer follow-up that uses delimiter parsing to avoid pathological header matching.",
+      "validation": "Workbook regressions exercise actual XLSX files through the grep tool, with coverage for tabs within a cell and empty leading cells. The media PR records a two-case before/after test and 21 passing decoder tests at the contributor's tested revision. The cases document local input handling.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #6464",
+          "url": "https://github.com/HKUDS/nanobot/pull/6464"
+        },
+        {
+          "label": "Merged upstream PR #6183",
+          "url": "https://github.com/HKUDS/nanobot/pull/6183"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/HKUDS/nanobot/commit/acae3e6a65eea8633854bfe9c141839651fc5f1c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/hkuds/nanobot.html"
+    },
+    "HKUDS/Vibe-Trading": {
+      "title": "Require enough observations for strict factor statistics",
+      "problem": "A single information-coefficient observation in Vibe-Trading could produce a success row with NaN sample deviation. Strict JSON consumers could not serialize that result.",
+      "change": "Use the same minimum sample size as the ordinary factor runner. The strict path records one-observation alphas as skipped and keeps its existing empty-series reason.",
+      "validation": "The pull request reports a baseline failure and 44 passing strict-runner tests after the change. The new test serializes the result with strict JSON settings. The checks are offline.",
+      "sources": [
+        {
+          "label": "HKUDS/Vibe-Trading merged pull request #2180",
+          "url": "https://github.com/HKUDS/Vibe-Trading/pull/2180"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/HKUDS/Vibe-Trading/commit/b358f119346a32056061ebe83fa783b826c2cd4b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/hkuds/vibe-trading.html"
+    },
+    "ifixai-ai/iFixAi": {
+      "title": "Verify iFixAi policy repair reports before export",
+      "problem": "A Policy Lab export accepted a submitted repair report without confirming its relationship to the underlying search. A substituted bundle or altered minimality claim could therefore appear as valid evidence.",
+      "change": "Rerun the bounded local search at export, compare canonical digests across the full report, and export the recomputed result when they match. Reject discrepancies before creating output.",
+      "validation": "The pull request reports four baseline failures and 82 passing Policy Lab tests after the change, including the CLI export route. The checks use synthetic offline evidence.",
+      "sources": [
+        {
+          "label": "ifixai-ai/iFixAi merged pull request #387",
+          "url": "https://github.com/ifixai-ai/iFixAi/pull/387"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ifixai-ai/iFixAi/commit/aad5343f91ef2b6cbbff55e9870fc802d65ba829"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ifixai-ai/ifixai.html"
+    },
+    "jaredwray/cacheable": {
+      "title": "Rejecting malformed duration literals before cache TTL conversion",
+      "problem": "The shorthand TTL parser could interpret a malformed duration as valid by parsing a numeric prefix. For callers this makes a bad setting look accepted while producing an expiry time different from what they entered.",
+      "change": "The change matches the full decimal-and-unit expression and confines decimal parsing to a single optional group. The converter can then apply the supported time unit to a validated number.",
+      "validation": "The PR records regressions for malformed numeric inputs and controls for valid shorthand. These checks address parsing and conversion, with cache behavior downstream dependent on how callers handle invalid values.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1744",
+          "url": "https://github.com/jaredwray/cacheable/pull/1744"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/jaredwray/cacheable/commit/895cf25c262684afdb19e8ee5198c7ff25319bf2"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/jaredwray/cacheable.html"
+    },
+    "JetBrains/thinkrail": {
+      "title": "Preserving unsent image drafts when ThinkRail chats remount",
+      "problem": "Switching tabs unmounted the chat composer. Its text draft survived because it belonged to the session, but pasted and attached images disappeared with the UI component.",
+      "change": "The change moves attachment drafts and their pending decode state into the corresponding chat runtime. Accepting a submission clears the draft, and resetting or replacing the runtime prevents an old decode from restoring an attachment to a closed session. A second PR fixes Markdown list markers in settled answers.",
+      "validation": "The image PR records before/after browser screenshots and covers remounts, isolation across chats, submission reset and pending decodes. The list PR documents browser checks for wrapping, nested lists and exact-source clipboard output.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1051",
+          "url": "https://github.com/JetBrains/thinkrail/pull/1051"
+        },
+        {
+          "label": "Merged upstream PR #1052",
+          "url": "https://github.com/JetBrains/thinkrail/pull/1052"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/JetBrains/thinkrail/commit/a63900fed13b29b838530bf65d665463f78ae393"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/jetbrains/thinkrail.html"
+    },
+    "JustVugg/colibri": {
+      "title": "Isolate simultaneous model download jobs in Colibri",
+      "problem": "A millisecond timestamp served as a model download's job ID. When two jobs started in the same millisecond, the second registry entry displaced the first and cancellation could target the wrong worker.",
+      "change": "Give each download a separate UUID while retaining the timestamp for display and sorting. The existing cancellation route accepts the resulting hex identifiers.",
+      "validation": "The pull request records two failing-then-passing regressions covering the real local HTTP path and 64 concurrent job registrations on a fixed clock. It reports 28 passing UI gateway tests and one skip, using synthetic download metadata.",
+      "sources": [
+        {
+          "label": "JustVugg/colibri merged pull request #2560",
+          "url": "https://github.com/JustVugg/colibri/pull/2560"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/JustVugg/colibri/commit/d1f60f3d76e28e524791a28adee3556c9001bf88"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/justvugg/colibri.html"
+    },
+    "kenn-io/agentsview": {
+      "title": "Reading compressed OpenClaw transcripts without blocking host sync",
+      "problem": "OpenClaw's transcript schema allows plain event JSON or a compressed zstd blob. Scanning a NULL JSON column into a Go string stopped host synchronization as soon as AgentsView encountered a compressed event.",
+      "change": "The parser checks for the compressed column, decodes bounded zstd frames, and fingerprints valid events consistently across plain and compressed storage. Malformed data remains isolated to its own session so healthy siblings can continue.",
+      "validation": "The PR records a real SQLite test database containing alternating plain and compressed events, with equal fingerprints and parsed messages for equivalent data. It reports passing parser and sync tests. The fixture uses standard zstd framing and does not establish compatibility with a captured production archive.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #2281",
+          "url": "https://github.com/kenn-io/agentsview/pull/2281"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/kenn-io/agentsview/commit/212c74b4b34ccaceaad217c0d99d4bd9a9bf03b3"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/kenn-io/agentsview.html"
+    },
+    "Kentucky-ai/opentakeoff": {
+      "title": "Opening the rest of an OpenTakeoff archive after a bad image",
+      "problem": "A damaged PNG or JPEG in a ZIP could abort the whole import loop, keeping later valid plans off the canvas.",
+      "change": "Each extracted file now runs through the existing per-file error handling, which identifies the unreadable image and continues with the rest.",
+      "validation": "The merge record compares two malformed archives with real fflate extraction. The corrected importer returned both later PDFs and one skipped image in each case.",
+      "sources": [
+        {
+          "label": "Merged pull request #535",
+          "url": "https://github.com/Kentucky-ai/opentakeoff/pull/535"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Kentucky-ai/opentakeoff/commit/9995952c33b3fa1a4f76a73709751e42734e709c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/kentucky-ai/opentakeoff.html"
+    },
+    "ktwu01/benchmark-radar": {
+      "title": "Preserving partial arXiv results in Benchmark Radar",
+      "problem": "In the opt-in Atom reader, a later query failure could trigger an RSS fallback that discarded successful earlier Atom results. RSS can omit older papers updated during the overlap period.",
+      "change": "The fallback now combines successful Atom records with exact-ID RSS additions and exposes a degraded-source warning. If no source succeeds, the operation still reports failure.",
+      "validation": "Offline cases cover an Atom paper missing from RSS, duplicates, and empty or failed RSS. The PR reports 186 passing source tests and identifies Atom multi-query as opt-in.",
+      "sources": [
+        {
+          "label": "Merged pull request #829",
+          "url": "https://github.com/ktwu01/benchmark-radar/pull/829"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ktwu01/benchmark-radar/commit/69219dbf2cfca0e4073c92b9f419a27279a0619a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar.html"
+    },
+    "ktwu01/benchmark-radar-paper": {
+      "title": "Synchronizing Benchmark Radar's research attribution across manuscript outputs",
+      "problem": "The Benchmark Radar manuscript needed to reflect the accepted coauthor invitation consistently in the source byline, affiliation mapping and compiled PDF metadata.",
+      "change": "The merged edit adds Rudy Mizrahi Celekli with his Gradia affiliation and describes his work on corpus identity preservation and report reliability. It updates the author-mapping regression, rebuilds the manuscript and retains the frozen benchmark evidence.",
+      "validation": "The PR reports 25 passing Python checks, successful verification of the frozen v0.11.0 artifacts, and visual and metadata inspection of a Tectonic build. Local LaTeXML was unavailable. The merge verifies the manuscript update.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #63",
+          "url": "https://github.com/ktwu01/benchmark-radar-paper/pull/63"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ktwu01/benchmark-radar-paper/commit/d791997f862396c1ee40d7e7f0677466cd9cc720"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar-paper.html"
+    },
+    "lightpanda-io/browser": {
+      "title": "Making Lightpanda respect browser message and selector contracts",
+      "problem": "Lightpanda delivered window messages without checking the recipient origin the caller supplied. Its DevTools selector lookup also returned an error for a valid selector with no match, which caused clients that poll for late elements to stop early.",
+      "change": "The browser validates and carries the intended origin through the asynchronous window-message task, then checks the receiving document's current origin before dispatching. The DevTools handler uses a successful response with node ID zero for an empty match and preserves separate error paths.",
+      "validation": "The window tests include cross-origin and malformed-origin cases, same-origin defaults and wildcard behavior. The PR reports that reverting only the implementation makes the regression fail. The selector PR gives a minimal Chrome-versus-Lightpanda DevTools exchange that explains the polling contract.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #4382",
+          "url": "https://github.com/lightpanda-io/browser/pull/4382"
+        },
+        {
+          "label": "Merged upstream PR #4368",
+          "url": "https://github.com/lightpanda-io/browser/pull/4368"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/lightpanda-io/browser/commit/4f0e2c7952c5688c04d2a36d8e430e0d3be8f825"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/lightpanda-io/browser.html"
+    },
+    "lightseekorg/tokenspeed": {
+      "title": "Treating token ID zero as a valid end-of-sequence ID",
+      "problem": "TokenSpeed used a truthiness check when collecting model and generation EOS IDs. Zero is a valid token ID, but it could be treated as absent or cause a type error when combined with a set of generation IDs.",
+      "change": "The merged config change includes EOS ID zero in the same normalization and union path as other explicit IDs.",
+      "validation": "The PR describes a real ModelConfig loaded from a small temporary Qwen3 configuration. Three of seven fixture cases failed on the baseline, and all seven passed on the candidate. This test covers configuration behavior.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #2392",
+          "url": "https://github.com/lightseekorg/tokenspeed/pull/2392"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/lightseekorg/tokenspeed/commit/403edbcaa4fb1cd0b41718ac5c9f9c9e10d7b966"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/lightseekorg/tokenspeed.html"
+    },
+    "liliang-cn/cortexdb": {
+      "title": "Check vector dimensions before CortexDB index training",
+      "problem": "CortexDB already enforced dimensionality when adding or searching vectors. Its IVF training path could still panic on a short vector or produce centroids of the wrong width from a longer one.",
+      "change": "Validate every training vector's dimension before running k-means or mutating index state. The error identifies the out-of-shape input.",
+      "validation": "The pull request records a baseline panic and passing Go package tests with short, long and nil-vector coverage. It does not report a full repository race run.",
+      "sources": [
+        {
+          "label": "liliang-cn/cortexdb merged pull request #65",
+          "url": "https://github.com/liliang-cn/cortexdb/pull/65"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/liliang-cn/cortexdb/commit/c7d0e62e9ab5cd0a32f8a703358bce82301fcd34"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/liliang-cn/cortexdb.html"
+    },
+    "liseami/CCBaga": {
+      "title": "Passing literal known_hosts paths to OpenSSH from CCBaga",
+      "problem": "OpenSSH reads UserKnownHostsFile values with its own quoting rules. A valid filename containing a double quote could make that parser fail before a connection attempt began.",
+      "change": "CCBaga escapes quotes and backslashes inside the quoted path, keeping the whole setting in a single -o argument.",
+      "validation": "The focused tests call local ssh -G and compare the parsed path for embedded spaces, a quote and a backslash. The run exercised configuration parsing without a VPS connection.",
+      "sources": [
+        {
+          "label": "Merged pull request #55",
+          "url": "https://github.com/liseami/CCBaga/pull/55"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/liseami/CCBaga/commit/b07f57131a38b3a27850ea183e7fed786ec46023"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/liseami/ccbaga.html"
+    },
+    "lz4/lz4": {
+      "title": "Reading complete short skippable LZ4 frames",
+      "problem": "The file reader applied the normal-frame minimum header size before distinguishing skippable frames. A complete eight-byte frame with an empty payload could therefore be rejected as if it were a truncated normal frame.",
+      "change": "The reader parses the frame type before applying the normal-frame minimum, allowing short but complete skippable frames. A separate Meson patch sets the C language for two static-library options that previously failed during configuration.",
+      "validation": "The frame PR reports 189 passing tests in each of the serial and multithreaded unit builds, including a matrix across all 16 skippable magic values and short payloads. The Meson evidence covers setup for both options and compilation for the endianness option. The allocation-disabled build still exposed a separate compilation issue.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #2057",
+          "url": "https://github.com/lz4/lz4/pull/2057"
+        },
+        {
+          "label": "Merged upstream PR #2054",
+          "url": "https://github.com/lz4/lz4/pull/2054"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/lz4/lz4/commit/ee9aad29cd17e10e8d1fe208cb1043e26efec08b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/lz4/lz4.html"
+    },
+    "mark3labs/mcp-go": {
+      "title": "Resetting event type at MCP Go stream boundaries",
+      "problem": "A Server-Sent Events block with a type field and no data could leave the type set for the next block. The legacy transport could then discard an ordinary JSON-RPC response under the wrong event name.",
+      "change": "Both stream readers clear the event type at every blank-line boundary, including blocks without data, so a later data-only block receives the default message type.",
+      "validation": "The merged record shows a failing regression in each reader before the correction and reports both passing afterward.",
+      "sources": [
+        {
+          "label": "Merged pull request #1104",
+          "url": "https://github.com/mark3labs/mcp-go/pull/1104"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/mark3labs/mcp-go/commit/88246820d7afc7391052380a2d5a7c1d07847a98"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/mark3labs/mcp-go.html"
+    },
+    "max-sixty/worktrunk": {
+      "title": "Letting Worktrunk recover after a failed worktree lookup",
+      "problem": "Calling the plugin command before git init cached a null result for that directory. The same plugin process kept returning the miss after a worktree became available. A transient process failure could produce the same stale state.",
+      "change": "The lookup now caches successful locations while retrying failures on subsequent commands. Positive caching still avoids unnecessary Git probes, and passive hooks continue to record directories without triggering lookups.",
+      "validation": "The PR reports a canonical Claude Code plugin test that starts without a repository, makes one available and verifies the subsequent pane opens. All nine canonical plugin tests passed on the reported candidate. The PR documents the tradeoff of repeat probes when every lookup fails.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #4668",
+          "url": "https://github.com/max-sixty/worktrunk/pull/4668"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/max-sixty/worktrunk/commit/1519b5132e5f2dc4ef0c47efa6bf9255311ab42d"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/max-sixty/worktrunk.html"
+    },
+    "maziyarpanahi/openmed": {
+      "title": "Generate internally consistent synthetic FHIR collections",
+      "problem": "Synthetic clinical demos need realistic links between encounters, observations and the underlying patient. An isolated collection can look plausible even when its references, provenance or event ordering fail validation.",
+      "change": "Build offline FHIR R4 fixture collections from explicitly synthetic journey facts. Check typed reference closure, shared subjects, source provenance and temporal ordering through independent controls.",
+      "validation": "The pull request records 29,569 passing tests and 186 skips on the candidate. Coverage applies to the documented fixture subset. Full FHIR or implementation-guide certification was outside its scope.",
+      "sources": [
+        {
+          "label": "maziyarpanahi/openmed merged pull request #4191",
+          "url": "https://github.com/maziyarpanahi/openmed/pull/4191"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/maziyarpanahi/openmed/commit/7e025d32cddc2efd07ccaf89e7559c0c82021260"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/maziyarpanahi/openmed.html"
+    },
+    "milind-soni/OpenMausBot": {
+      "title": "Protecting spreadsheet export semantics and encoded secrets",
+      "problem": "A conservative CSV formula guard also escaped valid signed numbers, turning negative amounts into spreadsheet text. The secret scrubber missed some form-encoded spellings of held passwords because browser form serialization escapes several characters that encodeURIComponent leaves intact.",
+      "change": "The CSV serializer preserves plain signed numeric cells while escaping formula-like expressions. The login vault adds the spelling produced by URLSearchParams to its scrubber candidates, covering cases such as a held secret containing an exclamation mark represented as %21.",
+      "validation": "The linked regressions target the table CSV path and the login scrubber. The CSV test retains a formula control, and the masking PR includes an encoding example that distinguishes browser form serialization from URI component encoding.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #4148",
+          "url": "https://github.com/milind-soni/OpenMausBot/pull/4148"
+        },
+        {
+          "label": "Merged upstream PR #4147",
+          "url": "https://github.com/milind-soni/OpenMausBot/pull/4147"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/milind-soni/OpenMausBot/commit/e34d06da821a4cb21b79125a191c113882ae3e55"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/milind-soni/openmausbot.html"
+    },
+    "mohit67890/imajev": {
+      "title": "Serving text-only Qwen requests without torchvision",
+      "problem": "ImAjev eagerly constructed a multimodal processor during startup. For text-only CPU serving, this activated a video-processor import and prevented the server from starting when torchvision was absent.",
+      "change": "The change loads the tokenizer first, lazily constructs the full processor for image inputs, and preserves tokenizer padding through that transition. A text-only install extra makes the supported configuration explicit.",
+      "validation": "The PR reports 28 passing focused tests and three skips, with CPU text-logit and image parity checks on a small generated Qwen checkpoint. The offline full suite retained four baseline failures. Released weights and native Windows ARM64 were outside that validation.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #24",
+          "url": "https://github.com/mohit67890/imajev/pull/24"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/mohit67890/imajev/commit/dfd2a6936e0244d9d5872af93a92148fd1af6f4b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/mohit67890/imajev.html"
+    },
+    "morluto/jacobian": {
+      "title": "Installing Jacobian in the active Claude Code profile",
+      "problem": "Jacobian setup wrote configuration and skills under the home directory even when CLAUDE_CONFIG_DIR pointed Claude Code at a separate profile. Setup could report completion while the active profile saw neither installation.",
+      "change": "The setup and detection code use the selected directory for .claude.json and skills, falling back to the home-directory layout when no override is configured.",
+      "validation": "The PR describes isolated setup tests for custom and default profiles. The result covers local configuration paths.",
+      "sources": [
+        {
+          "label": "Merged pull request #4570",
+          "url": "https://github.com/morluto/jacobian/pull/4570"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/morluto/jacobian/commit/f693b76a600f8ee0d95a4e429a53bb576e9aeac1"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/morluto/jacobian.html"
+    },
+    "morluto/leantoken": {
+      "title": "Keeping LeanToken benchmark evidence bounded and interpretable",
+      "problem": "A blocking read from an MCP child could outlast the readiness budget. Nonfinite values in the paired benchmark threshold could also allow a significant slowdown through the regression gate. Either condition undermines repeatable comparisons.",
+      "change": "The benchmark client now shares one absolute readiness deadline across retries and notifications, invalidates unusable streams, bounds frame size and wakes blocked callers on close. The paired evaluator rejects thresholds outside the finite float range. The npm launcher also forwards subsequent signals while its child remains alive.",
+      "validation": "The PRs describe executable peers that reproduce incomplete frames and notification floods, a CLI threshold regression with finite-value controls, and a child fixture that receives two signals through the launcher. The npm fixture used a Node child, and the checks establish behavior in these harnesses.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #647",
+          "url": "https://github.com/morluto/leantoken/pull/647"
+        },
+        {
+          "label": "Merged upstream PR #646",
+          "url": "https://github.com/morluto/leantoken/pull/646"
+        },
+        {
+          "label": "Merged upstream PR #645",
+          "url": "https://github.com/morluto/leantoken/pull/645"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/morluto/leantoken/commit/024bbed37b3f734da7ac5bd9cab3acb9fba43bc3"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/morluto/leantoken.html"
+    },
+    "morluto/rea": {
+      "title": "Honor the declared ELF header boundary in rea",
+      "problem": "rea checked table offsets against the minimum header size for the ELF class. An ELF file with an extended declared header could point a program or section table back into those header bytes and still be admitted.",
+      "change": "Compare each populated table's offset with the validated declared header size. Preserve acceptance when a table starts at or beyond the header boundary.",
+      "validation": "The pull request reports four regressions failing on the original code and all 19 tests in the declared-range suite passing afterward. Fixtures cover ELF32, ELF64 and both byte orders.",
+      "sources": [
+        {
+          "label": "morluto/rea merged pull request #10133",
+          "url": "https://github.com/morluto/rea/pull/10133"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/morluto/rea/commit/4505477903cf502310c68cd63ea4c9ef576a541a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/morluto/rea.html"
+    },
+    "msitarzewski/agency-agents": {
+      "title": "Explain the 14.4× incident-alert burn rate correctly",
+      "problem": "An availability SLO example described its 14.4× alert as predicting budget exhaustion in two hours. An on-call engineer reading that comment would get the wrong estimate for the configured 30-day window.",
+      "change": "Correct the explanation to about 50 hours at a sustained 14.4× rate. The one-hour observation window corresponds to roughly 2% of a 30-day error budget. The alert expression itself is unchanged.",
+      "validation": "The pull request shows the calculation against the example and its 6× companion rule. It reports a clean scoped lint check.",
+      "sources": [
+        {
+          "label": "msitarzewski/agency-agents merged pull request #1173",
+          "url": "https://github.com/msitarzewski/agency-agents/pull/1173"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/msitarzewski/agency-agents/commit/96a8077069a7c5b0349a8495784523732319b3ab"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/msitarzewski/agency-agents.html"
+    },
+    "mvschwarz/openrig": {
+      "title": "Show OpenRig mission labels after proof acceptance",
+      "problem": "An OpenRig mission declared complete could still display a qualified label asking for proof review when its current evidence was already ready. That label confused two decisions an operator needs to see independently.",
+      "change": "The dashboard formatter uses the authored completion label when both the declaration and proof support it. Active or paused declarations and incomplete or mixed proof keep their qualified labels.",
+      "validation": "The pull request records five failing formatter cases on the baseline and 1,784 passing UI tests after the fix. Its full test command still exited with four daemon-suite failures.",
+      "sources": [
+        {
+          "label": "mvschwarz/openrig merged pull request #2249",
+          "url": "https://github.com/mvschwarz/openrig/pull/2249"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/mvschwarz/openrig/commit/0820fad1018491b524c6137f3a2adfd107c040b2"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/mvschwarz/openrig.html"
+    },
+    "NationalSecurityAgency/ghidra": {
+      "title": "Preserving Android sparse-image bytes in Ghidra",
+      "problem": "FILL chunks reversed their four-byte pattern. DONT_CARE chunks left zero bytes out of the checksum, and a skipped region exactly the size of the 1 MiB buffer could produce no output.",
+      "change": "The decoder preserves the stored fill order and emits skipped regions in bounded blocks, applying each block to the checksum.",
+      "validation": "The linked case documents the 1 MiB boundary and the validation revision. The contribution discloses Codex implementation and identifies the earlier verification run as historical because it predates source-only cleanup.",
+      "sources": [
+        {
+          "label": "Merged pull request #9805",
+          "url": "https://github.com/NationalSecurityAgency/ghidra/pull/9805"
+        },
+        {
+          "label": "Android sparse-image deep dive",
+          "url": "https://rudycelekli.github.io/engineering/android-sparse-image-integrity.html"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/NationalSecurityAgency/ghidra/commit/27a66b4764ad96e02d6d9cd59869b506023e9a60"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/nationalsecurityagency/ghidra.html"
+    },
+    "NousResearch/hermes-agent": {
+      "title": "Revalidating worktree state before Hermes cleanup",
+      "problem": "Worktree state can change between checking it and actually removing it. Cleanup needs to keep its decision tied to the current worktree state at the point the potentially destructive action runs.",
+      "change": "The attributed Hermes commit revalidates cleanup gates before removing a worktree. Other upstream commits by the same contributor reject nonstandard JSON before file writes and reject negative retention before pruning backups.",
+      "validation": "The default-branch commit records establish the source changes and include their cherry-pick provenance. This case documents the guard and leaves production usage unmeasured.",
+      "sources": [
+        {
+          "label": "Attributed upstream commit 31194ea00e24",
+          "url": "https://github.com/NousResearch/hermes-agent/commit/31194ea00e2469f5507cf921ea6d1fd8f458c5c0"
+        },
+        {
+          "label": "Attributed upstream commit 1c78e721bc2d",
+          "url": "https://github.com/NousResearch/hermes-agent/commit/1c78e721bc2d93169316460b8ef9f8eb804eb3fc"
+        },
+        {
+          "label": "Attributed upstream commit 447b9ee7d67e",
+          "url": "https://github.com/NousResearch/hermes-agent/commit/447b9ee7d67e1ddfbb9ac0cc11f3ea9290ba2906"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/nousresearch/hermes-agent.html"
+    },
+    "Nutlope/hallmark": {
+      "title": "Matching whole job aliases in Hallmark",
+      "problem": "Hallmark's draw command replaced recognized aliases inside longer values. It could transform application into trylication and then tell the caller that no job was supplied.",
+      "change": "Alias lookup now uses the whole input. The command can report an unknown supplied value separately from an omitted argument.",
+      "validation": "The PR documents seeded CLI examples for supported aliases such as app and newsletter, as well as unknown and omitted arguments.",
+      "sources": [
+        {
+          "label": "Merged pull request #81",
+          "url": "https://github.com/Nutlope/hallmark/pull/81"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Nutlope/hallmark/commit/e423e0600d18483ee306c8e0d2ca772428391d56"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/nutlope/hallmark.html"
+    },
+    "open-compass/VLMEvalKit": {
+      "title": "Count failed video-model API responses as incorrect",
+      "problem": "VLMEvalKit marked failed API predictions with a score of minus one. Video benchmark aggregation used truthiness, so that sentinel boosted accuracy instead of registering a failed prediction.",
+      "change": "Count a prediction as correct only when its score is exactly one, while keeping failed rows in the denominator. Align overall and per-dimension aggregation with the correctness predicate.",
+      "validation": "The PR records two before-and-after aggregation tests. In the fixture, one correct result out of four was previously displayed as 75% and now computes to 25%.",
+      "sources": [
+        {
+          "label": "open-compass/VLMEvalKit merged pull request #1804",
+          "url": "https://github.com/open-compass/VLMEvalKit/pull/1804"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/open-compass/VLMEvalKit/commit/0ba36c7901e859c5337f71b059e0cedf0dee3f88"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/open-compass/vlmevalkit.html"
+    },
+    "openclaw/goplaces": {
+      "title": "Keeping proxy queries and request paths distinct in goplaces",
+      "problem": "Appending a Places endpoint suffix to the raw base URL could put the operation into a proxy query parameter. An override such as /v1/?tenant=one acquired a modified tenant value instead of dispatching to the intended Places operation.",
+      "change": "The upstream consolidation integrates the URL fix from PR #74. It joins parsed path components while retaining escaped path segments and existing proxy queries, and distinguishes a Routes base prefix from an already complete computeRoutes endpoint.",
+      "validation": "The original reproduction records loopback HTTP requests from the actual CLI and public Go consumers, plus Go build and race checks. The upstream diff includes an endpoint-query regression and credits the original reports. The loopback fixture uses a dummy credential.",
+      "sources": [
+        {
+          "label": "Co-authored upstream commit a0c86133c51e",
+          "url": "https://github.com/openclaw/goplaces/commit/a0c86133c51ea8afcbac10510871fb18cafd03a4"
+        },
+        {
+          "label": "Original contribution PR #74",
+          "url": "https://github.com/openclaw/goplaces/pull/74"
+        },
+        {
+          "label": "Co-authored upstream commit c0d34c24ef65",
+          "url": "https://github.com/openclaw/goplaces/commit/c0d34c24ef6579cd28763d3b035ca676bc471162"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/openclaw/goplaces.html"
+    },
+    "openclaw/mcporter": {
+      "title": "Passing explicit empty values through the MCPorter CLI",
+      "problem": "The CLI discarded empty positional strings after the literal separator. A caller sending an explicit empty text value to an MCP tool therefore sent an absent argument, which the server schema rejected.",
+      "change": "The upstream consolidation incorporates the fix from PR #412, preserving argument positions after the literal separator, including empty strings and flag-like values intended as tool input.",
+      "validation": "The original PR records a real CLI subprocess and local SDK echo server. The baseline rejects the missing string, while the patched request returns an empty text item. The credited upstream consolidation reports 2,128 passing tests and exact-head cross-platform CI.",
+      "sources": [
+        {
+          "label": "Co-authored upstream commit fe1d18dbda3e",
+          "url": "https://github.com/openclaw/mcporter/commit/fe1d18dbda3e7770229b55d91784fa401241e60f"
+        },
+        {
+          "label": "Original contribution PR #412",
+          "url": "https://github.com/openclaw/mcporter/pull/412"
+        },
+        {
+          "label": "Co-authored upstream commit 2de94ad65dce",
+          "url": "https://github.com/openclaw/mcporter/commit/2de94ad65dce40241ae8188cbe99b4e488a9b921"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/openclaw/mcporter.html"
+    },
+    "openclaw/openclaw": {
+      "title": "Keeping Feishu code examples intact in OpenClaw agent context",
+      "problem": "An incoming Feishu code block containing triple backticks could prematurely close the Markdown wrapper. An agent then received code and unintended prose as separate pieces.",
+      "change": "The Feishu renderer selects a fence longer than any backtick run in the message's code, with a minimum of three.",
+      "validation": "The merge record documents a built Gateway with a local HTTPS Feishu fixture and signed webhook inputs. An independent parser recovered one intact code node in the corrected capture. The capture intercepted the message before model execution.",
+      "sources": [
+        {
+          "label": "Merged pull request #171222",
+          "url": "https://github.com/openclaw/openclaw/pull/171222"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/openclaw/openclaw/commit/516eec6e5be75acb8172e8258ee3ee30c395bab6"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/openclaw/openclaw.html"
+    },
+    "openclaw/Peekaboo": {
+      "title": "Carry rounded durations into the next unit in Peekaboo",
+      "problem": "Peekaboo could display 59.95 seconds as 60.0 seconds even though 60 seconds used a minutes label. The same inconsistency appeared at the microsecond and millisecond boundaries in its activity views.",
+      "change": "Share rollover behavior across the compact and detailed formatters. After rounding, carry values into the appropriate next unit and handle unrepresentable inputs.",
+      "validation": "The pull request reports passing cases for 13 compact, seven detailed and four unrepresentable duration values in the Swift formatter suite.",
+      "sources": [
+        {
+          "label": "openclaw/Peekaboo merged pull request #1149",
+          "url": "https://github.com/openclaw/Peekaboo/pull/1149"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/openclaw/Peekaboo/commit/a201f301e5edf770d7e4e70dd619eb2034069ae5"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/openclaw/peekaboo.html"
+    },
+    "OpenMontageInc/OpenMontage": {
+      "title": "Keeping usable OpenMontage assets in a size-limited cache",
+      "problem": "A generated image larger than the entire cache could push out every smaller asset and still leave the cache over its configured limit.",
+      "change": "The cache checks the size of a new entry before least-recently-used eviction. Diagram generation can still return the valid image because cache admission is optional.",
+      "validation": "The PR reports a local Pillow diagram reproduction with a 512-byte cache, a roughly 2.4 kB output and a previously cached 76-byte image. The corrected path preserves both the generated output and the cached image. The checks ran offline.",
+      "sources": [
+        {
+          "label": "Merged pull request #785",
+          "url": "https://github.com/OpenMontageInc/OpenMontage/pull/785"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/OpenMontageInc/OpenMontage/commit/c18d6419adce7fcc933a799ea379ea02b3d5df13"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/openmontageinc/openmontage.html"
+    },
+    "opensandbox-group/OpenSandbox": {
+      "title": "Clean up stale Jupyter contexts after a sandbox restart",
+      "problem": "OpenSandbox kept a cached code context when Jupyter's delete endpoint returned 404. If Jupyter restarted or otherwise lost its session, repeated deletes failed and bulk cleanup stopped at the stale context.",
+      "change": "Classify the missing session as already absent and remove local context entries. Other Jupyter failures keep the existing error path.",
+      "validation": "The pull request reports a regression using an HTTP test Jupyter server that returns 404 and passing existing creation and deletion suites afterward.",
+      "sources": [
+        {
+          "label": "opensandbox-group/OpenSandbox merged pull request #2785",
+          "url": "https://github.com/opensandbox-group/OpenSandbox/pull/2785"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/opensandbox-group/OpenSandbox/commit/074ae99ecc02e93decdc4470210a509bae3031f4"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/opensandbox-group/opensandbox.html"
+    },
+    "orestbida/cookieconsent": {
+      "title": "Discarding cookie-consent drafts consistently",
+      "problem": "Closing preferences without saving restored the visual switches but left an internal draft of enabled services. A user could reopen the panel and save without touching the switches, unknowingly committing the discarded selection.",
+      "change": "The discard path rebuilds the draft from the restored checkbox values. The subsequent save reflects the state the reopened panel displays.",
+      "validation": "The documented jsdom regression turns on a service, closes without saving, reopens and saves without changes. It fails before the patch and passes after. The PR reports 120 passing tests and a successful build, with real-browser testing outside the reported checks.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #838",
+          "url": "https://github.com/orestbida/cookieconsent/pull/838"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/orestbida/cookieconsent/commit/bd449c3baa7dd2c3a5bcc01fd1d1fc733e430541"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/orestbida/cookieconsent.html"
+    },
+    "Panniantong/Agent-Reach": {
+      "title": "Rejecting invalid Agent-Reach configuration before saving",
+      "problem": "Falsy YAML values such as false, 0 or an empty list could be accepted as an empty mapping and then overwritten. Non-string keys could also crash later key processing.",
+      "change": "The loader rejects unsupported document shapes and non-string mapping keys up front. Empty and null documents remain valid configuration inputs.",
+      "validation": "The PR reports a focused suite moving from seven failures to all eleven passing, alongside 618 full-suite passes. It separately records existing SDK type-check failures.",
+      "sources": [
+        {
+          "label": "Merged pull request #745",
+          "url": "https://github.com/Panniantong/Agent-Reach/pull/745"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Panniantong/Agent-Reach/commit/c7dd2ae0564d9a396ced8602f1cff5d838e07afc"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/panniantong/agent-reach.html"
+    },
+    "paperclipai/paperclip": {
+      "title": "Keeping unread agent comments visible in Paperclip inboxes",
+      "problem": "New comments moved an assigned issue forward in recency sorting. By reusing that issue update time as a fallback read receipt, Paperclip could treat the arriving comment as already read and hide it from an assignee's unread inbox.",
+      "change": "The maintainer ported the original fix onto the current branch with explicit contributor credit. It uses creation time for the assignee's initial read boundary, preserves explicit read receipts and excludes deleted external comments from unread calculations.",
+      "validation": "The upstream commit describes native PostgreSQL regressions for real comment writes, later assignment and deleted comments. It reports 41 focused tests passing on the frozen head and successful hosted build, typecheck and end-to-end shards. The original PR remains separately linked as provenance.",
+      "sources": [
+        {
+          "label": "Credited upstream maintainer port 45e91f097cdf",
+          "url": "https://github.com/paperclipai/paperclip/commit/45e91f097cdfcb7c7cb7ed879dca47a5a207d856"
+        },
+        {
+          "label": "Original contribution PR #15085",
+          "url": "https://github.com/paperclipai/paperclip/pull/15085"
+        },
+        {
+          "label": "Hosted verification for the port",
+          "url": "https://github.com/paperclipai/paperclip/actions/runs/41525545915"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/paperclipai/paperclip.html"
+    },
+    "proffesor-for-testing/agentic-qe": {
+      "title": "Keep generated tests out of Agentic QE execution results",
+      "problem": "The MCP test generator returned code and also stored each generated object as a test outcome. In that path, defaults could create a passing result and an execution duration before any test ran.",
+      "change": "Remove the execution-result insertion from the generation path. Preserve generated code in the response and keep measurement paths for observed execution and coverage.",
+      "validation": "The pull request reports that six generation regressions failed on the original handler factory and all 32 cases passed after the change. The fixture mocks the factory's dependencies.",
+      "sources": [
+        {
+          "label": "proffesor-for-testing/agentic-qe merged pull request #1372",
+          "url": "https://github.com/proffesor-for-testing/agentic-qe/pull/1372"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/proffesor-for-testing/agentic-qe/commit/4e20b471ec0907123a0a9e06b670941e90f60f2b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/proffesor-for-testing/agentic-qe.html"
+    },
+    "raphaelmansuy/edgequake": {
+      "title": "Propagate request encoding failures from the EdgeQuake Swift SDK",
+      "problem": "The Swift SDK discarded encoding errors while building HTTP bodies. It could send a POST, PUT or PATCH with the body missing and leave the caller debugging a misleading server error.",
+      "change": "Propagate the original encoding error before dispatch and update the multipart caller to handle the throwing request builder.",
+      "validation": "The pull request reports failing-then-passing method regressions that verify no request is sent after an encoding error. It reports 237 passing Swift tests and 22 skipped live end-to-end tests.",
+      "sources": [
+        {
+          "label": "raphaelmansuy/edgequake merged pull request #446",
+          "url": "https://github.com/raphaelmansuy/edgequake/pull/446"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/raphaelmansuy/edgequake/commit/da1831ceb4c79ad5c7d3a5ad385e8fec0b55389c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/raphaelmansuy/edgequake.html"
+    },
+    "retentioneering/retentioneering-tools": {
+      "title": "Making Retentioneering calendar-day metrics independent of the host",
+      "problem": "DuckDB resolved timezone-aware timestamps to calendar dates in the session timezone. Identical events around UTC midnight could count as one or two active days on different machines.",
+      "change": "The SQL expression now converts timezone-aware inputs through UTC before taking the date. The same rule serves metrics, daily states and conditional event collapse, and naive timestamps use their direct date cast.",
+      "validation": "The PR records a two-event fixture under four host timezones. Three previously reported one active day and all four reported two after the correction.",
+      "sources": [
+        {
+          "label": "Merged pull request #191",
+          "url": "https://github.com/retentioneering/retentioneering-tools/pull/191"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/retentioneering/retentioneering-tools/commit/442769af08f53a47e78884d7bd621e6ed6f76def"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/retentioneering/retentioneering-tools.html"
+    },
+    "rociiu/talorys": {
+      "title": "Keeping recent edits when importing a Talorys backup",
+      "problem": "Importing an older backup could silently replace newer local task, project and note text because their upserts overwrote existing rows without checking recency.",
+      "change": "The backup importer updates those three record types only if the incoming timestamp is strictly newer, extending the rule that already protected memory records.",
+      "validation": "A focused regression in the merge record restores stale versions of all three record types and checks that local edits survive. A newer note then confirms that legitimate updates can still import.",
+      "sources": [
+        {
+          "label": "Merged pull request #96",
+          "url": "https://github.com/rociiu/talorys/pull/96"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/rociiu/talorys/commit/6114daeb3997160e0e7f08c0af8b15a168d7f4f8"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rociiu/talorys.html"
+    },
+    "rudycelekli/agntcs-marketing-assets": {
+      "title": "A versioned public image handoff",
+      "problem": "A marketing image can be difficult to identify when its only reference is an attachment or a mutable working link.",
+      "change": "The AGNTCS asset repository assigns committed paths to public Instagram imagery so a reviewer can refer to a specific revision when inspecting a creative handoff.",
+      "validation": "The repository describes an asset collection. The source does not establish campaign reach or asset performance.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/agntcs-marketing-assets/tree/0cdf723b1a4c2c369165e80efa927dbea5414c29"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/agntcs-marketing-assets/blob/0cdf723b1a4c2c369165e80efa927dbea5414c29/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/agntcs-marketing-assets.html"
+    },
+    "rudycelekli/ai-movie-maker": {
+      "title": "Turning story formulas into a production plan",
+      "problem": "A scene-generation pipeline needs to preserve story structure and character decisions across generation steps.",
+      "change": "The project represents formulas as JSON and separates formula interpretation, character management, AI routing, and production-plan modules. It includes a local test-flow entry point and reference notes.",
+      "validation": "The public source supports the pipeline decomposition. Provider execution, rendered-film quality, and usage require separate evidence.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/ai-movie-maker/tree/6c2f2d5a7fd60825ee6d597b54f963ad32a8f2c4"
+        },
+        {
+          "label": "Pinned src/engine/production-plan.ts",
+          "url": "https://github.com/rudycelekli/ai-movie-maker/blob/6c2f2d5a7fd60825ee6d597b54f963ad32a8f2c4/src/engine/production-plan.ts"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/ai-movie-maker.html"
+    },
+    "rudycelekli/bolt-generated-project": {
+      "title": "A small browser game with explicit component boundaries",
+      "problem": "A game prototype needs to keep input, gameplay coordination, and enemy state understandable as behavior grows.",
+      "change": "The Space Invaders prototype uses an HTML entry point and separates the Game, Player and Enemy modules in JavaScript. The revision exposes those component boundaries for inspection.",
+      "validation": "The pinned source supports the architectural description. The study records no browser compatibility, latency, or playability measurement.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/bolt-generated-project/tree/e7c670a5da09edef3b885fae1c7a55a643ae1619"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/bolt-generated-project/blob/e7c670a5da09edef3b885fae1c7a55a643ae1619/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/bolt-generated-project.html"
+    },
+    "rudycelekli/code-transplant": {
+      "title": "Moving a TypeScript parser with a behavioral reference",
+      "problem": "A parser can compile after extraction and still change outputs when its dependency environment shifts.",
+      "change": "Code Transplant extracts a named parser with a dependency capsule and explicit adapter. It compares the adapter against the unchanged source parser on concrete inputs and preserves a verification record.",
+      "validation": "The source documents a replayable comparison. Agreement is scoped to the observed inputs and the selected parser.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/code-transplant/tree/51297987d6aa12786313b43686ea9715b47c3aba"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/code-transplant/blob/51297987d6aa12786313b43686ea9715b47c3aba/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/code-transplant.html"
+    },
+    "rudycelekli/effinai": {
+      "title": "Packaging agent workflows as a plugin marketplace",
+      "problem": "A developer needs a discoverable installation route when agent, tool, and skill definitions are distributed together.",
+      "change": "Effin.AI documents a Claude Code marketplace installation and organizes capabilities for users who install the plugin. The public repository makes its published catalog inspectable.",
+      "validation": "The documentation supports the packaging and installation design. The listed integrations and runtime capabilities require execution with their dependencies.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/effinai/tree/c5bcc79995d9e27dfd92cc940721c2cd1b4b4058"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/effinai/blob/c5bcc79995d9e27dfd92cc940721c2cd1b4b4058/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/effinai.html"
+    },
+    "rudycelekli/es-atlas": {
+      "title": "Separating an agent persona from deployment wiring",
+      "problem": "A consulting assistant needs editable role instructions alongside a repeatable way to package its runtime.",
+      "change": "Atlas keeps the role in a skill document and the runtime in deployment and entrypoint files. A nested consulting skill contains Python code and a memory module.",
+      "validation": "The pinned tree supports the packaging design. Instructional examples in the repository are not deployment evidence.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/es-atlas/tree/97183026e16d33415acdea1c3cbea1347859b7df"
+        },
+        {
+          "label": "Pinned SKILL.md",
+          "url": "https://github.com/rudycelekli/es-atlas/blob/97183026e16d33415acdea1c3cbea1347859b7df/SKILL.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/es-atlas.html"
+    },
+    "rudycelekli/ghostpart": {
+      "title": "A planar repair part from a calibrated phone photo",
+      "problem": "A phone image gives pixel positions, while replacement mounting plates need physical dimensions.",
+      "change": "GhostPart uses a calibration reference to estimate mounting-point locations from a photo and outputs an editable, printable replacement plate. The design includes a fit revision loop and geometry suited to planar work.",
+      "validation": "The experimental release documents printed and paperless reference modes and a guided accuracy check. Actual tolerance depends on the capture setup and part geometry.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/ghostpart/tree/fa9c6adf34f2586d77c86c96082be14c7a3872e3"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/ghostpart/blob/fa9c6adf34f2586d77c86c96082be14c7a3872e3/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/ghostpart.html"
+    },
+    "rudycelekli/gradia-blocks": {
+      "title": "Reviewable admission for reusable capabilities",
+      "problem": "Reusable components can carry implicit tenant, event, and retry assumptions into workflows that depend on them.",
+      "change": "Gradia Blocks packages runnable references for Feedback, Work Items, Event Relay and Outbox. A separate admission screen evaluates candidates, and source-pinned Skills describe how to use the references.",
+      "validation": "The repository documents these component contracts and admission mechanics. Deployment and isolation properties depend on the consuming implementation.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-blocks/tree/38210f138ca9d3bd2e7f2a001a122f91f75fa67c"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-blocks/blob/38210f138ca9d3bd2e7f2a001a122f91f75fa67c/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-blocks.html"
+    },
+    "rudycelekli/gradia-guard": {
+      "title": "Binding a verifier to a declared execution boundary",
+      "problem": "An execution record is only interpretable if a reviewer knows which part of the system was observed.",
+      "change": "Gradia Guard pairs a local recorder with a verifier for explicit execution boundaries. The SDK and optional AG-UI edge record evidence for specific integration surfaces.",
+      "validation": "The public beta documentation describes the local verifier and the limits of voluntary SDK instrumentation. Stronger enforcement requires separate runtime evidence.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-guard/tree/92a93c610f4d02c3db21fe6a6d526d9bd046fe86"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-guard/blob/92a93c610f4d02c3db21fe6a6d526d9bd046fe86/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-guard.html"
+    },
+    "rudycelekli/gradia-lens": {
+      "title": "Reversible interventions on a pinned model",
+      "problem": "Model intervention results are hard to interpret when model versions or restoration behavior change between runs.",
+      "change": "Gradia Lens gives researchers a local CPU path to intervene on pinned GPT-2 components, measure effects, and restore the original state for replay.",
+      "validation": "The public alpha covers the documented GPT-2 path. Cross-model generalization needs separate experiments.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-lens/tree/09b5ea2179aecf9d98a8ed38c76e36b74182148a"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-lens/blob/09b5ea2179aecf9d98a8ed38c76e36b74182148a/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-lens.html"
+    },
+    "rudycelekli/gradia-range": {
+      "title": "Replayable adversarial tasks in synthetic twins",
+      "problem": "Testing a risky agent workflow against a live system can expose operational data and make outcomes hard to reproduce.",
+      "change": "Gradia Range describes cloning a system into a synthetic twin, slicing it into witnessed tasks, and producing replayable verdicts. Humans and agents attempt tasks on separate boards.",
+      "validation": "The source documents the evaluation design and release timing. Synthetic coverage depends on how faithfully the chosen twin represents the workflow.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-range/tree/9c6f7e658a955c80c5a7b58250ffde327ec3b866"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-range/blob/9c6f7e658a955c80c5a7b58250ffde327ec3b866/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-range.html"
+    },
+    "rudycelekli/gradia-reward-loop": {
+      "title": "Tracing reward hacking into an RL diagnostic",
+      "problem": "A scorer exploit can matter differently once it becomes a training signal.",
+      "change": "Gradia Reward Loop carries oracle-witnessed pass/wrong pairs into a training-time experiment and records evidence bundles for replay. The project describes a paired GRPO diagnostic with single-variable localization.",
+      "validation": "The pinned source supports the documented diagnostic design. A broader effect on policy training needs independent replication and holdouts.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-reward-loop/tree/cac806c91843d853f703b28cf90f1a04f936b4ee"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-reward-loop/blob/cac806c91843d853f703b28cf90f1a04f936b4ee/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-reward-loop.html"
+    },
+    "rudycelekli/gradia-universes-work-sample": {
+      "title": "Exactly-once replay after a simulated interruption",
+      "problem": "An agent can resume its work using information that became stale while it was stopped.",
+      "change": "Gradia Universes models a synthetic world change and records the resulting visibility, interruption, restore, and authoritative-state checks. The fixture lets a reviewer inspect whether a change was applied exactly once.",
+      "validation": "The repository supplies a bounded synthetic work sample. The replay claim is scoped to that universe.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-universes-work-sample/tree/f7e0e26f110c7ffc9fba90e8c9fa71dc2f392556"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-universes-work-sample/blob/f7e0e26f110c7ffc9fba90e8c9fa71dc2f392556/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-universes-work-sample.html"
+    },
+    "rudycelekli/gradia-wind-tunnel": {
+      "title": "Testing a benchmark scorer against an oracle",
+      "problem": "An evaluator can accept a wrong answer when the reward logic checks a proxy for correctness.",
+      "change": "The Wind Tunnel compares a scorer decision with an independent machine oracle and localizes exploitable differences using single-variable changes. Replayable records connect an exploit to the exact comparison.",
+      "validation": "The public evidence concerns the tested scorer, oracle, and examples. Other evaluators require separate calibration and adversarial evidence.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/gradia-wind-tunnel/tree/5ee09fbd4730ea5ada449ac652dcc3945b2274ce"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/gradia-wind-tunnel/blob/5ee09fbd4730ea5ada449ac652dcc3945b2274ce/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-wind-tunnel.html"
+    },
+    "rudycelekli/kin-connect": {
+      "title": "Dual approval in agent-mediated introductions",
+      "problem": "A successful policy match between two agent profiles can still produce an introduction that either person would decline.",
+      "change": "Kin separates local profiles and preferences from the introduction decision. Agents can propose a match after checking both policies, and both people approve independently before encrypted chat opens.",
+      "validation": "The public design documents the approval sequence. It does not measure match quality or establish audited security.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/kin-connect/tree/74abe5a002ba7051e4a5214a3202e0498e2f5a10"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/kin-connect/blob/74abe5a002ba7051e4a5214a3202e0498e2f5a10/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/kin-connect.html"
+    },
+    "rudycelekli/kya-evidence": {
+      "title": "Portable assurance for exact agent configurations",
+      "problem": "A model or agent name leaves out the tool set, configuration, and policy needed to interpret an assurance check.",
+      "change": "KYA Evidence signs check receipts against an exact manifest and lets a relying party evaluate the receipts under its own policy. The reference implementation packages these inputs into dossiers for review and replay.",
+      "validation": "The public repository documents the reference format and evaluator controls. Industry adoption and independent assurance remain open questions.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/kya-evidence/tree/4713cb14c56a6715120e948d8e85d4cf518dae75"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/kya-evidence/blob/4713cb14c56a6715120e948d8e85d4cf518dae75/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/kya-evidence.html"
+    },
+    "rudycelekli/lifeweave": {
+      "title": "Goal-driven local interfaces",
+      "problem": "A goal remains abstract until the system can use relevant, consented evidence to surface a concrete next action.",
+      "change": "LifeWeave uses a local rule-driven baseline to turn evidence into interfaces such as focus planning and overdue-commitment review. The dashboard places supporting evidence next to controls.",
+      "validation": "The public toolkit documents the rule-driven baseline. Habit improvement and retention require user studies.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/lifeweave/tree/391dc3b97a475ae9995acedf50b6a592c91eefb7"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/lifeweave/blob/391dc3b97a475ae9995acedf50b6a592c91eefb7/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/lifeweave.html"
+    },
+    "rudycelekli/mcpsnitch": {
+      "title": "Inspectable observations at the MCP boundary",
+      "problem": "MCP tool descriptions alone give a reviewer limited evidence about the visible traffic produced by a tool session.",
+      "change": "MCPSnitch interposes between an MCP client and server, records visible protocol traffic, and can add best-effort process observations to a verifiable session report.",
+      "validation": "The public developer preview documents its observation model. Activity outside the instrumented boundary remains outside the report.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/mcpsnitch/tree/e0e2f628229fed1c70cbea20226d18b0ca924876"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/mcpsnitch/blob/e0e2f628229fed1c70cbea20226d18b0ca924876/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/mcpsnitch.html"
+    },
+    "rudycelekli/nabrix-waitlist": {
+      "title": "A lead intake path for a neighborhood-report waitlist",
+      "problem": "A waitlist needs to transfer the information a visitor submits from the page into the intended intake system.",
+      "change": "Nabrix uses a Next.js landing page and a server-side API route documented as forwarding the form to AGNTCS CRM. The public repository exposes the intake architecture.",
+      "validation": "The source documents the handoff. CRM connectivity, deliveries, and conversion have no live measurement in this study.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/nabrix-waitlist/tree/64f351fd6d4c11351404ca32d139882a523130b6"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/nabrix-waitlist/blob/64f351fd6d4c11351404ca32d139882a523130b6/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/nabrix-waitlist.html"
+    },
+    "rudycelekli/nerve": {
+      "title": "Baseline comparison for steady machine sounds",
+      "problem": "A periodic sound check is easier to interpret when it is compared to a normal recording taken from the same position.",
+      "change": "NERVE analyzes audio locally in the browser and compares numeric features of the baseline and later recording. It highlights which parts of the sound changed.",
+      "validation": "The README describes the capture protocol and local comparison. Fault diagnosis and field accuracy require ground-truth machine data.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/nerve/tree/2b7c4f3f9c603e93f2268c514a7374df5160064d"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/nerve/blob/2b7c4f3f9c603e93f2268c514a7374df5160064d/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/nerve.html"
+    },
+    "rudycelekli/open-teammates": {
+      "title": "Durable work records for an event-planning agent",
+      "problem": "A recurring events role needs continuity across planning, logistics and follow-up, including budget and attendee decisions.",
+      "change": "Open Teammates publishes Mira as an event-planning role with editable personality files, tooling, and a persistent work ledger. Artifacts make the planned workflow inspectable across steps.",
+      "validation": "The repository documents the role and artifacts. Effectiveness as an event operator remains an evaluation question.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/open-teammates/tree/9ccab7b8d72637837e771363c664f1f077fba096"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/open-teammates/blob/9ccab7b8d72637837e771363c664f1f077fba096/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/open-teammates.html"
+    },
+    "rudycelekli/proofseal": {
+      "title": "Behavioral regression memory for coding agents",
+      "problem": "A code change can preserve the existing unit suite while changing an observable behavior that the suite never pinned.",
+      "change": "ProofSeal records behavioral baselines as seals and exposes comparisons over MCP, a CLI, and CI. It returns different statuses for drift, regression, and missing evidence so an agent can tell when a baseline is unavailable.",
+      "validation": "The pinned documentation describes comparison, history, and bisection. The checks depend on the coverage and determinism of the behaviors that are sealed.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/proofseal/tree/db5706ce0473594fa1f33f2d1a5f6210b48770e7"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/proofseal/blob/db5706ce0473594fa1f33f2d1a5f6210b48770e7/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/proofseal.html"
+    },
+    "rudycelekli/rcode": {
+      "title": "Receipts and undo in an extensible coding agent",
+      "problem": "Model and tool flexibility increase the number of actions a user needs to inspect and potentially reverse.",
+      "change": "rcode exposes terminal and command-center interfaces with configurable model routes. The project describes turn receipts, approval controls and undo for file changes.",
+      "validation": "The pinned documentation describes those interfaces and controls. Provider behavior and permission enforcement require tests with the chosen configuration.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/rcode/tree/3fae1832ce7cd39e1aa696894391643786ddc579"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/rcode/blob/3fae1832ce7cd39e1aa696894391643786ddc579/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/rcode.html"
+    },
+    "rudycelekli/regentics-landing": {
+      "title": "Static product positioning for AI leadership workflows",
+      "problem": "A prospective buyer needs to understand role boundaries and approval and audit concepts before considering agent delegation.",
+      "change": "The Regentics page presents AI leadership roles and describes approvals and audit trails in a static HTML landing page. Discovery files accompany the page source.",
+      "validation": "The revision documents product messaging and a crawl surface. Feature delivery and conversion need separate verification.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/regentics-landing/tree/5869a61aaa6b8acd4a9797ab1a925cd9d07ff1c0"
+        },
+        {
+          "label": "Pinned index.html",
+          "url": "https://github.com/rudycelekli/regentics-landing/blob/5869a61aaa6b8acd4a9797ab1a925cd9d07ff1c0/index.html"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/regentics-landing.html"
+    },
+    "rudycelekli/rudycelekli.github.io": {
+      "title": "Traceable authorship on a static research profile",
+      "problem": "An evidence dashboard can mix identity claims, time-varying activity counts, and links to accepted changes in ways that obscure their sources.",
+      "change": "The site keeps visible identity aligned with structured Person and ProfilePage data and refreshes public contribution evidence separately. It provides raw HTML, Markdown, JSON, and an Atom feed for different readers.",
+      "validation": "The pinned README describes provenance and the refresh pipeline. Crawl access, indexing, and search referrals are measured separately.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/rudycelekli.github.io/tree/2aa16572943ab4cc624218e35d5fe9c500704df2"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/rudycelekli.github.io/blob/2aa16572943ab4cc624218e35d5fe9c500704df2/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/rudycelekli.github.io.html"
+    },
+    "rudycelekli/scrapmind": {
+      "title": "Planning inventions against a real inventory",
+      "problem": "An invention plan can quietly require an absent part or allocate the same part to two physical roles.",
+      "change": "Scrapmind combines generated invention drafts with a resource assignment planner that records part roles, substitutions, and missing materials. A Device Alchemy flow adapts the planning idea to spare devices.",
+      "validation": "The source documents inventory-aware planning. Feasibility, safety, and actual fit still depend on materials and physical validation.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/scrapmind/tree/ac2054286040e34b25655a4f246e8187075b5509"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/scrapmind/blob/ac2054286040e34b25655a4f246e8187075b5509/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/scrapmind.html"
+    },
+    "rudycelekli/sponsorline": {
+      "title": "Auditing consent in a coding-tool sponsor channel",
+      "problem": "Developers need a way to inspect whether an impression was displayed under consent and how it was selected.",
+      "change": "Sponsorline binds impressions to signed consent records and documents replay of auction decisions. The opt-in status-line design links the display to those records.",
+      "validation": "The repository describes an auditable workflow. Live payouts depend on identity verification and payment rails.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/sponsorline/tree/4812a97ccbfcb89479042b66a1a914f924647b07"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/sponsorline/blob/4812a97ccbfcb89479042b66a1a914f924647b07/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/sponsorline.html"
+    },
+    "rudycelekli/swarmwatch": {
+      "title": "Live topology for multi-agent runs",
+      "problem": "Observing a swarm from logs after the run makes it difficult to see active relationships, costs and alarms while work is in progress.",
+      "change": "SwarmWatch documents two mechanisms. Process-live launches and supervises an agent command, while stream-live follows an event stream from a running system. The interface renders topology and controls from those inputs.",
+      "validation": "The project documents both collection modes. Control and data completeness depend on which process or stream is attached.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/swarmwatch/tree/1e912d4cdff829c2df6c981d1bf1d914457fb71c"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/swarmwatch/blob/1e912d4cdff829c2df6c981d1bf1d914457fb71c/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/swarmwatch.html"
+    },
+    "rudycelekli/testlore": {
+      "title": "Preserving evidence from native test tools",
+      "problem": "When an agent reports that a task passed, a reviewer needs the original test evidence and the conditions under which it was collected.",
+      "change": "TestLore is designed to observe native test runs, attach signed evidence, and let reviewers challenge claims and record outcomes. The project includes individual workflow definitions for smoke tests and public pilots.",
+      "validation": "The README and workflow definitions document evidence collection and challenge paths. This case makes no cross-project quality estimate.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/testlore/tree/a40b31500af4098d5efe2df7ec852ce729326844"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/testlore/blob/a40b31500af4098d5efe2df7ec852ce729326844/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/testlore.html"
+    },
+    "rudycelekli/the-value-engine-benchmark": {
+      "title": "Grading multi-turn enterprise negotiation",
+      "problem": "Success in a multi-touch sales negotiation depends on decisions across the episode, which a single-turn score misses.",
+      "change": "The Value Engine Benchmark puts a model in the seller role against a stochastic buyer and applies a rubric after the negotiation episode. The repository publishes offline materials for inspecting evidence and methodology.",
+      "validation": "The source supports a benchmark of simulated negotiations. It supplies no live sales conversion measurement.",
+      "sources": [
+        {
+          "label": "Pinned source tree",
+          "url": "https://github.com/rudycelekli/the-value-engine-benchmark/tree/0604796577dcdfe7d8384cee49774210abdf306f"
+        },
+        {
+          "label": "Pinned README.md",
+          "url": "https://github.com/rudycelekli/the-value-engine-benchmark/blob/0604796577dcdfe7d8384cee49774210abdf306f/README.md"
+        }
+      ],
+      "kind": "owned",
+      "url": "https://rudycelekli.github.io/engineering/repositories/rudycelekli/the-value-engine-benchmark.html"
+    },
+    "ruvnet/ruflo": {
+      "title": "Keep distinct inputs separate in Ruflo's embedding cache",
+      "problem": "Two equal-length strings with a reproducible FNV-1a collision used the same persistent cache slot. An embedding stored for one input could overwrite the vector for the other.",
+      "change": "Use versioned SHA-256 keys over the original UTF-16 code units so the cache also distinguishes JavaScript strings containing isolated surrogates. Legacy entries become cold misses and are rebuilt on demand.",
+      "validation": "The pull request documents a failing-then-passing regression that reopens the SQLite store. Its local full-suite attempts had dependency, fixture and disk-space failures.",
+      "sources": [
+        {
+          "label": "ruvnet/ruflo merged pull request #3681",
+          "url": "https://github.com/ruvnet/ruflo/pull/3681"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ruvnet/ruflo/commit/14c57de92d7d5417f04b2da4aafdc3bd0aaf7bc5"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ruvnet/ruflo.html"
+    },
+    "ruvnet/RuVector": {
+      "title": "Rejecting malformed vector segments in RuVector WASM",
+      "problem": "Opening an invalid RVF buffer could skip a malformed vector segment or fall back to a one-dimensional store, leaving callers with a store that misrepresented the data.",
+      "change": "The WASM open path fails if a vector segment is truncated, lacks a usable dimension or disagrees with a preceding segment.",
+      "validation": "The merge record notes an initial local linker limitation and reports a later 17-test pass on the merged tree. It also records a supply-chain check failure shared with its comparison run on main.",
+      "sources": [
+        {
+          "label": "Merged pull request #1441",
+          "url": "https://github.com/ruvnet/RuVector/pull/1441"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/ruvnet/RuVector/commit/b44e555d7667b12480e30de6e84c6f9ed171214e"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/ruvnet/ruvector.html"
+    },
+    "smart-mcp-proxy/mcpproxy-go": {
+      "title": "Preserve existing credential references during conversion",
+      "problem": "MCPProxy's conversion API recognized a narrow set of reference prefixes. A file reference or a reference embedded in an Authorization header could be put into the keyring as literal text and left unresolved after the next expansion.",
+      "change": "Use the shared reference detector before writing a new secret. The conversion endpoint returns its existing validation error when it finds a reference anywhere in the value.",
+      "validation": "The pull request reports two regressions for file and embedded references and a passing HTTP API package suite. The tests cover rejection before secret resolution.",
+      "sources": [
+        {
+          "label": "smart-mcp-proxy/mcpproxy-go merged pull request #1782",
+          "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/pull/1782"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/smart-mcp-proxy/mcpproxy-go/commit/e138559fd6091cf551133dd1f9341d3bb79a6953"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/smart-mcp-proxy/mcpproxy-go.html"
+    },
+    "Softeria/ms-365-mcp-server": {
+      "title": "Enforcing tool boundaries and signing mail according to its schema",
+      "problem": "A Microsoft 365 MCP client could receive account-management tools under restrictive stdio settings. Separately, generated mail schemas used PascalCase body keys while the signing path read lowercase keys, causing signed sends to fail and some replies to miss the configured signature.",
+      "change": "The stdio registration now applies tool-name and read-only filters and skips MSAL account tools under an environment-token session. The signing helper accepts both supported key spellings and writes back through the spelling the caller used. A third change avoids quadratic email-redaction matching on long attachment text.",
+      "validation": "The PRs report focused filter, signature, and redaction checks. The signature suite went from two failing regressions to 38 passing tests, and the performance report includes a size-doubling baseline for redaction. The mail tests exercise request construction without live Microsoft Graph delivery.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #748",
+          "url": "https://github.com/Softeria/ms-365-mcp-server/pull/748"
+        },
+        {
+          "label": "Merged upstream PR #747",
+          "url": "https://github.com/Softeria/ms-365-mcp-server/pull/747"
+        },
+        {
+          "label": "Merged upstream PR #738",
+          "url": "https://github.com/Softeria/ms-365-mcp-server/pull/738"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Softeria/ms-365-mcp-server/commit/6d4dba6fc550f291451629fc16b26133b8729fcb"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/softeria/ms-365-mcp-server.html"
+    },
+    "steipete/poltergeist": {
+      "title": "Reporting signal-terminated build commands as failures",
+      "problem": "A child process killed by a signal closes with a null exit code. Poltergeist converted that value to zero, allowing a terminated build or hook command to look like a success.",
+      "change": "The upstream consolidation includes the reported command-runner fix alongside lifecycle and watch fixes. A signal-terminated process produces a failure status, including exit 143 for SIGTERM on the tested platform. Callers that allow nonzero exits still receive that status.",
+      "validation": "The original PR includes macOS arm64 receipts using the compiled runner and owned child processes. The baseline returns zero, the candidate returns 143, and the healthy control returns zero. The co-authored consolidation records 13 failing baseline regressions and passing exact-head Linux, macOS and Windows CI.",
+      "sources": [
+        {
+          "label": "Co-authored upstream commit 595110bbeeb0",
+          "url": "https://github.com/steipete/poltergeist/commit/595110bbeeb032959a7286a9c2938e4cf9d71369"
+        },
+        {
+          "label": "Original contribution PR #257",
+          "url": "https://github.com/steipete/poltergeist/pull/257"
+        },
+        {
+          "label": "Co-authored upstream commit 67b453676515",
+          "url": "https://github.com/steipete/poltergeist/commit/67b453676515b2e37c6ce05c469cc66aa3c87cc3"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/steipete/poltergeist.html"
+    },
+    "storytold/craft-anything": {
+      "title": "Representing missing ACP token counts in Craft Anything",
+      "problem": "Craft Anything showed zero tokens when an ACP agent supplied no per-turn counts. ACP context occupancy is a different measure and cannot establish input or output usage.",
+      "change": "The CLI and activity feed represent unknown turns explicitly. Project and session totals retain counts that were actually reported and display a lower bound when some turns remain unknown.",
+      "validation": "The PR reports an ACP fixture and a desktop save-and-reopen case. The AI crate and CLI suites passed locally, and the merge record describes an unrelated engine fixture failure.",
+      "sources": [
+        {
+          "label": "Merged pull request #1843",
+          "url": "https://github.com/storytold/craft-anything/pull/1843"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/storytold/craft-anything/commit/a3db7649498f85f6cf9486a891a225c735839ad8"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/storytold/craft-anything.html"
+    },
+    "Sumanth077/Hands-On-AI-Engineering": {
+      "title": "Restore runnable source for an OCR reference project",
+      "problem": "An OCR example contained unresolved merge markers in its environment template, Python application, processor and schema files. Those markers left parts of the reference implementation unreadable to Python.",
+      "change": "Resolve the affected files to the same committed side already used by the example's README, restoring consistency between the documented inputs and source.",
+      "validation": "The PR reports a clean conflict-marker scan and successful Python compilation of the example directory. Compilation does not exercise the OCR provider.",
+      "sources": [
+        {
+          "label": "Sumanth077/Hands-On-AI-Engineering merged pull request #141",
+          "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering/pull/141"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering/commit/881fb0ddfd61688f639b208c1a4b53eff2f52a68"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/sumanth077/hands-on-ai-engineering.html"
+    },
+    "Tencent/WeKnora": {
+      "title": "Reassembling multiline provider events in WeKnora",
+      "problem": "A valid model-provider SSE packet can split its JSON across several data lines. Decoding each line as a standalone packet could lose the provider response.",
+      "change": "The reader assembles incomplete packets, recognizes a leading BOM and multiple line-ending formats, and applies the existing 1 MiB limit to the assembled data. Complete packets can still arrive during an open connection.",
+      "validation": "The PR reports 25 passing focused cases, including open io.Pipe streams, partial reads and size limits. It records broader local checks blocked by uncached dependencies.",
+      "sources": [
+        {
+          "label": "Merged pull request #4255",
+          "url": "https://github.com/Tencent/WeKnora/pull/4255"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Tencent/WeKnora/commit/38621dba875847585678340168af549a94cadb58"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/tencent/weknora.html"
+    },
+    "The-PR-Agent/pr-agent": {
+      "title": "Preserving physical Git lines in PR-Agent",
+      "problem": "Python's generic line splitting recognizes characters such as U+2028 that Git treats as ordinary content. A supplied diff containing one of those characters could shift hunk positions or lose source text.",
+      "change": "The reverse patcher uses an LF-aware splitter and consumes at most one end-of-line carriage return. The MOSAICO reader also iterates over LF-delimited lines.",
+      "validation": "The PR reports 43 focused checks. The linked offline replay separately documents baseline and corrected outputs for Unicode separators, later hunks and carriage returns.",
+      "sources": [
+        {
+          "label": "Merged pull request #4668",
+          "url": "https://github.com/The-PR-Agent/pr-agent/pull/4668"
+        },
+        {
+          "label": "Physical Git line replay and source evidence",
+          "url": "https://rudycelekli.github.io/engineering/git-physical-line-boundaries.html#reproduce"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/The-PR-Agent/pr-agent/commit/d8fcf7772cd531a36bdabebf145b819949d111ce"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/the-pr-agent/pr-agent.html"
+    },
+    "thedotmack/claude-mem": {
+      "title": "Restore project merges when importing memory",
+      "problem": "A claude-mem export retained the destination project of merged observations and session summaries. The import dropped that link, so restored records disappeared from searches and context scoped to the merged project.",
+      "change": "Persist the merge destination on both imported row types and invalidate context for the destination project. Keep that mutable field outside the matching logic so an earlier export still matches a record that has since moved.",
+      "validation": "The pull request reports a failing regression on the original import path, followed by 352 passing tests across SQLite, project merge, context caching and semantic persistence.",
+      "sources": [
+        {
+          "label": "thedotmack/claude-mem merged pull request #5471",
+          "url": "https://github.com/thedotmack/claude-mem/pull/5471"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/thedotmack/claude-mem/commit/56981ea00d603fcbf9298f5c8943a22ea061a0ec"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/thedotmack/claude-mem.html"
+    },
+    "Thysrael/Horizon": {
+      "title": "Keeping healthy GDELT items in Horizon source batches",
+      "problem": "One GDELT entry with an unexpected field type could raise before validation and discard the whole batch, including otherwise usable articles.",
+      "change": "Horizon now validates the title, URL and date as strings before cleaning their values, so the reader can reject the malformed item and continue through its siblings.",
+      "validation": "The merge record reports that a mixed-batch regression failed on the earlier code and the focused GDELT suite passed 11 tests after the change, with HTTP fixtures.",
+      "sources": [
+        {
+          "label": "Merged pull request #200",
+          "url": "https://github.com/Thysrael/Horizon/pull/200"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Thysrael/Horizon/commit/c8be6102a76faf8b6bf8e84dede234d1467833cd"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/thysrael/horizon.html"
+    },
+    "tigerless-labs/agent-memory": {
+      "title": "Validate a new embedding before replacing a cached projection",
+      "problem": "A malformed embedding response could cause agent-memory to discard its previous dense projection. That turned an invalid refresh into the loss of usable cached data.",
+      "change": "Validate vector shape and finite values, then pack the complete candidate before swapping it in. Malformed input leaves the previous projection available.",
+      "validation": "The PR reports a baseline regression failure and passing isolated runtime tests and lint after the fix. The record also notes a separate pre-existing mypy diagnostic.",
+      "sources": [
+        {
+          "label": "tigerless-labs/agent-memory merged pull request #88",
+          "url": "https://github.com/tigerless-labs/agent-memory/pull/88"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/tigerless-labs/agent-memory/commit/4808dd35bd9ea2d74c48a314d827e1ededcd1959"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/tigerless-labs/agent-memory.html"
+    },
+    "tigerless-labs/autoharness": {
+      "title": "Read complete provenance records in autoharness",
+      "problem": "A provenance reader could open the ledger while the append path was still writing a record. Parsing a partially written entry made concurrent evidence inspection unreliable.",
+      "change": "Make reads and appends acquire the same ledger lock. Keep the append-only data format and existing records.",
+      "validation": "The pull request reports a baseline regression failure and passing focused and full non-live pytest suites after the change. The tests use temporary files and mocked child processes.",
+      "sources": [
+        {
+          "label": "tigerless-labs/autoharness merged pull request #231",
+          "url": "https://github.com/tigerless-labs/autoharness/pull/231"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/tigerless-labs/autoharness/commit/2c22edbb2420ae474e0a73a34c864b2206e96d79"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/tigerless-labs/autoharness.html"
+    },
+    "tigerless-labs/cost-xray": {
+      "title": "Capture complete server-sent events in cost-xray",
+      "problem": "The API-capture path decoded SSE data before it had assembled each full event. A JSON object split across multiple data fields could be lost from the captured stream.",
+      "change": "Join data fields according to SSE event boundaries and decode the resulting payload. Continue collecting after non-object events.",
+      "validation": "The pull request reports a before-and-after regression and 226 passing isolated tests, with two skips. The check uses local inputs and no live provider.",
+      "sources": [
+        {
+          "label": "tigerless-labs/cost-xray merged pull request #40",
+          "url": "https://github.com/tigerless-labs/cost-xray/pull/40"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/tigerless-labs/cost-xray/commit/819b24f7d2e7e28e2c0b189e219af6b15d9ac010"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/tigerless-labs/cost-xray.html"
+    },
+    "truefoundry/trueforge": {
+      "title": "Aligning TrueForge SDK documentation with the runtime contract",
+      "problem": "TrueForge custom-host examples suggested that streaming events accepted arbitrary names, that agent search returned an array, and that offset-based pagination types were public. These discrepancies made it easy to copy code that did not match the supported SDK surface.",
+      "change": "The merged documentation describes the discriminated streaming event union, points to the public UI import, and preserves the need to validate network JSON. The agent search example now returns ListResult with a page token, and the custom-host reference lists the existing optional ports and context hooks.",
+      "validation": "The pull requests describe comparisons with runtime types and package exports, with documentation consistency checks failing on the unchanged base and passing after correction. The evidence covers reference accuracy. Full workspace and documentation rendering checks were outside the reported validation.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #1034",
+          "url": "https://github.com/truefoundry/trueforge/pull/1034"
+        },
+        {
+          "label": "Merged upstream PR #1032",
+          "url": "https://github.com/truefoundry/trueforge/pull/1032"
+        },
+        {
+          "label": "Merged upstream PR #1035",
+          "url": "https://github.com/truefoundry/trueforge/pull/1035"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/truefoundry/trueforge/commit/9c466275a0055cf87b5b6011fd82ce1d11285f2b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/truefoundry/trueforge.html"
+    },
+    "tt-a1i/archify": {
+      "title": "Returning keyboard focus after copying from Archify",
+      "problem": "When clipboard access failed or was unavailable, the fallback selected a temporary field. Removing the field could leave keyboard focus on the document body.",
+      "change": "The fallback remembers the focused element, removes the temporary field, and restores focus if the original element is still connected.",
+      "validation": "Controlled Chrome probes covered fallback success, false and exception outcomes. The merge record credits Rudy Celekli as original contributor and documents the maintainer's later integration with Codex assistance.",
+      "sources": [
+        {
+          "label": "Merged pull request #862",
+          "url": "https://github.com/tt-a1i/archify/pull/862"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/tt-a1i/archify/commit/fc3ad2991487c74cdc37ce459d447585aa02446b"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/tt-a1i/archify.html"
+    },
+    "vectorize-io/hindsight": {
+      "title": "Keeping HTTP status visible in Hindsight CLI errors",
+      "problem": "Diagnostic words in a server response body could override the real HTTP status shown to an operator. For example, a 403 whose body mentioned a timeout could appear to be a transport failure.",
+      "change": "The classifier now uses the HTTP failure heading while the formatter keeps the complete response detail. Genuine transport errors continue through their existing classification.",
+      "validation": "Two formatter regressions reproduced status misclassification in the existing error module. The contribution reports passing cases for both and separate controls for transport errors. The fixtures exercise formatter behavior offline.",
+      "sources": [
+        {
+          "label": "Merged pull request #5179",
+          "url": "https://github.com/vectorize-io/hindsight/pull/5179"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/vectorize-io/hindsight/commit/2ff1c01a05a92904644386c44e2e69777e240d9a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/vectorize-io/hindsight.html"
+    },
+    "we-promise/sure": {
+      "title": "Correcting the cash direction of CoinSpot trades in Sure",
+      "problem": "CoinSpot buys were imported as cash inflows and sells as outflows. Under Sure's balance convention, depositing 300 AUD and buying 100 AUD could therefore display 400 AUD of cash.",
+      "change": "The order processor uses a positive amount for a buy and a negative amount for a sell. Reprocessing the same external order applies the corrected amount to its existing entry.",
+      "validation": "The PR reports a source-revert failure on the buy assertion and 42 focused Rails runs with zero failures. It also records broader suite failures reproduced on the unchanged baseline.",
+      "sources": [
+        {
+          "label": "Merged pull request #4985",
+          "url": "https://github.com/we-promise/sure/pull/4985"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/we-promise/sure/commit/badd9cf095b51d923b93465f694947aa4918874c"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/we-promise/sure.html"
+    },
+    "wheresryan22/anatomy": {
+      "title": "Reject star polygons at the convex prism boundary",
+      "problem": "Anatomy's prism builder checked whether vertex turns had consistent signs. A regular star can satisfy that condition while winding twice, violating the assumptions of convex-part rendering and collision logic.",
+      "change": "Require one complete turn around the ring and ignore repeated vertices in the turn calculation. Convex rings, collinear points and ordinary rounded rectangles retain their valid paths.",
+      "validation": "The PR reports two failing star-polygon cases on the baseline and all 30 checks passing across the relevant geometry suites. Generated examples were rebuilt with unchanged output.",
+      "sources": [
+        {
+          "label": "wheresryan22/anatomy merged pull request #74",
+          "url": "https://github.com/wheresryan22/anatomy/pull/74"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/wheresryan22/anatomy/commit/4a621f88f6f5aa4e65c4de6969de0d2da5029a1f"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/wheresryan22/anatomy.html"
+    },
+    "xerj-org/xerj": {
+      "title": "Recording contributor attribution in the Xerj project",
+      "problem": "Xerj's contributor list is a public attribution source distinct from technical evidence about its search engine or MCP server.",
+      "change": "The merged pull request adds the GitHub login rudycelekli to the contributor list. Its scope is contributor attribution.",
+      "validation": "The GitHub merge record verifies the attribution edit. This entry documents the roster change, with no associated runtime measurements.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #2053",
+          "url": "https://github.com/xerj-org/xerj/pull/2053"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/xerj-org/xerj/commit/8b066e4b32dae72719a383bf3bffa026e2a7b158"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/xerj-org/xerj.html"
+    },
+    "Yeachan-Heo/oh-my-claudecode": {
+      "title": "Report every unmerged path to a rebasing worker",
+      "problem": "The team orchestrator only recognized three Git conflict statuses when notifying a worker about a stalled rebase. A path modified by one side and deleted by the other could be missing from the worker's inbox and rebase event.",
+      "change": "Parse the full set of unmerged porcelain statuses, including the modify/delete and one-sided add entries. Keep ordinary modifications outside the conflict list.",
+      "validation": "The PR reports one baseline regression failure and 27 passing merge-orchestrator tests in each of two local reruns. The test exercises the message path using the repository's Git mocks.",
+      "sources": [
+        {
+          "label": "Yeachan-Heo/oh-my-claudecode merged pull request #4608",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode/commit/146af74abf00f9794dddcdbb1a3ccf87a0bd8ac3"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/yeachan-heo/oh-my-claudecode.html"
+    },
+    "yutto-dev/yutto": {
+      "title": "Rounding SRT times at millisecond boundaries",
+      "problem": "Splitting floating-point seconds into components and truncating fractional milliseconds could subtract one millisecond from the intended subtitle timestamp. Values near a minute rollover could also stop just short of the next minute.",
+      "change": "The formatter rounds the entire timestamp to integer milliseconds first, then decomposes it with integer division. Carry into seconds and minutes follows directly from that representation.",
+      "validation": "The PR records three failing baseline examples, including 2.3, 4.35 and 59.9996 seconds, and a passing focused subtitle suite after the fix. It reports Ruff checks limited to the touched files.",
+      "sources": [
+        {
+          "label": "Merged upstream PR #888",
+          "url": "https://github.com/yutto-dev/yutto/pull/888"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/yutto-dev/yutto/commit/661c56d82f3e9c057f460fb783c087b9c763884a"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/yutto-dev/yutto.html"
+    },
+    "zhayujie/CowAgent": {
+      "title": "Block shared address space in CowAgent's URL guard",
+      "problem": "CowAgent's opt-in SSRF guard enumerated several private address categories. Shared IPv4 addresses in 100.64.0.0/10 could pass the checks, including an address used for a cloud instance metadata endpoint.",
+      "change": "Require global reachability alongside the existing address checks. The guard now rejects shared addresses while keeping ordinary public IPv4 and IPv6 addresses admissible.",
+      "validation": "The pull request reports eight local tests passing with the change. Reverting it caused the two new shared-address cases to fail. The tests exercise address classification.",
+      "sources": [
+        {
+          "label": "zhayujie/CowAgent merged pull request #3913",
+          "url": "https://github.com/zhayujie/CowAgent/pull/3913"
+        },
+        {
+          "label": "Merged source revision",
+          "url": "https://github.com/zhayujie/CowAgent/commit/465e7feffaccb09f4513975ba3751b06a77f1398"
+        }
+      ],
+      "kind": "upstream",
+      "url": "https://rudycelekli.github.io/engineering/repositories/zhayujie/cowagent.html"
+    }
+  }
+}

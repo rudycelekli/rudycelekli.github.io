@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>retentioneering-tools case study | Rudy Celekli</title>
+  <meta name="description" content="Making Retentioneering calendar-day metrics independent of the host. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/retentioneering/retentioneering-tools.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "retentioneering-tools · Making Retentioneering calendar-day metrics independent of the host", "description": "Making Retentioneering calendar-day metrics independent of the host. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/retentioneering/retentioneering-tools.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "retentioneering/retentioneering-tools", "codeRepository": "https://github.com/retentioneering/retentioneering-tools"}, "citation": ["https://github.com/retentioneering/retentioneering-tools/pull/191", "https://github.com/retentioneering/retentioneering-tools/commit/442769af08f53a47e78884d7bd621e6ed6f76def"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/retentioneering/retentioneering-tools">retentioneering/retentioneering-tools</a></p>
+      <h1>retentioneering-tools · Making Retentioneering calendar-day metrics independent of the host</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>DuckDB resolved timezone-aware timestamps to calendar dates in the session timezone. Identical events around UTC midnight could count as one or two active days on different machines.</p>
+      <h2>Engineering response</h2>
+      <p>The SQL expression now converts timezone-aware inputs through UTC before taking the date. The same rule serves metrics, daily states and conditional event collapse, and naive timestamps use their direct date cast.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR records a two-event fixture under four host timezones. Three previously reported one active day and all four reported two after the correction.</p>
+      <ul><li><a href="https://github.com/retentioneering/retentioneering-tools/pull/191">Merged pull request #191</a></li><li><a href="https://github.com/retentioneering/retentioneering-tools/commit/442769af08f53a47e78884d7bd621e6ed6f76def">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

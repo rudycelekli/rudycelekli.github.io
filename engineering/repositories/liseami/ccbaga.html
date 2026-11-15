@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CCBaga case study | Rudy Celekli</title>
+  <meta name="description" content="Passing literal known_hosts paths to OpenSSH from CCBaga. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/liseami/ccbaga.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "CCBaga · Passing literal known_hosts paths to OpenSSH from CCBaga", "description": "Passing literal known_hosts paths to OpenSSH from CCBaga. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/liseami/ccbaga.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "liseami/CCBaga", "codeRepository": "https://github.com/liseami/CCBaga"}, "citation": ["https://github.com/liseami/CCBaga/pull/55", "https://github.com/liseami/CCBaga/commit/b07f57131a38b3a27850ea183e7fed786ec46023"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/liseami/CCBaga">liseami/CCBaga</a></p>
+      <h1>CCBaga · Passing literal known_hosts paths to OpenSSH from CCBaga</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>OpenSSH reads UserKnownHostsFile values with its own quoting rules. A valid filename containing a double quote could make that parser fail before a connection attempt began.</p>
+      <h2>Engineering response</h2>
+      <p>CCBaga escapes quotes and backslashes inside the quoted path, keeping the whole setting in a single -o argument.</p>
+      <h2>Evidence and scope</h2>
+      <p>The focused tests call local ssh -G and compare the parsed path for embedded spaces, a quote and a backslash. The run exercised configuration parsing without a VPS connection.</p>
+      <ul><li><a href="https://github.com/liseami/CCBaga/pull/55">Merged pull request #55</a></li><li><a href="https://github.com/liseami/CCBaga/commit/b07f57131a38b3a27850ea183e7fed786ec46023">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

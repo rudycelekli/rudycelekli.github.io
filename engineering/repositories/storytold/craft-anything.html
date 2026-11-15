@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>craft-anything case study | Rudy Celekli</title>
+  <meta name="description" content="Representing missing ACP token counts in Craft Anything. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/storytold/craft-anything.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "craft-anything · Representing missing ACP token counts in Craft Anything", "description": "Representing missing ACP token counts in Craft Anything. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/storytold/craft-anything.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "storytold/craft-anything", "codeRepository": "https://github.com/storytold/craft-anything"}, "citation": ["https://github.com/storytold/craft-anything/pull/1843", "https://github.com/storytold/craft-anything/commit/a3db7649498f85f6cf9486a891a225c735839ad8"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/storytold/craft-anything">storytold/craft-anything</a></p>
+      <h1>craft-anything · Representing missing ACP token counts in Craft Anything</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Craft Anything showed zero tokens when an ACP agent supplied no per-turn counts. ACP context occupancy is a different measure and cannot establish input or output usage.</p>
+      <h2>Engineering response</h2>
+      <p>The CLI and activity feed represent unknown turns explicitly. Project and session totals retain counts that were actually reported and display a lower bound when some turns remain unknown.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports an ACP fixture and a desktop save-and-reopen case. The AI crate and CLI suites passed locally, and the merge record describes an unrelated engine fixture failure.</p>
+      <ul><li><a href="https://github.com/storytold/craft-anything/pull/1843">Merged pull request #1843</a></li><li><a href="https://github.com/storytold/craft-anything/commit/a3db7649498f85f6cf9486a891a225c735839ad8">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

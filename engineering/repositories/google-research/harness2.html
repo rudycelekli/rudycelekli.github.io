@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>harness2 case study | Rudy Celekli</title>
+  <meta name="description" content="Rejecting conflicting judge verdicts in Google Research Harness². A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/google-research/harness2.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "harness2 · Rejecting conflicting judge verdicts in Google Research Harness²", "description": "Rejecting conflicting judge verdicts in Google Research Harness². A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/google-research/harness2.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "google-research/harness2", "codeRepository": "https://github.com/google-research/harness2"}, "citation": ["https://github.com/google-research/harness2/pull/24", "https://github.com/google-research/harness2/commit/591554dd2518c3a1a6b132679dfad4f115a723f0"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/google-research/harness2">google-research/harness2</a></p>
+      <h1>harness2 · Rejecting conflicting judge verdicts in Google Research Harness²</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The bundled LAB grader could take the first fenced JSON verdict before checking for disagreements. A response containing a pass example and a later fail verdict could therefore write a pass score.</p>
+      <h2>Engineering response</h2>
+      <p>The patch routes every fenced verdict through the existing agreement check. Ambiguous responses retry, and exhausting retries leaves no cached score.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports ten offline tests through pinned LAB code, the score writer and Harness²&#x27;s adapter using scripted judge responses. The checks exercise evaluator behavior without calling a model.</p>
+      <ul><li><a href="https://github.com/google-research/harness2/pull/24">Merged pull request #24</a></li><li><a href="https://github.com/google-research/harness2/commit/591554dd2518c3a1a6b132679dfad4f115a723f0">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

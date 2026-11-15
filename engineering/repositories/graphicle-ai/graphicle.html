@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>graphicle case study | Rudy Celekli</title>
+  <meta name="description" content="Returning the correct JSON-RPC error for unavailable Graphicle methods. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/graphicle-ai/graphicle.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "graphicle · Returning the correct JSON-RPC error for unavailable Graphicle methods", "description": "Returning the correct JSON-RPC error for unavailable Graphicle methods. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/graphicle-ai/graphicle.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "Graphicle-AI/graphicle", "codeRepository": "https://github.com/Graphicle-AI/graphicle"}, "citation": ["https://github.com/Graphicle-AI/graphicle/pull/6", "https://github.com/Graphicle-AI/graphicle/commit/51536c276e4b30f7dfe314eb41c02cbdfea97fc2"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/Graphicle-AI/graphicle">Graphicle-AI/graphicle</a></p>
+      <h1>graphicle · Returning the correct JSON-RPC error for unavailable Graphicle methods</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A workspace MCP connection returned Invalid params when it received a method that the connection did not expose. That made capability absence indistinguishable from an invalid request to a supported method.</p>
+      <h2>Engineering response</h2>
+      <p>The dispatch layer now returns -32601 for an unavailable method. Errors such as an unknown tool within tools/call still use -32602.</p>
+      <h2>Evidence and scope</h2>
+      <p>The merge record reports 690 local Rust tests and identifies a workspace-scope control for both error codes.</p>
+      <ul><li><a href="https://github.com/Graphicle-AI/graphicle/pull/6">Merged pull request #6</a></li><li><a href="https://github.com/Graphicle-AI/graphicle/commit/51536c276e4b30f7dfe314eb41c02cbdfea97fc2">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

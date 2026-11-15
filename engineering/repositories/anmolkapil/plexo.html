@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>plexo case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping spaces in filenames downloaded by Plexo. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/anmolkapil/plexo.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "plexo · Keeping spaces in filenames downloaded by Plexo", "description": "Keeping spaces in filenames downloaded by Plexo. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/anmolkapil/plexo.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "anmolkapil/plexo", "codeRepository": "https://github.com/anmolkapil/plexo"}, "citation": ["https://github.com/anmolkapil/plexo/pull/183", "https://github.com/anmolkapil/plexo/commit/899d99b5a8d15e6472f0ebfd3eeb5d1df2401f14"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/anmolkapil/plexo">anmolkapil/plexo</a></p>
+      <h1>plexo · Keeping spaces in filenames downloaded by Plexo</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Some servers send Content-Disposition filenames with spaces and without quotes. Plexo stopped at the first space, turning quarterly report.csv into quarterly.</p>
+      <h2>Engineering response</h2>
+      <p>The parser consumes the unquoted value through the next parameter separator and trims the surrounding spaces and tabs. Quoted and extended filenames continue to use their existing paths.</p>
+      <h2>Evidence and scope</h2>
+      <p>An Electron Playwright regression reproduced the truncated name. The merged record reports 32 passing download and redirect checks with the correction.</p>
+      <ul><li><a href="https://github.com/anmolkapil/plexo/pull/183">Merged pull request #183</a></li><li><a href="https://github.com/anmolkapil/plexo/commit/899d99b5a8d15e6472f0ebfd3eeb5d1df2401f14">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>openrig case study | Rudy Celekli</title>
+  <meta name="description" content="Show OpenRig mission labels after proof acceptance. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/mvschwarz/openrig.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "openrig · Show OpenRig mission labels after proof acceptance", "description": "Show OpenRig mission labels after proof acceptance. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/mvschwarz/openrig.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "mvschwarz/openrig", "codeRepository": "https://github.com/mvschwarz/openrig"}, "citation": ["https://github.com/mvschwarz/openrig/pull/2249", "https://github.com/mvschwarz/openrig/commit/0820fad1018491b524c6137f3a2adfd107c040b2"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/mvschwarz/openrig">mvschwarz/openrig</a></p>
+      <h1>openrig · Show OpenRig mission labels after proof acceptance</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>An OpenRig mission declared complete could still display a qualified label asking for proof review when its current evidence was already ready. That label confused two decisions an operator needs to see independently.</p>
+      <h2>Engineering response</h2>
+      <p>The dashboard formatter uses the authored completion label when both the declaration and proof support it. Active or paused declarations and incomplete or mixed proof keep their qualified labels.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request records five failing formatter cases on the baseline and 1,784 passing UI tests after the fix. Its full test command still exited with four daemon-suite failures.</p>
+      <ul><li><a href="https://github.com/mvschwarz/openrig/pull/2249">mvschwarz/openrig merged pull request #2249</a></li><li><a href="https://github.com/mvschwarz/openrig/commit/0820fad1018491b524c6137f3a2adfd107c040b2">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

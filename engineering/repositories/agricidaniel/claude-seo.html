@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>claude-seo case study | Rudy Celekli</title>
+  <meta name="description" content="Returning an actionable exit status from claude-seo PageSpeed checks. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/agricidaniel/claude-seo.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "claude-seo · Returning an actionable exit status from claude-seo PageSpeed checks", "description": "Returning an actionable exit status from claude-seo PageSpeed checks. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/agricidaniel/claude-seo.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "AgriciDaniel/claude-seo", "codeRepository": "https://github.com/AgriciDaniel/claude-seo"}, "citation": ["https://github.com/AgriciDaniel/claude-seo/pull/380", "https://github.com/AgriciDaniel/claude-seo/commit/dbcad62ecf97de412c99fde4a8f541d43217987a"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/AgriciDaniel/claude-seo">AgriciDaniel/claude-seo</a></p>
+      <h1>claude-seo · Returning an actionable exit status from claude-seo PageSpeed checks</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The PageSpeed-only command stored errors below the selected strategies. Its process-exit check inspected a top-level field, so a pipeline could record success when every strategy failed.</p>
+      <h2>Engineering response</h2>
+      <p>The result now exposes an overall error on total failure and preserves strategy details so the caller can inspect which request failed.</p>
+      <h2>Evidence and scope</h2>
+      <p>The merge record documents an offline trigger using an unsupported URL scheme. This tests command behavior without making a PageSpeed Insights request.</p>
+      <ul><li><a href="https://github.com/AgriciDaniel/claude-seo/pull/380">Merged pull request #380</a></li><li><a href="https://github.com/AgriciDaniel/claude-seo/commit/dbcad62ecf97de412c99fde4a8f541d43217987a">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

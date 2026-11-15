@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>archify case study | Rudy Celekli</title>
+  <meta name="description" content="Returning keyboard focus after copying from Archify. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/tt-a1i/archify.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "archify · Returning keyboard focus after copying from Archify", "description": "Returning keyboard focus after copying from Archify. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/tt-a1i/archify.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "tt-a1i/archify", "codeRepository": "https://github.com/tt-a1i/archify"}, "citation": ["https://github.com/tt-a1i/archify/pull/862", "https://github.com/tt-a1i/archify/commit/fc3ad2991487c74cdc37ce459d447585aa02446b"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/tt-a1i/archify">tt-a1i/archify</a></p>
+      <h1>archify · Returning keyboard focus after copying from Archify</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>When clipboard access failed or was unavailable, the fallback selected a temporary field. Removing the field could leave keyboard focus on the document body.</p>
+      <h2>Engineering response</h2>
+      <p>The fallback remembers the focused element, removes the temporary field, and restores focus if the original element is still connected.</p>
+      <h2>Evidence and scope</h2>
+      <p>Controlled Chrome probes covered fallback success, false and exception outcomes. The merge record credits Rudy Celekli as original contributor and documents the maintainer&#x27;s later integration with Codex assistance.</p>
+      <ul><li><a href="https://github.com/tt-a1i/archify/pull/862">Merged pull request #862</a></li><li><a href="https://github.com/tt-a1i/archify/commit/fc3ad2991487c74cdc37ce459d447585aa02446b">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

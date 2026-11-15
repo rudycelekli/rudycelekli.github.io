@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>hyperframes case study | Rudy Celekli</title>
+  <meta name="description" content="Encoding Hyperframes feedback that ends at an emoji boundary. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/heygen-com/hyperframes.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "hyperframes · Encoding Hyperframes feedback that ends at an emoji boundary", "description": "Encoding Hyperframes feedback that ends at an emoji boundary. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/heygen-com/hyperframes.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "heygen-com/hyperframes", "codeRepository": "https://github.com/heygen-com/hyperframes"}, "citation": ["https://github.com/heygen-com/hyperframes/pull/5721", "https://github.com/heygen-com/hyperframes/commit/d338baf873974735e7a867fba6dac6c21747fd25"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/heygen-com/hyperframes">heygen-com/hyperframes</a></p>
+      <h1>hyperframes · Encoding Hyperframes feedback that ends at an emoji boundary</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The feedback command could truncate between two UTF-16 surrogate units. URL encoding the partial emoji then threw an exception before the issue URL was available.</p>
+      <h2>Engineering response</h2>
+      <p>The truncator removes a trailing high surrogate if its matching low surrogate was cut off, while keeping the established limits and ellipsis.</p>
+      <h2>Evidence and scope</h2>
+      <p>A focused Vitest run found two baseline failures and recorded nine passes with the correction. Complete emoji at the boundary and ordinary ASCII were included as controls.</p>
+      <ul><li><a href="https://github.com/heygen-com/hyperframes/pull/5721">Merged pull request #5721</a></li><li><a href="https://github.com/heygen-com/hyperframes/commit/d338baf873974735e7a867fba6dac6c21747fd25">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

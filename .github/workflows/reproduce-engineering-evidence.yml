@@ -5,12 +5,22 @@ on:
     branches: [main]
     paths:
       - 'engineering/reproductions/**'
+      - 'engineering/repositories/**'
+      - 'data/engineering-case-studies.json'
+      - 'scripts/render_case_studies.py'
+      - 'scripts/sync_evidence.py'
+      - 'assets/contributions.js'
       - 'docs/engineering-reproduction-lock.json'
       - 'scripts/check_reproduction_bundle.py'
       - '.github/workflows/reproduce-engineering-evidence.yml'
   pull_request:
     paths:
       - 'engineering/reproductions/**'
+      - 'engineering/repositories/**'
+      - 'data/engineering-case-studies.json'
+      - 'scripts/render_case_studies.py'
+      - 'scripts/sync_evidence.py'
+      - 'assets/contributions.js'
       - 'docs/engineering-reproduction-lock.json'
       - 'scripts/check_reproduction_bundle.py'
       - '.github/workflows/reproduce-engineering-evidence.yml'
@@ -36,3 +46,6 @@ jobs:
           python-version: '3.12'
       - name: Verify the actual published ZIP and replay without provider access
         run: python scripts/check_reproduction_bundle.py
+      - name: Verify the rendered case-study directory and contribution links
+        if: ${{ hashFiles('data/engineering-case-studies.json') != '' }}
+        run: python scripts/render_case_studies.py --check

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>sure case study | Rudy Celekli</title>
+  <meta name="description" content="Correcting the cash direction of CoinSpot trades in Sure. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/we-promise/sure.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "sure · Correcting the cash direction of CoinSpot trades in Sure", "description": "Correcting the cash direction of CoinSpot trades in Sure. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/we-promise/sure.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "we-promise/sure", "codeRepository": "https://github.com/we-promise/sure"}, "citation": ["https://github.com/we-promise/sure/pull/4985", "https://github.com/we-promise/sure/commit/badd9cf095b51d923b93465f694947aa4918874c"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/we-promise/sure">we-promise/sure</a></p>
+      <h1>sure · Correcting the cash direction of CoinSpot trades in Sure</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>CoinSpot buys were imported as cash inflows and sells as outflows. Under Sure&#x27;s balance convention, depositing 300 AUD and buying 100 AUD could therefore display 400 AUD of cash.</p>
+      <h2>Engineering response</h2>
+      <p>The order processor uses a positive amount for a buy and a negative amount for a sell. Reprocessing the same external order applies the corrected amount to its existing entry.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports a source-revert failure on the buy assertion and 42 focused Rails runs with zero failures. It also records broader suite failures reproduced on the unchanged baseline.</p>
+      <ul><li><a href="https://github.com/we-promise/sure/pull/4985">Merged pull request #4985</a></li><li><a href="https://github.com/we-promise/sure/commit/badd9cf095b51d923b93465f694947aa4918874c">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

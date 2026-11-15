@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>anatomy case study | Rudy Celekli</title>
+  <meta name="description" content="Reject star polygons at the convex prism boundary. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/wheresryan22/anatomy.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "anatomy · Reject star polygons at the convex prism boundary", "description": "Reject star polygons at the convex prism boundary. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/wheresryan22/anatomy.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "wheresryan22/anatomy", "codeRepository": "https://github.com/wheresryan22/anatomy"}, "citation": ["https://github.com/wheresryan22/anatomy/pull/74", "https://github.com/wheresryan22/anatomy/commit/4a621f88f6f5aa4e65c4de6969de0d2da5029a1f"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/wheresryan22/anatomy">wheresryan22/anatomy</a></p>
+      <h1>anatomy · Reject star polygons at the convex prism boundary</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Anatomy&#x27;s prism builder checked whether vertex turns had consistent signs. A regular star can satisfy that condition while winding twice, violating the assumptions of convex-part rendering and collision logic.</p>
+      <h2>Engineering response</h2>
+      <p>Require one complete turn around the ring and ignore repeated vertices in the turn calculation. Convex rings, collinear points and ordinary rounded rectangles retain their valid paths.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports two failing star-polygon cases on the baseline and all 30 checks passing across the relevant geometry suites. Generated examples were rebuilt with unchanged output.</p>
+      <ul><li><a href="https://github.com/wheresryan22/anatomy/pull/74">wheresryan22/anatomy merged pull request #74</a></li><li><a href="https://github.com/wheresryan22/anatomy/commit/4a621f88f6f5aa4e65c4de6969de0d2da5029a1f">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

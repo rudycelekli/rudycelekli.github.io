@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>cortexdb case study | Rudy Celekli</title>
+  <meta name="description" content="Check vector dimensions before CortexDB index training. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/liliang-cn/cortexdb.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "cortexdb · Check vector dimensions before CortexDB index training", "description": "Check vector dimensions before CortexDB index training. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/liliang-cn/cortexdb.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "liliang-cn/cortexdb", "codeRepository": "https://github.com/liliang-cn/cortexdb"}, "citation": ["https://github.com/liliang-cn/cortexdb/pull/65", "https://github.com/liliang-cn/cortexdb/commit/c7d0e62e9ab5cd0a32f8a703358bce82301fcd34"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/liliang-cn/cortexdb">liliang-cn/cortexdb</a></p>
+      <h1>cortexdb · Check vector dimensions before CortexDB index training</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>CortexDB already enforced dimensionality when adding or searching vectors. Its IVF training path could still panic on a short vector or produce centroids of the wrong width from a longer one.</p>
+      <h2>Engineering response</h2>
+      <p>Validate every training vector&#x27;s dimension before running k-means or mutating index state. The error identifies the out-of-shape input.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request records a baseline panic and passing Go package tests with short, long and nil-vector coverage. It does not report a full repository race run.</p>
+      <ul><li><a href="https://github.com/liliang-cn/cortexdb/pull/65">liliang-cn/cortexdb merged pull request #65</a></li><li><a href="https://github.com/liliang-cn/cortexdb/commit/c7d0e62e9ab5cd0a32f8a703358bce82301fcd34">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

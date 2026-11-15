@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>openclaw case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping Feishu code examples intact in OpenClaw agent context. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/openclaw/openclaw.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "openclaw · Keeping Feishu code examples intact in OpenClaw agent context", "description": "Keeping Feishu code examples intact in OpenClaw agent context. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/openclaw/openclaw.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "openclaw/openclaw", "codeRepository": "https://github.com/openclaw/openclaw"}, "citation": ["https://github.com/openclaw/openclaw/pull/171222", "https://github.com/openclaw/openclaw/commit/516eec6e5be75acb8172e8258ee3ee30c395bab6"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></p>
+      <h1>openclaw · Keeping Feishu code examples intact in OpenClaw agent context</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>An incoming Feishu code block containing triple backticks could prematurely close the Markdown wrapper. An agent then received code and unintended prose as separate pieces.</p>
+      <h2>Engineering response</h2>
+      <p>The Feishu renderer selects a fence longer than any backtick run in the message&#x27;s code, with a minimum of three.</p>
+      <h2>Evidence and scope</h2>
+      <p>The merge record documents a built Gateway with a local HTTPS Feishu fixture and signed webhook inputs. An independent parser recovered one intact code node in the corrected capture. The capture intercepted the message before model execution.</p>
+      <ul><li><a href="https://github.com/openclaw/openclaw/pull/171222">Merged pull request #171222</a></li><li><a href="https://github.com/openclaw/openclaw/commit/516eec6e5be75acb8172e8258ee3ee30c395bab6">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

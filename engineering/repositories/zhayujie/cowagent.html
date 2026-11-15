@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CowAgent case study | Rudy Celekli</title>
+  <meta name="description" content="Block shared address space in CowAgent&#x27;s URL guard. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/zhayujie/cowagent.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "CowAgent · Block shared address space in CowAgent's URL guard", "description": "Block shared address space in CowAgent's URL guard. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/zhayujie/cowagent.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "zhayujie/CowAgent", "codeRepository": "https://github.com/zhayujie/CowAgent"}, "citation": ["https://github.com/zhayujie/CowAgent/pull/3913", "https://github.com/zhayujie/CowAgent/commit/465e7feffaccb09f4513975ba3751b06a77f1398"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/zhayujie/CowAgent">zhayujie/CowAgent</a></p>
+      <h1>CowAgent · Block shared address space in CowAgent&#x27;s URL guard</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>CowAgent&#x27;s opt-in SSRF guard enumerated several private address categories. Shared IPv4 addresses in 100.64.0.0/10 could pass the checks, including an address used for a cloud instance metadata endpoint.</p>
+      <h2>Engineering response</h2>
+      <p>Require global reachability alongside the existing address checks. The guard now rejects shared addresses while keeping ordinary public IPv4 and IPv6 addresses admissible.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports eight local tests passing with the change. Reverting it caused the two new shared-address cases to fail. The tests exercise address classification.</p>
+      <ul><li><a href="https://github.com/zhayujie/CowAgent/pull/3913">zhayujie/CowAgent merged pull request #3913</a></li><li><a href="https://github.com/zhayujie/CowAgent/commit/465e7feffaccb09f4513975ba3751b06a77f1398">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

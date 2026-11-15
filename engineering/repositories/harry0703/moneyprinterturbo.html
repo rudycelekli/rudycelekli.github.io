@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MoneyPrinterTurbo case study | Rudy Celekli</title>
+  <meta name="description" content="Generate from prepared video assets without an LLM credential. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/harry0703/moneyprinterturbo.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "MoneyPrinterTurbo · Generate from prepared video assets without an LLM credential", "description": "Generate from prepared video assets without an LLM credential. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/harry0703/moneyprinterturbo.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "harry0703/MoneyPrinterTurbo", "codeRepository": "https://github.com/harry0703/MoneyPrinterTurbo"}, "citation": ["https://github.com/harry0703/MoneyPrinterTurbo/pull/1608", "https://github.com/harry0703/MoneyPrinterTurbo/commit/dc4abd2d3844ed5da8ef589bb5b035eba9c542c0"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/harry0703/MoneyPrinterTurbo">harry0703/MoneyPrinterTurbo</a></p>
+      <h1>MoneyPrinterTurbo · Generate from prepared video assets without an LLM credential</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>MoneyPrinterTurbo&#x27;s setup helper required LLM credentials for callers who already supplied narration and either local footage or stock-search terms. Those inputs already bypass the corresponding text-generation steps.</p>
+      <h2>Engineering response</h2>
+      <p>Inspect the effective script and terms options before deciding whether to ask for an LLM credential. Keep the material-provider checks that the selected asset path still needs.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports three baseline failures, a missing-terms control and 54 passing helper tests. A CLI import test was deselected because optional media dependencies were absent. No live video generation was exercised.</p>
+      <ul><li><a href="https://github.com/harry0703/MoneyPrinterTurbo/pull/1608">harry0703/MoneyPrinterTurbo merged pull request #1608</a></li><li><a href="https://github.com/harry0703/MoneyPrinterTurbo/commit/dc4abd2d3844ed5da8ef589bb5b035eba9c542c0">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

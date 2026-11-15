@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>hermes-agent case study | Rudy Celekli</title>
+  <meta name="description" content="Revalidating worktree state before Hermes cleanup. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/nousresearch/hermes-agent.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "hermes-agent · Revalidating worktree state before Hermes cleanup", "description": "Revalidating worktree state before Hermes cleanup. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/nousresearch/hermes-agent.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "NousResearch/hermes-agent", "codeRepository": "https://github.com/NousResearch/hermes-agent"}, "citation": ["https://github.com/NousResearch/hermes-agent/commit/31194ea00e2469f5507cf921ea6d1fd8f458c5c0", "https://github.com/NousResearch/hermes-agent/commit/1c78e721bc2d93169316460b8ef9f8eb804eb3fc", "https://github.com/NousResearch/hermes-agent/commit/447b9ee7d67e1ddfbb9ac0cc11f3ea9290ba2906"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/NousResearch/hermes-agent">NousResearch/hermes-agent</a></p>
+      <h1>hermes-agent · Revalidating worktree state before Hermes cleanup</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Worktree state can change between checking it and actually removing it. Cleanup needs to keep its decision tied to the current worktree state at the point the potentially destructive action runs.</p>
+      <h2>Engineering response</h2>
+      <p>The attributed Hermes commit revalidates cleanup gates before removing a worktree. Other upstream commits by the same contributor reject nonstandard JSON before file writes and reject negative retention before pruning backups.</p>
+      <h2>Evidence and scope</h2>
+      <p>The default-branch commit records establish the source changes and include their cherry-pick provenance. This case documents the guard and leaves production usage unmeasured.</p>
+      <ul><li><a href="https://github.com/NousResearch/hermes-agent/commit/31194ea00e2469f5507cf921ea6d1fd8f458c5c0">Attributed upstream commit 31194ea00e24</a></li><li><a href="https://github.com/NousResearch/hermes-agent/commit/1c78e721bc2d93169316460b8ef9f8eb804eb3fc">Attributed upstream commit 1c78e721bc2d</a></li><li><a href="https://github.com/NousResearch/hermes-agent/commit/447b9ee7d67e1ddfbb9ac0cc11f3ea9290ba2906">Attributed upstream commit 447b9ee7d67e</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

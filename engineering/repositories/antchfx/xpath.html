@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>xpath case study | Rudy Celekli</title>
+  <meta name="description" content="Counting the actual following-axis nodes in XPath. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/antchfx/xpath.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "xpath · Counting the actual following-axis nodes in XPath", "description": "Counting the actual following-axis nodes in XPath. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/antchfx/xpath.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "antchfx/xpath", "codeRepository": "https://github.com/antchfx/xpath"}, "citation": ["https://github.com/antchfx/xpath/pull/188", "https://github.com/antchfx/xpath/commit/d2ed292460c4db515f4d245a9442ee49d7c7fd54"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/antchfx/xpath">antchfx/xpath</a></p>
+      <h1>xpath · Counting the actual following-axis nodes in XPath</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The last() predicate counted siblings of a candidate node even when the expression selected through the following or following-sibling axis. That count could prevent the final matching node from being returned.</p>
+      <h2>Engineering response</h2>
+      <p>The following query supplies the positional filter with the size of its own selected node set, cached for the current context node.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports an axis-specific mutation that reproduces the incorrect result, passing Go tests and agreement with lxml on a separate XML fixture.</p>
+      <ul><li><a href="https://github.com/antchfx/xpath/pull/188">Merged pull request #188</a></li><li><a href="https://github.com/antchfx/xpath/commit/d2ed292460c4db515f4d245a9442ee49d7c7fd54">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

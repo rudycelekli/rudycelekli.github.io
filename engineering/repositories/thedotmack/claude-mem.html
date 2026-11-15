@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>claude-mem case study | Rudy Celekli</title>
+  <meta name="description" content="Restore project merges when importing memory. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/thedotmack/claude-mem.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "claude-mem · Restore project merges when importing memory", "description": "Restore project merges when importing memory. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/thedotmack/claude-mem.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "thedotmack/claude-mem", "codeRepository": "https://github.com/thedotmack/claude-mem"}, "citation": ["https://github.com/thedotmack/claude-mem/pull/5471", "https://github.com/thedotmack/claude-mem/commit/56981ea00d603fcbf9298f5c8943a22ea061a0ec"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a></p>
+      <h1>claude-mem · Restore project merges when importing memory</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A claude-mem export retained the destination project of merged observations and session summaries. The import dropped that link, so restored records disappeared from searches and context scoped to the merged project.</p>
+      <h2>Engineering response</h2>
+      <p>Persist the merge destination on both imported row types and invalidate context for the destination project. Keep that mutable field outside the matching logic so an earlier export still matches a record that has since moved.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a failing regression on the original import path, followed by 352 passing tests across SQLite, project merge, context caching and semantic persistence.</p>
+      <ul><li><a href="https://github.com/thedotmack/claude-mem/pull/5471">thedotmack/claude-mem merged pull request #5471</a></li><li><a href="https://github.com/thedotmack/claude-mem/commit/56981ea00d603fcbf9298f5c8943a22ea061a0ec">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

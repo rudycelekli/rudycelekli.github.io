@@ -20,6 +20,13 @@
     headers: Array.from(document.querySelectorAll("th[data-sort]")),
   };
 
+  const caseLinks = new Map(
+    Array.from(elements.body.querySelectorAll(".repository-case-link"), (link) => [
+      link.closest("th").querySelector(".project-link").href,
+      link.outerHTML,
+    ])
+  );
+
   const format = new Intl.NumberFormat("en-US");
   const compact = new Intl.NumberFormat("en-US", { notation: "compact", maximumFractionDigits: 1 });
 
@@ -84,6 +91,7 @@
       <th scope="row">
         <a class="project-link" href="${row.url}">${row.name}</a>
         <a class="evidence-link" href="${evidenceLink(row)}">${row.verification_label} ↗</a>
+        ${caseLinks.get(row.url) || ""}
       </th>
       <td data-label="API rank">${rank}</td>
       <td data-label="Merged PRs"><a href="${row.pull_requests_url}">${format.format(row.merged_pull_requests)}</a></td>

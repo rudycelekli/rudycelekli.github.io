@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>utopia case study | Rudy Celekli</title>
+  <meta name="description" content="Interpret numeric weekdays consistently in Utopia schedules. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/deeplethe/utopia.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "utopia · Interpret numeric weekdays consistently in Utopia schedules", "description": "Interpret numeric weekdays consistently in Utopia schedules. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/deeplethe/utopia.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "deeplethe/utopia", "codeRepository": "https://github.com/deeplethe/utopia"}, "citation": ["https://github.com/deeplethe/utopia/pull/1399", "https://github.com/deeplethe/utopia/commit/daeba7583b52d3f1265e091bd20b016596e96c84"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/deeplethe/utopia">deeplethe/utopia</a></p>
+      <h1>utopia · Interpret numeric weekdays consistently in Utopia schedules</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The Advanced scheduling field advertised standard cron while the evaluation library mapped numeric weekdays differently. An expression entered as Monday through Friday could fire Sunday through Thursday.</p>
+      <h2>Engineering response</h2>
+      <p>Normalize numeric weekday expressions to named weekdays using standard cron semantics before storing new values. Previously stored numeric expressions keep their original behavior until resaved.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a baseline Sunday firing and a corrected Monday firing in an isolated Rust fixture pinned to the scheduler library. It does not report a full workspace build.</p>
+      <ul><li><a href="https://github.com/deeplethe/utopia/pull/1399">deeplethe/utopia merged pull request #1399</a></li><li><a href="https://github.com/deeplethe/utopia/commit/daeba7583b52d3f1265e091bd20b016596e96c84">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://rudycelekli.github.io/contributions.html</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -54,9 +54,156 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url><loc>https://rudycelekli.github.io/engineering/</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rudycelekli.github.io/engineering/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rudycelekli.github.io/engineering/vitest-execution-evidence.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rudycelekli.github.io/engineering/git-physical-line-boundaries.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rudycelekli.github.io/engineering/review-score-validation.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rudycelekli.github.io/engineering/android-sparse-image-integrity.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- repository case studies -->
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/addyosmani/agent-skills.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ag-ui-protocol/ag-ui.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/agno-agi/agno.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/agricidaniel/claude-seo.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ai-job-search-dev/ai-job-search.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/aindeev/agent-chrome-relay.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/akitaonrails/ai-memory.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/anil-matcha/suparagent.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/anmolkapil/plexo.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/antchfx/htmlquery.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/antchfx/jsonquery.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/antchfx/xmlquery.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/antchfx/xpath.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/areal-project/areal.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/astrbotdevs/astrbot.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/asymptote-labs/agent-beacon.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/backnotprop/plannotator.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/bee-san/ciphey.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/bee-san/pywhat.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/bee-san/rustscan.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/beenuar/aisoc.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/benbjohnson/litestream.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/bilawalsidhu/gods-eye-view.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/cathrynlavery/diagram-design.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/chunkhound/chunkhound.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/copilotkit/openbot.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/coreyhaines31/marketingskills.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/cursor/plugins.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/debpalash/opengtm.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/debpalash/voicestudio.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/deeplethe/utopia.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/dosco/graphjin.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/e2e-inc/e2e.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/earthtojake/text-to-cad.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/fabio-rovai/open-ontologies.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/facebookresearch/swe-sweep.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/facelessuser/wcmatch.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/go-resty/resty.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/google-deepmind/concordia.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/google-research/harness2.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/google-research/timesfm.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/graphicle-ai/graphicle.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/graphify-labs/graphify.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/harbor-framework/terminal-bench-science.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/harnessrouter/harnessrouter.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/harry0703/moneyprinterturbo.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/haydenschmitty/floorplan.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/headroomlabs-ai/headroom.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/helixdb/helix-foundry.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/heygen-com/hyperframes.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/hkuds/deeptutor.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/hkuds/nanobot.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/hkuds/vibe-trading.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ifixai-ai/ifixai.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/jaredwray/cacheable.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/jetbrains/thinkrail.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/justvugg/colibri.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/kenn-io/agentsview.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/kentucky-ai/opentakeoff.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar-paper.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/lightpanda-io/browser.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/lightseekorg/tokenspeed.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/liliang-cn/cortexdb.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/liseami/ccbaga.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/lz4/lz4.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/mark3labs/mcp-go.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/max-sixty/worktrunk.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/maziyarpanahi/openmed.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/milind-soni/openmausbot.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/mohit67890/imajev.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/morluto/jacobian.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/morluto/leantoken.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/morluto/rea.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/msitarzewski/agency-agents.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/mvschwarz/openrig.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/nationalsecurityagency/ghidra.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/nousresearch/hermes-agent.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/nutlope/hallmark.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/open-compass/vlmevalkit.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/openclaw/goplaces.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/openclaw/mcporter.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/openclaw/openclaw.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/openclaw/peekaboo.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/openmontageinc/openmontage.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/opensandbox-group/opensandbox.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/orestbida/cookieconsent.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/panniantong/agent-reach.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/paperclipai/paperclip.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/proffesor-for-testing/agentic-qe.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/raphaelmansuy/edgequake.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/retentioneering/retentioneering-tools.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rociiu/talorys.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/agntcs-marketing-assets.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/ai-movie-maker.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/bolt-generated-project.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/code-transplant.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/effinai.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/es-atlas.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/ghostpart.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-blocks.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-guard.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-lens.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-range.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-reward-loop.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-universes-work-sample.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/gradia-wind-tunnel.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/kin-connect.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/kya-evidence.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/lifeweave.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/mcpsnitch.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/nabrix-waitlist.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/nerve.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/open-teammates.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/proofseal.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/rcode.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/regentics-landing.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/rudycelekli.github.io.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/scrapmind.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/sponsorline.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/swarmwatch.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/testlore.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/rudycelekli/the-value-engine-benchmark.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ruvnet/ruflo.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/ruvnet/ruvector.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/smart-mcp-proxy/mcpproxy-go.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/softeria/ms-365-mcp-server.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/steipete/poltergeist.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/storytold/craft-anything.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/sumanth077/hands-on-ai-engineering.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/tencent/weknora.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/the-pr-agent/pr-agent.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/thedotmack/claude-mem.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/thysrael/horizon.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/tigerless-labs/agent-memory.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/tigerless-labs/autoharness.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/tigerless-labs/cost-xray.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/truefoundry/trueforge.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/tt-a1i/archify.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/vectorize-io/hindsight.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/we-promise/sure.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/wheresryan22/anatomy.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/xerj-org/xerj.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/yeachan-heo/oh-my-claudecode.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/yutto-dev/yutto.html</loc></url>
+  <url><loc>https://rudycelekli.github.io/engineering/repositories/zhayujie/cowagent.html</loc></url>
 </urlset>

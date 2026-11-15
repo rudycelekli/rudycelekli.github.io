@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>graphjin case study | Rudy Celekli</title>
+  <meta name="description" content="Discover inherited OpenAPI response fields in GraphJin. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/dosco/graphjin.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "graphjin · Discover inherited OpenAPI response fields in GraphJin", "description": "Discover inherited OpenAPI response fields in GraphJin. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/dosco/graphjin.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "dosco/graphjin", "codeRepository": "https://github.com/dosco/graphjin"}, "citation": ["https://github.com/dosco/graphjin/pull/691", "https://github.com/dosco/graphjin/commit/03389487d83dd68647da9980bcf73dc7efb2cc84"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/dosco/graphjin">dosco/graphjin</a></p>
+      <h1>graphjin · Discover inherited OpenAPI response fields in GraphJin</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>GraphJin&#x27;s OpenAPI introspection saw direct declarations but could miss fields inherited through allOf. Composed objects and array-item schemas could lose discoverable columns or result paths.</p>
+      <h2>Engineering response</h2>
+      <p>Combine the relevant schema constraints across composition branches and reuse the resolved view for queries and mutations. Leave the loaded component schemas intact.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports a before-and-after regression for composed array items and passing OpenAPI package checks with the race detector. HTTP fixtures cover result extraction and component immutability.</p>
+      <ul><li><a href="https://github.com/dosco/graphjin/pull/691">dosco/graphjin merged pull request #691</a></li><li><a href="https://github.com/dosco/graphjin/commit/03389487d83dd68647da9980bcf73dc7efb2cc84">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

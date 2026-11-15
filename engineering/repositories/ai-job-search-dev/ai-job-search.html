@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ai-job-search case study | Rudy Celekli</title>
+  <meta name="description" content="Keep hidden markup out of job-research text extraction. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/ai-job-search-dev/ai-job-search.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "ai-job-search · Keep hidden markup out of job-research text extraction", "description": "Keep hidden markup out of job-research text extraction. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/ai-job-search-dev/ai-job-search.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "ai-job-search-dev/ai-job-search", "codeRepository": "https://github.com/ai-job-search-dev/ai-job-search"}, "citation": ["https://github.com/ai-job-search-dev/ai-job-search/pull/764", "https://github.com/ai-job-search-dev/ai-job-search/commit/aca2ab9b3676ea8073e846a410d8b65d42b57e90"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/ai-job-search-dev/ai-job-search">ai-job-search-dev/ai-job-search</a></p>
+      <h1>ai-job-search · Keep hidden markup out of job-research text extraction</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The job research retry could expose text from an HTML template or an unclosed script block to its agent context. A truncated fetch was enough to surface text a browser would not display.</p>
+      <h2>Engineering response</h2>
+      <p>Reuse the posting guard&#x27;s hidden-block handling in the text-extraction path. Treat an unclosed hidden block as extending to the end of the input and keep visible text after properly closed blocks.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request records a failing-then-passing extraction regression and 837 local tests passing with 30 skips. It separately reports four hosted CLI typecheck failures on unchanged code.</p>
+      <ul><li><a href="https://github.com/ai-job-search-dev/ai-job-search/pull/764">ai-job-search-dev/ai-job-search merged pull request #764</a></li><li><a href="https://github.com/ai-job-search-dev/ai-job-search/commit/aca2ab9b3676ea8073e846a410d8b65d42b57e90">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

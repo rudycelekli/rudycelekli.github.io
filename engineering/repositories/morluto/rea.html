@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>rea case study | Rudy Celekli</title>
+  <meta name="description" content="Honor the declared ELF header boundary in rea. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/morluto/rea.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "rea · Honor the declared ELF header boundary in rea", "description": "Honor the declared ELF header boundary in rea. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/morluto/rea.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "morluto/rea", "codeRepository": "https://github.com/morluto/rea"}, "citation": ["https://github.com/morluto/rea/pull/10133", "https://github.com/morluto/rea/commit/4505477903cf502310c68cd63ea4c9ef576a541a"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/morluto/rea">morluto/rea</a></p>
+      <h1>rea · Honor the declared ELF header boundary in rea</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>rea checked table offsets against the minimum header size for the ELF class. An ELF file with an extended declared header could point a program or section table back into those header bytes and still be admitted.</p>
+      <h2>Engineering response</h2>
+      <p>Compare each populated table&#x27;s offset with the validated declared header size. Preserve acceptance when a table starts at or beyond the header boundary.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports four regressions failing on the original code and all 19 tests in the declared-range suite passing afterward. Fixtures cover ELF32, ELF64 and both byte orders.</p>
+      <ul><li><a href="https://github.com/morluto/rea/pull/10133">morluto/rea merged pull request #10133</a></li><li><a href="https://github.com/morluto/rea/commit/4505477903cf502310c68cd63ea4c9ef576a541a">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

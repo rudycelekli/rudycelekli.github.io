@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenMontage case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping usable OpenMontage assets in a size-limited cache. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/openmontageinc/openmontage.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "OpenMontage · Keeping usable OpenMontage assets in a size-limited cache", "description": "Keeping usable OpenMontage assets in a size-limited cache. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/openmontageinc/openmontage.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "OpenMontageInc/OpenMontage", "codeRepository": "https://github.com/OpenMontageInc/OpenMontage"}, "citation": ["https://github.com/OpenMontageInc/OpenMontage/pull/785", "https://github.com/OpenMontageInc/OpenMontage/commit/c18d6419adce7fcc933a799ea379ea02b3d5df13"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/OpenMontageInc/OpenMontage">OpenMontageInc/OpenMontage</a></p>
+      <h1>OpenMontage · Keeping usable OpenMontage assets in a size-limited cache</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A generated image larger than the entire cache could push out every smaller asset and still leave the cache over its configured limit.</p>
+      <h2>Engineering response</h2>
+      <p>The cache checks the size of a new entry before least-recently-used eviction. Diagram generation can still return the valid image because cache admission is optional.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports a local Pillow diagram reproduction with a 512-byte cache, a roughly 2.4 kB output and a previously cached 76-byte image. The corrected path preserves both the generated output and the cached image. The checks ran offline.</p>
+      <ul><li><a href="https://github.com/OpenMontageInc/OpenMontage/pull/785">Merged pull request #785</a></li><li><a href="https://github.com/OpenMontageInc/OpenMontage/commit/c18d6419adce7fcc933a799ea379ea02b3d5df13">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

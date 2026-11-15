@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenBot case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving shared OAuth registrations across OpenBot replicas. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/copilotkit/openbot.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "OpenBot · Preserving shared OAuth registrations across OpenBot replicas", "description": "Preserving shared OAuth registrations across OpenBot replicas. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/copilotkit/openbot.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "CopilotKit/OpenBot", "codeRepository": "https://github.com/CopilotKit/OpenBot"}, "citation": ["https://github.com/CopilotKit/OpenBot/pull/922", "https://github.com/CopilotKit/OpenBot/commit/aa332bc443e6358b1d6a8d8f469a92efa19913de"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/CopilotKit/OpenBot">CopilotKit/OpenBot</a></p>
+      <h1>OpenBot · Preserving shared OAuth registrations across OpenBot replicas</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A replica unable to decrypt an OAuth client could interpret the read fault as absence and register a replacement. Changing the shared pointer made the existing client unavailable to a healthy replica.</p>
+      <h2>Engineering response</h2>
+      <p>Both reads, including the one inside the registration lock, distinguish typed credential-read faults and stop before registration. The connection route records a durable audit event and returns a retryable 503.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR describes controls with real encrypted rows and different keys, plus database route tests. The candidate preserved the existing pointer and made zero vendor registrations in the fault cases.</p>
+      <ul><li><a href="https://github.com/CopilotKit/OpenBot/pull/922">Merged pull request #922</a></li><li><a href="https://github.com/CopilotKit/OpenBot/commit/aa332bc443e6358b1d6a8d8f469a92efa19913de">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

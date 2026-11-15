@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RustScan case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving TOML and script metadata semantics in RustScan. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/bee-san/rustscan.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "RustScan · Preserving TOML and script metadata semantics in RustScan", "description": "Preserving TOML and script metadata semantics in RustScan. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/bee-san/rustscan.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "bee-san/RustScan", "codeRepository": "https://github.com/bee-san/RustScan"}, "citation": ["https://github.com/bee-san/RustScan/pull/964", "https://github.com/bee-san/RustScan/pull/962", "https://github.com/bee-san/RustScan/commit/521f8bf720bcb14338a02762bab946c816bc0ca8"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/bee-san/RustScan">bee-san/RustScan</a></p>
+      <h1>RustScan · Preserving TOML and script metadata semantics in RustScan</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Documented lowercase script modes were rejected by the config reader. The script metadata reader also removed every hash from a line, changing values such as language tags and URL fragments.</p>
+      <h2>Engineering response</h2>
+      <p>The parser accepts documented lowercase aliases alongside the existing variant names and continues to reject unknown strings. Script metadata extraction removes only the leading comment marker, leaving embedded punctuation for TOML to interpret.</p>
+      <h2>Evidence and scope</h2>
+      <p>The config PR exercises the public Config::read path through temporary files and reports a baseline where the three lowercase cases fail. The metadata PR uses the real parser with a temporary fixture and checks the complete command-format string without executing it or scanning a network.</p>
+      <ul><li><a href="https://github.com/bee-san/RustScan/pull/964">Merged upstream PR #964</a></li><li><a href="https://github.com/bee-san/RustScan/pull/962">Merged upstream PR #962</a></li><li><a href="https://github.com/bee-san/RustScan/commit/521f8bf720bcb14338a02762bab946c816bc0ca8">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

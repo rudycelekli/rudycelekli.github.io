@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>paperclip case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping unread agent comments visible in Paperclip inboxes. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/paperclipai/paperclip.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "paperclip · Keeping unread agent comments visible in Paperclip inboxes", "description": "Keeping unread agent comments visible in Paperclip inboxes. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/paperclipai/paperclip.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "paperclipai/paperclip", "codeRepository": "https://github.com/paperclipai/paperclip"}, "citation": ["https://github.com/paperclipai/paperclip/commit/45e91f097cdfcb7c7cb7ed879dca47a5a207d856", "https://github.com/paperclipai/paperclip/pull/15085", "https://github.com/paperclipai/paperclip/actions/runs/41525545915"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/paperclipai/paperclip">paperclipai/paperclip</a></p>
+      <h1>paperclip · Keeping unread agent comments visible in Paperclip inboxes</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>New comments moved an assigned issue forward in recency sorting. By reusing that issue update time as a fallback read receipt, Paperclip could treat the arriving comment as already read and hide it from an assignee&#x27;s unread inbox.</p>
+      <h2>Engineering response</h2>
+      <p>The maintainer ported the original fix onto the current branch with explicit contributor credit. It uses creation time for the assignee&#x27;s initial read boundary, preserves explicit read receipts and excludes deleted external comments from unread calculations.</p>
+      <h2>Evidence and scope</h2>
+      <p>The upstream commit describes native PostgreSQL regressions for real comment writes, later assignment and deleted comments. It reports 41 focused tests passing on the frozen head and successful hosted build, typecheck and end-to-end shards. The original PR remains separately linked as provenance.</p>
+      <ul><li><a href="https://github.com/paperclipai/paperclip/commit/45e91f097cdfcb7c7cb7ed879dca47a5a207d856">Credited upstream maintainer port 45e91f097cdf</a></li><li><a href="https://github.com/paperclipai/paperclip/pull/15085">Original contribution PR #15085</a></li><li><a href="https://github.com/paperclipai/paperclip/actions/runs/41525545915">Hosted verification for the port</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

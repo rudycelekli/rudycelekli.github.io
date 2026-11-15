@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenMausBot case study | Rudy Celekli</title>
+  <meta name="description" content="Protecting spreadsheet export semantics and encoded secrets. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/milind-soni/openmausbot.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "OpenMausBot · Protecting spreadsheet export semantics and encoded secrets", "description": "Protecting spreadsheet export semantics and encoded secrets. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/milind-soni/openmausbot.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "milind-soni/OpenMausBot", "codeRepository": "https://github.com/milind-soni/OpenMausBot"}, "citation": ["https://github.com/milind-soni/OpenMausBot/pull/4148", "https://github.com/milind-soni/OpenMausBot/pull/4147", "https://github.com/milind-soni/OpenMausBot/commit/e34d06da821a4cb21b79125a191c113882ae3e55"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a></p>
+      <h1>OpenMausBot · Protecting spreadsheet export semantics and encoded secrets</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A conservative CSV formula guard also escaped valid signed numbers, turning negative amounts into spreadsheet text. The secret scrubber missed some form-encoded spellings of held passwords because browser form serialization escapes several characters that encodeURIComponent leaves intact.</p>
+      <h2>Engineering response</h2>
+      <p>The CSV serializer preserves plain signed numeric cells while escaping formula-like expressions. The login vault adds the spelling produced by URLSearchParams to its scrubber candidates, covering cases such as a held secret containing an exclamation mark represented as %21.</p>
+      <h2>Evidence and scope</h2>
+      <p>The linked regressions target the table CSV path and the login scrubber. The CSV test retains a formula control, and the masking PR includes an encoding example that distinguishes browser form serialization from URI component encoding.</p>
+      <ul><li><a href="https://github.com/milind-soni/OpenMausBot/pull/4148">Merged upstream PR #4148</a></li><li><a href="https://github.com/milind-soni/OpenMausBot/pull/4147">Merged upstream PR #4147</a></li><li><a href="https://github.com/milind-soni/OpenMausBot/commit/e34d06da821a4cb21b79125a191c113882ae3e55">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

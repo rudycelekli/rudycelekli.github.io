@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>floorplan case study | Rudy Celekli</title>
+  <meta name="description" content="Mapping routes through real framework boundaries in Floorplan. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/haydenschmitty/floorplan.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "floorplan · Mapping routes through real framework boundaries in Floorplan", "description": "Mapping routes through real framework boundaries in Floorplan. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/haydenschmitty/floorplan.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "haydenschmitty/floorplan", "codeRepository": "https://github.com/haydenschmitty/floorplan"}, "citation": ["https://github.com/haydenschmitty/floorplan/pull/65", "https://github.com/haydenschmitty/floorplan/pull/62", "https://github.com/haydenschmitty/floorplan/pull/58", "https://github.com/haydenschmitty/floorplan/commit/58becb3104b4776c13d0902f0b579db69e0d4b44"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/haydenschmitty/floorplan">haydenschmitty/floorplan</a></p>
+      <h1>floorplan · Mapping routes through real framework boundaries in Floorplan</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A codebase map can make incorrect inferences if it mistakes syntax for evidence. Floorplan lost Hono routes after reading a wildcard inside a string as a comment. Django child routes lost their mount prefix, while Express checks could leak from one route into the next.</p>
+      <h2>Engineering response</h2>
+      <p>The changes preserve source positions while recognizing quoted strings, interpret Django include calls as mounts, and scope each Express middleware scan to that route call. Where the route uses a separately named handler, the extractor excludes the handler from the middleware list.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PRs include fixtures with a Hono wildcard, a Django orders mount, and Express routes using named handlers. The recorded outputs show the affected routes appearing and the Express fixture identifying its actual unchecked routes. This evidence concerns static extraction from those fixtures.</p>
+      <ul><li><a href="https://github.com/haydenschmitty/floorplan/pull/65">Merged upstream PR #65</a></li><li><a href="https://github.com/haydenschmitty/floorplan/pull/62">Merged upstream PR #62</a></li><li><a href="https://github.com/haydenschmitty/floorplan/pull/58">Merged upstream PR #58</a></li><li><a href="https://github.com/haydenschmitty/floorplan/commit/58becb3104b4776c13d0902f0b579db69e0d4b44">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

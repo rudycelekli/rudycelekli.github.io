@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>colibri case study | Rudy Celekli</title>
+  <meta name="description" content="Isolate simultaneous model download jobs in Colibri. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/justvugg/colibri.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "colibri · Isolate simultaneous model download jobs in Colibri", "description": "Isolate simultaneous model download jobs in Colibri. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/justvugg/colibri.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "JustVugg/colibri", "codeRepository": "https://github.com/JustVugg/colibri"}, "citation": ["https://github.com/JustVugg/colibri/pull/2560", "https://github.com/JustVugg/colibri/commit/d1f60f3d76e28e524791a28adee3556c9001bf88"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/JustVugg/colibri">JustVugg/colibri</a></p>
+      <h1>colibri · Isolate simultaneous model download jobs in Colibri</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A millisecond timestamp served as a model download&#x27;s job ID. When two jobs started in the same millisecond, the second registry entry displaced the first and cancellation could target the wrong worker.</p>
+      <h2>Engineering response</h2>
+      <p>Give each download a separate UUID while retaining the timestamp for display and sorting. The existing cancellation route accepts the resulting hex identifiers.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request records two failing-then-passing regressions covering the real local HTTP path and 64 concurrent job registrations on a fixed clock. It reports 28 passing UI gateway tests and one skip, using synthetic download metadata.</p>
+      <ul><li><a href="https://github.com/JustVugg/colibri/pull/2560">JustVugg/colibri merged pull request #2560</a></li><li><a href="https://github.com/JustVugg/colibri/commit/d1f60f3d76e28e524791a28adee3556c9001bf88">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

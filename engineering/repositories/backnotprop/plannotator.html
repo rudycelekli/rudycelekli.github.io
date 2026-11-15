@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>plannotator case study | Rudy Celekli</title>
+  <meta name="description" content="Opening a review note without accidentally posting the decision. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/backnotprop/plannotator.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "plannotator · Opening a review note without accidentally posting the decision", "description": "Opening a review note without accidentally posting the decision. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/backnotprop/plannotator.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "backnotprop/plannotator", "codeRepository": "https://github.com/backnotprop/plannotator"}, "citation": ["https://github.com/backnotprop/plannotator/pull/3210", "https://github.com/backnotprop/plannotator/commit/2037be0e76c4b9ea5c32b2c595aad427430c3471"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/backnotprop/plannotator">backnotprop/plannotator</a></p>
+      <h1>plannotator · Opening a review note without accidentally posting the decision</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Plannotator used Mod+Shift+Enter to open a note in plan review, but code review shared the primary submit handler without inspecting Shift. A reviewer following that shortcut could post an irreversible decision before entering the note.</p>
+      <h2>Engineering response</h2>
+      <p>The review editor registers the note action and routes the shifted chord to the composer. The unshifted shortcut remains associated with the primary decision.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR records a DOM regression that detects a submitted decision on the baseline and expects an open composer with no submission on the repaired path. The case covers the editor&#x27;s keyboard behavior.</p>
+      <ul><li><a href="https://github.com/backnotprop/plannotator/pull/3210">Merged upstream PR #3210</a></li><li><a href="https://github.com/backnotprop/plannotator/commit/2037be0e76c4b9ea5c32b2c595aad427430c3471">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>
