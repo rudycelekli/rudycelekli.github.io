@@ -255,6 +255,8 @@ def full_context(evidence: dict) -> str:
         "",
         "Case studies explain specific accepted upstream changes, with immutable sources, "
         "validation provenance and limitations: " + CANONICAL + "/engineering/.",
+        "Repository case-study directory and structured source map: " + CANONICAL
+        + "/engineering/#repository-studies ; " + CANONICAL + "/data/engineering-case-studies.json .",
         "Primary attribution and merge records: "
         "https://github.com/The-PR-Agent/pr-agent/pull/4668 ; "
         "https://github.com/The-PR-Agent/pr-agent/pull/4669 ; "
@@ -374,7 +376,7 @@ def atom_feed(evidence: dict, limit: int = 50) -> str:
     return "\n".join(rows) + "\n"
 
 
-def explorer_snapshot(evidence: dict, template: str) -> str:
+def explorer_snapshot(evidence: dict, template: str, case_links: dict | None = None) -> str:
     """Publish the same ledger before client-side enhancement or network access."""
     def replace(pattern: str, value: str) -> None:
         nonlocal template
@@ -403,16 +405,22 @@ def explorer_snapshot(evidence: dict, template: str) -> str:
                           0.2 * ratio(row["repository_stars"], max_stars)) + 0.5)
         scored.append((score, row))
     rendered = []
+    case_links = case_links or {}
     for score, row in sorted(scored, key=lambda item: (-item[0], item[1]["name"].lower())):
         tier = row["verification_tier"]
         proof = (row.get("contributors_url") if tier == "github_listed_contributor" else
                  row.get("commits_url") if tier == "default_branch_commit_verified" else
                  row.get("pull_requests_url") or row["url"])
         rank = "#" + number(row["contributor_rank"]) if row.get("contributor_rank") else "—"
+        case_url = case_links.get(row["full_name"])
+        case_link = (
+            f'<a class="evidence-link repository-case-link" href="{html.escape(case_url)}">Case study</a>'
+            if case_url else ""
+        )
         rendered.append(
             '<tr data-evidence-snapshot="true"><th scope="row">'
             f'<a class="project-link" href="{link(row["url"])}">{html.escape(row["name"])}</a>'
-            f'<a class="evidence-link" href="{link(proof)}">{html.escape(row["verification_label"])} ↗</a></th>'
+            f'<a class="evidence-link" href="{link(proof)}">{html.escape(row["verification_label"])} ↗</a>{case_link}</th>'
             f'<td data-label="API rank">{rank}</td>'
             f'<td data-label="Merged PRs"><a href="{link(row["pull_requests_url"])}">{number(row["merged_pull_requests"])}</a></td>'
             f'<td data-label="Commits">{number(row["attributed_commits"])}</td>'
@@ -464,8 +472,12 @@ def write_outputs(evidence: dict, output_dir: pathlib.Path) -> None:
     (output_dir / "feed.xml").write_text(atom_feed(evidence), encoding="utf-8")
     explorer = output_dir / "contributions.html"
     if explorer.exists():
-        explorer.write_text(explorer_snapshot(evidence, explorer.read_text(encoding="utf-8")),
-                            encoding="utf-8")
+        from render_case_studies import case_links
+
+        explorer.write_text(
+            explorer_snapshot(evidence, explorer.read_text(encoding="utf-8"), case_links(output_dir)),
+            encoding="utf-8",
+        )
 
 
 def main() -> None:

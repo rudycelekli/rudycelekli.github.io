@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>headroom case study | Rudy Celekli</title>
+  <meta name="description" content="Removing provider outages from Headroom answer scores. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/headroomlabs-ai/headroom.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "headroom · Removing provider outages from Headroom answer scores", "description": "Removing provider outages from Headroom answer scores. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/headroomlabs-ai/headroom.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "headroomlabs-ai/headroom", "codeRepository": "https://github.com/headroomlabs-ai/headroom"}, "citation": ["https://github.com/headroomlabs-ai/headroom/pull/4503", "https://github.com/headroomlabs-ai/headroom/commit/364c59544c0e27351e1bfaa91ed506f4d047d8d7"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/headroomlabs-ai/headroom">headroomlabs-ai/headroom</a></p>
+      <h1>headroom · Removing provider outages from Headroom answer scores</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Evaluation paths converted provider exceptions to ordinary answer strings. Two identical error messages could score as a perfect match, and a diagnostic that named the expected answer could receive credit.</p>
+      <h2>Engineering response</h2>
+      <p>Failed calls now populate the existing error state and bypass answer scoring and judge evaluation. A successful response containing the literal text ERROR remains eligible for normal scoring.</p>
+      <h2>Evidence and scope</h2>
+      <p>The documented baseline awarded 2 of 2 cases in each affected evaluator. After the change, a controlled failure and one valid response correctly produced 1 of 2. The figures are fixture results.</p>
+      <ul><li><a href="https://github.com/headroomlabs-ai/headroom/pull/4503">Merged pull request #4503</a></li><li><a href="https://github.com/headroomlabs-ai/headroom/commit/364c59544c0e27351e1bfaa91ed506f4d047d8d7">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

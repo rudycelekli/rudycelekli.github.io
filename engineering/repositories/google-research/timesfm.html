@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>timesfm case study | Rudy Celekli</title>
+  <meta name="description" content="Aligning TimesFM covariate residuals with the available backcast. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/google-research/timesfm.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "timesfm · Aligning TimesFM covariate residuals with the available backcast", "description": "Aligning TimesFM covariate residuals with the available backcast. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/google-research/timesfm.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "google-research/timesfm", "codeRepository": "https://github.com/google-research/timesfm"}, "citation": ["https://github.com/google-research/timesfm/pull/550", "https://github.com/google-research/timesfm/commit/bebaccfe381e6b558f5ab06dcd8edc702e31b50c"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/google-research/timesfm">google-research/timesfm</a></p>
+      <h1>timesfm · Aligning TimesFM covariate residuals with the available backcast</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>TimesFM 2.5 sized covariate residuals from the full input even when the model cropped context. For very short inputs, a zero-length slice could unexpectedly select the full series.</p>
+      <h2>Engineering response</h2>
+      <p>The residual window follows the context the model sees. The fit handles an empty residual series without invalid statistics and reports a clear error if every series is too short.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports six focused tests using a randomly initialized Torch model, checking output shapes and finiteness for long, short and mixed batches. That experiment measures shape handling.</p>
+      <ul><li><a href="https://github.com/google-research/timesfm/pull/550">Merged pull request #550</a></li><li><a href="https://github.com/google-research/timesfm/commit/bebaccfe381e6b558f5ab06dcd8edc702e31b50c">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

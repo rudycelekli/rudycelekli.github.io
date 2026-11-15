@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>pyWhat case study | Rudy Celekli</title>
+  <meta name="description" content="Scanning literal directory names in pyWhat. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/bee-san/pywhat.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "pyWhat · Scanning literal directory names in pyWhat", "description": "Scanning literal directory names in pyWhat. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/bee-san/pywhat.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "bee-san/pyWhat", "codeRepository": "https://github.com/bee-san/pyWhat"}, "citation": ["https://github.com/bee-san/pyWhat/pull/297", "https://github.com/bee-san/pyWhat/commit/e31f7cae1b5234fb63d581ca36c0291b9421c7ba"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/bee-san/pyWhat">bee-san/pyWhat</a></p>
+      <h1>pyWhat · Scanning literal directory names in pyWhat</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Recursive identification interpreted user-supplied path components as part of a glob. A directory named scan[2026] could be skipped, while an asterisk could select an unintended sibling.</p>
+      <h2>Engineering response</h2>
+      <p>The identifier escapes the directory path before appending the recursive glob, keeping glob syntax limited to the search portion it adds.</p>
+      <h2>Evidence and scope</h2>
+      <p>End-to-end fixtures verify discovery in the selected directory and absence of decoys from a sibling. The recorded cases went from three failures to three passes.</p>
+      <ul><li><a href="https://github.com/bee-san/pyWhat/pull/297">Merged pull request #297</a></li><li><a href="https://github.com/bee-san/pyWhat/commit/e31f7cae1b5234fb63d581ca36c0291b9421c7ba">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

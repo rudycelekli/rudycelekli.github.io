@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AiSOC case study | Rudy Celekli</title>
+  <meta name="description" content="Reading all available Entra audit pages in AiSOC. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/beenuar/aisoc.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AiSOC · Reading all available Entra audit pages in AiSOC", "description": "Reading all available Entra audit pages in AiSOC. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/beenuar/aisoc.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "beenuar/AiSOC", "codeRepository": "https://github.com/beenuar/AiSOC"}, "citation": ["https://github.com/beenuar/AiSOC/pull/1708", "https://github.com/beenuar/AiSOC/commit/dd3d418f73fc3bb93c29161b3c15e7b9c5c15eda"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/beenuar/AiSOC">beenuar/AiSOC</a></p>
+      <h1>AiSOC · Reading all available Entra audit pages in AiSOC</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The Entra connector consumed only the first response page from Microsoft Graph. More than 200 matching audit or risky-sign-in entries in a poll could leave older entries unread before the next polling window.</p>
+      <h2>Engineering response</h2>
+      <p>The connector follows the supplied @odata.nextLink for both feeds. It retains completed pages when a later request fails and warns at the 25-page limit.</p>
+      <h2>Evidence and scope</h2>
+      <p>A focused fixture retrieved 680 entries across both feeds and reproduced first-page loss when the source change was reverted. The merge record also notes existing test-environment failures and the absence of a live tenant run.</p>
+      <ul><li><a href="https://github.com/beenuar/AiSOC/pull/1708">Merged pull request #1708</a></li><li><a href="https://github.com/beenuar/AiSOC/commit/dd3d418f73fc3bb93c29161b3c15e7b9c5c15eda">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

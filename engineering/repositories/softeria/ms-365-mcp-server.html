@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ms-365-mcp-server case study | Rudy Celekli</title>
+  <meta name="description" content="Enforcing tool boundaries and signing mail according to its schema. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/softeria/ms-365-mcp-server.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "ms-365-mcp-server · Enforcing tool boundaries and signing mail according to its schema", "description": "Enforcing tool boundaries and signing mail according to its schema. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/softeria/ms-365-mcp-server.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "Softeria/ms-365-mcp-server", "codeRepository": "https://github.com/Softeria/ms-365-mcp-server"}, "citation": ["https://github.com/Softeria/ms-365-mcp-server/pull/748", "https://github.com/Softeria/ms-365-mcp-server/pull/747", "https://github.com/Softeria/ms-365-mcp-server/pull/738", "https://github.com/Softeria/ms-365-mcp-server/commit/6d4dba6fc550f291451629fc16b26133b8729fcb"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/Softeria/ms-365-mcp-server">Softeria/ms-365-mcp-server</a></p>
+      <h1>ms-365-mcp-server · Enforcing tool boundaries and signing mail according to its schema</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A Microsoft 365 MCP client could receive account-management tools under restrictive stdio settings. Separately, generated mail schemas used PascalCase body keys while the signing path read lowercase keys, causing signed sends to fail and some replies to miss the configured signature.</p>
+      <h2>Engineering response</h2>
+      <p>The stdio registration now applies tool-name and read-only filters and skips MSAL account tools under an environment-token session. The signing helper accepts both supported key spellings and writes back through the spelling the caller used. A third change avoids quadratic email-redaction matching on long attachment text.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PRs report focused filter, signature, and redaction checks. The signature suite went from two failing regressions to 38 passing tests, and the performance report includes a size-doubling baseline for redaction. The mail tests exercise request construction without live Microsoft Graph delivery.</p>
+      <ul><li><a href="https://github.com/Softeria/ms-365-mcp-server/pull/748">Merged upstream PR #748</a></li><li><a href="https://github.com/Softeria/ms-365-mcp-server/pull/747">Merged upstream PR #747</a></li><li><a href="https://github.com/Softeria/ms-365-mcp-server/pull/738">Merged upstream PR #738</a></li><li><a href="https://github.com/Softeria/ms-365-mcp-server/commit/6d4dba6fc550f291451629fc16b26133b8729fcb">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

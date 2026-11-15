@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>leantoken case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping LeanToken benchmark evidence bounded and interpretable. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/morluto/leantoken.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "leantoken · Keeping LeanToken benchmark evidence bounded and interpretable", "description": "Keeping LeanToken benchmark evidence bounded and interpretable. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/morluto/leantoken.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "morluto/leantoken", "codeRepository": "https://github.com/morluto/leantoken"}, "citation": ["https://github.com/morluto/leantoken/pull/647", "https://github.com/morluto/leantoken/pull/646", "https://github.com/morluto/leantoken/pull/645", "https://github.com/morluto/leantoken/commit/024bbed37b3f734da7ac5bd9cab3acb9fba43bc3"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/morluto/leantoken">morluto/leantoken</a></p>
+      <h1>leantoken · Keeping LeanToken benchmark evidence bounded and interpretable</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A blocking read from an MCP child could outlast the readiness budget. Nonfinite values in the paired benchmark threshold could also allow a significant slowdown through the regression gate. Either condition undermines repeatable comparisons.</p>
+      <h2>Engineering response</h2>
+      <p>The benchmark client now shares one absolute readiness deadline across retries and notifications, invalidates unusable streams, bounds frame size and wakes blocked callers on close. The paired evaluator rejects thresholds outside the finite float range. The npm launcher also forwards subsequent signals while its child remains alive.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PRs describe executable peers that reproduce incomplete frames and notification floods, a CLI threshold regression with finite-value controls, and a child fixture that receives two signals through the launcher. The npm fixture used a Node child, and the checks establish behavior in these harnesses.</p>
+      <ul><li><a href="https://github.com/morluto/leantoken/pull/647">Merged upstream PR #647</a></li><li><a href="https://github.com/morluto/leantoken/pull/646">Merged upstream PR #646</a></li><li><a href="https://github.com/morluto/leantoken/pull/645">Merged upstream PR #645</a></li><li><a href="https://github.com/morluto/leantoken/commit/024bbed37b3f734da7ac5bd9cab3acb9fba43bc3">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

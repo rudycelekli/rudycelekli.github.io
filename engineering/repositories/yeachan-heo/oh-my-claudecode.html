@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>oh-my-claudecode case study | Rudy Celekli</title>
+  <meta name="description" content="Report every unmerged path to a rebasing worker. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/yeachan-heo/oh-my-claudecode.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "oh-my-claudecode · Report every unmerged path to a rebasing worker", "description": "Report every unmerged path to a rebasing worker. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/yeachan-heo/oh-my-claudecode.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "Yeachan-Heo/oh-my-claudecode", "codeRepository": "https://github.com/Yeachan-Heo/oh-my-claudecode"}, "citation": ["https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608", "https://github.com/Yeachan-Heo/oh-my-claudecode/commit/146af74abf00f9794dddcdbb1a3ccf87a0bd8ac3"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/Yeachan-Heo/oh-my-claudecode">Yeachan-Heo/oh-my-claudecode</a></p>
+      <h1>oh-my-claudecode · Report every unmerged path to a rebasing worker</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The team orchestrator only recognized three Git conflict statuses when notifying a worker about a stalled rebase. A path modified by one side and deleted by the other could be missing from the worker&#x27;s inbox and rebase event.</p>
+      <h2>Engineering response</h2>
+      <p>Parse the full set of unmerged porcelain statuses, including the modify/delete and one-sided add entries. Keep ordinary modifications outside the conflict list.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports one baseline regression failure and 27 passing merge-orchestrator tests in each of two local reruns. The test exercises the message path using the repository&#x27;s Git mocks.</p>
+      <ul><li><a href="https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4608">Yeachan-Heo/oh-my-claudecode merged pull request #4608</a></li><li><a href="https://github.com/Yeachan-Heo/oh-my-claudecode/commit/146af74abf00f9794dddcdbb1a3ccf87a0bd8ac3">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

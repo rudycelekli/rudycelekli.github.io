@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>text-to-cad case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving native CAD worker failure reasons in the Viewer. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/earthtojake/text-to-cad.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "text-to-cad · Preserving native CAD worker failure reasons in the Viewer", "description": "Preserving native CAD worker failure reasons in the Viewer. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/earthtojake/text-to-cad.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "earthtojake/text-to-cad", "codeRepository": "https://github.com/earthtojake/text-to-cad"}, "citation": ["https://github.com/earthtojake/text-to-cad/commit/fe454ff5be8003d3afc8f213a4de0d2013d39f4a", "https://github.com/earthtojake/text-to-cad/pull/545", "https://github.com/earthtojake/text-to-cad/commit/33df75608d13828aa51e04faefd00999fc61d381"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/earthtojake/text-to-cad">earthtojake/text-to-cad</a></p>
+      <h1>text-to-cad · Preserving native CAD worker failure reasons in the Viewer</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>When a CAD daemon worker crashed or was killed, the Viewer could report a failed update without the diagnostic the process had already provided. This left both native crashes and intentional cancellation hard to distinguish at the job boundary.</p>
+      <h2>Engineering response</h2>
+      <p>The daemon now records a worker&#x27;s exit code or terminating signal as the job&#x27;s failure reason. The maintainer rebased the contributor patch and integrated it alongside existing telemetry.</p>
+      <h2>Evidence and scope</h2>
+      <p>The maintainer&#x27;s upstream commit explicitly credits the original PR and contains a daemon-client regression. A separate credited commit preserves daemon-channel descriptor ownership during cancellation. These changes concern recorded job state and transport ownership.</p>
+      <ul><li><a href="https://github.com/earthtojake/text-to-cad/commit/fe454ff5be8003d3afc8f213a4de0d2013d39f4a">Co-authored upstream commit fe454ff5be80</a></li><li><a href="https://github.com/earthtojake/text-to-cad/pull/545">Original contribution PR #545</a></li><li><a href="https://github.com/earthtojake/text-to-cad/commit/33df75608d13828aa51e04faefd00999fc61d381">Co-authored upstream commit 33df75608d13</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

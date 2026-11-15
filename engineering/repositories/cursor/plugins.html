@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>plugins case study | Rudy Celekli</title>
+  <meta name="description" content="Selecting the current pull request in Cursor&#x27;s stack orchestrator. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/cursor/plugins.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "plugins · Selecting the current pull request in Cursor's stack orchestrator", "description": "Selecting the current pull request in Cursor's stack orchestrator. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/cursor/plugins.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "cursor/plugins", "codeRepository": "https://github.com/cursor/plugins"}, "citation": ["https://github.com/cursor/plugins/commit/3c596e701b5ca3d213e072464eec36baf0dee3e7", "https://github.com/cursor/plugins/commit/fe096ef31c94c30997207ffb6e30c51f15a34f16", "https://github.com/cursor/plugins/commit/96dec8ee58deb7b388fa080fbceaba4460a7c9dd"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/cursor/plugins">cursor/plugins</a></p>
+      <h1>plugins · Selecting the current pull request in Cursor&#x27;s stack orchestrator</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A branch can have a historical closed or merged pull request and an active replacement. Treating those rows as equivalent makes the stack orchestrator reject a branch that has one unambiguous current review.</p>
+      <h2>Engineering response</h2>
+      <p>The stack store selects the sole active PR when present. It retains historical anchors when no active PR exists and still rejects a genuinely ambiguous branch with multiple active PRs.</p>
+      <h2>Evidence and scope</h2>
+      <p>The co-authored upstream diff adds tests for an active replacement alongside both closed and merged history, plus a control with two active PRs. Additional credited commits bound polling sleeps by the deadline and distinguish fork heads during discovery.</p>
+      <ul><li><a href="https://github.com/cursor/plugins/commit/3c596e701b5ca3d213e072464eec36baf0dee3e7">Co-authored upstream commit 3c596e701b5c</a></li><li><a href="https://github.com/cursor/plugins/commit/fe096ef31c94c30997207ffb6e30c51f15a34f16">Co-authored upstream commit fe096ef31c94</a></li><li><a href="https://github.com/cursor/plugins/commit/96dec8ee58deb7b388fa080fbceaba4460a7c9dd">Co-authored upstream commit 96dec8ee58de</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

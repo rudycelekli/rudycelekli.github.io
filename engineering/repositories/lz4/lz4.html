@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>lz4 case study | Rudy Celekli</title>
+  <meta name="description" content="Reading complete short skippable LZ4 frames. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/lz4/lz4.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "lz4 · Reading complete short skippable LZ4 frames", "description": "Reading complete short skippable LZ4 frames. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/lz4/lz4.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "lz4/lz4", "codeRepository": "https://github.com/lz4/lz4"}, "citation": ["https://github.com/lz4/lz4/pull/2057", "https://github.com/lz4/lz4/pull/2054", "https://github.com/lz4/lz4/commit/ee9aad29cd17e10e8d1fe208cb1043e26efec08b"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/lz4/lz4">lz4/lz4</a></p>
+      <h1>lz4 · Reading complete short skippable LZ4 frames</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The file reader applied the normal-frame minimum header size before distinguishing skippable frames. A complete eight-byte frame with an empty payload could therefore be rejected as if it were a truncated normal frame.</p>
+      <h2>Engineering response</h2>
+      <p>The reader parses the frame type before applying the normal-frame minimum, allowing short but complete skippable frames. A separate Meson patch sets the C language for two static-library options that previously failed during configuration.</p>
+      <h2>Evidence and scope</h2>
+      <p>The frame PR reports 189 passing tests in each of the serial and multithreaded unit builds, including a matrix across all 16 skippable magic values and short payloads. The Meson evidence covers setup for both options and compilation for the endianness option. The allocation-disabled build still exposed a separate compilation issue.</p>
+      <ul><li><a href="https://github.com/lz4/lz4/pull/2057">Merged upstream PR #2057</a></li><li><a href="https://github.com/lz4/lz4/pull/2054">Merged upstream PR #2054</a></li><li><a href="https://github.com/lz4/lz4/commit/ee9aad29cd17e10e8d1fe208cb1043e26efec08b">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>agno case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping the last good Agno session table after a failed write. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/agno-agi/agno.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "agno · Keeping the last good Agno session table after a failed write", "description": "Keeping the last good Agno session table after a failed write. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/agno-agi/agno.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "agno-agi/agno", "codeRepository": "https://github.com/agno-agi/agno"}, "citation": ["https://github.com/agno-agi/agno/pull/10794", "https://github.com/agno-agi/agno/commit/2ddddfb52785663f20e39588306b6139a7c6766c"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/agno-agi/agno">agno-agi/agno</a></p>
+      <h1>agno · Keeping the last good Agno session table after a failed write</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>JsonDb started overwriting the live session table before serialization and writes completed. A file-size limit could leave a partial JSON document where a previously readable session table had been.</p>
+      <h2>Engineering response</h2>
+      <p>The normal file path stages the serialized table in a unique sibling file and publishes it with an atomic replace after a successful close. Error cleanup removes the writer&#x27;s own staging file, and the implementation preserves existing behavior for nonregular paths and file metadata described in the PR.</p>
+      <h2>Evidence and scope</h2>
+      <p>A subprocess reproduced a native EFBIG through the public session API. The PR records a 347-byte valid table becoming a 411-byte partial file on the baseline. With the patch, the original bytes remain readable and get_session returns the saved session.</p>
+      <ul><li><a href="https://github.com/agno-agi/agno/pull/10794">Merged upstream PR #10794</a></li><li><a href="https://github.com/agno-agi/agno/commit/2ddddfb52785663f20e39588306b6139a7c6766c">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>browser case study | Rudy Celekli</title>
+  <meta name="description" content="Making Lightpanda respect browser message and selector contracts. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/lightpanda-io/browser.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "browser · Making Lightpanda respect browser message and selector contracts", "description": "Making Lightpanda respect browser message and selector contracts. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/lightpanda-io/browser.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "lightpanda-io/browser", "codeRepository": "https://github.com/lightpanda-io/browser"}, "citation": ["https://github.com/lightpanda-io/browser/pull/4382", "https://github.com/lightpanda-io/browser/pull/4368", "https://github.com/lightpanda-io/browser/commit/4f0e2c7952c5688c04d2a36d8e430e0d3be8f825"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a></p>
+      <h1>browser · Making Lightpanda respect browser message and selector contracts</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Lightpanda delivered window messages without checking the recipient origin the caller supplied. Its DevTools selector lookup also returned an error for a valid selector with no match, which caused clients that poll for late elements to stop early.</p>
+      <h2>Engineering response</h2>
+      <p>The browser validates and carries the intended origin through the asynchronous window-message task, then checks the receiving document&#x27;s current origin before dispatching. The DevTools handler uses a successful response with node ID zero for an empty match and preserves separate error paths.</p>
+      <h2>Evidence and scope</h2>
+      <p>The window tests include cross-origin and malformed-origin cases, same-origin defaults and wildcard behavior. The PR reports that reverting only the implementation makes the regression fail. The selector PR gives a minimal Chrome-versus-Lightpanda DevTools exchange that explains the polling contract.</p>
+      <ul><li><a href="https://github.com/lightpanda-io/browser/pull/4382">Merged upstream PR #4382</a></li><li><a href="https://github.com/lightpanda-io/browser/pull/4368">Merged upstream PR #4368</a></li><li><a href="https://github.com/lightpanda-io/browser/commit/4f0e2c7952c5688c04d2a36d8e430e0d3be8f825">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

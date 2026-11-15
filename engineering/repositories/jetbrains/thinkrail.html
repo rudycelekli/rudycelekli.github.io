@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>thinkrail case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving unsent image drafts when ThinkRail chats remount. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/jetbrains/thinkrail.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "thinkrail · Preserving unsent image drafts when ThinkRail chats remount", "description": "Preserving unsent image drafts when ThinkRail chats remount. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/jetbrains/thinkrail.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "JetBrains/thinkrail", "codeRepository": "https://github.com/JetBrains/thinkrail"}, "citation": ["https://github.com/JetBrains/thinkrail/pull/1051", "https://github.com/JetBrains/thinkrail/pull/1052", "https://github.com/JetBrains/thinkrail/commit/a63900fed13b29b838530bf65d665463f78ae393"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a></p>
+      <h1>thinkrail · Preserving unsent image drafts when ThinkRail chats remount</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Switching tabs unmounted the chat composer. Its text draft survived because it belonged to the session, but pasted and attached images disappeared with the UI component.</p>
+      <h2>Engineering response</h2>
+      <p>The change moves attachment drafts and their pending decode state into the corresponding chat runtime. Accepting a submission clears the draft, and resetting or replacing the runtime prevents an old decode from restoring an attachment to a closed session. A second PR fixes Markdown list markers in settled answers.</p>
+      <h2>Evidence and scope</h2>
+      <p>The image PR records before/after browser screenshots and covers remounts, isolation across chats, submission reset and pending decodes. The list PR documents browser checks for wrapping, nested lists and exact-source clipboard output.</p>
+      <ul><li><a href="https://github.com/JetBrains/thinkrail/pull/1051">Merged upstream PR #1051</a></li><li><a href="https://github.com/JetBrains/thinkrail/pull/1052">Merged upstream PR #1052</a></li><li><a href="https://github.com/JetBrains/thinkrail/commit/a63900fed13b29b838530bf65d665463f78ae393">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

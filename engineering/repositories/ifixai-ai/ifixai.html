@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>iFixAi case study | Rudy Celekli</title>
+  <meta name="description" content="Verify iFixAi policy repair reports before export. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/ifixai-ai/ifixai.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "iFixAi · Verify iFixAi policy repair reports before export", "description": "Verify iFixAi policy repair reports before export. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/ifixai-ai/ifixai.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "ifixai-ai/iFixAi", "codeRepository": "https://github.com/ifixai-ai/iFixAi"}, "citation": ["https://github.com/ifixai-ai/iFixAi/pull/387", "https://github.com/ifixai-ai/iFixAi/commit/aad5343f91ef2b6cbbff55e9870fc802d65ba829"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/ifixai-ai/iFixAi">ifixai-ai/iFixAi</a></p>
+      <h1>iFixAi · Verify iFixAi policy repair reports before export</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A Policy Lab export accepted a submitted repair report without confirming its relationship to the underlying search. A substituted bundle or altered minimality claim could therefore appear as valid evidence.</p>
+      <h2>Engineering response</h2>
+      <p>Rerun the bounded local search at export, compare canonical digests across the full report, and export the recomputed result when they match. Reject discrepancies before creating output.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports four baseline failures and 82 passing Policy Lab tests after the change, including the CLI export route. The checks use synthetic offline evidence.</p>
+      <ul><li><a href="https://github.com/ifixai-ai/iFixAi/pull/387">ifixai-ai/iFixAi merged pull request #387</a></li><li><a href="https://github.com/ifixai-ai/iFixAi/commit/aad5343f91ef2b6cbbff55e9870fc802d65ba829">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

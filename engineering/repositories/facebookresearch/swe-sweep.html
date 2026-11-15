@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>swe-sweep case study | Rudy Celekli</title>
+  <meta name="description" content="Accounting for grader crashes in SWE-Sweep. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/facebookresearch/swe-sweep.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "swe-sweep · Accounting for grader crashes in SWE-Sweep", "description": "Accounting for grader crashes in SWE-Sweep. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/facebookresearch/swe-sweep.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "facebookresearch/swe-sweep", "codeRepository": "https://github.com/facebookresearch/swe-sweep"}, "citation": ["https://github.com/facebookresearch/swe-sweep/pull/58", "https://github.com/facebookresearch/swe-sweep/commit/be95c23526c9c5170c4db136ddf5233c19e285bf"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/facebookresearch/swe-sweep">facebookresearch/swe-sweep</a></p>
+      <h1>swe-sweep · Accounting for grader crashes in SWE-Sweep</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A grader crash writes a short reward record with a failure marker. The score reader expected fields from a completed trial, so a crashed trial could vanish from evaluation failure counts.</p>
+      <h2>Engineering response</h2>
+      <p>The scorer checks the explicit grader_failed marker before requiring completed-trial fields. It reports the crash and keeps the trial out of the headline score.</p>
+      <h2>Evidence and scope</h2>
+      <p>The merged test plan covers scoring and grader-failure records, including the distinction between a crash and a file that is merely incomplete.</p>
+      <ul><li><a href="https://github.com/facebookresearch/swe-sweep/pull/58">Merged pull request #58</a></li><li><a href="https://github.com/facebookresearch/swe-sweep/commit/be95c23526c9c5170c4db136ddf5233c19e285bf">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

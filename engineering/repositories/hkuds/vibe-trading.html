@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vibe-Trading case study | Rudy Celekli</title>
+  <meta name="description" content="Require enough observations for strict factor statistics. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/hkuds/vibe-trading.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Vibe-Trading · Require enough observations for strict factor statistics", "description": "Require enough observations for strict factor statistics. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/hkuds/vibe-trading.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "HKUDS/Vibe-Trading", "codeRepository": "https://github.com/HKUDS/Vibe-Trading"}, "citation": ["https://github.com/HKUDS/Vibe-Trading/pull/2180", "https://github.com/HKUDS/Vibe-Trading/commit/b358f119346a32056061ebe83fa783b826c2cd4b"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/HKUDS/Vibe-Trading">HKUDS/Vibe-Trading</a></p>
+      <h1>Vibe-Trading · Require enough observations for strict factor statistics</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A single information-coefficient observation in Vibe-Trading could produce a success row with NaN sample deviation. Strict JSON consumers could not serialize that result.</p>
+      <h2>Engineering response</h2>
+      <p>Use the same minimum sample size as the ordinary factor runner. The strict path records one-observation alphas as skipped and keeps its existing empty-series reason.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a baseline failure and 44 passing strict-runner tests after the change. The new test serializes the result with strict JSON settings. The checks are offline.</p>
+      <ul><li><a href="https://github.com/HKUDS/Vibe-Trading/pull/2180">HKUDS/Vibe-Trading merged pull request #2180</a></li><li><a href="https://github.com/HKUDS/Vibe-Trading/commit/b358f119346a32056061ebe83fa783b826c2cd4b">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

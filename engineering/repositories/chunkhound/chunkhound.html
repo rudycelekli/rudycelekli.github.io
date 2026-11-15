@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>chunkhound case study | Rudy Celekli</title>
+  <meta name="description" content="Distinguishing the official VoyageAI endpoint from look-alike hosts. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/chunkhound/chunkhound.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "chunkhound · Distinguishing the official VoyageAI endpoint from look-alike hosts", "description": "Distinguishing the official VoyageAI endpoint from look-alike hosts. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/chunkhound/chunkhound.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "chunkhound/chunkhound", "codeRepository": "https://github.com/chunkhound/chunkhound"}, "citation": ["https://github.com/chunkhound/chunkhound/pull/473", "https://github.com/chunkhound/chunkhound/commit/456e6cbcc95d42e48affacfc53ffcf380f432186"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/chunkhound/chunkhound">chunkhound/chunkhound</a></p>
+      <h1>chunkhound · Distinguishing the official VoyageAI endpoint from look-alike hosts</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>ChunkHound classified an endpoint as official using a raw prefix check. Hostnames that appended a subdomain or hyphen suffix to api.voyageai.com could therefore enter configuration branches intended for VoyageAI&#x27;s official service.</p>
+      <h2>Engineering response</h2>
+      <p>The check now requires the exact official base or a slash boundary after it, matching the guard used for the analogous OpenAI endpoint helper.</p>
+      <h2>Evidence and scope</h2>
+      <p>The author reports eight focused cases covering official forms and suffix spoofing. Reverting the implementation made both spoofing assertions fail again. The helper was loaded directly for local testing because the full package&#x27;s optional parser and database dependencies were unavailable.</p>
+      <ul><li><a href="https://github.com/chunkhound/chunkhound/pull/473">Merged upstream PR #473</a></li><li><a href="https://github.com/chunkhound/chunkhound/commit/456e6cbcc95d42e48affacfc53ffcf380f432186">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

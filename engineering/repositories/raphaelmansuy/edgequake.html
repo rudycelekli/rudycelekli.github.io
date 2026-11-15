@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>edgequake case study | Rudy Celekli</title>
+  <meta name="description" content="Propagate request encoding failures from the EdgeQuake Swift SDK. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/raphaelmansuy/edgequake.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "edgequake · Propagate request encoding failures from the EdgeQuake Swift SDK", "description": "Propagate request encoding failures from the EdgeQuake Swift SDK. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/raphaelmansuy/edgequake.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "raphaelmansuy/edgequake", "codeRepository": "https://github.com/raphaelmansuy/edgequake"}, "citation": ["https://github.com/raphaelmansuy/edgequake/pull/446", "https://github.com/raphaelmansuy/edgequake/commit/da1831ceb4c79ad5c7d3a5ad385e8fec0b55389c"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/raphaelmansuy/edgequake">raphaelmansuy/edgequake</a></p>
+      <h1>edgequake · Propagate request encoding failures from the EdgeQuake Swift SDK</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The Swift SDK discarded encoding errors while building HTTP bodies. It could send a POST, PUT or PATCH with the body missing and leave the caller debugging a misleading server error.</p>
+      <h2>Engineering response</h2>
+      <p>Propagate the original encoding error before dispatch and update the multipart caller to handle the throwing request builder.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports failing-then-passing method regressions that verify no request is sent after an encoding error. It reports 237 passing Swift tests and 22 skipped live end-to-end tests.</p>
+      <ul><li><a href="https://github.com/raphaelmansuy/edgequake/pull/446">raphaelmansuy/edgequake merged pull request #446</a></li><li><a href="https://github.com/raphaelmansuy/edgequake/commit/da1831ceb4c79ad5c7d3a5ad385e8fec0b55389c">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

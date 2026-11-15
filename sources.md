@@ -40,3 +40,8 @@ A separate [npm artifact receipt](https://rudycelekli.github.io/engineering/repr
 ## Ghidra sparse-image correction
 
 [PR #9805](https://github.com/NationalSecurityAgency/ghidra/pull/9805), authored by rudycelekli and merged October 16, 2026, corrects FILL byte order and skipped-region output/CRC accounting. The [case study](https://rudycelekli.github.io/engineering/android-sparse-image-integrity.html) cites immutable source and explicitly retains Codex implementation assistance and the historical, pre-cleanup validation boundary. No release inclusion, security exploit or downstream adoption is inferred.
+
+## Repository case studies
+
+- [Case-study directory](https://rudycelekli.github.io/engineering/#repository-studies)
+- [Structured case studies and evidence links](https://rudycelekli.github.io/data/engineering-case-studies.json)

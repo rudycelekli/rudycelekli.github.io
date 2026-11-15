@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>benchmark-radar case study | Rudy Celekli</title>
+  <meta name="description" content="Preserving partial arXiv results in Benchmark Radar. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "benchmark-radar · Preserving partial arXiv results in Benchmark Radar", "description": "Preserving partial arXiv results in Benchmark Radar. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/ktwu01/benchmark-radar.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "ktwu01/benchmark-radar", "codeRepository": "https://github.com/ktwu01/benchmark-radar"}, "citation": ["https://github.com/ktwu01/benchmark-radar/pull/829", "https://github.com/ktwu01/benchmark-radar/commit/69219dbf2cfca0e4073c92b9f419a27279a0619a"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/ktwu01/benchmark-radar">ktwu01/benchmark-radar</a></p>
+      <h1>benchmark-radar · Preserving partial arXiv results in Benchmark Radar</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>In the opt-in Atom reader, a later query failure could trigger an RSS fallback that discarded successful earlier Atom results. RSS can omit older papers updated during the overlap period.</p>
+      <h2>Engineering response</h2>
+      <p>The fallback now combines successful Atom records with exact-ID RSS additions and exposes a degraded-source warning. If no source succeeds, the operation still reports failure.</p>
+      <h2>Evidence and scope</h2>
+      <p>Offline cases cover an Atom paper missing from RSS, duplicates, and empty or failed RSS. The PR reports 186 passing source tests and identifies Atom multi-query as opt-in.</p>
+      <ul><li><a href="https://github.com/ktwu01/benchmark-radar/pull/829">Merged pull request #829</a></li><li><a href="https://github.com/ktwu01/benchmark-radar/commit/69219dbf2cfca0e4073c92b9f419a27279a0619a">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

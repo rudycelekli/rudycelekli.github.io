@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>poltergeist case study | Rudy Celekli</title>
+  <meta name="description" content="Reporting signal-terminated build commands as failures. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/steipete/poltergeist.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "poltergeist · Reporting signal-terminated build commands as failures", "description": "Reporting signal-terminated build commands as failures. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/steipete/poltergeist.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "steipete/poltergeist", "codeRepository": "https://github.com/steipete/poltergeist"}, "citation": ["https://github.com/steipete/poltergeist/commit/595110bbeeb032959a7286a9c2938e4cf9d71369", "https://github.com/steipete/poltergeist/pull/257", "https://github.com/steipete/poltergeist/commit/67b453676515b2e37c6ce05c469cc66aa3c87cc3"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/steipete/poltergeist">steipete/poltergeist</a></p>
+      <h1>poltergeist · Reporting signal-terminated build commands as failures</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A child process killed by a signal closes with a null exit code. Poltergeist converted that value to zero, allowing a terminated build or hook command to look like a success.</p>
+      <h2>Engineering response</h2>
+      <p>The upstream consolidation includes the reported command-runner fix alongside lifecycle and watch fixes. A signal-terminated process produces a failure status, including exit 143 for SIGTERM on the tested platform. Callers that allow nonzero exits still receive that status.</p>
+      <h2>Evidence and scope</h2>
+      <p>The original PR includes macOS arm64 receipts using the compiled runner and owned child processes. The baseline returns zero, the candidate returns 143, and the healthy control returns zero. The co-authored consolidation records 13 failing baseline regressions and passing exact-head Linux, macOS and Windows CI.</p>
+      <ul><li><a href="https://github.com/steipete/poltergeist/commit/595110bbeeb032959a7286a9c2938e4cf9d71369">Co-authored upstream commit 595110bbeeb0</a></li><li><a href="https://github.com/steipete/poltergeist/pull/257">Original contribution PR #257</a></li><li><a href="https://github.com/steipete/poltergeist/commit/67b453676515b2e37c6ce05c469cc66aa3c87cc3">Co-authored upstream commit 67b453676515</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

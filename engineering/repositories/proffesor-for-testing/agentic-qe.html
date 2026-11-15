@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>agentic-qe case study | Rudy Celekli</title>
+  <meta name="description" content="Keep generated tests out of Agentic QE execution results. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/proffesor-for-testing/agentic-qe.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "agentic-qe · Keep generated tests out of Agentic QE execution results", "description": "Keep generated tests out of Agentic QE execution results. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/proffesor-for-testing/agentic-qe.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "proffesor-for-testing/agentic-qe", "codeRepository": "https://github.com/proffesor-for-testing/agentic-qe"}, "citation": ["https://github.com/proffesor-for-testing/agentic-qe/pull/1372", "https://github.com/proffesor-for-testing/agentic-qe/commit/4e20b471ec0907123a0a9e06b670941e90f60f2b"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/proffesor-for-testing/agentic-qe">proffesor-for-testing/agentic-qe</a></p>
+      <h1>agentic-qe · Keep generated tests out of Agentic QE execution results</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The MCP test generator returned code and also stored each generated object as a test outcome. In that path, defaults could create a passing result and an execution duration before any test ran.</p>
+      <h2>Engineering response</h2>
+      <p>Remove the execution-result insertion from the generation path. Preserve generated code in the response and keep measurement paths for observed execution and coverage.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports that six generation regressions failed on the original handler factory and all 32 cases passed after the change. The fixture mocks the factory&#x27;s dependencies.</p>
+      <ul><li><a href="https://github.com/proffesor-for-testing/agentic-qe/pull/1372">proffesor-for-testing/agentic-qe merged pull request #1372</a></li><li><a href="https://github.com/proffesor-for-testing/agentic-qe/commit/4e20b471ec0907123a0a9e06b670941e90f60f2b">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

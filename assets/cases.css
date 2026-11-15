@@ -1,0 +1,53 @@
+.repository-study {
+  max-width: 54rem;
+  margin: auto;
+  padding: clamp(1.25rem, 6vw, 4.5rem);
+}
+
+.repository-study h1 {
+  max-width: 23ch;
+  margin: 1rem 0;
+  font-size: clamp(2.1rem, 5vw, 4rem);
+  line-height: 1.08;
+  overflow-wrap: anywhere;
+}
+
+.repository-study h2 {
+  margin: 2rem 0 .5rem;
+  font-size: 1.45rem;
+}
+
+.repository-study p,
+.repository-study li,
+.study-list li {
+  line-height: 1.65;
+}
+
+.repository-study a,
+.study-list a {
+  text-underline-offset: .2em;
+}
+
+.study-author,
+.study-list span {
+  color: var(--ink-soft);
+}
+
+.repository-study footer {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+
+.study-list {
+  padding-left: 1.25rem;
+}
+
+.study-list li {
+  margin: .3rem 0;
+  overflow-wrap: anywhere;
+}
+
+.study-list span {
+  display: block;
+}

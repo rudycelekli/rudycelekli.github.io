@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>resty case study | Rudy Celekli</title>
+  <meta name="description" content="Normalizing Resty load-balancer URLs before joining request paths. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/go-resty/resty.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "resty · Normalizing Resty load-balancer URLs before joining request paths", "description": "Normalizing Resty load-balancer URLs before joining request paths. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/go-resty/resty.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "go-resty/resty", "codeRepository": "https://github.com/go-resty/resty"}, "citation": ["https://github.com/go-resty/resty/pull/1272", "https://github.com/go-resty/resty/commit/716987e2b60ffe0e55e6ede191b5c7854b5fba5a"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/go-resty/resty">go-resty/resty</a></p>
+      <h1>resty · Normalizing Resty load-balancer URLs before joining request paths</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A base URL with a fragment or a bare question-mark could absorb the request path when combined with the caller&#x27;s relative URL. In the fragment example, a caller requesting /requested reached the upstream server&#x27;s root.</p>
+      <h2>Engineering response</h2>
+      <p>The client clears fragment-related fields and the empty-query marker alongside its existing base-path and query normalization.</p>
+      <h2>Evidence and scope</h2>
+      <p>The regression uses a loopback HTTP server through Resty&#x27;s public load-balancer API. The PR reports three baseline failures and a passing ordinary-query control, followed by four passing cases and a passing full Go suite on the candidate.</p>
+      <ul><li><a href="https://github.com/go-resty/resty/pull/1272">Merged upstream PR #1272</a></li><li><a href="https://github.com/go-resty/resty/commit/716987e2b60ffe0e55e6ede191b5c7854b5fba5a">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>agent-chrome-relay case study | Rudy Celekli</title>
+  <meta name="description" content="Reclaiming Chrome tabs returned after agent disconnect. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/aindeev/agent-chrome-relay.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "agent-chrome-relay · Reclaiming Chrome tabs returned after agent disconnect", "description": "Reclaiming Chrome tabs returned after agent disconnect. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/aindeev/agent-chrome-relay.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "aindeev/agent-chrome-relay", "codeRepository": "https://github.com/aindeev/agent-chrome-relay"}, "citation": ["https://github.com/aindeev/agent-chrome-relay/pull/1", "https://github.com/aindeev/agent-chrome-relay/commit/96982ecdeb2911bda6e1dbcc123b940c5120c6b8"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/aindeev/agent-chrome-relay">aindeev/agent-chrome-relay</a></p>
+      <h1>agent-chrome-relay · Reclaiming Chrome tabs returned after agent disconnect</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A Chrome tab could finish opening after the relay had swept the tabs of a disconnected agent. The late response then registered a tab with no connected owner. The same race affected popups.</p>
+      <h2>Engineering response</h2>
+      <p>The relay marks the agent closed and checks that state before accepting late tab creation. It requests cleanup of the returned tab and drops queued page calls.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports two regressions at the deferred extension RPC boundary and a connected-agent control. The test uses the relay implementation with isolated RPC fixtures.</p>
+      <ul><li><a href="https://github.com/aindeev/agent-chrome-relay/pull/1">Merged pull request #1</a></li><li><a href="https://github.com/aindeev/agent-chrome-relay/commit/96982ecdeb2911bda6e1dbcc123b940c5120c6b8">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

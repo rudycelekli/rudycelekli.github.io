@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>harnessrouter case study | Rudy Celekli</title>
+  <meta name="description" content="Normalize tool-call deltas across valid SSE encodings. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/harnessrouter/harnessrouter.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "harnessrouter · Normalize tool-call deltas across valid SSE encodings", "description": "Normalize tool-call deltas across valid SSE encodings. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/harnessrouter/harnessrouter.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "HarnessRouter/harnessrouter", "codeRepository": "https://github.com/HarnessRouter/harnessrouter"}, "citation": ["https://github.com/HarnessRouter/harnessrouter/pull/572", "https://github.com/HarnessRouter/harnessrouter/commit/268674149ae4f72b06028b2dbd029e000198a4d4"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/HarnessRouter/harnessrouter">HarnessRouter/harnessrouter</a></p>
+      <h1>harnessrouter · Normalize tool-call deltas across valid SSE encodings</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>HarnessRouter&#x27;s DSH relay expected a space after the SSE data-field colon. Valid streams with no space bypassed cleanup, so empty continuation fields could erase an accumulated tool name and ID.</p>
+      <h2>Engineering response</h2>
+      <p>Match the data field independent of its optional space, then apply the existing normalization to JSON objects. Leave non-object events and unrelated fields alone.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports 18 focused cases passing, with the new case failing when the old guard is restored. The broader local suite recorded 31 failures.</p>
+      <ul><li><a href="https://github.com/HarnessRouter/harnessrouter/pull/572">HarnessRouter/harnessrouter merged pull request #572</a></li><li><a href="https://github.com/HarnessRouter/harnessrouter/commit/268674149ae4f72b06028b2dbd029e000198a4d4">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>open-ontologies case study | Rudy Celekli</title>
+  <meta name="description" content="Reject truncated XML before loading ontology records. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/fabio-rovai/open-ontologies.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "open-ontologies · Reject truncated XML before loading ontology records", "description": "Reject truncated XML before loading ontology records. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/fabio-rovai/open-ontologies.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "fabio-rovai/open-ontologies", "codeRepository": "https://github.com/fabio-rovai/open-ontologies"}, "citation": ["https://github.com/fabio-rovai/open-ontologies/pull/297", "https://github.com/fabio-rovai/open-ontologies/commit/8e3c27690b831e6427a321c5c0cf78c906c06660"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/fabio-rovai/open-ontologies">fabio-rovai/open-ontologies</a></p>
+      <h1>open-ontologies · Reject truncated XML before loading ontology records</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A cut-off XML document could contain one complete record and one unfinished record. The importer loaded the completed prefix and reported success, concealing lost data.</p>
+      <h2>Engineering response</h2>
+      <p>Reject end-of-file while element depth remains open, before mapping or loading records. Preserve valid handling of complete documents, including self-closing elements, CDATA and empty fields.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR records nine passing Linux integration checks after eight baseline failures. The validation includes the built command-line tool and file-dispatch paths.</p>
+      <ul><li><a href="https://github.com/fabio-rovai/open-ontologies/pull/297">fabio-rovai/open-ontologies merged pull request #297</a></li><li><a href="https://github.com/fabio-rovai/open-ontologies/commit/8e3c27690b831e6427a321c5c0cf78c906c06660">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

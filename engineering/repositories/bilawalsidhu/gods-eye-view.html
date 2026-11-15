@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>gods-eye-view case study | Rudy Celekli</title>
+  <meta name="description" content="Wrap Local ADS-B track labels at north. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/bilawalsidhu/gods-eye-view.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "gods-eye-view · Wrap Local ADS-B track labels at north", "description": "Wrap Local ADS-B track labels at north. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/bilawalsidhu/gods-eye-view.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "bilawalsidhu/gods-eye-view", "codeRepository": "https://github.com/bilawalsidhu/gods-eye-view"}, "citation": ["https://github.com/bilawalsidhu/gods-eye-view/pull/1396", "https://github.com/bilawalsidhu/gods-eye-view/commit/8886e063e6aeeb05f209947a23e0e2d124e64e37"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/bilawalsidhu/gods-eye-view">bilawalsidhu/gods-eye-view</a></p>
+      <h1>gods-eye-view · Wrap Local ADS-B track labels at north</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The ADS-B decoder supplies tracks in a half-open range from zero up to 360 degrees. Rounding 359.7 degrees in the card yielded 360, inconsistent with north labels elsewhere in the globe interface.</p>
+      <h2>Engineering response</h2>
+      <p>Wrap the whole-degree display after rounding so a track rounding to due north reads zero. The change is confined to the card model&#x27;s display value.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a fixture changing from 360 to zero and five passing card localization tests. No live aircraft feed was required.</p>
+      <ul><li><a href="https://github.com/bilawalsidhu/gods-eye-view/pull/1396">bilawalsidhu/gods-eye-view merged pull request #1396</a></li><li><a href="https://github.com/bilawalsidhu/gods-eye-view/commit/8886e063e6aeeb05f209947a23e0e2d124e64e37">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

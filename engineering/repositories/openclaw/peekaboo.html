@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peekaboo case study | Rudy Celekli</title>
+  <meta name="description" content="Carry rounded durations into the next unit in Peekaboo. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/openclaw/peekaboo.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Peekaboo · Carry rounded durations into the next unit in Peekaboo", "description": "Carry rounded durations into the next unit in Peekaboo. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/openclaw/peekaboo.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "openclaw/Peekaboo", "codeRepository": "https://github.com/openclaw/Peekaboo"}, "citation": ["https://github.com/openclaw/Peekaboo/pull/1149", "https://github.com/openclaw/Peekaboo/commit/a201f301e5edf770d7e4e70dd619eb2034069ae5"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/openclaw/Peekaboo">openclaw/Peekaboo</a></p>
+      <h1>Peekaboo · Carry rounded durations into the next unit in Peekaboo</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Peekaboo could display 59.95 seconds as 60.0 seconds even though 60 seconds used a minutes label. The same inconsistency appeared at the microsecond and millisecond boundaries in its activity views.</p>
+      <h2>Engineering response</h2>
+      <p>Share rollover behavior across the compact and detailed formatters. After rounding, carry values into the appropriate next unit and handle unrepresentable inputs.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports passing cases for 13 compact, seven detailed and four unrepresentable duration values in the Swift formatter suite.</p>
+      <ul><li><a href="https://github.com/openclaw/Peekaboo/pull/1149">openclaw/Peekaboo merged pull request #1149</a></li><li><a href="https://github.com/openclaw/Peekaboo/commit/a201f301e5edf770d7e4e70dd619eb2034069ae5">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

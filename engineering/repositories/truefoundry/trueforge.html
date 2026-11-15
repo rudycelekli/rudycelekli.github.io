@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>trueforge case study | Rudy Celekli</title>
+  <meta name="description" content="Aligning TrueForge SDK documentation with the runtime contract. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/truefoundry/trueforge.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "trueforge · Aligning TrueForge SDK documentation with the runtime contract", "description": "Aligning TrueForge SDK documentation with the runtime contract. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/truefoundry/trueforge.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "truefoundry/trueforge", "codeRepository": "https://github.com/truefoundry/trueforge"}, "citation": ["https://github.com/truefoundry/trueforge/pull/1034", "https://github.com/truefoundry/trueforge/pull/1032", "https://github.com/truefoundry/trueforge/pull/1035", "https://github.com/truefoundry/trueforge/commit/9c466275a0055cf87b5b6011fd82ce1d11285f2b"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/truefoundry/trueforge">truefoundry/trueforge</a></p>
+      <h1>trueforge · Aligning TrueForge SDK documentation with the runtime contract</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>TrueForge custom-host examples suggested that streaming events accepted arbitrary names, that agent search returned an array, and that offset-based pagination types were public. These discrepancies made it easy to copy code that did not match the supported SDK surface.</p>
+      <h2>Engineering response</h2>
+      <p>The merged documentation describes the discriminated streaming event union, points to the public UI import, and preserves the need to validate network JSON. The agent search example now returns ListResult with a page token, and the custom-host reference lists the existing optional ports and context hooks.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull requests describe comparisons with runtime types and package exports, with documentation consistency checks failing on the unchanged base and passing after correction. The evidence covers reference accuracy. Full workspace and documentation rendering checks were outside the reported validation.</p>
+      <ul><li><a href="https://github.com/truefoundry/trueforge/pull/1034">Merged upstream PR #1034</a></li><li><a href="https://github.com/truefoundry/trueforge/pull/1032">Merged upstream PR #1032</a></li><li><a href="https://github.com/truefoundry/trueforge/pull/1035">Merged upstream PR #1035</a></li><li><a href="https://github.com/truefoundry/trueforge/commit/9c466275a0055cf87b5b6011fd82ce1d11285f2b">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

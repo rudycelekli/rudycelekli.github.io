@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mcporter case study | Rudy Celekli</title>
+  <meta name="description" content="Passing explicit empty values through the MCPorter CLI. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/openclaw/mcporter.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "mcporter · Passing explicit empty values through the MCPorter CLI", "description": "Passing explicit empty values through the MCPorter CLI. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/openclaw/mcporter.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "openclaw/mcporter", "codeRepository": "https://github.com/openclaw/mcporter"}, "citation": ["https://github.com/openclaw/mcporter/commit/fe1d18dbda3e7770229b55d91784fa401241e60f", "https://github.com/openclaw/mcporter/pull/412", "https://github.com/openclaw/mcporter/commit/2de94ad65dce40241ae8188cbe99b4e488a9b921"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/openclaw/mcporter">openclaw/mcporter</a></p>
+      <h1>mcporter · Passing explicit empty values through the MCPorter CLI</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The CLI discarded empty positional strings after the literal separator. A caller sending an explicit empty text value to an MCP tool therefore sent an absent argument, which the server schema rejected.</p>
+      <h2>Engineering response</h2>
+      <p>The upstream consolidation incorporates the fix from PR #412, preserving argument positions after the literal separator, including empty strings and flag-like values intended as tool input.</p>
+      <h2>Evidence and scope</h2>
+      <p>The original PR records a real CLI subprocess and local SDK echo server. The baseline rejects the missing string, while the patched request returns an empty text item. The credited upstream consolidation reports 2,128 passing tests and exact-head cross-platform CI.</p>
+      <ul><li><a href="https://github.com/openclaw/mcporter/commit/fe1d18dbda3e7770229b55d91784fa401241e60f">Co-authored upstream commit fe1d18dbda3e</a></li><li><a href="https://github.com/openclaw/mcporter/pull/412">Original contribution PR #412</a></li><li><a href="https://github.com/openclaw/mcporter/commit/2de94ad65dce40241ae8188cbe99b4e488a9b921">Co-authored upstream commit 2de94ad65dce</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

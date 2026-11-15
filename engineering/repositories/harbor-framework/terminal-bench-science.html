@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>terminal-bench-science case study | Rudy Celekli</title>
+  <meta name="description" content="Reject non-finite numbers in a scientific benchmark evaluator. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/harbor-framework/terminal-bench-science.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "terminal-bench-science · Reject non-finite numbers in a scientific benchmark evaluator", "description": "Reject non-finite numbers in a scientific benchmark evaluator. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/harbor-framework/terminal-bench-science.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "harbor-framework/terminal-bench-science", "codeRepository": "https://github.com/harbor-framework/terminal-bench-science"}, "citation": ["https://github.com/harbor-framework/terminal-bench-science/pull/2038", "https://github.com/harbor-framework/terminal-bench-science/commit/efe5a7bbcbde5c68cd15af6dc3cf23bdf1ec2786"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/harbor-framework/terminal-bench-science">harbor-framework/terminal-bench-science</a></p>
+      <h1>terminal-bench-science · Reject non-finite numbers in a scientific benchmark evaluator</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A scientific output verifier parsed floating-point values and accepted non-finite representations as numeric findings. That let malformed values satisfy the shape of a finding without providing a usable estimate.</p>
+      <h2>Engineering response</h2>
+      <p>Check finiteness after numeric parsing and retain the benchmark&#x27;s existing missing-value path. Leave the scientific scoring method and admissible finite values unchanged.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports negative controls for non-finite and overflow values, plus passing finite and missing-value controls. The evidence is local verifier testing.</p>
+      <ul><li><a href="https://github.com/harbor-framework/terminal-bench-science/pull/2038">harbor-framework/terminal-bench-science merged pull request #2038</a></li><li><a href="https://github.com/harbor-framework/terminal-bench-science/commit/efe5a7bbcbde5c68cd15af6dc3cf23bdf1ec2786">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

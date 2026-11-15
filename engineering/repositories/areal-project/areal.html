@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AReaL case study | Rudy Celekli</title>
+  <meta name="description" content="Passing local worker environment values without losing delimiters. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/areal-project/areal.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AReaL · Passing local worker environment values without losing delimiters", "description": "Passing local worker environment values without losing delimiters. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/areal-project/areal.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "areal-project/AReaL", "codeRepository": "https://github.com/areal-project/AReaL"}, "citation": ["https://github.com/areal-project/AReaL/pull/1803", "https://github.com/areal-project/AReaL/commit/abace78b4ea53d47e7e1fe6872bd29450bb1f1a8"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/areal-project/AReaL">areal-project/AReaL</a></p>
+      <h1>AReaL · Passing local worker environment values without losing delimiters</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The local scheduler serialized an environment dictionary into comma-separated key-value pairs. Commas in CUDA allocator settings and equals signs within values could then cause splitting errors before the worker launched.</p>
+      <h2>Engineering response</h2>
+      <p>The local scheduler passes the original mapping into the launcher utilities. The string interface remains available and splits a pair only on its first equals sign.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports nine passing launcher tests, including two cases that fail without the correction. This validation runs in CPU-only tests and does not exercise launching a GPU worker.</p>
+      <ul><li><a href="https://github.com/areal-project/AReaL/pull/1803">Merged upstream PR #1803</a></li><li><a href="https://github.com/areal-project/AReaL/commit/abace78b4ea53d47e7e1fe6872bd29450bb1f1a8">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

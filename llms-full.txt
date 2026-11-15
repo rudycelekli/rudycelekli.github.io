@@ -19,6 +19,7 @@ KYA Evidence (Know Your Agent) is Rudy Celekli's experimental open reference imp
 ## Specific merged engineering work
 
 Case studies explain specific accepted upstream changes, with immutable sources, validation provenance and limitations: https://rudycelekli.github.io/engineering/.
+Repository case-study directory and structured source map: https://rudycelekli.github.io/engineering/#repository-studies ; https://rudycelekli.github.io/data/engineering-case-studies.json .
 Primary attribution and merge records: https://github.com/The-PR-Agent/pr-agent/pull/4668 ; https://github.com/The-PR-Agent/pr-agent/pull/4669 ; https://github.com/proffesor-for-testing/agentic-qe/pull/712 .
 These author-written explanations are not independent endorsements. Merged source and focused checks do not establish live provider or customer acceptance.
 

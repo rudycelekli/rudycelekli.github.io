@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VLMEvalKit case study | Rudy Celekli</title>
+  <meta name="description" content="Count failed video-model API responses as incorrect. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/open-compass/vlmevalkit.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "VLMEvalKit · Count failed video-model API responses as incorrect", "description": "Count failed video-model API responses as incorrect. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/open-compass/vlmevalkit.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "open-compass/VLMEvalKit", "codeRepository": "https://github.com/open-compass/VLMEvalKit"}, "citation": ["https://github.com/open-compass/VLMEvalKit/pull/1804", "https://github.com/open-compass/VLMEvalKit/commit/0ba36c7901e859c5337f71b059e0cedf0dee3f88"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/open-compass/VLMEvalKit">open-compass/VLMEvalKit</a></p>
+      <h1>VLMEvalKit · Count failed video-model API responses as incorrect</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>VLMEvalKit marked failed API predictions with a score of minus one. Video benchmark aggregation used truthiness, so that sentinel boosted accuracy instead of registering a failed prediction.</p>
+      <h2>Engineering response</h2>
+      <p>Count a prediction as correct only when its score is exactly one, while keeping failed rows in the denominator. Align overall and per-dimension aggregation with the correctness predicate.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR records two before-and-after aggregation tests. In the fixture, one correct result out of four was previously displayed as 75% and now computes to 25%.</p>
+      <ul><li><a href="https://github.com/open-compass/VLMEvalKit/pull/1804">open-compass/VLMEvalKit merged pull request #1804</a></li><li><a href="https://github.com/open-compass/VLMEvalKit/commit/0ba36c7901e859c5337f71b059e0cedf0dee3f88">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

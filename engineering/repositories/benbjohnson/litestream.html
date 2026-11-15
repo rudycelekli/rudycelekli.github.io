@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>litestream case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping Litestream&#x27;s WAL read lock through request cancellation. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/benbjohnson/litestream.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "litestream · Keeping Litestream's WAL read lock through request cancellation", "description": "Keeping Litestream's WAL read lock through request cancellation. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/benbjohnson/litestream.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "benbjohnson/litestream", "codeRepository": "https://github.com/benbjohnson/litestream"}, "citation": ["https://github.com/benbjohnson/litestream/pull/1579", "https://github.com/benbjohnson/litestream/commit/f282d0ef6815570235ca09ecbb53e81568acc5e7"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/benbjohnson/litestream">benbjohnson/litestream</a></p>
+      <h1>litestream · Keeping Litestream&#x27;s WAL read lock through request cancellation</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A control-socket sync could open a long-lived SQLite read transaction using the short-lived request context. On return, database/sql rolled the transaction back while Litestream still held a pointer and treated the lock as active. Automatic checkpointing could then restart the WAL before replication read the newest frames.</p>
+      <h2>Engineering response</h2>
+      <p>The change gives the read transaction a lifetime independent of the caller&#x27;s cancellation, so it remains active until Litestream&#x27;s lock management finishes with it.</p>
+      <h2>Evidence and scope</h2>
+      <p>The linked issue reproduction ran twice per binary. The PR records WAL restart and failing replica integrity checks for TXIDs 3 through 6 in both baseline runs, with neither failure in the two candidate runs. This evidence covers the reproduced control-socket setup.</p>
+      <ul><li><a href="https://github.com/benbjohnson/litestream/pull/1579">Merged upstream PR #1579</a></li><li><a href="https://github.com/benbjohnson/litestream/commit/f282d0ef6815570235ca09ecbb53e81568acc5e7">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

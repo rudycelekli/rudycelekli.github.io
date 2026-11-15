@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>goplaces case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping proxy queries and request paths distinct in goplaces. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/openclaw/goplaces.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "goplaces · Keeping proxy queries and request paths distinct in goplaces", "description": "Keeping proxy queries and request paths distinct in goplaces. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/openclaw/goplaces.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "openclaw/goplaces", "codeRepository": "https://github.com/openclaw/goplaces"}, "citation": ["https://github.com/openclaw/goplaces/commit/a0c86133c51ea8afcbac10510871fb18cafd03a4", "https://github.com/openclaw/goplaces/pull/74", "https://github.com/openclaw/goplaces/commit/c0d34c24ef6579cd28763d3b035ca676bc471162"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/openclaw/goplaces">openclaw/goplaces</a></p>
+      <h1>goplaces · Keeping proxy queries and request paths distinct in goplaces</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Appending a Places endpoint suffix to the raw base URL could put the operation into a proxy query parameter. An override such as /v1/?tenant=one acquired a modified tenant value instead of dispatching to the intended Places operation.</p>
+      <h2>Engineering response</h2>
+      <p>The upstream consolidation integrates the URL fix from PR #74. It joins parsed path components while retaining escaped path segments and existing proxy queries, and distinguishes a Routes base prefix from an already complete computeRoutes endpoint.</p>
+      <h2>Evidence and scope</h2>
+      <p>The original reproduction records loopback HTTP requests from the actual CLI and public Go consumers, plus Go build and race checks. The upstream diff includes an endpoint-query regression and credits the original reports. The loopback fixture uses a dummy credential.</p>
+      <ul><li><a href="https://github.com/openclaw/goplaces/commit/a0c86133c51ea8afcbac10510871fb18cafd03a4">Co-authored upstream commit a0c86133c51e</a></li><li><a href="https://github.com/openclaw/goplaces/pull/74">Original contribution PR #74</a></li><li><a href="https://github.com/openclaw/goplaces/commit/c0d34c24ef6579cd28763d3b035ca676bc471162">Co-authored upstream commit c0d34c24ef65</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

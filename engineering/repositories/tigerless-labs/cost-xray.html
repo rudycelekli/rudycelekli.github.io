@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>cost-xray case study | Rudy Celekli</title>
+  <meta name="description" content="Capture complete server-sent events in cost-xray. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/tigerless-labs/cost-xray.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "cost-xray · Capture complete server-sent events in cost-xray", "description": "Capture complete server-sent events in cost-xray. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/tigerless-labs/cost-xray.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "tigerless-labs/cost-xray", "codeRepository": "https://github.com/tigerless-labs/cost-xray"}, "citation": ["https://github.com/tigerless-labs/cost-xray/pull/40", "https://github.com/tigerless-labs/cost-xray/commit/819b24f7d2e7e28e2c0b189e219af6b15d9ac010"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/tigerless-labs/cost-xray">tigerless-labs/cost-xray</a></p>
+      <h1>cost-xray · Capture complete server-sent events in cost-xray</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>The API-capture path decoded SSE data before it had assembled each full event. A JSON object split across multiple data fields could be lost from the captured stream.</p>
+      <h2>Engineering response</h2>
+      <p>Join data fields according to SSE event boundaries and decode the resulting payload. Continue collecting after non-object events.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a before-and-after regression and 226 passing isolated tests, with two skips. The check uses local inputs and no live provider.</p>
+      <ul><li><a href="https://github.com/tigerless-labs/cost-xray/pull/40">tigerless-labs/cost-xray merged pull request #40</a></li><li><a href="https://github.com/tigerless-labs/cost-xray/commit/819b24f7d2e7e28e2c0b189e219af6b15d9ac010">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

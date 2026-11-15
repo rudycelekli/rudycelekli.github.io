@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>talorys case study | Rudy Celekli</title>
+  <meta name="description" content="Keeping recent edits when importing a Talorys backup. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/rociiu/talorys.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "talorys · Keeping recent edits when importing a Talorys backup", "description": "Keeping recent edits when importing a Talorys backup. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/rociiu/talorys.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "rociiu/talorys", "codeRepository": "https://github.com/rociiu/talorys"}, "citation": ["https://github.com/rociiu/talorys/pull/96", "https://github.com/rociiu/talorys/commit/6114daeb3997160e0e7f08c0af8b15a168d7f4f8"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/rociiu/talorys">rociiu/talorys</a></p>
+      <h1>talorys · Keeping recent edits when importing a Talorys backup</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Importing an older backup could silently replace newer local task, project and note text because their upserts overwrote existing rows without checking recency.</p>
+      <h2>Engineering response</h2>
+      <p>The backup importer updates those three record types only if the incoming timestamp is strictly newer, extending the rule that already protected memory records.</p>
+      <h2>Evidence and scope</h2>
+      <p>A focused regression in the merge record restores stale versions of all three record types and checks that local edits survive. A newer note then confirms that legitimate updates can still import.</p>
+      <ul><li><a href="https://github.com/rociiu/talorys/pull/96">Merged pull request #96</a></li><li><a href="https://github.com/rociiu/talorys/commit/6114daeb3997160e0e7f08c0af8b15a168d7f4f8">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

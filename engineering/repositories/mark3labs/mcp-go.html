@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mcp-go case study | Rudy Celekli</title>
+  <meta name="description" content="Resetting event type at MCP Go stream boundaries. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/mark3labs/mcp-go.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "mcp-go · Resetting event type at MCP Go stream boundaries", "description": "Resetting event type at MCP Go stream boundaries. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/mark3labs/mcp-go.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "mark3labs/mcp-go", "codeRepository": "https://github.com/mark3labs/mcp-go"}, "citation": ["https://github.com/mark3labs/mcp-go/pull/1104", "https://github.com/mark3labs/mcp-go/commit/88246820d7afc7391052380a2d5a7c1d07847a98"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/mark3labs/mcp-go">mark3labs/mcp-go</a></p>
+      <h1>mcp-go · Resetting event type at MCP Go stream boundaries</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A Server-Sent Events block with a type field and no data could leave the type set for the next block. The legacy transport could then discard an ordinary JSON-RPC response under the wrong event name.</p>
+      <h2>Engineering response</h2>
+      <p>Both stream readers clear the event type at every blank-line boundary, including blocks without data, so a later data-only block receives the default message type.</p>
+      <h2>Evidence and scope</h2>
+      <p>The merged record shows a failing regression in each reader before the correction and reports both passing afterward.</p>
+      <ul><li><a href="https://github.com/mark3labs/mcp-go/pull/1104">Merged pull request #1104</a></li><li><a href="https://github.com/mark3labs/mcp-go/commit/88246820d7afc7391052380a2d5a7c1d07847a98">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoiceStudio case study | Rudy Celekli</title>
+  <meta name="description" content="Protecting busy VoiceStudio sidecar processes. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/debpalash/voicestudio.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "VoiceStudio · Protecting busy VoiceStudio sidecar processes", "description": "Protecting busy VoiceStudio sidecar processes. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/debpalash/voicestudio.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "debpalash/VoiceStudio", "codeRepository": "https://github.com/debpalash/VoiceStudio"}, "citation": ["https://github.com/debpalash/VoiceStudio/pull/2515", "https://github.com/debpalash/VoiceStudio/commit/c10868fc9d8522a815223600a66bb10a80558a07"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/debpalash/VoiceStudio">debpalash/VoiceStudio</a></p>
+      <h1>VoiceStudio · Protecting busy VoiceStudio sidecar processes</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>An engine-level unload could kill a sidecar while it was handling a request. A duplicate unload override bypassed the reaper&#x27;s existing operation-lock check.</p>
+      <h2>Engineering response</h2>
+      <p>The engine now reaches the guarded unload path, where busy sidecars remain available and idle ones can shut down and respawn on demand.</p>
+      <h2>Evidence and scope</h2>
+      <p>The PR reports a reproduction using the shipped echo sidecar with its operation lock held and 51 focused checks of the corrected behavior. The offline fixture used native subprocesses and did not perform GPU synthesis.</p>
+      <ul><li><a href="https://github.com/debpalash/VoiceStudio/pull/2515">Merged pull request #2515</a></li><li><a href="https://github.com/debpalash/VoiceStudio/commit/c10868fc9d8522a815223600a66bb10a80558a07">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

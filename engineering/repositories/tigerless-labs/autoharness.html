@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>autoharness case study | Rudy Celekli</title>
+  <meta name="description" content="Read complete provenance records in autoharness. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/tigerless-labs/autoharness.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "autoharness · Read complete provenance records in autoharness", "description": "Read complete provenance records in autoharness. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/tigerless-labs/autoharness.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "tigerless-labs/autoharness", "codeRepository": "https://github.com/tigerless-labs/autoharness"}, "citation": ["https://github.com/tigerless-labs/autoharness/pull/231", "https://github.com/tigerless-labs/autoharness/commit/2c22edbb2420ae474e0a73a34c864b2206e96d79"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/tigerless-labs/autoharness">tigerless-labs/autoharness</a></p>
+      <h1>autoharness · Read complete provenance records in autoharness</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>A provenance reader could open the ledger while the append path was still writing a record. Parsing a partially written entry made concurrent evidence inspection unreliable.</p>
+      <h2>Engineering response</h2>
+      <p>Make reads and appends acquire the same ledger lock. Keep the append-only data format and existing records.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports a baseline regression failure and passing focused and full non-live pytest suites after the change. The tests use temporary files and mocked child processes.</p>
+      <ul><li><a href="https://github.com/tigerless-labs/autoharness/pull/231">tigerless-labs/autoharness merged pull request #231</a></li><li><a href="https://github.com/tigerless-labs/autoharness/commit/2c22edbb2420ae474e0a73a34c864b2206e96d79">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

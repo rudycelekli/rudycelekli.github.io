@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>agent-beacon case study | Rudy Celekli</title>
+  <meta name="description" content="Preserve exact JSON-RPC IDs through agent-beacon. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/asymptote-labs/agent-beacon.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "agent-beacon · Preserve exact JSON-RPC IDs through agent-beacon", "description": "Preserve exact JSON-RPC IDs through agent-beacon. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/asymptote-labs/agent-beacon.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "Asymptote-Labs/agent-beacon", "codeRepository": "https://github.com/Asymptote-Labs/agent-beacon"}, "citation": ["https://github.com/Asymptote-Labs/agent-beacon/pull/1126", "https://github.com/Asymptote-Labs/agent-beacon/commit/6962c4d6bc65d470e5f4f3d76c3689fce243be35"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/Asymptote-Labs/agent-beacon">Asymptote-Labs/agent-beacon</a></p>
+      <h1>agent-beacon · Preserve exact JSON-RPC IDs through agent-beacon</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Decoding a request ID through float64 rounded some large integers. Two distinct client requests could receive the same response ID, interfering with response routing.</p>
+      <h2>Engineering response</h2>
+      <p>Retain numbers as json.Number and echo their exact JSON value in success and error responses. String IDs and dispatch behavior continue to use the existing path.</p>
+      <h2>Evidence and scope</h2>
+      <p>The pull request reports 24 transport cases through stdio and loopback HTTP, with eight baseline failures. The fixed package passed its ordinary and race checks locally.</p>
+      <ul><li><a href="https://github.com/Asymptote-Labs/agent-beacon/pull/1126">Asymptote-Labs/agent-beacon merged pull request #1126</a></li><li><a href="https://github.com/Asymptote-Labs/agent-beacon/commit/6962c4d6bc65d470e5f4f3d76c3689fce243be35">Merged source revision</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>

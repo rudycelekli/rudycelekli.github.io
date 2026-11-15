@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>graphify case study | Rudy Celekli</title>
+  <meta name="description" content="Resolving Python graph edges to the method named in source. A case study in Rudy Celekli’s engineering portfolio.">
+  <link rel="canonical" href="https://rudycelekli.github.io/engineering/repositories/graphify-labs/graphify.html">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/cases.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "graphify · Resolving Python graph edges to the method named in source", "description": "Resolving Python graph edges to the method named in source. A case study in Rudy Celekli’s engineering portfolio.", "mainEntityOfPage": "https://rudycelekli.github.io/engineering/repositories/graphify-labs/graphify.html", "publisher": {"@type": "Person", "@id": "https://rudycelekli.github.io/#rudy", "name": "Rudy Celekli"}, "about": {"@type": "SoftwareSourceCode", "name": "Graphify-Labs/graphify", "codeRepository": "https://github.com/Graphify-Labs/graphify"}, "citation": ["https://github.com/Graphify-Labs/graphify/commit/6e75b42147956fa1b025a221ad228e10323950f9", "https://github.com/Graphify-Labs/graphify/commit/91c8954345908fcca1379064143ccafc0b0c0741", "https://github.com/Graphify-Labs/graphify/commit/4c7d710f75601207b9e5a968709d1e0a5741415d"]}</script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="/"><span class="wordmark-mark" aria-hidden="true">RC</span> Rudy Celekli</a>
+    <nav class="masthead-nav" aria-label="Engineering navigation">
+      <a href="/engineering/">Case studies</a>
+      <a href="/contributions.html">Contributions</a>
+    </nav>
+  </header>
+  <main class="repository-study">
+    <article>
+      <p class="eyebrow">Upstream contribution · <a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a></p>
+      <h1>graphify · Resolving Python graph edges to the method named in source</h1>
+      <p class="study-author"><a href="/">Rudy Celekli’s engineering portfolio</a> · AI-assisted summary</p>
+      <h2>Problem</h2>
+      <p>Graphify assigned separate identifiers to methods such as run and _run, but the member-call resolver folded the names together when choosing a target. A valid call could therefore point to the wrong node in the graph.</p>
+      <h2>Engineering response</h2>
+      <p>The attributed fix resolves a member call using the method spelling. Related commits harden evidence checks for mis-cased confidence values and keep parallel relations when exporting Obsidian notes.</p>
+      <h2>Evidence and scope</h2>
+      <p>The upstream commit records preserve the implementation and attribution. The cases concern graph fidelity at extraction and export boundaries, and provide no measured claim about retrieval performance.</p>
+      <ul><li><a href="https://github.com/Graphify-Labs/graphify/commit/6e75b42147956fa1b025a221ad228e10323950f9">Attributed upstream commit 6e75b4214795</a></li><li><a href="https://github.com/Graphify-Labs/graphify/commit/91c8954345908fcca1379064143ccafc0b0c0741">Attributed upstream commit 91c895434590</a></li><li><a href="https://github.com/Graphify-Labs/graphify/commit/4c7d710f75601207b9e5a968709d1e0a5741415d">Attributed upstream commit 4c7d710f7560</a></li></ul>
+    </article>
+    <footer><a href="/engineering/#repository-studies">Browse all repository case studies</a></footer>
+  </main>
+</body>
+</html>
