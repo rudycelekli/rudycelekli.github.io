@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-14T15:29:04Z</updated>
+  <updated>2026-11-15T02:25:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ag-ui-protocol/ag-ui #3186: fix(go): keep pendingToolCallIds on the RUN_FINISHED success outcome</title>
+    <id>https://github.com/ag-ui-protocol/ag-ui/pull/3186</id>
+    <link href="https://github.com/ag-ui-protocol/ag-ui/pull/3186"/>
+    <updated>2026-11-15T02:25:28Z</updated>
+    <summary>Merged public contribution. +37 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ag-ui-protocol/ag-ui #3185: fix(go): carry cacheWriteInputTokens in TokenUsage</title>
+    <id>https://github.com/ag-ui-protocol/ag-ui/pull/3185</id>
+    <link href="https://github.com/ag-ui-protocol/ag-ui/pull/3185"/>
+    <updated>2026-11-15T02:24:25Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ag-ui-protocol/ag-ui #3184: fix(go): always write the required value on CUSTOM events</title>
+    <id>https://github.com/ag-ui-protocol/ag-ui/pull/3184</id>
+    <link href="https://github.com/ag-ui-protocol/ag-ui/pull/3184"/>
+    <updated>2026-11-15T02:23:31Z</updated>
+    <summary>Merged public contribution. +37 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ag-ui-protocol/ag-ui #3179: fix(go): decode every protocol event type in JSONDecoder</title>
+    <id>https://github.com/ag-ui-protocol/ag-ui/pull/3179</id>
+    <link href="https://github.com/ag-ui-protocol/ag-ui/pull/3179"/>
+    <updated>2026-11-15T02:20:59Z</updated>
+    <summary>Merged public contribution. +358 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2788: fix(execd): reuse upstream connections in the /proxy route</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2788</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2802"/>
     <updated>2026-11-13T00:22:26Z</updated>
     <summary>Merged public contribution. +7 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2024: [TASK FIX] duan-thesis: allow PDF extraction tooling</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2024</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2024"/>
-    <updated>2026-11-13T00:18:10Z</updated>
-    <summary>Merged public contribution. +0 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>akitaonrails/ai-memory #2215: fix(web): render an unreadable storage read as unknown, not zero</title>
-    <id>https://github.com/akitaonrails/ai-memory/pull/2215</id>
-    <link href="https://github.com/akitaonrails/ai-memory/pull/2215"/>
-    <updated>2026-11-13T00:14:54Z</updated>
-    <summary>Merged public contribution. +153 / -19 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2746: fix(cli): show the next cursor in command logs table output</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2746</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2746"/>
-    <updated>2026-11-13T00:07:11Z</updated>
-    <summary>Merged public contribution. +44 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2753: fix(server): compare Windows size minimums before rounding</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2753</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2753"/>
-    <updated>2026-11-13T00:06:51Z</updated>
-    <summary>Merged public contribution. +41 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

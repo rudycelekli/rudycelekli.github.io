@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,814**
+Records: **3,818**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [#3186: fix(go): keep pendingToolCallIds on the RUN_FINISHED success outcome](https://github.com/ag-ui-protocol/ag-ui/pull/3186) | +37 / -0 across 2 files | 1 reviews · 3 comments |
+| 2026-11-15 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [#3185: fix(go): carry cacheWriteInputTokens in TokenUsage](https://github.com/ag-ui-protocol/ag-ui/pull/3185) | +27 / -0 across 2 files | 1 reviews · 3 comments |
+| 2026-11-15 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [#3184: fix(go): always write the required value on CUSTOM events](https://github.com/ag-ui-protocol/ag-ui/pull/3184) | +37 / -2 across 2 files | 1 reviews · 3 comments |
+| 2026-11-15 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [#3179: fix(go): decode every protocol event type in JSONDecoder](https://github.com/ag-ui-protocol/ag-ui/pull/3179) | +358 / -0 across 2 files | 5 reviews · 3 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2788: fix(execd): reuse upstream connections in the /proxy route](https://github.com/opensandbox-group/OpenSandbox/pull/2788) | +55 / -9 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2780: fix(helm): grant the controller pods/exec for the Restart recycle strategy](https://github.com/opensandbox-group/OpenSandbox/pull/2780) | +63 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-14 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2782: fix(execd): fail fast with 400 when a code context cwd is unusable](https://github.com/opensandbox-group/OpenSandbox/pull/2782) | +53 / -3 across 5 files | 2 reviews · 1 comments |
