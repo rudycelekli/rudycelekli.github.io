@@ -4,10 +4,20 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,821**
+Records: **3,831**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2749: fix(server): reject subPath traversal through backslashes](https://github.com/opensandbox-group/OpenSandbox/pull/2749) | +20 / -2 across 2 files | 3 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2760: fix(execd): reject invalid isolated-session search globs](https://github.com/opensandbox-group/OpenSandbox/pull/2760) | +96 / -0 across 6 files | 4 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2778: fix(server): keep secure_access signing keys out of config validation errors](https://github.com/opensandbox-group/OpenSandbox/pull/2778) | +28 / -3 across 2 files | 3 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2779: fix(execd): keep $ literal in paths when it names no variable](https://github.com/opensandbox-group/OpenSandbox/pull/2779) | +41 / -2 across 3 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2798: fix(ingress): drop the stale Content-Length from a relayed WebSocket handshake rejection](https://github.com/opensandbox-group/OpenSandbox/pull/2798) | +35 / -0 across 2 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2786: fix(server): let docker.pids_limit = 0 disable the PID limit](https://github.com/opensandbox-group/OpenSandbox/pull/2786) | +40 / -5 across 5 files | 4 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2790: fix(server): return 400 for a malformed template list metadata filter](https://github.com/opensandbox-group/OpenSandbox/pull/2790) | +26 / -2 across 2 files | 3 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2697: fix(sdk-python): propagate code-interpreter handler exceptions](https://github.com/opensandbox-group/OpenSandbox/pull/2697) | +73 / -4 across 3 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2796: fix(server): return SANDBOX::INVALID_METADATA_LABEL for reserved Docker metadata patch keys](https://github.com/opensandbox-group/OpenSandbox/pull/2796) | +33 / -1 across 2 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2793: fix(server): return SANDBOX::INVALID_METADATA_LABEL for reserved metadata patch keys](https://github.com/opensandbox-group/OpenSandbox/pull/2793) | +4 / -1 across 2 files | 2 reviews · 1 comments |
 | 2026-11-15 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1848: Show how to retry when project approvals refuse a builder action (R2.9)](https://github.com/storytold/craft-anything/pull/1848) | +64 / -18 across 4 files | 1 reviews · 1 comments |
 | 2026-11-15 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | [#1841: Let people set an AI backend’s request rate in Settings](https://github.com/storytold/craft-anything/pull/1841) | +152 / -3 across 10 files | 1 reviews · 3 comments |
 | 2026-11-15 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3210: fix(review): Mod+Shift+Enter opens the note composer, it no longer posts](https://github.com/backnotprop/plannotator/pull/3210) | +46 / -1 across 3 files | 0 reviews · 0 comments |
