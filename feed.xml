@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-15T16:58:56Z</updated>
+  <updated>2026-11-15T19:50:31Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>maziyarpanahi/openmed #4190: feat(service): expose standard gRPC health readiness (#3917)</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4190</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4190"/>
+    <updated>2026-11-15T19:50:31Z</updated>
+    <summary>Merged public contribution. +411 / -8 across 10 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4170: test: add bounded service resource recovery soak profiles</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4170</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4170"/>
+    <updated>2026-11-15T19:50:31Z</updated>
+    <summary>Merged public contribution. +581 / -0 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>maziyarpanahi/openmed #4156: fix: release owned web inference resources safely</title>
+    <id>https://github.com/maziyarpanahi/openmed/pull/4156</id>
+    <link href="https://github.com/maziyarpanahi/openmed/pull/4156"/>
+    <updated>2026-11-15T19:50:31Z</updated>
+    <summary>Merged public contribution. +525 / -60 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>latent-spaces/brag #96: docs(audio): state that keypress wavs sit outside the SFX analysis</title>
     <id>https://github.com/latent-spaces/brag/pull/96</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/we-promise/sure/pull/4985"/>
     <updated>2026-11-14T07:03:33Z</updated>
     <summary>Merged public contribution. +5 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #786: fix(constraint-driven-development): run dependency-cruiser so the architecture gate can fail</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/786</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/786"/>
-    <updated>2026-11-14T04:26:32Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>addyosmani/agent-skills #787: fix(security-and-hardening): fail at startup when SESSION_SECRET is missing</title>
-    <id>https://github.com/addyosmani/agent-skills/pull/787</id>
-    <link href="https://github.com/addyosmani/agent-skills/pull/787"/>
-    <updated>2026-11-14T04:26:26Z</updated>
-    <summary>Merged public contribution. +3 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2807: fix(sdk): require a confirmed zero exit for code-interpreter runtime probes</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2807</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2807"/>
-    <updated>2026-11-13T11:39:10Z</updated>
-    <summary>Merged public contribution. +101 / -16 across 8 changed files.</summary>
   </entry>
 </feed>

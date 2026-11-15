@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 411,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 10,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-13T12:15:09Z",
+      "deletions": 8,
+      "merged_at": "2026-11-15T19:50:31Z",
+      "number": 4190,
+      "repository": "maziyarpanahi/openmed",
+      "repository_url": "https://github.com/maziyarpanahi/openmed",
+      "reviews": 0,
+      "title": "feat(service): expose standard gRPC health readiness (#3917)",
+      "url": "https://github.com/maziyarpanahi/openmed/pull/4190"
+    },
+    {
+      "additions": 581,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-13T10:49:52Z",
+      "deletions": 0,
+      "merged_at": "2026-11-15T19:50:31Z",
+      "number": 4170,
+      "repository": "maziyarpanahi/openmed",
+      "repository_url": "https://github.com/maziyarpanahi/openmed",
+      "reviews": 0,
+      "title": "test: add bounded service resource recovery soak profiles",
+      "url": "https://github.com/maziyarpanahi/openmed/pull/4170"
+    },
+    {
+      "additions": 525,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 8,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-10-13T06:07:06Z",
+      "deletions": 60,
+      "merged_at": "2026-11-15T19:50:31Z",
+      "number": 4156,
+      "repository": "maziyarpanahi/openmed",
+      "repository_url": "https://github.com/maziyarpanahi/openmed",
+      "reviews": 0,
+      "title": "fix: release owned web inference resources safely",
+      "url": "https://github.com/maziyarpanahi/openmed/pull/4156"
+    },
+    {
       "additions": 2,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -61552,7 +61600,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3845,
+  "record_count": 3848,
   "schema_version": 1,
   "updated_at_utc": "2026-11-15"
 }
