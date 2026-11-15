@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,831**
+Records: **3,834**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2801: fix(server): reject a pool capacity whose bufferMin exceeds bufferMax](https://github.com/opensandbox-group/OpenSandbox/pull/2801) | +55 / -0 across 2 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2806: fix(ingress): reject a signed port segment in a route](https://github.com/opensandbox-group/OpenSandbox/pull/2806) | +23 / -0 across 3 files | 2 reviews · 1 comments |
+| 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2744: fix(cli): show the parser error for a bad credential vault payload](https://github.com/opensandbox-group/OpenSandbox/pull/2744) | +20 / -1 across 2 files | 3 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2749: fix(server): reject subPath traversal through backslashes](https://github.com/opensandbox-group/OpenSandbox/pull/2749) | +20 / -2 across 2 files | 3 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2760: fix(execd): reject invalid isolated-session search globs](https://github.com/opensandbox-group/OpenSandbox/pull/2760) | +96 / -0 across 6 files | 4 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2778: fix(server): keep secure_access signing keys out of config validation errors](https://github.com/opensandbox-group/OpenSandbox/pull/2778) | +28 / -3 across 2 files | 3 reviews · 1 comments |
