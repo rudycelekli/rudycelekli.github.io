@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 12,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-09T14:51:52Z",
+      "deletions": 12,
+      "merged_at": "2026-11-15T16:25:52Z",
+      "number": 77,
+      "repository": "latent-spaces/brag",
+      "repository_url": "https://github.com/latent-spaces/brag",
+      "reviews": 0,
+      "title": "fix(docs): give each gallery video its own accessible name",
+      "url": "https://github.com/latent-spaces/brag/pull/77"
+    },
+    {
+      "additions": 3,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-09T14:50:49Z",
+      "deletions": 0,
+      "merged_at": "2026-11-15T16:22:36Z",
+      "number": 75,
+      "repository": "latent-spaces/brag",
+      "repository_url": "https://github.com/latent-spaces/brag",
+      "reviews": 0,
+      "title": "fix: keep brag-slim skill symlinks from being rewritten",
+      "url": "https://github.com/latent-spaces/brag/pull/75"
+    },
+    {
       "additions": 55,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -61376,7 +61408,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3834,
+  "record_count": 3836,
   "schema_version": 1,
   "updated_at_utc": "2026-11-15"
 }

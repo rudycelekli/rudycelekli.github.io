@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,834**
+Records: **3,836**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#77: fix(docs): give each gallery video its own accessible name](https://github.com/latent-spaces/brag/pull/77) | +12 / -12 across 1 files | 0 reviews · 1 comments |
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#75: fix: keep brag-slim skill symlinks from being rewritten](https://github.com/latent-spaces/brag/pull/75) | +3 / -0 across 1 files | 0 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2801: fix(server): reject a pool capacity whose bufferMin exceeds bufferMax](https://github.com/opensandbox-group/OpenSandbox/pull/2801) | +55 / -0 across 2 files | 2 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2806: fix(ingress): reject a signed port segment in a route](https://github.com/opensandbox-group/OpenSandbox/pull/2806) | +23 / -0 across 3 files | 2 reviews · 1 comments |
 | 2026-11-15 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2744: fix(cli): show the parser error for a bad credential vault payload](https://github.com/opensandbox-group/OpenSandbox/pull/2744) | +20 / -1 across 2 files | 3 reviews · 1 comments |
