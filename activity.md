@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-15 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,844**
+Records: **3,845**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#96: docs(audio): state that keypress wavs sit outside the SFX analysis](https://github.com/latent-spaces/brag/pull/96) | +2 / -0 across 1 files | 0 reviews · 1 comments |
 | 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#95: docs(skill): state the pixel size of each video format](https://github.com/latent-spaces/brag/pull/95) | +4 / -0 across 2 files | 0 reviews · 1 comments |
 | 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#104: feat(plugin): mention /brag-slim in the plugin manifests](https://github.com/latent-spaces/brag/pull/104) | +8 / -8 across 4 files | 0 reviews · 1 comments |
 | 2026-11-15 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [#87: docs: correct Codex, opencode, and brag-slim install notes](https://github.com/latent-spaces/brag/pull/87) | +7 / -0 across 1 files | 0 reviews · 1 comments |
