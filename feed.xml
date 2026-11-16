@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-15T20:53:11Z</updated>
+  <updated>2026-11-16T01:01:19Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>backnotprop/plannotator #3401: Add a rolling three-day Inbox update filter</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3401</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3401"/>
+    <updated>2026-11-16T01:01:19Z</updated>
+    <summary>Merged public contribution. +17 / -8 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>backnotprop/plannotator #3213: Guide viewer: a link's URL keeps its own closing paren</title>
     <id>https://github.com/backnotprop/plannotator/pull/3213</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2792"/>
     <updated>2026-11-14T15:25:38Z</updated>
     <summary>Merged public contribution. +25 / -2 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2800: fix(sdk-kotlin): keep the first SSE event after a leading UTF-8 BOM</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2800</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2800"/>
-    <updated>2026-11-14T15:25:12Z</updated>
-    <summary>Merged public contribution. +46 / -3 across 6 changed files.</summary>
   </entry>
 </feed>

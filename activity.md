@@ -1,13 +1,14 @@
 # Public merged contribution activity for Rudy Mizrahi Celekli
 
-Evidence timestamp: **2026-11-15 UTC**
+Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,856**
+Records: **3,857**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3401: Add a rolling three-day Inbox update filter](https://github.com/backnotprop/plannotator/pull/3401) | +17 / -8 across 3 files | 0 reviews · 0 comments |
 | 2026-11-15 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3213: Guide viewer: a link's URL keeps its own closing paren](https://github.com/backnotprop/plannotator/pull/3213) | +27 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#492: fix(ruby): send required source_id when creating a relationship](https://github.com/raphaelmansuy/edgequake/pull/492) | +16 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-11-15 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | [#491: fix(python): match server contract for relationship create and decode](https://github.com/raphaelmansuy/edgequake/pull/491) | +131 / -18 across 3 files | 0 reviews · 0 comments |
