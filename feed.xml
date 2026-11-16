@@ -4,8 +4,78 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T15:44:36Z</updated>
+  <updated>2026-11-16T16:10:45Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ersinkoc/phonebox #143: Start the Unix desktop agent even when the optional APK download fails</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/143</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/143"/>
+    <updated>2026-11-16T16:10:45Z</updated>
+    <summary>Merged public contribution. +125 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #116: Settings: reject a stale save after the config file is deleted</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/116</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/116"/>
+    <updated>2026-11-16T16:10:33Z</updated>
+    <summary>Merged public contribution. +50 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #147: Release the Media volume slider after cancelled drags</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/147</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/147"/>
+    <updated>2026-11-16T16:06:01Z</updated>
+    <summary>Merged public contribution. +68 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #146: Refresh Air Quality when the weather location changes</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/146</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/146"/>
+    <updated>2026-11-16T16:05:48Z</updated>
+    <summary>Merged public contribution. +86 / -22 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #145: Show unavailable changes for incomplete exchange rates</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/145</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/145"/>
+    <updated>2026-11-16T16:05:34Z</updated>
+    <summary>Merged public contribution. +34 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #142: Keep one invalid duration from dropping the whole calendar feed</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/142</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/142"/>
+    <updated>2026-11-16T16:05:21Z</updated>
+    <summary>Merged public contribution. +30 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #141: Bound GitHub CLI refreshes and reap cancelled processes</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/141</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/141"/>
+    <updated>2026-11-16T16:05:08Z</updated>
+    <summary>Merged public contribution. +52 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #140: Keep seasonal calendar recurrences in their selected months</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/140</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/140"/>
+    <updated>2026-11-16T16:04:53Z</updated>
+    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #139: Push data: save pending readings before the agent restarts</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/139</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/139"/>
+    <updated>2026-11-16T16:04:41Z</updated>
+    <summary>Merged public contribution. +56 / -12 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #144: Settings: let a relative config filename save in the current directory</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/144</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/144"/>
+    <updated>2026-11-16T16:04:28Z</updated>
+    <summary>Merged public contribution. +27 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>ersinkoc/phonebox #138: Keep Unix uninstall help and typos from removing PhoneBox</title>
     <id>https://github.com/ersinkoc/phonebox/pull/138</id>
@@ -285,75 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/105"/>
     <updated>2026-11-16T12:48:10Z</updated>
     <summary>Merged public contribution. +43 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #96: fix(engine): require boolean hunt and validation verdicts</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/96</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/96"/>
-    <updated>2026-11-16T12:48:06Z</updated>
-    <summary>Merged public contribution. +51 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #104: fix(install): restore Python-backed features in the PowerShell installer</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/104</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/104"/>
-    <updated>2026-11-16T12:44:36Z</updated>
-    <summary>Merged public contribution. +36 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #97: fix(install): preserve skills in harnesses the installer never targeted</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/97</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/97"/>
-    <updated>2026-11-16T12:44:32Z</updated>
-    <summary>Merged public contribution. +73 / -21 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #127: fix(research): rank reports without crashing on numeric strings</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/127</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/127"/>
-    <updated>2026-11-16T12:08:23Z</updated>
-    <summary>Merged public contribution. +27 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #125: fix(research): distinguish HackerOne GraphQL errors from an empty feed</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/125</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/125"/>
-    <updated>2026-11-16T12:08:19Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #124: fix(cli): report incompatible recon manifest shapes</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/124</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/124"/>
-    <updated>2026-11-16T12:08:14Z</updated>
-    <summary>Merged public contribution. +31 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #123: fix(engine): honor the ledger GC rotation threshold</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/123</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/123"/>
-    <updated>2026-11-16T12:08:10Z</updated>
-    <summary>Merged public contribution. +23 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #120: fix(engine): ignore non-record JSON lines in the engagement ledger</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/120</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/120"/>
-    <updated>2026-11-16T12:08:06Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #119: fix(cli): discover optional recon commands on minimal hosts</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/119</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/119"/>
-    <updated>2026-11-16T12:08:02Z</updated>
-    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #115: fix(cli): retain recon headers regardless of casing</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/115</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/115"/>
-    <updated>2026-11-16T12:07:58Z</updated>
-    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
   </entry>
 </feed>

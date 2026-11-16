@@ -4,10 +4,20 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,922**
+Records: **3,932**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#143: Start the Unix desktop agent even when the optional APK download fails](https://github.com/ersinkoc/phonebox/pull/143) | +125 / -8 across 3 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#116: Settings: reject a stale save after the config file is deleted](https://github.com/ersinkoc/phonebox/pull/116) | +50 / -3 across 2 files | 3 reviews · 2 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#147: Release the Media volume slider after cancelled drags](https://github.com/ersinkoc/phonebox/pull/147) | +68 / -5 across 3 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#146: Refresh Air Quality when the weather location changes](https://github.com/ersinkoc/phonebox/pull/146) | +86 / -22 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#145: Show unavailable changes for incomplete exchange rates](https://github.com/ersinkoc/phonebox/pull/145) | +34 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#142: Keep one invalid duration from dropping the whole calendar feed](https://github.com/ersinkoc/phonebox/pull/142) | +30 / -6 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#141: Bound GitHub CLI refreshes and reap cancelled processes](https://github.com/ersinkoc/phonebox/pull/141) | +52 / -12 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#140: Keep seasonal calendar recurrences in their selected months](https://github.com/ersinkoc/phonebox/pull/140) | +15 / -0 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#139: Push data: save pending readings before the agent restarts](https://github.com/ersinkoc/phonebox/pull/139) | +56 / -12 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#144: Settings: let a relative config filename save in the current directory](https://github.com/ersinkoc/phonebox/pull/144) | +27 / -2 across 3 files | 0 reviews · 2 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#138: Keep Unix uninstall help and typos from removing PhoneBox](https://github.com/ersinkoc/phonebox/pull/138) | +70 / -1 across 3 files | 0 reviews · 1 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#135: End the Agenda window at the actual local day boundary](https://github.com/ersinkoc/phonebox/pull/135) | +75 / -1 across 2 files | 0 reviews · 2 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#132: Reject invalid dates in the Countdown widget](https://github.com/ersinkoc/phonebox/pull/132) | +60 / -2 across 2 files | 1 reviews · 2 comments |
