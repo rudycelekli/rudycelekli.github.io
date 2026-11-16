@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,860**
+Records: **3,861**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2704: fix(server): fall back to the default tenant TTL on a malformed ttl](https://github.com/opensandbox-group/OpenSandbox/pull/2704) | +37 / -2 across 3 files | 3 reviews · 1 comments |
 | 2026-11-16 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3400: Enable Claude Code panel tools and Inbox wakes in Orca](https://github.com/backnotprop/plannotator/pull/3400) | +25 / -15 across 4 files | 0 reviews · 0 comments |
 | 2026-11-16 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3310: install.sh: download the binary from PLANNOTATOR_RELEASE_DOWNLOAD_URL](https://github.com/backnotprop/plannotator/pull/3310) | +80 / -4 across 4 files | 0 reviews · 0 comments |
 | 2026-11-16 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3215: ci: three path gates skipped PRs that break the job they gate](https://github.com/backnotprop/plannotator/pull/3215) | +167 / -6 across 3 files | 0 reviews · 0 comments |
