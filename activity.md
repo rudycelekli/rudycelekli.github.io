@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,917**
+Records: **3,922**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#138: Keep Unix uninstall help and typos from removing PhoneBox](https://github.com/ersinkoc/phonebox/pull/138) | +70 / -1 across 3 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#135: End the Agenda window at the actual local day boundary](https://github.com/ersinkoc/phonebox/pull/135) | +75 / -1 across 2 files | 0 reviews · 2 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#132: Reject invalid dates in the Countdown widget](https://github.com/ersinkoc/phonebox/pull/132) | +60 / -2 across 2 files | 1 reviews · 2 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#134: Show unavailable air quality when the feed has no index](https://github.com/ersinkoc/phonebox/pull/134) | +33 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#133: Keep Time Progress accurate when clocks change](https://github.com/ersinkoc/phonebox/pull/133) | +27 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#130: Keep Smart Stack alarms active across pages](https://github.com/ersinkoc/phonebox/pull/130) | +39 / -10 across 3 files | 0 reviews · 2 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#127: Clean up per-platform staging from local packaging builds](https://github.com/ersinkoc/phonebox/pull/127) | +67 / -4 across 3 files | 0 reviews · 2 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#113: Rebuild stale APKs when installing from Unix source checkouts](https://github.com/ersinkoc/phonebox/pull/113) | +31 / -5 across 2 files | 0 reviews · 1 comments |

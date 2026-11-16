@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T13:54:29Z</updated>
+  <updated>2026-11-16T15:44:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ersinkoc/phonebox #138: Keep Unix uninstall help and typos from removing PhoneBox</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/138</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/138"/>
+    <updated>2026-11-16T15:44:36Z</updated>
+    <summary>Merged public contribution. +70 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #135: End the Agenda window at the actual local day boundary</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/135</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/135"/>
+    <updated>2026-11-16T14:36:39Z</updated>
+    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #132: Reject invalid dates in the Countdown widget</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/132</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/132"/>
+    <updated>2026-11-16T14:36:26Z</updated>
+    <summary>Merged public contribution. +60 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #134: Show unavailable air quality when the feed has no index</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/134</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/134"/>
+    <updated>2026-11-16T14:36:14Z</updated>
+    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #133: Keep Time Progress accurate when clocks change</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/133</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/133"/>
+    <updated>2026-11-16T14:36:02Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>ersinkoc/phonebox #130: Keep Smart Stack alarms active across pages</title>
     <id>https://github.com/ersinkoc/phonebox/pull/130</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/115"/>
     <updated>2026-11-16T12:07:58Z</updated>
     <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #110: fix(install): preserve unrelated startup file lines during uninstall</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/110</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/110"/>
-    <updated>2026-11-16T12:07:53Z</updated>
-    <summary>Merged public contribution. +25 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #108: ci: run offline engine and CLI regressions on runtime changes</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/108</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/108"/>
-    <updated>2026-11-16T12:07:49Z</updated>
-    <summary>Merged public contribution. +63 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #107: fix(scaffold): import recon manifests directly in PowerShell</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/107</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/107"/>
-    <updated>2026-11-16T12:07:46Z</updated>
-    <summary>Merged public contribution. +38 / -22 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #103: fix(engine): reject invalid phase selections before starting</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/103</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/103"/>
-    <updated>2026-11-16T12:07:41Z</updated>
-    <summary>Merged public contribution. +28 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #101: fix(engine): isolate individual worker failures in serial runs</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/101</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/101"/>
-    <updated>2026-11-16T12:07:37Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
