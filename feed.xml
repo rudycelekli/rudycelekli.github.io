@@ -4,8 +4,64 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T21:52:42Z</updated>
+  <updated>2026-11-16T23:11:54Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #147: fix(mcp): preserve malformed JSON configs and continue wiring other harnesses</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/147</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/147"/>
+    <updated>2026-11-16T23:11:54Z</updated>
+    <summary>Merged public contribution. +57 / -17 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #146: fix(scaffold): keep Bash engagement creation usable with malformed recon manifests</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/146</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/146"/>
+    <updated>2026-11-16T23:11:50Z</updated>
+    <summary>Merged public contribution. +27 / -7 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #145: fix(install): preserve independent backups on same-second runs</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/145</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/145"/>
+    <updated>2026-11-16T23:11:46Z</updated>
+    <summary>Merged public contribution. +28 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #144: fix(eval): reject reused instances in manual PortSwigger ablations</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/144</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/144"/>
+    <updated>2026-11-16T23:11:43Z</updated>
+    <summary>Merged public contribution. +70 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #143: fix(research): retain every classifier rule when verifying citations</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/143</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/143"/>
+    <updated>2026-11-16T23:11:39Z</updated>
+    <summary>Merged public contribution. +17 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #142: fix(research): preserve coverage gaps when platform report IDs collide</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/142</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/142"/>
+    <updated>2026-11-16T23:11:34Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #141: fix(eval): leave unreadable Juice Shop outcomes ungraded</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/141</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/141"/>
+    <updated>2026-11-16T23:11:29Z</updated>
+    <summary>Merged public contribution. +76 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #139: fix(engine): keep concurrent OSINT response bodies isolated</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/139</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/139"/>
+    <updated>2026-11-16T23:11:24Z</updated>
+    <summary>Merged public contribution. +50 / -18 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>The-PR-Agent/pr-agent #4666: fix(output): preserve structured reviews when writing fails</title>
     <id>https://github.com/The-PR-Agent/pr-agent/pull/4666</id>
@@ -299,61 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/128"/>
     <updated>2026-11-16T12:53:22Z</updated>
     <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #132: fix(eval): require a successful Juice Shop restart before scoring</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/132</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/132"/>
-    <updated>2026-11-16T12:48:48Z</updated>
-    <summary>Merged public contribution. +38 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #130: fix(eval): prevent failed Claude responses from becoming verdicts</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/130</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/130"/>
-    <updated>2026-11-16T12:48:44Z</updated>
-    <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #129: fix(research): keep HackerOne citation and cache identity platform-specific</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/129</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/129"/>
-    <updated>2026-11-16T12:48:39Z</updated>
-    <summary>Merged public contribution. +67 / -14 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #126: fix(engine): count distinct engagement observations in the ledger</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/126</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/126"/>
-    <updated>2026-11-16T12:48:34Z</updated>
-    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #121: fix(research): anonymize complete URL authorities in draft patterns</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/121</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/121"/>
-    <updated>2026-11-16T12:48:30Z</updated>
-    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #118: fix(scope): reject malformed target URLs without aborting the run</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/118</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/118"/>
-    <updated>2026-11-16T12:48:26Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #116: fix(eval): require the explicit final line for false-positive grading</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/116</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/116"/>
-    <updated>2026-11-16T12:48:22Z</updated>
-    <summary>Merged public contribution. +20 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #113: fix(eval): grade PortSwigger labs from the actual status widget</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/113</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/113"/>
-    <updated>2026-11-16T12:48:18Z</updated>
-    <summary>Merged public contribution. +24 / -10 across 1 changed files.</summary>
   </entry>
 </feed>

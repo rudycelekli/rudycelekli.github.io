@@ -4,10 +4,18 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,934**
+Records: **3,942**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#147: fix(mcp): preserve malformed JSON configs and continue wiring other harnesses](https://github.com/elementalsouls/Claude-BugHunter/pull/147) | +57 / -17 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#146: fix(scaffold): keep Bash engagement creation usable with malformed recon manifests](https://github.com/elementalsouls/Claude-BugHunter/pull/146) | +27 / -7 across 1 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#145: fix(install): preserve independent backups on same-second runs](https://github.com/elementalsouls/Claude-BugHunter/pull/145) | +28 / -10 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#144: fix(eval): reject reused instances in manual PortSwigger ablations](https://github.com/elementalsouls/Claude-BugHunter/pull/144) | +70 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#143: fix(research): retain every classifier rule when verifying citations](https://github.com/elementalsouls/Claude-BugHunter/pull/143) | +17 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#142: fix(research): preserve coverage gaps when platform report IDs collide](https://github.com/elementalsouls/Claude-BugHunter/pull/142) | +40 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#141: fix(eval): leave unreadable Juice Shop outcomes ungraded](https://github.com/elementalsouls/Claude-BugHunter/pull/141) | +76 / -10 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#139: fix(engine): keep concurrent OSINT response bodies isolated](https://github.com/elementalsouls/Claude-BugHunter/pull/139) | +50 / -18 across 2 files | 0 reviews · 0 comments |
 | 2026-11-16 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4666: fix(output): preserve structured reviews when writing fails](https://github.com/The-PR-Agent/pr-agent/pull/4666) | +97 / -2 across 2 files | 3 reviews · 4 comments |
 | 2026-11-16 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4671: fix(review): deduplicate failure modes before the output cap](https://github.com/The-PR-Agent/pr-agent/pull/4671) | +44 / -8 across 6 files | 2 reviews · 4 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#143: Start the Unix desktop agent even when the optional APK download fails](https://github.com/ersinkoc/phonebox/pull/143) | +125 / -8 across 3 files | 0 reviews · 1 comments |
