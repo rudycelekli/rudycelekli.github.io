@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T05:48:32Z</updated>
+  <updated>2026-11-16T08:06:06Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>agno-agi/agno #10843: [fix] Read Office uploads with non-string temporary stream names</title>
+    <id>https://github.com/agno-agi/agno/pull/10843</id>
+    <link href="https://github.com/agno-agi/agno/pull/10843"/>
+    <updated>2026-11-16T08:06:06Z</updated>
+    <summary>Merged public contribution. +70 / -2 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2704: fix(server): fall back to the default tenant TTL on a malformed ttl</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2704</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2780"/>
     <updated>2026-11-14T15:27:57Z</updated>
     <summary>Merged public contribution. +63 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2782: fix(execd): fail fast with 400 when a code context cwd is unusable</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2782</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2782"/>
-    <updated>2026-11-14T15:27:35Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 5 changed files.</summary>
   </entry>
 </feed>

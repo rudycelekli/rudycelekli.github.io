@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 70,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-10-06T14:08:52Z",
+      "deletions": 2,
+      "merged_at": "2026-11-16T08:06:06Z",
+      "number": 10843,
+      "repository": "agno-agi/agno",
+      "repository_url": "https://github.com/agno-agi/agno",
+      "reviews": 2,
+      "title": "[fix] Read Office uploads with non-string temporary stream names",
+      "url": "https://github.com/agno-agi/agno/pull/10843"
+    },
+    {
       "additions": 37,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -61808,7 +61824,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3861,
+  "record_count": 3862,
   "schema_version": 1,
   "updated_at_utc": "2026-11-16"
 }
