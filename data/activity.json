@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 25,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-15T03:43:00Z",
+      "deletions": 15,
+      "merged_at": "2026-11-16T03:40:18Z",
+      "number": 3400,
+      "repository": "backnotprop/plannotator",
+      "repository_url": "https://github.com/backnotprop/plannotator",
+      "reviews": 0,
+      "title": "Enable Claude Code panel tools and Inbox wakes in Orca",
+      "url": "https://github.com/backnotprop/plannotator/pull/3400"
+    },
+    {
       "additions": 80,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -61776,7 +61792,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3859,
+  "record_count": 3860,
   "schema_version": 1,
   "updated_at_utc": "2026-11-16"
 }
