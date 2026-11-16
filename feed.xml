@@ -4,8 +4,183 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T12:48:48Z</updated>
+  <updated>2026-11-16T13:54:29Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>ersinkoc/phonebox #130: Keep Smart Stack alarms active across pages</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/130</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/130"/>
+    <updated>2026-11-16T13:54:29Z</updated>
+    <summary>Merged public contribution. +39 / -10 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #127: Clean up per-platform staging from local packaging builds</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/127</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/127"/>
+    <updated>2026-11-16T13:54:17Z</updated>
+    <summary>Merged public contribution. +67 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #113: Rebuild stale APKs when installing from Unix source checkouts</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/113</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/113"/>
+    <updated>2026-11-16T13:54:04Z</updated>
+    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #124: Keep network speed accurate when adapters connect or reset</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/124</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/124"/>
+    <updated>2026-11-16T13:53:53Z</updated>
+    <summary>Merged public contribution. +45 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #121: Push data: keep versions increasing under concurrent writes</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/121</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/121"/>
+    <updated>2026-11-16T13:53:41Z</updated>
+    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #115: Push data: ignore invalid entries in saved snapshots</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/115</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/115"/>
+    <updated>2026-11-16T13:53:29Z</updated>
+    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #120: Keep the Windows agent running when a source build fails</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/120</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/120"/>
+    <updated>2026-11-16T13:51:22Z</updated>
+    <summary>Merged public contribution. +67 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #118: Keep custom paths intact in Unix source autostart files</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/118</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/118"/>
+    <updated>2026-11-16T13:51:10Z</updated>
+    <summary>Merged public contribution. +105 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #129: Demo: keep layouts saved while the catalog loads</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/129</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/129"/>
+    <updated>2026-11-16T13:50:59Z</updated>
+    <summary>Merged public contribution. +28 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #128: Put the WinGet releases link in localized package metadata</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/128</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/128"/>
+    <updated>2026-11-16T13:50:47Z</updated>
+    <summary>Merged public contribution. +24 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #122: Keep Antigravity's quota fallback after an unreadable summary</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/122</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/122"/>
+    <updated>2026-11-16T13:50:35Z</updated>
+    <summary>Merged public contribution. +39 / -29 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #126: Use the first occurrence of repeated calendar times</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/126</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/126"/>
+    <updated>2026-11-16T13:50:23Z</updated>
+    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #123: Keep alarm duration from changing the calendar event</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/123</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/123"/>
+    <updated>2026-11-16T13:50:11Z</updated>
+    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #119: Fix monthly calendar rules that combine weekday and month day</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/119</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/119"/>
+    <updated>2026-11-16T13:50:00Z</updated>
+    <summary>Merged public contribution. +23 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>ersinkoc/phonebox #114: Rules: reject malformed time ranges</title>
+    <id>https://github.com/ersinkoc/phonebox/pull/114</id>
+    <link href="https://github.com/ersinkoc/phonebox/pull/114"/>
+    <updated>2026-11-16T13:49:15Z</updated>
+    <summary>Merged public contribution. +15 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #131: fix(eval): report false-positive rates alongside grading coverage</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/131</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/131"/>
+    <updated>2026-11-16T13:10:53Z</updated>
+    <summary>Merged public contribution. +59 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #122: fix(scope): preserve metacharacters in host regex rules</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/122</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/122"/>
+    <updated>2026-11-16T13:10:49Z</updated>
+    <summary>Merged public contribution. +14 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #117: fix(eval): exclude unreadable PortSwigger outcomes from solve rates</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/117</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/117"/>
+    <updated>2026-11-16T13:10:45Z</updated>
+    <summary>Merged public contribution. +46 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #112: fix(hooks): inspect staged content in the identifier guard</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/112</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/112"/>
+    <updated>2026-11-16T13:10:41Z</updated>
+    <summary>Merged public contribution. +72 / -22 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #100: fix(packaging): ship a current standalone skill and report index</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/100</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/100"/>
+    <updated>2026-11-16T13:10:37Z</updated>
+    <summary>Merged public contribution. +43 / -3 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #114: fix(engine): select the last JSON verdict fence in message order</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/114</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/114"/>
+    <updated>2026-11-16T12:56:03Z</updated>
+    <summary>Merged public contribution. +20 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #109: fix(mcp): write valid Codex TOML for escaped strings and literal keys</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/109</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/109"/>
+    <updated>2026-11-16T12:55:59Z</updated>
+    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #106: fix(cli): preserve nested Markdown in drafted reports</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/106</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/106"/>
+    <updated>2026-11-16T12:55:56Z</updated>
+    <summary>Merged public contribution. +41 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #102: fix(engine): allow curl-first runs without a Burp MCP file</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/102</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/102"/>
+    <updated>2026-11-16T12:55:51Z</updated>
+    <summary>Merged public contribution. +44 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #128: fix(engine): recheck current scope before resuming validation</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/128</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/128"/>
+    <updated>2026-11-16T12:53:22Z</updated>
+    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>elementalsouls/Claude-BugHunter #132: fix(eval): require a successful Juice Shop restart before scoring</title>
     <id>https://github.com/elementalsouls/Claude-BugHunter/pull/132</id>
@@ -180,180 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/101"/>
     <updated>2026-11-16T12:07:37Z</updated>
     <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #99: fix(engine): resume validation by parameter identity</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/99</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/99"/>
-    <updated>2026-11-16T12:07:34Z</updated>
-    <summary>Merged public contribution. +30 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #98: fix(engine): persist positive hunt results atomically</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/98</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/98"/>
-    <updated>2026-11-16T12:07:30Z</updated>
-    <summary>Merged public contribution. +43 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #95: fix(cli): tolerate malformed certificate transparency responses</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/95</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/95"/>
-    <updated>2026-11-16T12:07:24Z</updated>
-    <summary>Merged public contribution. +48 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #94: fix(install): preserve unrelated Codex skill metadata</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/94</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/94"/>
-    <updated>2026-11-16T12:07:20Z</updated>
-    <summary>Merged public contribution. +36 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #93: fix(engine): preserve Claude terminal execution errors</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/93</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/93"/>
-    <updated>2026-11-16T12:07:16Z</updated>
-    <summary>Merged public contribution. +42 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>agno-agi/agno #10843: [fix] Read Office uploads with non-string temporary stream names</title>
-    <id>https://github.com/agno-agi/agno/pull/10843</id>
-    <link href="https://github.com/agno-agi/agno/pull/10843"/>
-    <updated>2026-11-16T08:06:06Z</updated>
-    <summary>Merged public contribution. +70 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2704: fix(server): fall back to the default tenant TTL on a malformed ttl</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2704</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2704"/>
-    <updated>2026-11-16T05:48:32Z</updated>
-    <summary>Merged public contribution. +37 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3400: Enable Claude Code panel tools and Inbox wakes in Orca</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3400</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3400"/>
-    <updated>2026-11-16T03:40:18Z</updated>
-    <summary>Merged public contribution. +25 / -15 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3310: install.sh: download the binary from PLANNOTATOR_RELEASE_DOWNLOAD_URL</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3310</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3310"/>
-    <updated>2026-11-16T02:22:52Z</updated>
-    <summary>Merged public contribution. +80 / -4 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3215: ci: three path gates skipped PRs that break the job they gate</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3215</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3215"/>
-    <updated>2026-11-16T01:15:59Z</updated>
-    <summary>Merged public contribution. +167 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3401: Add a rolling three-day Inbox update filter</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3401</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3401"/>
-    <updated>2026-11-16T01:01:19Z</updated>
-    <summary>Merged public contribution. +17 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3213: Guide viewer: a link's URL keeps its own closing paren</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3213</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3213"/>
-    <updated>2026-11-15T20:53:11Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #492: fix(ruby): send required source_id when creating a relationship</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/492</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/492"/>
-    <updated>2026-11-15T20:33:28Z</updated>
-    <summary>Merged public contribution. +16 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #491: fix(python): match server contract for relationship create and decode</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/491</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/491"/>
-    <updated>2026-11-15T20:33:21Z</updated>
-    <summary>Merged public contribution. +131 / -18 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #490: fix(sdk): use source_entity/target_entity in Python and Swift entity merge</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/490</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/490"/>
-    <updated>2026-11-15T20:33:13Z</updated>
-    <summary>Merged public contribution. +71 / -6 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #489: fix(sdk): send graph limit as max_nodes in Python and TypeScript graph.get</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/489</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/489"/>
-    <updated>2026-11-15T20:33:05Z</updated>
-    <summary>Merged public contribution. +80 / -11 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #488: fix(python): send q / entity_name in graph label search and entity exists</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/488</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/488"/>
-    <updated>2026-11-15T20:32:57Z</updated>
-    <summary>Merged public contribution. +62 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>raphaelmansuy/edgequake #487: fix(mcp): forward document_list search as document_pattern</title>
-    <id>https://github.com/raphaelmansuy/edgequake/pull/487</id>
-    <link href="https://github.com/raphaelmansuy/edgequake/pull/487"/>
-    <updated>2026-11-15T20:32:50Z</updated>
-    <summary>Merged public contribution. +72 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3214: fix(dsh): a typed Windows path reaches the review whole</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3214</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3214"/>
-    <updated>2026-11-15T20:32:06Z</updated>
-    <summary>Merged public contribution. +31 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4190: feat(service): expose standard gRPC health readiness (#3917)</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4190</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4190"/>
-    <updated>2026-11-15T19:50:31Z</updated>
-    <summary>Merged public contribution. +411 / -8 across 10 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4170: test: add bounded service resource recovery soak profiles</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4170</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4170"/>
-    <updated>2026-11-15T19:50:31Z</updated>
-    <summary>Merged public contribution. +581 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>maziyarpanahi/openmed #4156: fix: release owned web inference resources safely</title>
-    <id>https://github.com/maziyarpanahi/openmed/pull/4156</id>
-    <link href="https://github.com/maziyarpanahi/openmed/pull/4156"/>
-    <updated>2026-11-15T19:50:31Z</updated>
-    <summary>Merged public contribution. +525 / -60 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #96: docs(audio): state that keypress wavs sit outside the SFX analysis</title>
-    <id>https://github.com/latent-spaces/brag/pull/96</id>
-    <link href="https://github.com/latent-spaces/brag/pull/96"/>
-    <updated>2026-11-15T16:58:56Z</updated>
-    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #95: docs(skill): state the pixel size of each video format</title>
-    <id>https://github.com/latent-spaces/brag/pull/95</id>
-    <link href="https://github.com/latent-spaces/brag/pull/95"/>
-    <updated>2026-11-15T16:58:09Z</updated>
-    <summary>Merged public contribution. +4 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #104: feat(plugin): mention /brag-slim in the plugin manifests</title>
-    <id>https://github.com/latent-spaces/brag/pull/104</id>
-    <link href="https://github.com/latent-spaces/brag/pull/104"/>
-    <updated>2026-11-15T16:57:23Z</updated>
-    <summary>Merged public contribution. +8 / -8 across 4 changed files.</summary>
   </entry>
 </feed>
