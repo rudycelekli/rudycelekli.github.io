@@ -4,8 +4,162 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T12:07:46Z</updated>
+  <updated>2026-11-16T12:48:48Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #132: fix(eval): require a successful Juice Shop restart before scoring</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/132</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/132"/>
+    <updated>2026-11-16T12:48:48Z</updated>
+    <summary>Merged public contribution. +38 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #130: fix(eval): prevent failed Claude responses from becoming verdicts</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/130</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/130"/>
+    <updated>2026-11-16T12:48:44Z</updated>
+    <summary>Merged public contribution. +47 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #129: fix(research): keep HackerOne citation and cache identity platform-specific</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/129</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/129"/>
+    <updated>2026-11-16T12:48:39Z</updated>
+    <summary>Merged public contribution. +67 / -14 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #126: fix(engine): count distinct engagement observations in the ledger</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/126</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/126"/>
+    <updated>2026-11-16T12:48:34Z</updated>
+    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #121: fix(research): anonymize complete URL authorities in draft patterns</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/121</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/121"/>
+    <updated>2026-11-16T12:48:30Z</updated>
+    <summary>Merged public contribution. +34 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #118: fix(scope): reject malformed target URLs without aborting the run</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/118</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/118"/>
+    <updated>2026-11-16T12:48:26Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #116: fix(eval): require the explicit final line for false-positive grading</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/116</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/116"/>
+    <updated>2026-11-16T12:48:22Z</updated>
+    <summary>Merged public contribution. +20 / -11 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #113: fix(eval): grade PortSwigger labs from the actual status widget</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/113</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/113"/>
+    <updated>2026-11-16T12:48:18Z</updated>
+    <summary>Merged public contribution. +24 / -10 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #111: fix(ci): scan tracked text files with non-ASCII filenames</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/111</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/111"/>
+    <updated>2026-11-16T12:48:14Z</updated>
+    <summary>Merged public contribution. +16 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #105: fix(engine): keep mock runs out of the engagement ledger</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/105</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/105"/>
+    <updated>2026-11-16T12:48:10Z</updated>
+    <summary>Merged public contribution. +43 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #96: fix(engine): require boolean hunt and validation verdicts</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/96</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/96"/>
+    <updated>2026-11-16T12:48:06Z</updated>
+    <summary>Merged public contribution. +51 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #104: fix(install): restore Python-backed features in the PowerShell installer</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/104</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/104"/>
+    <updated>2026-11-16T12:44:36Z</updated>
+    <summary>Merged public contribution. +36 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #97: fix(install): preserve skills in harnesses the installer never targeted</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/97</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/97"/>
+    <updated>2026-11-16T12:44:32Z</updated>
+    <summary>Merged public contribution. +73 / -21 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #127: fix(research): rank reports without crashing on numeric strings</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/127</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/127"/>
+    <updated>2026-11-16T12:08:23Z</updated>
+    <summary>Merged public contribution. +27 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #125: fix(research): distinguish HackerOne GraphQL errors from an empty feed</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/125</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/125"/>
+    <updated>2026-11-16T12:08:19Z</updated>
+    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #124: fix(cli): report incompatible recon manifest shapes</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/124</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/124"/>
+    <updated>2026-11-16T12:08:14Z</updated>
+    <summary>Merged public contribution. +31 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #123: fix(engine): honor the ledger GC rotation threshold</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/123</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/123"/>
+    <updated>2026-11-16T12:08:10Z</updated>
+    <summary>Merged public contribution. +23 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #120: fix(engine): ignore non-record JSON lines in the engagement ledger</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/120</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/120"/>
+    <updated>2026-11-16T12:08:06Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #119: fix(cli): discover optional recon commands on minimal hosts</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/119</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/119"/>
+    <updated>2026-11-16T12:08:02Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #115: fix(cli): retain recon headers regardless of casing</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/115</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/115"/>
+    <updated>2026-11-16T12:07:58Z</updated>
+    <summary>Merged public contribution. +22 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #110: fix(install): preserve unrelated startup file lines during uninstall</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/110</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/110"/>
+    <updated>2026-11-16T12:07:53Z</updated>
+    <summary>Merged public contribution. +25 / -12 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #108: ci: run offline engine and CLI regressions on runtime changes</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/108</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/108"/>
+    <updated>2026-11-16T12:07:49Z</updated>
+    <summary>Merged public contribution. +63 / -0 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>elementalsouls/Claude-BugHunter #107: fix(scaffold): import recon manifests directly in PowerShell</title>
     <id>https://github.com/elementalsouls/Claude-BugHunter/pull/107</id>
@@ -201,159 +355,5 @@
     <link href="https://github.com/latent-spaces/brag/pull/104"/>
     <updated>2026-11-15T16:57:23Z</updated>
     <summary>Merged public contribution. +8 / -8 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #87: docs: correct Codex, opencode, and brag-slim install notes</title>
-    <id>https://github.com/latent-spaces/brag/pull/87</id>
-    <link href="https://github.com/latent-spaces/brag/pull/87"/>
-    <updated>2026-11-15T16:56:47Z</updated>
-    <summary>Merged public contribution. +7 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #94: fix(skill): honor an explicit duration instead of forcing 15–25 seconds</title>
-    <id>https://github.com/latent-spaces/brag/pull/94</id>
-    <link href="https://github.com/latent-spaces/brag/pull/94"/>
-    <updated>2026-11-15T16:52:44Z</updated>
-    <summary>Merged public contribution. +6 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #90: fix(docs): use one Hyperframes URL and harden new-tab links</title>
-    <id>https://github.com/latent-spaces/brag/pull/90</id>
-    <link href="https://github.com/latent-spaces/brag/pull/90"/>
-    <updated>2026-11-15T16:47:58Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #91: docs: add a favicon for the launch site</title>
-    <id>https://github.com/latent-spaces/brag/pull/91</id>
-    <link href="https://github.com/latent-spaces/brag/pull/91"/>
-    <updated>2026-11-15T16:46:32Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #86: docs: describe /brag as a multi-agent skill in the product spec</title>
-    <id>https://github.com/latent-spaces/brag/pull/86</id>
-    <link href="https://github.com/latent-spaces/brag/pull/86"/>
-    <updated>2026-11-15T16:36:43Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #85: docs: install /brag on other agents with the skills CLI</title>
-    <id>https://github.com/latent-spaces/brag/pull/85</id>
-    <link href="https://github.com/latent-spaces/brag/pull/85"/>
-    <updated>2026-11-15T16:33:01Z</updated>
-    <summary>Merged public contribution. +41 / -20 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #77: fix(docs): give each gallery video its own accessible name</title>
-    <id>https://github.com/latent-spaces/brag/pull/77</id>
-    <link href="https://github.com/latent-spaces/brag/pull/77"/>
-    <updated>2026-11-15T16:25:52Z</updated>
-    <summary>Merged public contribution. +12 / -12 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>latent-spaces/brag #75: fix: keep brag-slim skill symlinks from being rewritten</title>
-    <id>https://github.com/latent-spaces/brag/pull/75</id>
-    <link href="https://github.com/latent-spaces/brag/pull/75"/>
-    <updated>2026-11-15T16:22:36Z</updated>
-    <summary>Merged public contribution. +3 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2801: fix(server): reject a pool capacity whose bufferMin exceeds bufferMax</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2801</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2801"/>
-    <updated>2026-11-15T06:22:33Z</updated>
-    <summary>Merged public contribution. +55 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2806: fix(ingress): reject a signed port segment in a route</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2806</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2806"/>
-    <updated>2026-11-15T06:22:02Z</updated>
-    <summary>Merged public contribution. +23 / -0 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2744: fix(cli): show the parser error for a bad credential vault payload</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2744</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2744"/>
-    <updated>2026-11-15T06:21:27Z</updated>
-    <summary>Merged public contribution. +20 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2749: fix(server): reject subPath traversal through backslashes</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2749</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2749"/>
-    <updated>2026-11-15T05:09:25Z</updated>
-    <summary>Merged public contribution. +20 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2760: fix(execd): reject invalid isolated-session search globs</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2760</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2760"/>
-    <updated>2026-11-15T05:08:29Z</updated>
-    <summary>Merged public contribution. +96 / -0 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2778: fix(server): keep secure_access signing keys out of config validation errors</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2778</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2778"/>
-    <updated>2026-11-15T05:08:05Z</updated>
-    <summary>Merged public contribution. +28 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2779: fix(execd): keep $ literal in paths when it names no variable</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2779</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2779"/>
-    <updated>2026-11-15T05:07:44Z</updated>
-    <summary>Merged public contribution. +41 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2798: fix(ingress): drop the stale Content-Length from a relayed WebSocket handshake rejection</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2798</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2798"/>
-    <updated>2026-11-15T05:07:20Z</updated>
-    <summary>Merged public contribution. +35 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2786: fix(server): let docker.pids_limit = 0 disable the PID limit</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2786</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2786"/>
-    <updated>2026-11-15T05:06:51Z</updated>
-    <summary>Merged public contribution. +40 / -5 across 5 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2790: fix(server): return 400 for a malformed template list metadata filter</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2790</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2790"/>
-    <updated>2026-11-15T05:06:25Z</updated>
-    <summary>Merged public contribution. +26 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2697: fix(sdk-python): propagate code-interpreter handler exceptions</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2697</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2697"/>
-    <updated>2026-11-15T05:06:02Z</updated>
-    <summary>Merged public contribution. +73 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2796: fix(server): return SANDBOX::INVALID_METADATA_LABEL for reserved Docker metadata patch keys</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2796</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2796"/>
-    <updated>2026-11-15T05:05:22Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2793: fix(server): return SANDBOX::INVALID_METADATA_LABEL for reserved metadata patch keys</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2793</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2793"/>
-    <updated>2026-11-15T05:04:45Z</updated>
-    <summary>Merged public contribution. +4 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>storytold/craft-anything #1848: Show how to retry when project approvals refuse a builder action (R2.9)</title>
-    <id>https://github.com/storytold/craft-anything/pull/1848</id>
-    <link href="https://github.com/storytold/craft-anything/pull/1848"/>
-    <updated>2026-11-15T04:10:08Z</updated>
-    <summary>Merged public contribution. +64 / -18 across 4 changed files.</summary>
   </entry>
 </feed>
