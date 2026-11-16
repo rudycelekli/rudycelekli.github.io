@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 97,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-11-04T18:42:52Z",
+      "deletions": 2,
+      "merged_at": "2026-11-16T21:52:42Z",
+      "number": 4666,
+      "repository": "The-PR-Agent/pr-agent",
+      "repository_url": "https://github.com/The-PR-Agent/pr-agent",
+      "reviews": 3,
+      "title": "fix(output): preserve structured reviews when writing fails",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/4666"
+    },
+    {
+      "additions": 44,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 4,
+      "commits": 5,
+      "created_at": "2026-11-04T18:57:06Z",
+      "deletions": 8,
+      "merged_at": "2026-11-16T21:52:35Z",
+      "number": 4671,
+      "repository": "The-PR-Agent/pr-agent",
+      "repository_url": "https://github.com/The-PR-Agent/pr-agent",
+      "reviews": 2,
+      "title": "fix(review): deduplicate failure modes before the output cap",
+      "url": "https://github.com/The-PR-Agent/pr-agent/pull/4671"
+    },
+    {
       "additions": 125,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -62944,7 +62976,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3932,
+  "record_count": 3934,
   "schema_version": 1,
   "updated_at_utc": "2026-11-16"
 }

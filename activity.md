@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,932**
+Records: **3,934**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4666: fix(output): preserve structured reviews when writing fails](https://github.com/The-PR-Agent/pr-agent/pull/4666) | +97 / -2 across 2 files | 3 reviews · 4 comments |
+| 2026-11-16 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | [#4671: fix(review): deduplicate failure modes before the output cap](https://github.com/The-PR-Agent/pr-agent/pull/4671) | +44 / -8 across 6 files | 2 reviews · 4 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#143: Start the Unix desktop agent even when the optional APK download fails](https://github.com/ersinkoc/phonebox/pull/143) | +125 / -8 across 3 files | 0 reviews · 1 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#116: Settings: reject a stale save after the config file is deleted](https://github.com/ersinkoc/phonebox/pull/116) | +50 / -3 across 2 files | 3 reviews · 2 comments |
 | 2026-11-16 | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | [#147: Release the Media volume slider after cancelled drags](https://github.com/ersinkoc/phonebox/pull/147) | +68 / -5 across 3 files | 0 reviews · 1 comments |
