@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,952**
+Records: **3,954**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | [#2026: Add chibivue tutorial](https://github.com/codecrafters-io/build-your-own-x/pull/2026) | +1 / -0 across 1 files | 0 reviews · 0 comments |
+| 2026-11-17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | [#2032: docs: add Mini-LSM storage engine course](https://github.com/codecrafters-io/build-your-own-x/pull/2032) | +1 / -0 across 1 files | 0 reviews · 0 comments |
 | 2026-11-17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | [#2021: docs: link maintained LWJGL game development book](https://github.com/codecrafters-io/build-your-own-x/pull/2021) | +1 / -1 across 1 files | 0 reviews · 0 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2800: [TASK FIX] cell-lineage-reconstruction: state the F1 and error bars as requirements](https://github.com/harbor-framework/terminal-bench-science/pull/2800) | +9 / -9 across 1 files | 2 reviews · 8 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1950: fix(virtual-baseline-localization): register imported prediction modules](https://github.com/harbor-framework/terminal-bench-science/pull/1950) | +58 / -0 across 2 files | 3 reviews · 13 comments |

@@ -13,6 +13,38 @@
       "changed_files": 1,
       "comments": 0,
       "commits": 1,
+      "created_at": "2026-09-30T02:07:49Z",
+      "deletions": 0,
+      "merged_at": "2026-11-17T07:12:37Z",
+      "number": 2026,
+      "repository": "codecrafters-io/build-your-own-x",
+      "repository_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "reviews": 0,
+      "title": "Add chibivue tutorial",
+      "url": "https://github.com/codecrafters-io/build-your-own-x/pull/2026"
+    },
+    {
+      "additions": 1,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-09-30T02:08:10Z",
+      "deletions": 0,
+      "merged_at": "2026-11-17T07:12:32Z",
+      "number": 2032,
+      "repository": "codecrafters-io/build-your-own-x",
+      "repository_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "reviews": 0,
+      "title": "docs: add Mini-LSM storage engine course",
+      "url": "https://github.com/codecrafters-io/build-your-own-x/pull/2032"
+    },
+    {
+      "additions": 1,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 0,
+      "commits": 1,
       "created_at": "2026-09-30T02:07:33Z",
       "deletions": 1,
       "merged_at": "2026-11-17T06:44:44Z",
@@ -63264,7 +63296,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3952,
+  "record_count": 3954,
   "schema_version": 1,
   "updated_at_utc": "2026-11-17"
 }
