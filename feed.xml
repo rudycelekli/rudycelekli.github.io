@@ -4,8 +4,134 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-17T14:20:02Z</updated>
+  <updated>2026-11-17T21:47:41Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>erkamyaman/rust-anything #24: Reject invalid Java replay arguments even for null results</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/24</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/24"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #23: Reserve generated binding names in Go bridges</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/23</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/23"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +90 / -46 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #22: Record Go internal packages and versioned local modules</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/22</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/22"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +124 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #21: Encode Java identifiers correctly in JNI symbols</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/21</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/21"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +31 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #20: Preserve Ruby evidence when a result cannot be encoded</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/20</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/20"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +83 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #19: Fail the ported check when the source is unreadable</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/19</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/19"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +22 / -15 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #18: Declare and check the Rust 1.97 minimum</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/18</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/18"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #17: Record both CLI streams exactly for binary cases</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/17</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/17"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +53 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #16: Keep every CLI recording when case names collide</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/16</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/16"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +41 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #15: Enforce CLI replay deadlines across Unix process groups</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/15</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/15"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +38 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #14: Keep custom MCP server options when setup updates the binary</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/14</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/14"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +64 / -17 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #13: Detect manifestless TypeScript module projects</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/13</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/13"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +29 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #12: Resolve curl examples to their HTTP request targets</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/12</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/12"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +15 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #11: Preserve own __proto__ keys in JavaScript recordings</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/11</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/11"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +36 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #10: Preserve key order when applying float tolerance</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/10</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/10"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +68 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #9: Reject empty recordings in behavior comparisons</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/9</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/9"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #8: Replay the final HTTP response after informational headers</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/8</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/8"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +36 / -15 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #7: Reject interrupted and malformed HTTP response bodies</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/7</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/7"/>
+    <updated>2026-11-17T21:47:41Z</updated>
+    <summary>Merged public contribution. +51 / -11 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #1982: fix(cmb-cross-inference): accept both byte orders of float64 artifacts</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/1982</id>
@@ -229,131 +355,5 @@
     <link href="https://github.com/ersinkoc/phonebox/pull/145"/>
     <updated>2026-11-16T16:05:34Z</updated>
     <summary>Merged public contribution. +34 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #142: Keep one invalid duration from dropping the whole calendar feed</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/142</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/142"/>
-    <updated>2026-11-16T16:05:21Z</updated>
-    <summary>Merged public contribution. +30 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #141: Bound GitHub CLI refreshes and reap cancelled processes</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/141</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/141"/>
-    <updated>2026-11-16T16:05:08Z</updated>
-    <summary>Merged public contribution. +52 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #140: Keep seasonal calendar recurrences in their selected months</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/140</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/140"/>
-    <updated>2026-11-16T16:04:53Z</updated>
-    <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #139: Push data: save pending readings before the agent restarts</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/139</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/139"/>
-    <updated>2026-11-16T16:04:41Z</updated>
-    <summary>Merged public contribution. +56 / -12 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #144: Settings: let a relative config filename save in the current directory</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/144</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/144"/>
-    <updated>2026-11-16T16:04:28Z</updated>
-    <summary>Merged public contribution. +27 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #138: Keep Unix uninstall help and typos from removing PhoneBox</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/138</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/138"/>
-    <updated>2026-11-16T15:44:36Z</updated>
-    <summary>Merged public contribution. +70 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #135: End the Agenda window at the actual local day boundary</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/135</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/135"/>
-    <updated>2026-11-16T14:36:39Z</updated>
-    <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #132: Reject invalid dates in the Countdown widget</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/132</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/132"/>
-    <updated>2026-11-16T14:36:26Z</updated>
-    <summary>Merged public contribution. +60 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #134: Show unavailable air quality when the feed has no index</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/134</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/134"/>
-    <updated>2026-11-16T14:36:14Z</updated>
-    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #133: Keep Time Progress accurate when clocks change</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/133</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/133"/>
-    <updated>2026-11-16T14:36:02Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #130: Keep Smart Stack alarms active across pages</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/130</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/130"/>
-    <updated>2026-11-16T13:54:29Z</updated>
-    <summary>Merged public contribution. +39 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #127: Clean up per-platform staging from local packaging builds</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/127</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/127"/>
-    <updated>2026-11-16T13:54:17Z</updated>
-    <summary>Merged public contribution. +67 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #113: Rebuild stale APKs when installing from Unix source checkouts</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/113</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/113"/>
-    <updated>2026-11-16T13:54:04Z</updated>
-    <summary>Merged public contribution. +31 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #124: Keep network speed accurate when adapters connect or reset</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/124</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/124"/>
-    <updated>2026-11-16T13:53:53Z</updated>
-    <summary>Merged public contribution. +45 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #121: Push data: keep versions increasing under concurrent writes</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/121</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/121"/>
-    <updated>2026-11-16T13:53:41Z</updated>
-    <summary>Merged public contribution. +35 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #115: Push data: ignore invalid entries in saved snapshots</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/115</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/115"/>
-    <updated>2026-11-16T13:53:29Z</updated>
-    <summary>Merged public contribution. +30 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #120: Keep the Windows agent running when a source build fails</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/120</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/120"/>
-    <updated>2026-11-16T13:51:22Z</updated>
-    <summary>Merged public contribution. +67 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #118: Keep custom paths intact in Unix source autostart files</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/118</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/118"/>
-    <updated>2026-11-16T13:51:10Z</updated>
-    <summary>Merged public contribution. +105 / -5 across 3 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,28 @@ Evidence timestamp: **2026-11-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,959**
+Records: **3,977**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#24: Reject invalid Java replay arguments even for null results](https://github.com/erkamyaman/rust-anything/pull/24) | +75 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#23: Reserve generated binding names in Go bridges](https://github.com/erkamyaman/rust-anything/pull/23) | +90 / -46 across 2 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#22: Record Go internal packages and versioned local modules](https://github.com/erkamyaman/rust-anything/pull/22) | +124 / -2 across 3 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#21: Encode Java identifiers correctly in JNI symbols](https://github.com/erkamyaman/rust-anything/pull/21) | +31 / -8 across 3 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#20: Preserve Ruby evidence when a result cannot be encoded](https://github.com/erkamyaman/rust-anything/pull/20) | +83 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#19: Fail the ported check when the source is unreadable](https://github.com/erkamyaman/rust-anything/pull/19) | +22 / -15 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#18: Declare and check the Rust 1.97 minimum](https://github.com/erkamyaman/rust-anything/pull/18) | +11 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#17: Record both CLI streams exactly for binary cases](https://github.com/erkamyaman/rust-anything/pull/17) | +53 / -3 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#16: Keep every CLI recording when case names collide](https://github.com/erkamyaman/rust-anything/pull/16) | +41 / -4 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#15: Enforce CLI replay deadlines across Unix process groups](https://github.com/erkamyaman/rust-anything/pull/15) | +38 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#14: Keep custom MCP server options when setup updates the binary](https://github.com/erkamyaman/rust-anything/pull/14) | +64 / -17 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#13: Detect manifestless TypeScript module projects](https://github.com/erkamyaman/rust-anything/pull/13) | +29 / -4 across 3 files | 1 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#12: Resolve curl examples to their HTTP request targets](https://github.com/erkamyaman/rust-anything/pull/12) | +15 / -4 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#11: Preserve own __proto__ keys in JavaScript recordings](https://github.com/erkamyaman/rust-anything/pull/11) | +36 / -11 across 3 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#10: Preserve key order when applying float tolerance](https://github.com/erkamyaman/rust-anything/pull/10) | +68 / -11 across 3 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#9: Reject empty recordings in behavior comparisons](https://github.com/erkamyaman/rust-anything/pull/9) | +27 / -0 across 2 files | 0 reviews · 2 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#8: Replay the final HTTP response after informational headers](https://github.com/erkamyaman/rust-anything/pull/8) | +36 / -15 across 1 files | 0 reviews · 1 comments |
+| 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#7: Reject interrupted and malformed HTTP response bodies](https://github.com/erkamyaman/rust-anything/pull/7) | +51 / -11 across 1 files | 1 reviews · 1 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1982: fix(cmb-cross-inference): accept both byte orders of float64 artifacts](https://github.com/harbor-framework/terminal-bench-science/pull/1982) | +124 / -11 across 3 files | 3 reviews · 12 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2827: [TASK FIX] amr-poisson-optimize: start every graded candidate run from fresh state](https://github.com/harbor-framework/terminal-bench-science/pull/2827) | +206 / -18 across 1 files | 2 reviews · 11 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1976: [TASK FIX] rv-astrometry-fitting: consolidate posterior, compatibility and contract fixes](https://github.com/harbor-framework/terminal-bench-science/pull/1976) | +263 / -9 across 7 files | 2 reviews · 13 comments |
