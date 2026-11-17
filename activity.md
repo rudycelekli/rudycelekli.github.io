@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-17 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,956**
+Records: **3,959**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1982: fix(cmb-cross-inference): accept both byte orders of float64 artifacts](https://github.com/harbor-framework/terminal-bench-science/pull/1982) | +124 / -11 across 3 files | 3 reviews · 12 comments |
+| 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2827: [TASK FIX] amr-poisson-optimize: start every graded candidate run from fresh state](https://github.com/harbor-framework/terminal-bench-science/pull/2827) | +206 / -18 across 1 files | 2 reviews · 11 comments |
+| 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1976: [TASK FIX] rv-astrometry-fitting: consolidate posterior, compatibility and contract fixes](https://github.com/harbor-framework/terminal-bench-science/pull/1976) | +263 / -9 across 7 files | 2 reviews · 13 comments |
 | 2026-11-17 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2784: [TASK FIX] hysteretic-aquifer-control: cap verifier threads before any numerical work](https://github.com/harbor-framework/terminal-bench-science/pull/2784) | +21 / -2 across 2 files | 2 reviews · 10 comments |
 | 2026-11-17 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2810: fix(egress): match domain targets written with a trailing root dot](https://github.com/opensandbox-group/OpenSandbox/pull/2810) | +180 / -9 across 7 files | 6 reviews · 4 comments |
 | 2026-11-17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | [#2026: Add chibivue tutorial](https://github.com/codecrafters-io/build-your-own-x/pull/2026) | +1 / -0 across 1 files | 0 reviews · 0 comments |
