@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T23:11:54Z</updated>
+  <updated>2026-11-16T23:40:07Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #136: fix(engine): close coverage only after every endpoint work item has a verdict</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/136</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/136"/>
+    <updated>2026-11-16T23:40:07Z</updated>
+    <summary>Merged public contribution. +83 / -34 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #138: fix(engine): resume validation without rechecking rejected candidates</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/138</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/138"/>
+    <updated>2026-11-16T23:39:20Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #137: fix(engine): isolate mock reports and checkpoints from live engagements</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/137</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/137"/>
+    <updated>2026-11-16T23:38:58Z</updated>
+    <summary>Merged public contribution. +25 / -5 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #140: fix(engine): guarantee the default OpenAPI sweep skips write methods</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/140</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/140"/>
+    <updated>2026-11-16T23:38:34Z</updated>
+    <summary>Merged public contribution. +37 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #150: fix(report): preserve heading-like evidence inside Markdown fences</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/150</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/150"/>
+    <updated>2026-11-16T23:36:51Z</updated>
+    <summary>Merged public contribution. +57 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #149: fix(recon): record redirects without following their destinations</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/149</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/149"/>
+    <updated>2026-11-16T23:36:29Z</updated>
+    <summary>Merged public contribution. +70 / -12 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter #148: fix(recon): constrain passive candidates to the requested domain</title>
+    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/148</id>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/148"/>
+    <updated>2026-11-16T23:36:05Z</updated>
+    <summary>Merged public contribution. +65 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>elementalsouls/Claude-BugHunter #147: fix(mcp): preserve malformed JSON configs and continue wiring other harnesses</title>
     <id>https://github.com/elementalsouls/Claude-BugHunter/pull/147</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/117"/>
     <updated>2026-11-16T13:10:45Z</updated>
     <summary>Merged public contribution. +46 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #112: fix(hooks): inspect staged content in the identifier guard</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/112</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/112"/>
-    <updated>2026-11-16T13:10:41Z</updated>
-    <summary>Merged public contribution. +72 / -22 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #100: fix(packaging): ship a current standalone skill and report index</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/100</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/100"/>
-    <updated>2026-11-16T13:10:37Z</updated>
-    <summary>Merged public contribution. +43 / -3 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #114: fix(engine): select the last JSON verdict fence in message order</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/114</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/114"/>
-    <updated>2026-11-16T12:56:03Z</updated>
-    <summary>Merged public contribution. +20 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #109: fix(mcp): write valid Codex TOML for escaped strings and literal keys</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/109</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/109"/>
-    <updated>2026-11-16T12:55:59Z</updated>
-    <summary>Merged public contribution. +35 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #106: fix(cli): preserve nested Markdown in drafted reports</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/106</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/106"/>
-    <updated>2026-11-16T12:55:56Z</updated>
-    <summary>Merged public contribution. +41 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #102: fix(engine): allow curl-first runs without a Burp MCP file</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/102</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/102"/>
-    <updated>2026-11-16T12:55:51Z</updated>
-    <summary>Merged public contribution. +44 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #128: fix(engine): recheck current scope before resuming validation</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/128</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/128"/>
-    <updated>2026-11-16T12:53:22Z</updated>
-    <summary>Merged public contribution. +33 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

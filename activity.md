@@ -4,10 +4,17 @@ Evidence timestamp: **2026-11-16 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,942**
+Records: **3,949**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#136: fix(engine): close coverage only after every endpoint work item has a verdict](https://github.com/elementalsouls/Claude-BugHunter/pull/136) | +83 / -34 across 4 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#138: fix(engine): resume validation without rechecking rejected candidates](https://github.com/elementalsouls/Claude-BugHunter/pull/138) | +27 / -1 across 3 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#137: fix(engine): isolate mock reports and checkpoints from live engagements](https://github.com/elementalsouls/Claude-BugHunter/pull/137) | +25 / -5 across 4 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#140: fix(engine): guarantee the default OpenAPI sweep skips write methods](https://github.com/elementalsouls/Claude-BugHunter/pull/140) | +37 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#150: fix(report): preserve heading-like evidence inside Markdown fences](https://github.com/elementalsouls/Claude-BugHunter/pull/150) | +57 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#149: fix(recon): record redirects without following their destinations](https://github.com/elementalsouls/Claude-BugHunter/pull/149) | +70 / -12 across 3 files | 0 reviews · 0 comments |
+| 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#148: fix(recon): constrain passive candidates to the requested domain](https://github.com/elementalsouls/Claude-BugHunter/pull/148) | +65 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#147: fix(mcp): preserve malformed JSON configs and continue wiring other harnesses](https://github.com/elementalsouls/Claude-BugHunter/pull/147) | +57 / -17 across 2 files | 0 reviews · 0 comments |
 | 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#146: fix(scaffold): keep Bash engagement creation usable with malformed recon manifests](https://github.com/elementalsouls/Claude-BugHunter/pull/146) | +27 / -7 across 1 files | 0 reviews · 0 comments |
 | 2026-11-16 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [#145: fix(install): preserve independent backups on same-second runs](https://github.com/elementalsouls/Claude-BugHunter/pull/145) | +28 / -10 across 2 files | 0 reviews · 0 comments |
