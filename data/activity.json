@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 180,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 7,
+      "comments": 4,
+      "commits": 3,
+      "created_at": "2026-11-12T08:02:33Z",
+      "deletions": 9,
+      "merged_at": "2026-11-17T11:55:56Z",
+      "number": 2810,
+      "repository": "opensandbox-group/OpenSandbox",
+      "repository_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "reviews": 6,
+      "title": "fix(egress): match domain targets written with a trailing root dot",
+      "url": "https://github.com/opensandbox-group/OpenSandbox/pull/2810"
+    },
+    {
       "additions": 1,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -63296,7 +63312,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3954,
+  "record_count": 3955,
   "schema_version": 1,
   "updated_at_utc": "2026-11-17"
 }

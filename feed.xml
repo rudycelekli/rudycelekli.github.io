@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-17T07:12:37Z</updated>
+  <updated>2026-11-17T11:55:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2810: fix(egress): match domain targets written with a trailing root dot</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2810</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2810"/>
+    <updated>2026-11-17T11:55:56Z</updated>
+    <summary>Merged public contribution. +180 / -9 across 7 changed files.</summary>
+  </entry>
   <entry>
     <title>codecrafters-io/build-your-own-x #2026: Add chibivue tutorial</title>
     <id>https://github.com/codecrafters-io/build-your-own-x/pull/2026</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ersinkoc/phonebox/pull/126"/>
     <updated>2026-11-16T13:50:23Z</updated>
     <summary>Merged public contribution. +15 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #123: Keep alarm duration from changing the calendar event</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/123</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/123"/>
-    <updated>2026-11-16T13:50:11Z</updated>
-    <summary>Merged public contribution. +25 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
