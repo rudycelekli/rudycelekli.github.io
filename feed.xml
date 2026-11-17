@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-16T23:40:07Z</updated>
+  <updated>2026-11-17T03:42:56Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2800: [TASK FIX] cell-lineage-reconstruction: state the F1 and error bars as requirements</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2800</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2800"/>
+    <updated>2026-11-17T03:42:56Z</updated>
+    <summary>Merged public contribution. +9 / -9 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #1950: fix(virtual-baseline-localization): register imported prediction modules</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1950</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1950"/>
+    <updated>2026-11-17T03:41:23Z</updated>
+    <summary>Merged public contribution. +58 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>elementalsouls/Claude-BugHunter #136: fix(engine): close coverage only after every endpoint work item has a verdict</title>
     <id>https://github.com/elementalsouls/Claude-BugHunter/pull/136</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/131"/>
     <updated>2026-11-16T13:10:53Z</updated>
     <summary>Merged public contribution. +59 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #122: fix(scope): preserve metacharacters in host regex rules</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/122</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/122"/>
-    <updated>2026-11-16T13:10:49Z</updated>
-    <summary>Merged public contribution. +14 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #117: fix(eval): exclude unreadable PortSwigger outcomes from solve rates</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/117</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/117"/>
-    <updated>2026-11-16T13:10:45Z</updated>
-    <summary>Merged public contribution. +46 / -11 across 3 changed files.</summary>
   </entry>
 </feed>
