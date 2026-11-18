@@ -4,10 +4,19 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,979**
+Records: **3,988**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3552: Preserve concurrent changes when editing Inbox routines](https://github.com/backnotprop/plannotator/pull/3552) | +50 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3551: Include staged files in working-tree reviews before the first commit](https://github.com/backnotprop/plannotator/pull/3551) | +29 / -30 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3550: Keep linked document navigation ordered and preserve pending edits](https://github.com/backnotprop/plannotator/pull/3550) | +91 / -15 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3549: Preserve audio and video metadata when people upload to the Inbox](https://github.com/backnotprop/plannotator/pull/3549) | +20 / -5 across 4 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3546: Keep distinct external comments when restoring annotate drafts](https://github.com/backnotprop/plannotator/pull/3546) | +31 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3545: Keep a rescheduled Inbox routine from being marked done by its old run](https://github.com/backnotprop/plannotator/pull/3545) | +48 / -10 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3544: Stage and unstage review filenames literally](https://github.com/backnotprop/plannotator/pull/3544) | +18 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3542: Preserve submodule pointer hunks in Git reviews](https://github.com/backnotprop/plannotator/pull/3542) | +13 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3541: Fix browser slice selection for Git-quoted paths](https://github.com/backnotprop/plannotator/pull/3541) | +7 / -7 across 1 files | 0 reviews · 0 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3543: Keep OpenCode Ask AI startup from spawning a duplicate server after disposal](https://github.com/backnotprop/plannotator/pull/3543) | +30 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3548: Report rejected OpenCode Ask AI prompts instead of waiting for a reply](https://github.com/backnotprop/plannotator/pull/3548) | +34 / -7 across 2 files | 0 reviews · 0 comments |
 | 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#24: Reject invalid Java replay arguments even for null results](https://github.com/erkamyaman/rust-anything/pull/24) | +75 / -1 across 2 files | 0 reviews · 1 comments |
