@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T10:53:46Z</updated>
+  <updated>2026-11-18T14:50:20Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2700: fix(sdk-js): keep server error codes on file download and upload failures</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2700</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2700"/>
+    <updated>2026-11-18T14:50:20Z</updated>
+    <summary>Merged public contribution. +98 / -34 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>opensandbox-group/OpenSandbox #2696: fix(sdk-python): keep structured errors on streamed download failures</title>
     <id>https://github.com/opensandbox-group/OpenSandbox/pull/2696</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/erkamyaman/rust-anything/pull/24"/>
     <updated>2026-11-17T21:47:41Z</updated>
     <summary>Merged public contribution. +75 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #23: Reserve generated binding names in Go bridges</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/23</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/23"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +90 / -46 across 2 changed files.</summary>
   </entry>
 </feed>
