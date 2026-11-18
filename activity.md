@@ -4,10 +4,24 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,010**
+Records: **4,024**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3651: Read Git hunks that omit blank context prefixes](https://github.com/backnotprop/plannotator/pull/3651) | +76 / -3 across 6 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3650: Restore plan mode when Oh My Pi changes sessions](https://github.com/backnotprop/plannotator/pull/3650) | +50 / -6 across 3 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3649: Refresh bulk merge confirmation when its target changes](https://github.com/backnotprop/plannotator/pull/3649) | +36 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3648: Keep comment composers open on an IME Escape](https://github.com/backnotprop/plannotator/pull/3648) | +39 / -6 across 4 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3647: Discard linked Reviews reads when their machine is unlinked](https://github.com/backnotprop/plannotator/pull/3647) | +71 / -18 across 4 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3646: Retry a linked Board after its first read fails](https://github.com/backnotprop/plannotator/pull/3646) | +18 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3644: Move the Inbox wake when Oh My Pi switches sessions](https://github.com/backnotprop/plannotator/pull/3644) | +30 / -4 across 3 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3643: Preserve whitespace in Git review paths](https://github.com/backnotprop/plannotator/pull/3643) | +22 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3642: Count patch-marker-like lines in review hunks](https://github.com/backnotprop/plannotator/pull/3642) | +118 / -59 across 8 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3641: Keep an open PR attached through five merged stack layers](https://github.com/backnotprop/plannotator/pull/3641) | +15 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3640: Keep successful entries when a later bulk hide or show fails](https://github.com/backnotprop/plannotator/pull/3640) | +41 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3639: Prefer the forge's default branch when grouping PR stacks](https://github.com/backnotprop/plannotator/pull/3639) | +9 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3637: Reuse restart judgments in Inbox thread and status responses](https://github.com/backnotprop/plannotator/pull/3637) | +78 / -30 across 3 files | 0 reviews · 0 comments |
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3636: Reconnect the Inbox when a relay socket stops answering](https://github.com/backnotprop/plannotator/pull/3636) | +414 / -21 across 3 files | 0 reviews · 0 comments |
 | 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#71: Preserve distinct HTTP cases with colliding names](https://github.com/erkamyaman/rust-anything/pull/71) | +63 / -6 across 3 files | 0 reviews · 1 comments |
 | 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#64: Isolate the generated C string conversion helper](https://github.com/erkamyaman/rust-anything/pull/64) | +52 / -8 across 2 files | 0 reviews · 1 comments |
 | 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#62: Resolve emitted TypeScript module extensions during Node recording](https://github.com/erkamyaman/rust-anything/pull/62) | +65 / -8 across 2 files | 0 reviews · 1 comments |

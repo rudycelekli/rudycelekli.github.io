@@ -4,8 +4,106 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T08:44:09Z</updated>
+  <updated>2026-11-18T10:09:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>backnotprop/plannotator #3651: Read Git hunks that omit blank context prefixes</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3651</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3651"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +76 / -3 across 6 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3650: Restore plan mode when Oh My Pi changes sessions</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3650</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3650"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +50 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3649: Refresh bulk merge confirmation when its target changes</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3649</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3649"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +36 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3648: Keep comment composers open on an IME Escape</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3648</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3648"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +39 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3647: Discard linked Reviews reads when their machine is unlinked</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3647</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3647"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +71 / -18 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3646: Retry a linked Board after its first read fails</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3646</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3646"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3644: Move the Inbox wake when Oh My Pi switches sessions</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3644</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3644"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +30 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3643: Preserve whitespace in Git review paths</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3643</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3643"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3642: Count patch-marker-like lines in review hunks</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3642</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3642"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +118 / -59 across 8 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3641: Keep an open PR attached through five merged stack layers</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3641</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3641"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3640: Keep successful entries when a later bulk hide or show fails</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3640</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3640"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +41 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3639: Prefer the forge's default branch when grouping PR stacks</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3639</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3639"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3637: Reuse restart judgments in Inbox thread and status responses</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3637</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3637"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +78 / -30 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator #3636: Reconnect the Inbox when a relay socket stops answering</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3636</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3636"/>
+    <updated>2026-11-18T10:09:46Z</updated>
+    <summary>Merged public contribution. +414 / -21 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>erkamyaman/rust-anything #71: Preserve distinct HTTP cases with colliding names</title>
     <id>https://github.com/erkamyaman/rust-anything/pull/71</id>
@@ -257,103 +355,5 @@
     <link href="https://github.com/erkamyaman/rust-anything/pull/22"/>
     <updated>2026-11-17T21:47:41Z</updated>
     <summary>Merged public contribution. +124 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #21: Encode Java identifiers correctly in JNI symbols</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/21</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/21"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +31 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #20: Preserve Ruby evidence when a result cannot be encoded</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/20</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/20"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +83 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #19: Fail the ported check when the source is unreadable</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/19</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/19"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +22 / -15 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #18: Declare and check the Rust 1.97 minimum</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/18</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/18"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +11 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #17: Record both CLI streams exactly for binary cases</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/17</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/17"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #16: Keep every CLI recording when case names collide</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/16</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/16"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +41 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #15: Enforce CLI replay deadlines across Unix process groups</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/15</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/15"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +38 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #14: Keep custom MCP server options when setup updates the binary</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/14</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/14"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +64 / -17 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #13: Detect manifestless TypeScript module projects</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/13</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/13"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +29 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #12: Resolve curl examples to their HTTP request targets</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/12</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/12"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +15 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #11: Preserve own __proto__ keys in JavaScript recordings</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/11</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/11"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +36 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #10: Preserve key order when applying float tolerance</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/10</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/10"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +68 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #9: Reject empty recordings in behavior comparisons</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/9</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/9"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +27 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #8: Replay the final HTTP response after informational headers</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/8</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/8"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +36 / -15 across 1 changed files.</summary>
   </entry>
 </feed>
