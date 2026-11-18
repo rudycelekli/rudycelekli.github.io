@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,024**
+Records: **4,025**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2696: fix(sdk-python): keep structured errors on streamed download failures](https://github.com/opensandbox-group/OpenSandbox/pull/2696) | +136 / -16 across 5 files | 3 reviews · 1 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3651: Read Git hunks that omit blank context prefixes](https://github.com/backnotprop/plannotator/pull/3651) | +76 / -3 across 6 files | 0 reviews · 0 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3650: Restore plan mode when Oh My Pi changes sessions](https://github.com/backnotprop/plannotator/pull/3650) | +50 / -6 across 3 files | 0 reviews · 0 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3649: Refresh bulk merge confirmation when its target changes](https://github.com/backnotprop/plannotator/pull/3649) | +36 / -5 across 2 files | 0 reviews · 0 comments |

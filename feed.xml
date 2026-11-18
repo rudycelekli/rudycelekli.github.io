@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T10:09:46Z</updated>
+  <updated>2026-11-18T10:53:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>opensandbox-group/OpenSandbox #2696: fix(sdk-python): keep structured errors on streamed download failures</title>
+    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2696</id>
+    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2696"/>
+    <updated>2026-11-18T10:53:46Z</updated>
+    <summary>Merged public contribution. +136 / -16 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>backnotprop/plannotator #3651: Read Git hunks that omit blank context prefixes</title>
     <id>https://github.com/backnotprop/plannotator/pull/3651</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/erkamyaman/rust-anything/pull/23"/>
     <updated>2026-11-17T21:47:41Z</updated>
     <summary>Merged public contribution. +90 / -46 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #22: Record Go internal packages and versioned local modules</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/22</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/22"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +124 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
