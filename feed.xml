@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T04:14:51Z</updated>
+  <updated>2026-11-18T04:41:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>backnotprop/plannotator #3547: Show the first commit in Last commit reviews</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3547</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3547"/>
+    <updated>2026-11-18T04:41:00Z</updated>
+    <summary>Merged public contribution. +0 / -0 across 0 changed files.</summary>
+  </entry>
   <entry>
     <title>backnotprop/plannotator #3552: Preserve concurrent changes when editing Inbox routines</title>
     <id>https://github.com/backnotprop/plannotator/pull/3552</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/145"/>
     <updated>2026-11-16T23:11:46Z</updated>
     <summary>Merged public contribution. +28 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #144: fix(eval): reject reused instances in manual PortSwigger ablations</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/144</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/144"/>
-    <updated>2026-11-16T23:11:43Z</updated>
-    <summary>Merged public contribution. +70 / -1 across 2 changed files.</summary>
   </entry>
 </feed>

@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 0,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 0,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-11-16T18:16:55Z",
+      "deletions": 0,
+      "merged_at": "2026-11-18T04:41:00Z",
+      "number": 3547,
+      "repository": "backnotprop/plannotator",
+      "repository_url": "https://github.com/backnotprop/plannotator",
+      "reviews": 0,
+      "title": "Show the first commit in Last commit reviews",
+      "url": "https://github.com/backnotprop/plannotator/pull/3547"
+    },
+    {
       "additions": 50,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -63840,7 +63856,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 3988,
+  "record_count": 3989,
   "schema_version": 1,
   "updated_at_utc": "2026-11-18"
 }
