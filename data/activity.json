@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 41,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-18T16:18:07Z",
+      "deletions": 4,
+      "merged_at": "2026-11-18T17:42:08Z",
+      "number": 279,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Use every polygon in an Overture download area",
+      "url": "https://github.com/c2g-dev/city2graph/pull/279"
+    },
+    {
+      "additions": 8,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 2,
+      "commits": 1,
+      "created_at": "2026-10-24T04:48:42Z",
+      "deletions": 0,
+      "merged_at": "2026-11-18T17:42:02Z",
+      "number": 3875,
+      "repository": "harbor-framework/harbor",
+      "repository_url": "https://github.com/harbor-framework/harbor",
+      "reviews": 2,
+      "title": "fix(dataset): reject negative n_tasks",
+      "url": "https://github.com/harbor-framework/harbor/pull/3875"
+    },
+    {
       "additions": 98,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -64448,7 +64480,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4026,
+  "record_count": 4028,
   "schema_version": 1,
   "updated_at_utc": "2026-11-18"
 }
