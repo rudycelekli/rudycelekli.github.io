@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,028**
+Records: **4,030**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | [#5404: fix(sim): keep terminal observations when vector simulators reuse buffers](https://github.com/huggingface/lerobot/pull/5404) | +44 / -3 across 2 files | 2 reviews · 1 comments |
+| 2026-11-18 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#287: Respect source level-rule positions after splitting Overture segments](https://github.com/c2g-dev/city2graph/pull/287) | +48 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-11-18 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#279: Use every polygon in an Overture download area](https://github.com/c2g-dev/city2graph/pull/279) | +41 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-11-18 | [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | [#3875: fix(dataset): reject negative n_tasks](https://github.com/harbor-framework/harbor/pull/3875) | +8 / -0 across 2 files | 2 reviews · 2 comments |
 | 2026-11-18 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | [#2700: fix(sdk-js): keep server error codes on file download and upload failures](https://github.com/opensandbox-group/OpenSandbox/pull/2700) | +98 / -34 across 4 files | 3 reviews · 1 comments |

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T17:42:08Z</updated>
+  <updated>2026-11-18T18:30:00Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>huggingface/lerobot #5404: fix(sim): keep terminal observations when vector simulators reuse buffers</title>
+    <id>https://github.com/huggingface/lerobot/pull/5404</id>
+    <link href="https://github.com/huggingface/lerobot/pull/5404"/>
+    <updated>2026-11-18T18:30:00Z</updated>
+    <summary>Merged public contribution. +44 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #287: Respect source level-rule positions after splitting Overture segments</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/287</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/287"/>
+    <updated>2026-11-18T18:23:40Z</updated>
+    <summary>Merged public contribution. +48 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>c2g-dev/city2graph #279: Use every polygon in an Overture download area</title>
     <id>https://github.com/c2g-dev/city2graph/pull/279</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3542"/>
     <updated>2026-11-18T04:14:51Z</updated>
     <summary>Merged public contribution. +13 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3541: Fix browser slice selection for Git-quoted paths</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3541</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3541"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +7 / -7 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3543: Keep OpenCode Ask AI startup from spawning a duplicate server after disposal</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3543</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3543"/>
-    <updated>2026-11-18T01:59:27Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
