@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 50,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 1,
+      "created_at": "2026-11-18T06:03:18Z",
+      "deletions": 11,
+      "merged_at": "2026-11-18T19:02:36Z",
+      "number": 5405,
+      "repository": "huggingface/lerobot",
+      "repository_url": "https://github.com/huggingface/lerobot",
+      "reviews": 2,
+      "title": "fix(eval): save dataset episodes when a rollout reaches its step cap",
+      "url": "https://github.com/huggingface/lerobot/pull/5405"
+    },
+    {
       "additions": 19,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -64544,7 +64560,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4032,
+  "record_count": 4033,
   "schema_version": 1,
   "updated_at_utc": "2026-11-18"
 }
