@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T01:29:34Z</updated>
+  <updated>2026-11-18T01:59:27Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>backnotprop/plannotator #3543: Keep OpenCode Ask AI startup from spawning a duplicate server after disposal</title>
+    <id>https://github.com/backnotprop/plannotator/pull/3543</id>
+    <link href="https://github.com/backnotprop/plannotator/pull/3543"/>
+    <updated>2026-11-18T01:59:27Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>backnotprop/plannotator #3548: Report rejected OpenCode Ask AI prompts instead of waiting for a reply</title>
     <id>https://github.com/backnotprop/plannotator/pull/3548</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/ersinkoc/phonebox/pull/147"/>
     <updated>2026-11-16T16:06:01Z</updated>
     <summary>Merged public contribution. +68 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>ersinkoc/phonebox #146: Refresh Air Quality when the weather location changes</title>
-    <id>https://github.com/ersinkoc/phonebox/pull/146</id>
-    <link href="https://github.com/ersinkoc/phonebox/pull/146"/>
-    <updated>2026-11-16T16:05:48Z</updated>
-    <summary>Merged public contribution. +86 / -22 across 2 changed files.</summary>
   </entry>
 </feed>
