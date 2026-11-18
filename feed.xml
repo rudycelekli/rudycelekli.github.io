@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T18:30:00Z</updated>
+  <updated>2026-11-18T18:59:23Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>c2g-dev/city2graph #292: Keep missing GTFS stop times from becoming midnight trips</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/292</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/292"/>
+    <updated>2026-11-18T18:59:23Z</updated>
+    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #295: Keep PyG edge features and metadata aligned after dropping dangling edges</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/295</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/295"/>
+    <updated>2026-11-18T18:33:24Z</updated>
+    <summary>Merged public contribution. +85 / -13 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>huggingface/lerobot #5404: fix(sim): keep terminal observations when vector simulators reuse buffers</title>
     <id>https://github.com/huggingface/lerobot/pull/5404</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3545"/>
     <updated>2026-11-18T04:14:51Z</updated>
     <summary>Merged public contribution. +48 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3544: Stage and unstage review filenames literally</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3544</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3544"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3542: Preserve submodule pointer hunks in Git reviews</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3542</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3542"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +13 / -5 across 2 changed files.</summary>
   </entry>
 </feed>

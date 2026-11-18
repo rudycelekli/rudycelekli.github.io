@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 19,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-18T16:23:55Z",
+      "deletions": 1,
+      "merged_at": "2026-11-18T18:59:23Z",
+      "number": 292,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Keep missing GTFS stop times from becoming midnight trips",
+      "url": "https://github.com/c2g-dev/city2graph/pull/292"
+    },
+    {
+      "additions": 85,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-18T16:25:14Z",
+      "deletions": 13,
+      "merged_at": "2026-11-18T18:33:24Z",
+      "number": 295,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Keep PyG edge features and metadata aligned after dropping dangling edges",
+      "url": "https://github.com/c2g-dev/city2graph/pull/295"
+    },
+    {
       "additions": 44,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -64512,7 +64544,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4030,
+  "record_count": 4032,
   "schema_version": 1,
   "updated_at_utc": "2026-11-18"
 }
