@@ -4,8 +4,148 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-18T07:54:51Z</updated>
+  <updated>2026-11-18T08:44:09Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>erkamyaman/rust-anything #71: Preserve distinct HTTP cases with colliding names</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/71</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/71"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +63 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #64: Isolate the generated C string conversion helper</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/64</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/64"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +52 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #62: Resolve emitted TypeScript module extensions during Node recording</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/62</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/62"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +65 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #61: Honor exact TypeScript path aliases before wildcard matches</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/61</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/61"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #60: Replay large UTF-16 strings without exceeding Node argument limits</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/60</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/60"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +48 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #59: Escape path delimiters in the Node resolver registration URL</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/59</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/59"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +36 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #58: Use dynamic wire keys for wide TypeScript objects</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/58</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/58"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #57: Keep original export names when refreshing raw Rust identifiers</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/57</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/57"/>
+    <updated>2026-11-18T08:44:09Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #76: Keep the configured port when re-recording HTTP cases</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/76</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/76"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +38 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #75: Decode file URLs in Node CPU profiles</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/75</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/75"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +33 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #74: Quote Node profile output directories</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/74</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/74"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #73: Validate the HTTP Content-Length framing</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/73</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/73"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +26 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #72: Match curl data-file request bodies</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/72</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/72"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +26 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #70: Use parsed Java package names when resolving recording targets</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/70</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/70"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +73 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #69: Keep the Go toolchain cgo setting while recording the original</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/69</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/69"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +63 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #68: Preserve namespace prefixes in grouped PHP imports</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/68</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/68"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +30 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #67: Classify C# test sources by their owning project</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/67</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/67"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #66: Read quoted and tab-separated Go module directives</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/66</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/66"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +82 / -11 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #65: Ignore non-top-level Go struct fields when deriving the bridge shape</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/65</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/65"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +37 / -10 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>erkamyaman/rust-anything #63: Benchmark async TypeScript calls through promise settlement</title>
+    <id>https://github.com/erkamyaman/rust-anything/pull/63</id>
+    <link href="https://github.com/erkamyaman/rust-anything/pull/63"/>
+    <updated>2026-11-18T08:44:08Z</updated>
+    <summary>Merged public contribution. +79 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #1908: [TASK FIX] hbv-calibration-1: consolidate R setup, memory and routing clarification</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/1908</id>
@@ -215,145 +355,5 @@
     <link href="https://github.com/erkamyaman/rust-anything/pull/8"/>
     <updated>2026-11-17T21:47:41Z</updated>
     <summary>Merged public contribution. +36 / -15 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #7: Reject interrupted and malformed HTTP response bodies</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/7</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/7"/>
-    <updated>2026-11-17T21:47:41Z</updated>
-    <summary>Merged public contribution. +51 / -11 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1982: fix(cmb-cross-inference): accept both byte orders of float64 artifacts</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1982</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1982"/>
-    <updated>2026-11-17T14:20:02Z</updated>
-    <summary>Merged public contribution. +124 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2827: [TASK FIX] amr-poisson-optimize: start every graded candidate run from fresh state</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2827</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2827"/>
-    <updated>2026-11-17T14:12:36Z</updated>
-    <summary>Merged public contribution. +206 / -18 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1976: [TASK FIX] rv-astrometry-fitting: consolidate posterior, compatibility and contract fixes</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1976</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1976"/>
-    <updated>2026-11-17T14:07:42Z</updated>
-    <summary>Merged public contribution. +263 / -9 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2784: [TASK FIX] hysteretic-aquifer-control: cap verifier threads before any numerical work</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2784</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2784"/>
-    <updated>2026-11-17T13:04:57Z</updated>
-    <summary>Merged public contribution. +21 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>opensandbox-group/OpenSandbox #2810: fix(egress): match domain targets written with a trailing root dot</title>
-    <id>https://github.com/opensandbox-group/OpenSandbox/pull/2810</id>
-    <link href="https://github.com/opensandbox-group/OpenSandbox/pull/2810"/>
-    <updated>2026-11-17T11:55:56Z</updated>
-    <summary>Merged public contribution. +180 / -9 across 7 changed files.</summary>
-  </entry>
-  <entry>
-    <title>codecrafters-io/build-your-own-x #2026: Add chibivue tutorial</title>
-    <id>https://github.com/codecrafters-io/build-your-own-x/pull/2026</id>
-    <link href="https://github.com/codecrafters-io/build-your-own-x/pull/2026"/>
-    <updated>2026-11-17T07:12:37Z</updated>
-    <summary>Merged public contribution. +1 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>codecrafters-io/build-your-own-x #2032: docs: add Mini-LSM storage engine course</title>
-    <id>https://github.com/codecrafters-io/build-your-own-x/pull/2032</id>
-    <link href="https://github.com/codecrafters-io/build-your-own-x/pull/2032"/>
-    <updated>2026-11-17T07:12:32Z</updated>
-    <summary>Merged public contribution. +1 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>codecrafters-io/build-your-own-x #2021: docs: link maintained LWJGL game development book</title>
-    <id>https://github.com/codecrafters-io/build-your-own-x/pull/2021</id>
-    <link href="https://github.com/codecrafters-io/build-your-own-x/pull/2021"/>
-    <updated>2026-11-17T06:44:44Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2800: [TASK FIX] cell-lineage-reconstruction: state the F1 and error bars as requirements</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2800</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2800"/>
-    <updated>2026-11-17T03:42:56Z</updated>
-    <summary>Merged public contribution. +9 / -9 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #1950: fix(virtual-baseline-localization): register imported prediction modules</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/1950</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1950"/>
-    <updated>2026-11-17T03:41:23Z</updated>
-    <summary>Merged public contribution. +58 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #136: fix(engine): close coverage only after every endpoint work item has a verdict</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/136</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/136"/>
-    <updated>2026-11-16T23:40:07Z</updated>
-    <summary>Merged public contribution. +83 / -34 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #138: fix(engine): resume validation without rechecking rejected candidates</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/138</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/138"/>
-    <updated>2026-11-16T23:39:20Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #137: fix(engine): isolate mock reports and checkpoints from live engagements</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/137</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/137"/>
-    <updated>2026-11-16T23:38:58Z</updated>
-    <summary>Merged public contribution. +25 / -5 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #140: fix(engine): guarantee the default OpenAPI sweep skips write methods</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/140</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/140"/>
-    <updated>2026-11-16T23:38:34Z</updated>
-    <summary>Merged public contribution. +37 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #150: fix(report): preserve heading-like evidence inside Markdown fences</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/150</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/150"/>
-    <updated>2026-11-16T23:36:51Z</updated>
-    <summary>Merged public contribution. +57 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #149: fix(recon): record redirects without following their destinations</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/149</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/149"/>
-    <updated>2026-11-16T23:36:29Z</updated>
-    <summary>Merged public contribution. +70 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #148: fix(recon): constrain passive candidates to the requested domain</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/148</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/148"/>
-    <updated>2026-11-16T23:36:05Z</updated>
-    <summary>Merged public contribution. +65 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #147: fix(mcp): preserve malformed JSON configs and continue wiring other harnesses</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/147</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/147"/>
-    <updated>2026-11-16T23:11:54Z</updated>
-    <summary>Merged public contribution. +57 / -17 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>elementalsouls/Claude-BugHunter #146: fix(scaffold): keep Bash engagement creation usable with malformed recon manifests</title>
-    <id>https://github.com/elementalsouls/Claude-BugHunter/pull/146</id>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter/pull/146"/>
-    <updated>2026-11-16T23:11:50Z</updated>
-    <summary>Merged public contribution. +27 / -7 across 1 changed files.</summary>
   </entry>
 </feed>

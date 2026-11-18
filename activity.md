@@ -4,10 +4,30 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,990**
+Records: **4,010**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#71: Preserve distinct HTTP cases with colliding names](https://github.com/erkamyaman/rust-anything/pull/71) | +63 / -6 across 3 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#64: Isolate the generated C string conversion helper](https://github.com/erkamyaman/rust-anything/pull/64) | +52 / -8 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#62: Resolve emitted TypeScript module extensions during Node recording](https://github.com/erkamyaman/rust-anything/pull/62) | +65 / -8 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#61: Honor exact TypeScript path aliases before wildcard matches](https://github.com/erkamyaman/rust-anything/pull/61) | +53 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#60: Replay large UTF-16 strings without exceeding Node argument limits](https://github.com/erkamyaman/rust-anything/pull/60) | +48 / -2 across 3 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#59: Escape path delimiters in the Node resolver registration URL](https://github.com/erkamyaman/rust-anything/pull/59) | +36 / -4 across 2 files | 1 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#58: Use dynamic wire keys for wide TypeScript objects](https://github.com/erkamyaman/rust-anything/pull/58) | +18 / -1 across 1 files | 1 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#57: Keep original export names when refreshing raw Rust identifiers](https://github.com/erkamyaman/rust-anything/pull/57) | +21 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#76: Keep the configured port when re-recording HTTP cases](https://github.com/erkamyaman/rust-anything/pull/76) | +38 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#75: Decode file URLs in Node CPU profiles](https://github.com/erkamyaman/rust-anything/pull/75) | +33 / -1 across 3 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#74: Quote Node profile output directories](https://github.com/erkamyaman/rust-anything/pull/74) | +22 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#73: Validate the HTTP Content-Length framing](https://github.com/erkamyaman/rust-anything/pull/73) | +26 / -4 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#72: Match curl data-file request bodies](https://github.com/erkamyaman/rust-anything/pull/72) | +26 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#70: Use parsed Java package names when resolving recording targets](https://github.com/erkamyaman/rust-anything/pull/70) | +73 / -6 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#69: Keep the Go toolchain cgo setting while recording the original](https://github.com/erkamyaman/rust-anything/pull/69) | +63 / -5 across 2 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#68: Preserve namespace prefixes in grouped PHP imports](https://github.com/erkamyaman/rust-anything/pull/68) | +30 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#67: Classify C# test sources by their owning project](https://github.com/erkamyaman/rust-anything/pull/67) | +22 / -1 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#66: Read quoted and tab-separated Go module directives](https://github.com/erkamyaman/rust-anything/pull/66) | +82 / -11 across 3 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#65: Ignore non-top-level Go struct fields when deriving the bridge shape](https://github.com/erkamyaman/rust-anything/pull/65) | +37 / -10 across 1 files | 0 reviews · 1 comments |
+| 2026-11-18 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#63: Benchmark async TypeScript calls through promise settlement](https://github.com/erkamyaman/rust-anything/pull/63) | +79 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-11-18 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#1908: [TASK FIX] hbv-calibration-1: consolidate R setup, memory and routing clarification](https://github.com/harbor-framework/terminal-bench-science/pull/1908) | +122 / -66 across 6 files | 2 reviews · 15 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3547: Show the first commit in Last commit reviews](https://github.com/backnotprop/plannotator/pull/3547) | +0 / -0 across 0 files | 0 reviews · 0 comments |
 | 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3552: Preserve concurrent changes when editing Inbox routines](https://github.com/backnotprop/plannotator/pull/3552) | +50 / -6 across 2 files | 0 reviews · 0 comments |
