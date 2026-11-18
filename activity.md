@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-18 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **3,977**
+Records: **3,978**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-18 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3548: Report rejected OpenCode Ask AI prompts instead of waiting for a reply](https://github.com/backnotprop/plannotator/pull/3548) | +34 / -7 across 2 files | 0 reviews · 0 comments |
 | 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#24: Reject invalid Java replay arguments even for null results](https://github.com/erkamyaman/rust-anything/pull/24) | +75 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#23: Reserve generated binding names in Go bridges](https://github.com/erkamyaman/rust-anything/pull/23) | +90 / -46 across 2 files | 0 reviews · 1 comments |
 | 2026-11-17 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [#22: Record Go internal packages and versioned local modules](https://github.com/erkamyaman/rust-anything/pull/22) | +124 / -2 across 3 files | 0 reviews · 1 comments |
