@@ -4,8 +4,43 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-19T16:44:42Z</updated>
+  <updated>2026-11-19T21:29:13Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>affaan-m/ECC #4023: fix(mcp): use the dispatched tool namespace for health checks</title>
+    <id>https://github.com/affaan-m/ECC/pull/4023</id>
+    <link href="https://github.com/affaan-m/ECC/pull/4023"/>
+    <updated>2026-11-19T21:29:13Z</updated>
+    <summary>Merged public contribution. +39 / -13 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>affaan-m/ECC #4022: fix(statusline): preserve newer tool metrics during context updates</title>
+    <id>https://github.com/affaan-m/ECC/pull/4022</id>
+    <link href="https://github.com/affaan-m/ECC/pull/4022"/>
+    <updated>2026-11-19T21:29:13Z</updated>
+    <summary>Merged public contribution. +76 / -14 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>affaan-m/ECC #4021: fix(nasiko): identify missing qualified registry manifests</title>
+    <id>https://github.com/affaan-m/ECC/pull/4021</id>
+    <link href="https://github.com/affaan-m/ECC/pull/4021"/>
+    <updated>2026-11-19T21:29:13Z</updated>
+    <summary>Merged public contribution. +60 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>affaan-m/ECC #4020: fix(eval-harness): preserve fixtures when recording fails</title>
+    <id>https://github.com/affaan-m/ECC/pull/4020</id>
+    <link href="https://github.com/affaan-m/ECC/pull/4020"/>
+    <updated>2026-11-19T21:29:13Z</updated>
+    <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>affaan-m/ECC #4019: fix(openspec): query history for literal anchor paths</title>
+    <id>https://github.com/affaan-m/ECC/pull/4019</id>
+    <link href="https://github.com/affaan-m/ECC/pull/4019"/>
+    <updated>2026-11-19T21:29:13Z</updated>
+    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>google-deepmind/concordia #452: Preserve tool use in scoped document edits</title>
     <id>https://github.com/google-deepmind/concordia/pull/452</id>
@@ -320,40 +355,5 @@
     <link href="https://github.com/harbor-framework/terminal-bench-science/pull/1908"/>
     <updated>2026-11-18T07:54:51Z</updated>
     <summary>Merged public contribution. +122 / -66 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3547: Show the first commit in Last commit reviews</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3547</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3547"/>
-    <updated>2026-11-18T04:41:00Z</updated>
-    <summary>Merged public contribution. +0 / -0 across 0 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3552: Preserve concurrent changes when editing Inbox routines</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3552</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3552"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +50 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3551: Include staged files in working-tree reviews before the first commit</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3551</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3551"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +29 / -30 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3550: Keep linked document navigation ordered and preserve pending edits</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3550</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3550"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +91 / -15 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3549: Preserve audio and video metadata when people upload to the Inbox</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3549</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3549"/>
-    <updated>2026-11-18T04:14:51Z</updated>
-    <summary>Merged public contribution. +20 / -5 across 4 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,034**
+Records: **4,039**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [#4023: fix(mcp): use the dispatched tool namespace for health checks](https://github.com/affaan-m/ECC/pull/4023) | +39 / -13 across 2 files | 0 reviews · 7 comments |
+| 2026-11-19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [#4022: fix(statusline): preserve newer tool metrics during context updates](https://github.com/affaan-m/ECC/pull/4022) | +76 / -14 across 4 files | 2 reviews · 11 comments |
+| 2026-11-19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [#4021: fix(nasiko): identify missing qualified registry manifests](https://github.com/affaan-m/ECC/pull/4021) | +60 / -2 across 2 files | 0 reviews · 7 comments |
+| 2026-11-19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [#4020: fix(eval-harness): preserve fixtures when recording fails](https://github.com/affaan-m/ECC/pull/4020) | +28 / -2 across 2 files | 1 reviews · 11 comments |
+| 2026-11-19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [#4019: fix(openspec): query history for literal anchor paths](https://github.com/affaan-m/ECC/pull/4019) | +60 / -4 across 2 files | 1 reviews · 11 comments |
 | 2026-11-19 | [google-deepmind/concordia](https://github.com/google-deepmind/concordia) | [#452: Preserve tool use in scoped document edits](https://github.com/google-deepmind/concordia/pull/452) | +99 / -1 across 3 files | 1 reviews · 0 comments |
 | 2026-11-18 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | [#5405: fix(eval): save dataset episodes when a rollout reaches its step cap](https://github.com/huggingface/lerobot/pull/5405) | +50 / -11 across 2 files | 2 reviews · 1 comments |
 | 2026-11-18 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#292: Keep missing GTFS stop times from becoming midnight trips](https://github.com/c2g-dev/city2graph/pull/292) | +19 / -1 across 2 files | 0 reviews · 1 comments |
