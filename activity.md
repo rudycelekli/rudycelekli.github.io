@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-19 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,033**
+Records: **4,034**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-19 | [google-deepmind/concordia](https://github.com/google-deepmind/concordia) | [#452: Preserve tool use in scoped document edits](https://github.com/google-deepmind/concordia/pull/452) | +99 / -1 across 3 files | 1 reviews · 0 comments |
 | 2026-11-18 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | [#5405: fix(eval): save dataset episodes when a rollout reaches its step cap](https://github.com/huggingface/lerobot/pull/5405) | +50 / -11 across 2 files | 2 reviews · 1 comments |
 | 2026-11-18 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#292: Keep missing GTFS stop times from becoming midnight trips](https://github.com/c2g-dev/city2graph/pull/292) | +19 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-18 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#295: Keep PyG edge features and metadata aligned after dropping dangling edges](https://github.com/c2g-dev/city2graph/pull/295) | +85 / -13 across 2 files | 0 reviews · 1 comments |

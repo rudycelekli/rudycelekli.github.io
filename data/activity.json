@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 99,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 1,
+      "created_at": "2026-11-04T20:05:10Z",
+      "deletions": 1,
+      "merged_at": "2026-11-19T16:44:42Z",
+      "number": 452,
+      "repository": "google-deepmind/concordia",
+      "repository_url": "https://github.com/google-deepmind/concordia",
+      "reviews": 1,
+      "title": "Preserve tool use in scoped document edits",
+      "url": "https://github.com/google-deepmind/concordia/pull/452"
+    },
+    {
       "additions": 50,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -64560,7 +64576,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4033,
+  "record_count": 4034,
   "schema_version": 1,
   "updated_at_utc": "2026-11-19"
 }
