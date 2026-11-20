@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,088**
+Records: **4,092**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1349: fix(cline): carry the SDK session ID into hook telemetry](https://github.com/Asymptote-Labs/agent-beacon/pull/1349) | +69 / -0 across 4 files | 1 reviews · 0 comments |
+| 2026-11-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1348: fix(opencode): preserve host events during telemetry normalization](https://github.com/Asymptote-Labs/agent-beacon/pull/1348) | +54 / -10 across 3 files | 1 reviews · 0 comments |
+| 2026-11-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1335: Use authored JSONC key spans when editing configs](https://github.com/Asymptote-Labs/agent-beacon/pull/1335) | +14 / -2 across 3 files | 1 reviews · 0 comments |
+| 2026-11-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1334: Skip non-object payloads in Claude browser streams](https://github.com/Asymptote-Labs/agent-beacon/pull/1334) | +13 / -0 across 2 files | 1 reviews · 0 comments |
 | 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#105: fix: recognize CSS-first Tailwind setups in verification](https://github.com/google-labs-code/stitch-skills/pull/105) | +104 / -12 across 3 files | 1 reviews · 0 comments |
 | 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#104: fix: reject unsupported web tags in native components](https://github.com/google-labs-code/stitch-skills/pull/104) | +65 / -7 across 4 files | 1 reviews · 0 comments |
 | 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#103: fix: validate hardcoded colors in className expressions](https://github.com/google-labs-code/stitch-skills/pull/103) | +71 / -7 across 4 files | 1 reviews · 0 comments |
