@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 127,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 4,
+      "created_at": "2026-11-18T16:17:06Z",
+      "deletions": 23,
+      "merged_at": "2026-11-20T01:02:59Z",
+      "number": 278,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Keep invalid GTFS stop coordinates out of graph geometry",
+      "url": "https://github.com/c2g-dev/city2graph/pull/278"
+    },
+    {
       "additions": 14,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -64688,7 +64704,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4041,
+  "record_count": 4042,
   "schema_version": 1,
   "updated_at_utc": "2026-11-20"
 }

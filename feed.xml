@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T00:40:21Z</updated>
+  <updated>2026-11-20T01:02:59Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>c2g-dev/city2graph #278: Keep invalid GTFS stop coordinates out of graph geometry</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/278</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/278"/>
+    <updated>2026-11-20T01:02:59Z</updated>
+    <summary>Merged public contribution. +127 / -23 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>c2g-dev/city2graph #277: Reject missing GTFS frequency period boundaries</title>
     <id>https://github.com/c2g-dev/city2graph/pull/277</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/erkamyaman/rust-anything/pull/66"/>
     <updated>2026-11-18T08:44:08Z</updated>
     <summary>Merged public contribution. +82 / -11 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #65: Ignore non-top-level Go struct fields when deriving the bridge shape</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/65</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/65"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +37 / -10 across 1 changed files.</summary>
   </entry>
 </feed>
