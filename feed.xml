@@ -4,8 +4,176 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T01:02:59Z</updated>
+  <updated>2026-11-20T01:51:36Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>coreyhaines31/marketingskills #879: fix(supermetrics): reject row limits that parseInt would truncate</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/879</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/879"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #878: fix(wistia): honor an explicit false public project flag</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/878</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/878"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #877: fix(google-ads): strip hyphens from the target customer ID</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/877</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/877"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +6 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #876: fix(similarweb): request geography from the v4 endpoint</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/876</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/876"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +6 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #875: fix(trustpilot): page business search with the documented perpage parameter</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/875</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/875"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #874: fix(resend): page audience, contact and webhook lists with cursors</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/874</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/874"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +20 / -10 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #873: fix(dataforseo): enforce per-task keyword limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/873</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/873"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +24 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #872: fix(tiktok): send v1.3 operation_status for campaign status updates</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/872</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/872"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +5 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #871: fix(mixpanel): require the funnel query date range</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/871</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/871"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +9 / -4 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #870: fix(lemlist): request campaign stats from the v2 route with its date range</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/870</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/870"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #869: fix(hunter): read and pause sequences through documented routes</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/869</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/869"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #868: fix(apollo): enforce the ten-person bulk enrichment limit</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/868</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/868"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +10 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #867: fix(postmark): enforce batch and suppression request limits</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/867</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/867"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #866: fix(optimizely): change experiment state with the documented action parameter</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/866</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/866"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +17 / -5 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #865: fix(livestorm): create webhooks with documented url and event attributes</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/865</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/865"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +14 / -9 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #864: fix(ahrefs): send required Keywords Explorer and SERP Overview parameters</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/864</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/864"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +21 / -13 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #863: fix(truelist): enforce the three-address inline verification limit</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/863</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/863"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +9 / -1 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #862: fix(activecampaign): require whole-cent deal values</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/862</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/862"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #861: fix(activecampaign): send deal search as filters[search]</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/861</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/861"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +9 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #860: fix(close): filter activity lists with the documented _type parameter</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/860</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/860"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #858: fix(paddle): reject incomplete recurring price options</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/858</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/858"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>coreyhaines31/marketingskills #852: fix(clis): propagate remaining HTTP rejection statuses</title>
+    <id>https://github.com/coreyhaines31/marketingskills/pull/852</id>
+    <link href="https://github.com/coreyhaines31/marketingskills/pull/852"/>
+    <updated>2026-11-20T01:51:36Z</updated>
+    <summary>Merged public contribution. +200 / -5 across 38 changed files.</summary>
+  </entry>
+  <entry>
+    <title>sgl-project/sglang #51338: [Feat] classify: Support independent multi-label probabilities</title>
+    <id>https://github.com/sgl-project/sglang/pull/51338</id>
+    <link href="https://github.com/sgl-project/sglang/pull/51338"/>
+    <updated>2026-11-20T01:46:56Z</updated>
+    <summary>Merged public contribution. +15 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #283: Preserve curved street geometry in proximity paths</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/283</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/283"/>
+    <updated>2026-11-20T01:33:54Z</updated>
+    <summary>Merged public contribution. +98 / -7 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>c2g-dev/city2graph #278: Keep invalid GTFS stop coordinates out of graph geometry</title>
     <id>https://github.com/c2g-dev/city2graph/pull/278</id>
@@ -187,173 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3643"/>
     <updated>2026-11-18T10:09:46Z</updated>
     <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3642: Count patch-marker-like lines in review hunks</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3642</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3642"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +118 / -59 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3641: Keep an open PR attached through five merged stack layers</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3641</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3641"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +15 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3640: Keep successful entries when a later bulk hide or show fails</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3640</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3640"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +41 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3639: Prefer the forge's default branch when grouping PR stacks</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3639</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3639"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +9 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3637: Reuse restart judgments in Inbox thread and status responses</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3637</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3637"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +78 / -30 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3636: Reconnect the Inbox when a relay socket stops answering</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3636</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3636"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +414 / -21 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #71: Preserve distinct HTTP cases with colliding names</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/71</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/71"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +63 / -6 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #64: Isolate the generated C string conversion helper</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/64</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/64"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +52 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #62: Resolve emitted TypeScript module extensions during Node recording</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/62</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/62"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +65 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #61: Honor exact TypeScript path aliases before wildcard matches</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/61</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/61"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +53 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #60: Replay large UTF-16 strings without exceeding Node argument limits</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/60</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/60"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +48 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #59: Escape path delimiters in the Node resolver registration URL</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/59</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/59"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +36 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #58: Use dynamic wire keys for wide TypeScript objects</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/58</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/58"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #57: Keep original export names when refreshing raw Rust identifiers</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/57</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/57"/>
-    <updated>2026-11-18T08:44:09Z</updated>
-    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #76: Keep the configured port when re-recording HTTP cases</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/76</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/76"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +38 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #75: Decode file URLs in Node CPU profiles</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/75</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/75"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +33 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #74: Quote Node profile output directories</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/74</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/74"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #73: Validate the HTTP Content-Length framing</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/73</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/73"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +26 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #72: Match curl data-file request bodies</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/72</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/72"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +26 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #70: Use parsed Java package names when resolving recording targets</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/70</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/70"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +73 / -6 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #69: Keep the Go toolchain cgo setting while recording the original</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/69</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/69"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +63 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #68: Preserve namespace prefixes in grouped PHP imports</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/68</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/68"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +30 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #67: Classify C# test sources by their owning project</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/67</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/67"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>erkamyaman/rust-anything #66: Read quoted and tab-separated Go module directives</title>
-    <id>https://github.com/erkamyaman/rust-anything/pull/66</id>
-    <link href="https://github.com/erkamyaman/rust-anything/pull/66"/>
-    <updated>2026-11-18T08:44:08Z</updated>
-    <summary>Merged public contribution. +82 / -11 across 3 changed files.</summary>
   </entry>
 </feed>
