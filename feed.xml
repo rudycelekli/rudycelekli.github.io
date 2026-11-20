@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T14:45:22Z</updated>
+  <updated>2026-11-20T15:20:38Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Kentucky-ai/opentakeoff #665: Compare all vector linework in MCP sheet revisions</title>
+    <id>https://github.com/Kentucky-ai/opentakeoff/pull/665</id>
+    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/665"/>
+    <updated>2026-11-20T15:20:38Z</updated>
+    <summary>Merged public contribution. +60 / -22 across 8 changed files.</summary>
+  </entry>
   <entry>
     <title>Kentucky-ai/opentakeoff #664: Fix ceiling wall angle after resetting the floor multiplier</title>
     <id>https://github.com/Kentucky-ai/opentakeoff/pull/664</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3651"/>
     <updated>2026-11-18T10:09:46Z</updated>
     <summary>Merged public contribution. +76 / -3 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3650: Restore plan mode when Oh My Pi changes sessions</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3650</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3650"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +50 / -6 across 3 changed files.</summary>
   </entry>
 </feed>
