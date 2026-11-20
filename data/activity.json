@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 14,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-18T16:17:06Z",
+      "deletions": 1,
+      "merged_at": "2026-11-20T00:40:21Z",
+      "number": 277,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Reject missing GTFS frequency period boundaries",
+      "url": "https://github.com/c2g-dev/city2graph/pull/277"
+    },
+    {
       "additions": 43,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -64672,7 +64688,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4040,
+  "record_count": 4041,
   "schema_version": 1,
-  "updated_at_utc": "2026-11-19"
+  "updated_at_utc": "2026-11-20"
 }
