@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,071**
+Records: **4,072**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#664: Fix ceiling wall angle after resetting the floor multiplier](https://github.com/Kentucky-ai/opentakeoff/pull/664) | +50 / -10 across 8 files | 1 reviews · 2 comments |
 | 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9787: Propagate program-walk callback and filter errors](https://github.com/NationalSecurityAgency/ghidra/pull/9787) | +10 / -8 across 1 files | 0 reviews · 1 comments |
 | 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9783: Notify PyGhidra monitor listeners on cancellation](https://github.com/NationalSecurityAgency/ghidra/pull/9783) | +12 / -4 across 1 files | 2 reviews · 2 comments |
 | 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9779: Roll back newly created PyGhidra plugin installs after copy failures](https://github.com/NationalSecurityAgency/ghidra/pull/9779) | +12 / -11 across 1 files | 0 reviews · 1 comments |
