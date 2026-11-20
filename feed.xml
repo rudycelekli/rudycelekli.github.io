@@ -4,8 +4,57 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T17:30:44Z</updated>
+  <updated>2026-11-20T17:37:15Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>c2g-dev/city2graph #286: Ignore out-of-range Overture connector positions</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/286</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/286"/>
+    <updated>2026-11-20T17:37:15Z</updated>
+    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #291: Keep valid GBFS feeds available beside malformed files</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/291</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/291"/>
+    <updated>2026-11-20T17:36:24Z</updated>
+    <summary>Merged public contribution. +49 / -33 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #285: Clip empty spatial selections to an empty graph</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/285</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/285"/>
+    <updated>2026-11-20T17:35:33Z</updated>
+    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #289: Skip Overture downloads for an explicitly empty layer selection</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/289</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/289"/>
+    <updated>2026-11-20T17:34:49Z</updated>
+    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #296: Use the active geometry column to construct dual graphs</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/296</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/296"/>
+    <updated>2026-11-20T17:34:04Z</updated>
+    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #288: Keep disconnected rows out when edge index labels repeat</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/288</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/288"/>
+    <updated>2026-11-20T17:33:11Z</updated>
+    <summary>Merged public contribution. +57 / -8 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #300: Reject invalid network distance costs before routing</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/300</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/300"/>
+    <updated>2026-11-20T17:31:39Z</updated>
+    <summary>Merged public contribution. +80 / -3 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>c2g-dev/city2graph #294: Merge reciprocal OD flows for mixed-type zone IDs</title>
     <id>https://github.com/c2g-dev/city2graph/pull/294</id>
@@ -306,54 +355,5 @@
     <link href="https://github.com/affaan-m/ECC/pull/4020"/>
     <updated>2026-11-19T21:29:13Z</updated>
     <summary>Merged public contribution. +28 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>affaan-m/ECC #4019: fix(openspec): query history for literal anchor paths</title>
-    <id>https://github.com/affaan-m/ECC/pull/4019</id>
-    <link href="https://github.com/affaan-m/ECC/pull/4019"/>
-    <updated>2026-11-19T21:29:13Z</updated>
-    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-deepmind/concordia #452: Preserve tool use in scoped document edits</title>
-    <id>https://github.com/google-deepmind/concordia/pull/452</id>
-    <link href="https://github.com/google-deepmind/concordia/pull/452"/>
-    <updated>2026-11-19T16:44:42Z</updated>
-    <summary>Merged public contribution. +99 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>huggingface/lerobot #5405: fix(eval): save dataset episodes when a rollout reaches its step cap</title>
-    <id>https://github.com/huggingface/lerobot/pull/5405</id>
-    <link href="https://github.com/huggingface/lerobot/pull/5405"/>
-    <updated>2026-11-18T19:02:36Z</updated>
-    <summary>Merged public contribution. +50 / -11 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #292: Keep missing GTFS stop times from becoming midnight trips</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/292</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/292"/>
-    <updated>2026-11-18T18:59:23Z</updated>
-    <summary>Merged public contribution. +19 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #295: Keep PyG edge features and metadata aligned after dropping dangling edges</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/295</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/295"/>
-    <updated>2026-11-18T18:33:24Z</updated>
-    <summary>Merged public contribution. +85 / -13 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>huggingface/lerobot #5404: fix(sim): keep terminal observations when vector simulators reuse buffers</title>
-    <id>https://github.com/huggingface/lerobot/pull/5404</id>
-    <link href="https://github.com/huggingface/lerobot/pull/5404"/>
-    <updated>2026-11-18T18:30:00Z</updated>
-    <summary>Merged public contribution. +44 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #287: Respect source level-rule positions after splitting Overture segments</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/287</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/287"/>
-    <updated>2026-11-18T18:23:40Z</updated>
-    <summary>Merged public contribution. +48 / -4 across 2 changed files.</summary>
   </entry>
 </feed>

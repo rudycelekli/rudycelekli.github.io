@@ -4,10 +4,17 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,078**
+Records: **4,085**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#286: Ignore out-of-range Overture connector positions](https://github.com/c2g-dev/city2graph/pull/286) | +36 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#291: Keep valid GBFS feeds available beside malformed files](https://github.com/c2g-dev/city2graph/pull/291) | +49 / -33 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#285: Clip empty spatial selections to an empty graph](https://github.com/c2g-dev/city2graph/pull/285) | +49 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#289: Skip Overture downloads for an explicitly empty layer selection](https://github.com/c2g-dev/city2graph/pull/289) | +25 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#296: Use the active geometry column to construct dual graphs](https://github.com/c2g-dev/city2graph/pull/296) | +27 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#288: Keep disconnected rows out when edge index labels repeat](https://github.com/c2g-dev/city2graph/pull/288) | +57 / -8 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#300: Reject invalid network distance costs before routing](https://github.com/c2g-dev/city2graph/pull/300) | +80 / -3 across 2 files | 0 reviews · 2 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#294: Merge reciprocal OD flows for mixed-type zone IDs](https://github.com/c2g-dev/city2graph/pull/294) | +24 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#299: Keep valid OD flows when a zone centroid is empty](https://github.com/c2g-dev/city2graph/pull/299) | +18 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#297: Honor the requested NetworkX output for empty dual graphs](https://github.com/c2g-dev/city2graph/pull/297) | +13 / -2 across 2 files | 0 reviews · 0 comments |
