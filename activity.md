@@ -4,10 +4,15 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,073**
+Records: **4,078**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#294: Merge reciprocal OD flows for mixed-type zone IDs](https://github.com/c2g-dev/city2graph/pull/294) | +24 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#299: Keep valid OD flows when a zone centroid is empty](https://github.com/c2g-dev/city2graph/pull/299) | +18 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#297: Honor the requested NetworkX output for empty dual graphs](https://github.com/c2g-dev/city2graph/pull/297) | +13 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#290: Apply OD thresholds after summing reciprocal flows](https://github.com/c2g-dev/city2graph/pull/290) | +75 / -17 across 2 files | 0 reviews · 1 comments |
+| 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#301: Project secondary barriers before matching place and movement nodes](https://github.com/c2g-dev/city2graph/pull/301) | +129 / -7 across 2 files | 0 reviews · 3 comments |
 | 2026-11-20 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#665: Compare all vector linework in MCP sheet revisions](https://github.com/Kentucky-ai/opentakeoff/pull/665) | +60 / -22 across 8 files | 2 reviews · 5 comments |
 | 2026-11-20 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | [#664: Fix ceiling wall angle after resetting the floor multiplier](https://github.com/Kentucky-ai/opentakeoff/pull/664) | +50 / -10 across 8 files | 1 reviews · 2 comments |
 | 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9787: Propagate program-walk callback and filter errors](https://github.com/NationalSecurityAgency/ghidra/pull/9787) | +10 / -8 across 1 files | 0 reviews · 1 comments |
