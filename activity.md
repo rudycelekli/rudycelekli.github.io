@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,085**
+Records: **4,088**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#105: fix: recognize CSS-first Tailwind setups in verification](https://github.com/google-labs-code/stitch-skills/pull/105) | +104 / -12 across 3 files | 1 reviews · 0 comments |
+| 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#104: fix: reject unsupported web tags in native components](https://github.com/google-labs-code/stitch-skills/pull/104) | +65 / -7 across 4 files | 1 reviews · 0 comments |
+| 2026-11-20 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [#103: fix: validate hardcoded colors in className expressions](https://github.com/google-labs-code/stitch-skills/pull/103) | +71 / -7 across 4 files | 1 reviews · 0 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#286: Ignore out-of-range Overture connector positions](https://github.com/c2g-dev/city2graph/pull/286) | +36 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#291: Keep valid GBFS feeds available beside malformed files](https://github.com/c2g-dev/city2graph/pull/291) | +49 / -33 across 2 files | 0 reviews · 0 comments |
 | 2026-11-20 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#285: Clip empty spatial selections to an empty graph](https://github.com/c2g-dev/city2graph/pull/285) | +49 / -1 across 2 files | 0 reviews · 0 comments |

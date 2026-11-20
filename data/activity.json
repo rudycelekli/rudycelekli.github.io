@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 104,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-20T02:22:40Z",
+      "deletions": 12,
+      "merged_at": "2026-11-20T18:08:02Z",
+      "number": 105,
+      "repository": "google-labs-code/stitch-skills",
+      "repository_url": "https://github.com/google-labs-code/stitch-skills",
+      "reviews": 1,
+      "title": "fix: recognize CSS-first Tailwind setups in verification",
+      "url": "https://github.com/google-labs-code/stitch-skills/pull/105"
+    },
+    {
+      "additions": 65,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-20T02:22:38Z",
+      "deletions": 7,
+      "merged_at": "2026-11-20T18:05:42Z",
+      "number": 104,
+      "repository": "google-labs-code/stitch-skills",
+      "repository_url": "https://github.com/google-labs-code/stitch-skills",
+      "reviews": 1,
+      "title": "fix: reject unsupported web tags in native components",
+      "url": "https://github.com/google-labs-code/stitch-skills/pull/104"
+    },
+    {
+      "additions": 71,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-20T02:22:35Z",
+      "deletions": 7,
+      "merged_at": "2026-11-20T18:03:23Z",
+      "number": 103,
+      "repository": "google-labs-code/stitch-skills",
+      "repository_url": "https://github.com/google-labs-code/stitch-skills",
+      "reviews": 1,
+      "title": "fix: validate hardcoded colors in className expressions",
+      "url": "https://github.com/google-labs-code/stitch-skills/pull/103"
+    },
+    {
       "additions": 36,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -65392,7 +65440,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4085,
+  "record_count": 4088,
   "schema_version": 1,
   "updated_at_utc": "2026-11-20"
 }
