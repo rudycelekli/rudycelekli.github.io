@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 129,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 6,
+      "comments": 3,
+      "commits": 10,
+      "created_at": "2026-11-05T03:25:34Z",
+      "deletions": 22,
+      "merged_at": "2026-11-20T10:20:03Z",
+      "number": 1570,
+      "repository": "bilawalsidhu/gods-eye-view",
+      "repository_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "reviews": 2,
+      "title": "fix(places): don't let the browser cache a refused Google answer",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view/pull/1570"
+    },
+    {
       "additions": 12,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -65088,7 +65104,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4066,
+  "record_count": 4067,
   "schema_version": 1,
   "updated_at_utc": "2026-11-20"
 }

@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T01:51:36Z</updated>
+  <updated>2026-11-20T10:20:03Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>bilawalsidhu/gods-eye-view #1570: fix(places): don't let the browser cache a refused Google answer</title>
+    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1570</id>
+    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1570"/>
+    <updated>2026-11-20T10:20:03Z</updated>
+    <summary>Merged public contribution. +129 / -22 across 6 changed files.</summary>
+  </entry>
   <entry>
     <title>coreyhaines31/marketingskills #879: fix(supermetrics): reject row limits that parseInt would truncate</title>
     <id>https://github.com/coreyhaines31/marketingskills/pull/879</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3644"/>
     <updated>2026-11-18T10:09:46Z</updated>
     <summary>Merged public contribution. +30 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3643: Preserve whitespace in Git review paths</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3643</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3643"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +22 / -5 across 2 changed files.</summary>
   </entry>
 </feed>
