@@ -4,8 +4,36 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-20T10:20:03Z</updated>
+  <updated>2026-11-20T11:04:12Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9787: Propagate program-walk callback and filter errors</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9787</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9787"/>
+    <updated>2026-11-20T11:04:12Z</updated>
+    <summary>Merged public contribution. +10 / -8 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9783: Notify PyGhidra monitor listeners on cancellation</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9783</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9783"/>
+    <updated>2026-11-20T11:04:12Z</updated>
+    <summary>Merged public contribution. +12 / -4 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9779: Roll back newly created PyGhidra plugin installs after copy failures</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9779</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9779"/>
+    <updated>2026-11-20T11:04:12Z</updated>
+    <summary>Merged public contribution. +12 / -11 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>NationalSecurityAgency/ghidra #9775: Preserve script changes and exceptions during PyGhidra path cleanup</title>
+    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9775</id>
+    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9775"/>
+    <updated>2026-11-20T11:04:12Z</updated>
+    <summary>Merged public contribution. +11 / -2 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>bilawalsidhu/gods-eye-view #1570: fix(places): don't let the browser cache a refused Google answer</title>
     <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1570</id>
@@ -327,33 +355,5 @@
     <link href="https://github.com/backnotprop/plannotator/pull/3649"/>
     <updated>2026-11-18T10:09:46Z</updated>
     <summary>Merged public contribution. +36 / -5 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3648: Keep comment composers open on an IME Escape</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3648</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3648"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +39 / -6 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3647: Discard linked Reviews reads when their machine is unlinked</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3647</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3647"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +71 / -18 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3646: Retry a linked Board after its first read fails</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3646</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3646"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3644: Move the Inbox wake when Oh My Pi switches sessions</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3644</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3644"/>
-    <updated>2026-11-18T10:09:46Z</updated>
-    <summary>Merged public contribution. +30 / -4 across 3 changed files.</summary>
   </entry>
 </feed>

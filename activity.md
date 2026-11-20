@@ -4,10 +4,14 @@ Evidence timestamp: **2026-11-20 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,067**
+Records: **4,071**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9787: Propagate program-walk callback and filter errors](https://github.com/NationalSecurityAgency/ghidra/pull/9787) | +10 / -8 across 1 files | 0 reviews · 1 comments |
+| 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9783: Notify PyGhidra monitor listeners on cancellation](https://github.com/NationalSecurityAgency/ghidra/pull/9783) | +12 / -4 across 1 files | 2 reviews · 2 comments |
+| 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9779: Roll back newly created PyGhidra plugin installs after copy failures](https://github.com/NationalSecurityAgency/ghidra/pull/9779) | +12 / -11 across 1 files | 0 reviews · 1 comments |
+| 2026-11-20 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [#9775: Preserve script changes and exceptions during PyGhidra path cleanup](https://github.com/NationalSecurityAgency/ghidra/pull/9775) | +11 / -2 across 1 files | 0 reviews · 1 comments |
 | 2026-11-20 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [#1570: fix(places): don't let the browser cache a refused Google answer](https://github.com/bilawalsidhu/gods-eye-view/pull/1570) | +129 / -22 across 6 files | 2 reviews · 3 comments |
 | 2026-11-20 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#879: fix(supermetrics): reject row limits that parseInt would truncate](https://github.com/coreyhaines31/marketingskills/pull/879) | +12 / -1 across 2 files | 0 reviews · 0 comments |
 | 2026-11-20 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [#878: fix(wistia): honor an explicit false public project flag](https://github.com/coreyhaines31/marketingskills/pull/878) | +11 / -2 across 2 files | 0 reviews · 0 comments |
