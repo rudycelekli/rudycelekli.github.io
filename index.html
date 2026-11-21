@@ -159,11 +159,12 @@
     <section class="opening" aria-labelledby="hero-title" data-entrance>
       <div class="shell opening-grid">
         <div class="opening-copy">
-          <p class="label identity-label">Rudy Mizrahi Celekli <span>·</span> Charlotte, NC</p>
-          <h1 id="hero-title">Open-source engineer.<br><em>AI researcher.</em></h1>
-          <p class="lede">I fix the tools other engineers rely on. At Gradia, I study when an AI agent’s result can be trusted. At Snorkel AI and through Axiom, I apply that work to real evaluations and enterprise workflows.</p>
+          <p class="label identity-label">Charlotte, North Carolina</p>
+          <h1 id="hero-title">Rudy<br>Mizrahi Celekli<span>.</span></h1>
+          <p class="opening-role">Open-source engineer &amp; AI researcher</p>
+          <p class="lede">I fix the tools engineers rely on and study how AI evaluation breaks. I founded Gradia and build evaluation and enterprise systems at Snorkel AI and Axiom.</p>
           <div class="actions">
-            <a class="button" href="#evidence">See the upstream impact <span aria-hidden="true">↓</span></a>
+            <a class="button" href="#evidence">Explore the upstream impact <span aria-hidden="true">↓</span></a>
             <a class="text-link" href="#research">Explore Gradia research <span aria-hidden="true">↘</span></a>
           </div>
         </div>
@@ -171,7 +172,17 @@
           <figcaption class="map-header"><span class="label"><i></i> Upstream evidence</span><a href="/contributions.html">GitHub ledger ↗</a></figcaption>
           <div class="map-pr"><strong data-metric="merged_pull_requests">4,092</strong><span>Merged pull requests</span></div>
           <div class="map-chart" aria-hidden="true" hidden></div>
-          <p class="map-legend" hidden>One trace per project with merged work. Taller traces show more merged PRs.</p>
+          <div class="map-explorer" hidden>
+            <label class="map-slider-label" for="project-scrubber">Explore projects <span>Sorted by merged PRs</span></label>
+            <input id="project-scrubber" type="range" min="0" value="0" step="1">
+            <div class="project-readout">
+              <div>
+                <p id="project-name"></p>
+                <p id="project-metrics"></p>
+              </div>
+              <a id="project-pulls" href="/contributions.html">Merged PRs ↗</a>
+            </div>
+          </div>
           <div class="map-footer"><span><strong data-metric="verified_upstream_projects">128</strong> verified upstream projects</span><span><strong data-metric="attributed_commits">5,043</strong> attributed commits</span></div>
         </figure>
       </div>
@@ -270,7 +281,13 @@
               <div class="feature-readout"><b>12,916</b><span>numeric observations</span></div>
               <p>Searchable catalog with retained source identities</p>
             </div>
-            <div class="feature-map" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+            <nav class="feature-map" aria-label="Jump to a publication">
+              <a href="#reward-loop" aria-label="Reward Hacking in the RL Loop"><i aria-hidden="true"></i></a>
+              <a href="#wind-tunnel" aria-label="The Reward-Hacking Wind Tunnel"><i aria-hidden="true"></i></a>
+              <a href="#conditionally-approved" aria-label="Conditionally Approved"><i aria-hidden="true"></i></a>
+              <a href="#value-engine" aria-label="The Value Engine Benchmark"><i aria-hidden="true"></i></a>
+              <a href="#benchmark-radar" aria-label="Benchmark Radar"><i aria-hidden="true"></i></a>
+            </nav>
           </aside>
           <div class="papers">
             <article class="paper" id="reward-loop" data-paper="reward">

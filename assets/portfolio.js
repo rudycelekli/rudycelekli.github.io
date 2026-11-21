@@ -4,7 +4,7 @@ const chapters = Array.from(document.querySelectorAll('.top nav a'), link => ({
 }));
 const papers = Array.from(document.querySelectorAll('[data-paper]'));
 const panels = Array.from(document.querySelectorAll('[data-feature]'));
-const markers = Array.from(document.querySelectorAll('.feature-map i'));
+const markers = Array.from(document.querySelectorAll('.feature-map a'));
 const researchFigure = document.querySelector('.research-figure');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 let activePaper = -1;
@@ -39,7 +39,8 @@ function updateScroll() {
   if (paper !== activePaper) {
     panels.forEach((panel, index) => {
       panel.hidden = panel.dataset.feature !== papers[paper].dataset.paper;
-      markers[index].classList.toggle('is-current', !panel.hidden);
+      if (panel.hidden) markers[index].removeAttribute('aria-current');
+      else markers[index].setAttribute('aria-current', 'location');
     });
     activePaper = paper;
   }
@@ -81,23 +82,67 @@ function renderContributionMap(rows) {
     const rank = ranks.get(field.dataset.projectRank);
     field.textContent = Number.isSafeInteger(rank) && rank > 0 ? `#${rank}` : '—';
   });
-  const totals = rows
-    .map(row => row?.merged_pull_requests)
-    .filter(total => Number.isSafeInteger(total) && total > 0)
-    .sort((left, right) => left - right);
-  if (!totals.length) return;
-  const peak = totals[totals.length - 1];
-  const map = document.querySelector('.map-chart');
+  const projects = rows
+    .filter(row => typeof row?.full_name === 'string'
+      && /^[a-z0-9_.-]+\/[a-z0-9_.-]+$/i.test(row.full_name)
+      && Number.isSafeInteger(row.merged_pull_requests) && row.merged_pull_requests > 0)
+    .sort((left, right) => left.merged_pull_requests - right.merged_pull_requests
+      || left.full_name.localeCompare(right.full_name));
+  if (!projects.length) return;
 
-  const traces = totals.map((total, index) => {
+  const map = document.querySelector('.map-chart');
+  const scrubber = document.querySelector('#project-scrubber');
+  const name = document.querySelector('#project-name');
+  const metrics = document.querySelector('#project-metrics');
+  const pulls = document.querySelector('#project-pulls');
+  const peak = projects[projects.length - 1].merged_pull_requests;
+  let active = -1;
+
+  const traces = projects.map((project, index) => {
     const trace = document.createElement('i');
-    trace.style.setProperty('--height', `${100 * total / peak}%`);
-    trace.style.setProperty('--delay', `${Math.round(360 * index / totals.length)}ms`);
+    trace.style.setProperty('--height', `${100 * project.merged_pull_requests / peak}%`);
+    trace.style.setProperty('--delay', `${Math.round(360 * index / projects.length)}ms`);
     return trace;
   });
+
+  function showProject(index) {
+    if (index === active) return;
+    traces[active]?.classList.remove('is-selected');
+    traces[index].classList.add('is-selected');
+    active = index;
+
+    const project = projects[index];
+    const merged = project.merged_pull_requests.toLocaleString('en-US');
+    const rank = ranks.get(project.full_name.toLowerCase());
+    const count = `${merged} merged ${project.merged_pull_requests === 1 ? 'PR' : 'PRs'}`;
+    const detail = Number.isSafeInteger(rank) && rank > 0 ? `${count} · #${rank} contributor` : count;
+    const query = new URLSearchParams({q: 'is:pr author:rudycelekli is:merged'});
+    name.textContent = project.full_name;
+    metrics.textContent = detail;
+    pulls.href = `https://github.com/${project.full_name}/pulls?${query}`;
+    pulls.setAttribute('aria-label', `View merged pull requests for ${project.full_name}`);
+    scrubber.value = index;
+    scrubber.setAttribute('aria-valuetext', `${project.full_name}, ${detail}`);
+  }
+
   map.replaceChildren(...traces);
   map.hidden = false;
-  document.querySelector('.map-legend').hidden = false;
+  scrubber.max = projects.length - 1;
+  scrubber.addEventListener('input', () => showProject(scrubber.valueAsNumber));
+  function selectTrace(event) {
+    const bounds = map.getBoundingClientRect();
+    const position = (event.clientX - bounds.left) / bounds.width;
+    const index = Math.min(projects.length - 1, Math.max(0, Math.floor(position * projects.length)));
+    showProject(index);
+  }
+
+  map.addEventListener('click', selectTrace);
+  map.addEventListener('pointermove', event => {
+    if (event.pointerType === 'mouse' && document.activeElement !== scrubber) selectTrace(event);
+  });
+  document.querySelector('.map-explorer').hidden = false;
+  const highlighted = projects.findIndex(project => project.full_name.toLowerCase() === 'ifixai-ai/ifixai');
+  showProject(highlighted >= 0 ? highlighted : projects.length - 1);
 }
 
 async function refreshMetrics() {
