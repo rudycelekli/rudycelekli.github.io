@@ -2,7 +2,7 @@
 
 Canonical, static research profile for [Rudy Mizrahi Celekli](https://rudycelekli.github.io/).
 
-The homepage is a scroll-driven research portfolio with links to publication records, upstream engineering case studies, and a printable web résumé. Its static HTML carries the identity, publication summaries, and a dated contribution snapshot. JavaScript updates the illustration and navigation as readers scroll, and refreshes the snapshot from `data/public-evidence.json`. The [GitHub profile evidence ledger](https://github.com/rudycelekli#open-source-impact-verified) is the upstream source.
+The homepage is a scroll-driven portfolio with a distribution of merged upstream work, publication records, engineering case studies, enterprise experience, and a printable web résumé. Its static HTML carries the identity, publication summaries, and a dated contribution snapshot. JavaScript brings the study readouts and chapter navigation in sync with scroll position. The upstream work chart and repository ranks use `data/public-evidence.json`. Reduced-motion users get the same facts without entrance or scroll-linked animation. The [GitHub profile evidence ledger](https://github.com/rudycelekli#open-source-impact-verified) is the upstream source.
 
 Static identity and navigation surfaces include `llms.txt`, `research.md`,
 `sources.md`, `profile.json`, `brand.md`, `brand.json`, and `humans.txt`.

@@ -5,6 +5,8 @@ const chapters = Array.from(document.querySelectorAll('.top nav a'), link => ({
 const papers = Array.from(document.querySelectorAll('[data-paper]'));
 const panels = Array.from(document.querySelectorAll('[data-feature]'));
 const markers = Array.from(document.querySelectorAll('.feature-map i'));
+const researchFigure = document.querySelector('.research-figure');
+const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 let activePaper = -1;
 let activeChapter = -1;
 let pendingFrame = false;
@@ -29,6 +31,11 @@ function updateScroll() {
   }
 
   const paper = Math.max(0, currentIndex(papers, threshold));
+  if (!reducedMotion.matches && researchFigure.offsetWidth) {
+    const bounds = papers[paper].getBoundingClientRect();
+    const readingProgress = (threshold - bounds.top) / bounds.height;
+    researchFigure.style.setProperty('--study-progress', Math.max(.12, Math.min(1, readingProgress)));
+  }
   if (paper !== activePaper) {
     panels.forEach((panel, index) => {
       panel.hidden = panel.dataset.feature !== papers[paper].dataset.paper;
@@ -50,9 +57,48 @@ window.addEventListener('resize', scheduleScroll);
 window.addEventListener('load', scheduleScroll, { once: true });
 scheduleScroll();
 
+if (!reducedMotion.matches && 'IntersectionObserver' in window) {
+  const entrances = new IntersectionObserver(entries => {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue;
+      entry.target.classList.add('entered');
+      entrances.unobserve(entry.target);
+    }
+  }, { rootMargin: '0px 0px -64px 0px' });
+  document.querySelectorAll('[data-entrance]').forEach(section => entrances.observe(section));
+}
+
 const printButton = document.querySelector('#print-resume');
 printButton.hidden = false;
 printButton.addEventListener('click', () => window.print());
+
+function renderContributionMap(rows) {
+  if (!Array.isArray(rows)) return;
+  const ranks = new Map(rows
+    .filter(row => typeof row?.full_name === 'string')
+    .map(row => [row.full_name.toLowerCase(), row.contributor_rank]));
+  document.querySelectorAll('[data-project-rank]').forEach(field => {
+    const rank = ranks.get(field.dataset.projectRank);
+    field.textContent = Number.isSafeInteger(rank) && rank > 0 ? `#${rank}` : '—';
+  });
+  const totals = rows
+    .map(row => row?.merged_pull_requests)
+    .filter(total => Number.isSafeInteger(total) && total > 0)
+    .sort((left, right) => left - right);
+  if (!totals.length) return;
+  const peak = totals[totals.length - 1];
+  const map = document.querySelector('.map-chart');
+
+  const traces = totals.map((total, index) => {
+    const trace = document.createElement('i');
+    trace.style.setProperty('--height', `${100 * total / peak}%`);
+    trace.style.setProperty('--delay', `${Math.round(360 * index / totals.length)}ms`);
+    return trace;
+  });
+  map.replaceChildren(...traces);
+  map.hidden = false;
+  document.querySelector('.map-legend').hidden = false;
+}
 
 async function refreshMetrics() {
   const fields = Array.from(document.querySelectorAll('[data-metric]'));
@@ -71,6 +117,7 @@ async function refreshMetrics() {
     });
     date.dateTime = updated;
     date.textContent = `${updated} UTC`;
+    renderContributionMap(evidence.upstream_contributions);
   } catch {
     // The dated HTML snapshot remains available when fetching fails.
   }

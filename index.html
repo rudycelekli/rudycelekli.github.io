@@ -41,7 +41,7 @@
         "url": "https://rudycelekli.github.io/",
         "name": "Rudy Mizrahi Celekli | AI Researcher and Open-Source Engineer",
         "description": "Canonical research profile for Rudy Mizrahi Celekli, a forward-deployed AI researcher and open-source engineer.",
-        "dateModified": "2026-11-20",
+        "dateModified": "2026-11-21",
         "mainEntity": { "@id": "https://rudycelekli.github.io/#rudy" }
       },
       {
@@ -145,8 +145,9 @@
     <div class="shell top-inner">
       <a class="signature" href="/">Rudy Celekli<span>.</span></a>
       <nav aria-label="Page sections">
-        <a href="#research">Research</a>
         <a href="#evidence">Impact</a>
+        <a href="#research">Gradia</a>
+        <a href="#client-work">Client work</a>
         <a href="#identity">Résumé</a>
       </nav>
       <a class="top-github" href="https://github.com/rudycelekli">GitHub ↗</a>
@@ -155,18 +156,69 @@
   </header>
 
   <main id="main">
-    <section class="opening" aria-labelledby="hero-title">
+    <section class="opening" aria-labelledby="hero-title" data-entrance>
       <div class="shell opening-grid">
         <div class="opening-copy">
           <p class="label identity-label">Rudy Mizrahi Celekli <span>·</span> Charlotte, NC</p>
-          <h1 id="hero-title">When can you<br class="hero-break"> trust an <em>AI score?</em></h1>
-          <p class="lede">I’m a forward-deployed AI researcher and the founder of Gradia. I build environments that let us replay what an agent did, test the grader, and trace a failure to its cause.</p>
+          <h1 id="hero-title">Open-source engineer.<br><em>AI researcher.</em></h1>
+          <p class="lede">I fix the tools other engineers rely on. At Gradia, I study when an AI agent’s result can be trusted. At Snorkel AI and through Axiom, I apply that work to real evaluations and enterprise workflows.</p>
           <div class="actions">
-            <a class="button" href="#research">Explore the research <span aria-hidden="true">↓</span></a>
-            <a class="text-link" href="#identity">Read my résumé <span aria-hidden="true">↘</span></a>
+            <a class="button" href="#evidence">See the upstream impact <span aria-hidden="true">↓</span></a>
+            <a class="text-link" href="#research">Explore Gradia research <span aria-hidden="true">↘</span></a>
           </div>
         </div>
-        <figure class="experiment">
+        <figure class="upstream-map">
+          <figcaption class="map-header"><span class="label"><i></i> Upstream evidence</span><a href="/contributions.html">GitHub ledger ↗</a></figcaption>
+          <div class="map-pr"><strong data-metric="merged_pull_requests">4,092</strong><span>Merged pull requests</span></div>
+          <div class="map-chart" aria-hidden="true" hidden></div>
+          <p class="map-legend" hidden>One trace per project with merged work. Taller traces show more merged PRs.</p>
+          <div class="map-footer"><span><strong data-metric="verified_upstream_projects">128</strong> verified upstream projects</span><span><strong data-metric="attributed_commits">5,043</strong> attributed commits</span></div>
+        </figure>
+      </div>
+    </section>
+
+    <section class="impact section" id="evidence" aria-labelledby="impact-title">
+      <div class="shell">
+        <p class="label section-label">Open-source impact</p>
+        <h2 class="display" id="impact-title">The upstream work.<br class="desktop-break"> The fixes that landed.</h2>
+        <p class="section-intro">I work on the failure cases that slip past happy-path tests. Here are the fixes and the public record that backs them up.</p>
+        <dl class="impact-metrics" data-entrance>
+          <div><dt><a href="https://github.com/ifixai-ai/iFixAi/graphs/contributors">iFixAi ↗</a></dt><dd data-project-rank="ifixai-ai/ifixai">#1</dd></div>
+          <div><dt><a href="https://github.com/ruvnet/ruflo/graphs/contributors">Ruflo ↗</a></dt><dd data-project-rank="ruvnet/ruflo">#2</dd></div>
+          <div><dt><a href="https://github.com/thedotmack/claude-mem/graphs/contributors">claude-mem ↗</a></dt><dd data-project-rank="thedotmack/claude-mem">#3</dd></div>
+        </dl>
+        <div class="ledger-line">
+          <p>GitHub contributor rank by repository · <time id="ledger-date" datetime="2026-11-21">2026-11-21 UTC</time></p>
+          <a class="text-link" href="/contributions.html">Inspect the ledger and methodology ↗</a>
+        </div>
+        <article class="impact-feature" data-entrance>
+          <p class="label">Alignment evaluation · iFixAi</p>
+          <h3>Make missing evidence fail the check.</h3>
+          <p>Two fixes closed gaps in alignment evaluation. One stopped a judge from falling back to the model it was grading. The other stopped a comparison from passing when neither run produced detector results.</p>
+          <div class="impact-links">
+            <a href="https://github.com/ifixai-ai/iFixAi/pull/312">Merged judge fix ↗</a>
+            <a href="https://github.com/ifixai-ai/iFixAi/pull/383">Merged detector fix ↗</a>
+            <a href="/engineering/repositories/ifixai-ai/ifixai.html">iFixAi contribution record ↗</a>
+          </div>
+        </article>
+        <div class="casework" id="engineering-studies">
+          <p class="label">Selected engineering case studies</p>
+          <a href="/engineering/vitest-execution-evidence.html"><span>Agentic QE</span><strong>Reject incomplete Vitest execution evidence</strong><span aria-hidden="true">↗</span></a>
+          <a href="/engineering/git-physical-line-boundaries.html"><span>PR-Agent</span><strong>Preserve physical Git line boundaries</strong><span aria-hidden="true">↗</span></a>
+          <a href="/engineering/review-score-validation.html"><span>PR-Agent</span><strong>Validate chunk scores before reduction</strong><span aria-hidden="true">↗</span></a>
+          <a href="/engineering/android-sparse-image-integrity.html"><span>Ghidra</span><strong>Preserve sparse-image bytes and checksums</strong><span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="section-end"><a class="text-link" href="/engineering/">Browse all engineering case studies ↗</a><a class="text-link" href="/data/public-evidence.json">Machine-readable evidence ↗</a></div>
+      </div>
+    </section>
+
+    <section class="research section" id="research" aria-labelledby="research-title">
+      <div class="shell">
+        <p class="label section-label" id="questions">Gradia Research · Selected publications</p>
+        <h2 class="display" id="research-title">When can you trust<br class="desktop-break"> an AI score?</h2>
+        <div class="research-intro">
+          <p class="section-intro">I founded Gradia to test what happens when agents work over time, the world changes, and the grader gets it wrong. The public work gives readers the experiment, its limits, and a way to inspect the result.</p>
+        <figure class="experiment" data-entrance>
           <figcaption class="experiment-heading">
             <span class="label"><i></i> Gradia Research</span>
             <span class="label dim">One-seed study</span>
@@ -185,38 +237,37 @@
           </div>
           <a class="experiment-source" href="https://doi.org/10.5281/zenodo.22259605">Reward Hacking in the RL Loop <span aria-hidden="true">↗</span></a>
         </figure>
-      </div>
-    </section>
-
-    <section class="research section" id="research" aria-labelledby="research-title">
-      <div class="shell">
-        <p class="label section-label" id="questions">Selected publications</p>
-        <h2 class="display" id="research-title">From a research question<br class="desktop-break"> to a result you can check.</h2>
+        </div>
         <div class="research-scroll">
           <aside class="research-figure" aria-label="Research question accompanying the publication list">
             <div class="feature-panel" data-feature="reward">
               <span class="label">Training signals</span>
               <strong>What happens when the model learns to satisfy the reward?</strong>
+              <div class="feature-readout"><b>58 vs. 1</b><span>proxy passes vs. oracle passes</span></div>
               <p>Paired training and model-backed replay</p>
             </div>
             <div class="feature-panel" data-feature="grader" hidden>
               <span class="label">Grader robustness</span>
               <strong>Which incorrect outputs can a grader accidentally pass?</strong>
+              <div class="feature-readout"><b>89</b><span>witnessed false passes</span></div>
               <p>Oracle checks and controlled comparisons</p>
             </div>
             <div class="feature-panel" data-feature="world" hidden>
               <span class="label">Agent environments</span>
               <strong>What changes when new evidence arrives mid-task?</strong>
+              <div class="feature-readout"><b>37</b><span>gradable runs</span></div>
               <p>Witnessed branches and checkpoint replay</p>
             </div>
             <div class="feature-panel" data-feature="benchmark" hidden>
               <span class="label">Long-horizon tasks</span>
               <strong>Can a negotiation be graded from its evidence?</strong>
+              <div class="feature-readout"><b>3,510</b><span>graded episodes</span></div>
               <p>Deterministic scoring and a frozen evaluation grid</p>
             </div>
             <div class="feature-panel" data-feature="catalog" hidden>
               <span class="label">Benchmark discovery</span>
               <strong>Can a researcher trace a score to its original setting?</strong>
+              <div class="feature-readout"><b>12,916</b><span>numeric observations</span></div>
               <p>Searchable catalog with retained source identities</p>
             </div>
             <div class="feature-map" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
@@ -262,40 +313,6 @@
       </div>
     </section>
 
-    <section class="impact section" id="evidence" aria-labelledby="impact-title">
-      <div class="shell">
-        <p class="label section-label">Open-source impact</p>
-        <h2 class="display" id="impact-title">Work merged upstream.</h2>
-        <dl class="impact-metrics">
-          <div><dt>Merged pull requests</dt><dd data-metric="merged_pull_requests">4,092</dd></div>
-          <div><dt>Verified upstream projects</dt><dd data-metric="verified_upstream_projects">128</dd></div>
-          <div><dt>Attributed commits</dt><dd data-metric="attributed_commits">5,043</dd></div>
-        </dl>
-        <div class="ledger-line">
-          <p>Public GitHub evidence · snapshot <time id="ledger-date" datetime="2026-11-21">2026-11-21 UTC</time></p>
-          <a class="text-link" href="/contributions.html">Inspect the ledger and methodology ↗</a>
-        </div>
-        <article class="impact-feature">
-          <p class="label">Alignment evaluation · iFixAi</p>
-          <h3>Make missing evidence fail the check.</h3>
-          <p>Two fixes closed gaps in alignment evaluation. One stopped a judge from falling back to the model it was grading. The other stopped a comparison from passing when neither run produced detector results.</p>
-          <div class="impact-links">
-            <a href="https://github.com/ifixai-ai/iFixAi/pull/312">Merged judge fix ↗</a>
-            <a href="https://github.com/ifixai-ai/iFixAi/pull/383">Merged detector fix ↗</a>
-            <a href="/engineering/repositories/ifixai-ai/ifixai.html">iFixAi contribution record ↗</a>
-          </div>
-        </article>
-        <div class="casework" id="engineering-studies">
-          <p class="label">Selected engineering case studies</p>
-          <a href="/engineering/vitest-execution-evidence.html"><span>Agentic QE</span><strong>Reject incomplete Vitest execution evidence</strong><span aria-hidden="true">↗</span></a>
-          <a href="/engineering/git-physical-line-boundaries.html"><span>PR-Agent</span><strong>Preserve physical Git line boundaries</strong><span aria-hidden="true">↗</span></a>
-          <a href="/engineering/review-score-validation.html"><span>PR-Agent</span><strong>Validate chunk scores before reduction</strong><span aria-hidden="true">↗</span></a>
-          <a href="/engineering/android-sparse-image-integrity.html"><span>Ghidra</span><strong>Preserve sparse-image bytes and checksums</strong><span aria-hidden="true">↗</span></a>
-        </div>
-        <div class="section-end"><a class="text-link" href="/engineering/">Browse all engineering case studies ↗</a><a class="text-link" href="/data/public-evidence.json">Machine-readable evidence ↗</a></div>
-      </div>
-    </section>
-
     <section class="section systems" id="work" aria-labelledby="systems-title">
       <div class="shell">
         <p class="label section-label">Public software</p>
@@ -325,11 +342,38 @@
       </div>
     </section>
 
+    <section class="section delivery" id="client-work" aria-labelledby="delivery-title">
+      <div class="shell">
+        <p class="label section-label">Applied AI</p>
+        <h2 class="display" id="delivery-title">From the lab<br>into real workflows.</h2>
+        <div class="delivery-grid">
+          <article class="delivery-axiom" data-entrance>
+            <p class="label">Enterprise consulting · Founder</p>
+            <h3>Axiom Consulting</h3>
+            <p>I build AI systems that fit how teams already work: document review with source citations, operational planning, and decision support with human oversight.</p>
+            <div class="client-record">
+              <p class="label">Selected enterprise engagements</p>
+              <ul aria-label="Selected organizations"><li>Chevron</li><li>Defense Logistics Agency</li><li>Nestlé</li><li>Banco Efectiva</li></ul>
+              <a href="https://www.gradiahq.com/about">Public engagement record ↗</a>
+            </div>
+            <a class="text-link" href="https://axiomconsulting.ai/">Explore Axiom’s delivery work ↗</a>
+          </article>
+          <article class="delivery-snorkel" data-entrance>
+            <p class="label">Frontier AI · Senior Forward Deployed Researcher</p>
+            <h3>Snorkel AI</h3>
+            <p>I lead research delivery for model evaluations and post-training data, from defining what a good answer requires to reviewing the failures that shape the next data batch.</p>
+            <ol aria-label="Evaluation delivery workflow"><li>Define and calibrate tasks with subject-matter experts</li><li>Build rubrics and review model traces</li><li>Turn recurring failures into targeted data improvements</li></ol>
+            <a class="text-link" href="https://snorkel.ai/author/rudy-celekli/">Snorkel author profile ↗</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <section class="section career" id="identity" aria-labelledby="career-title">
       <div class="shell">
         <p class="label section-label">Résumé</p>
         <h2 class="display" id="career-title">From enterprise delivery<br class="desktop-break"> to agent research.</h2>
-        <div class="career-grid">
+        <div class="career-grid" data-entrance>
           <aside class="bio">
             <img src="/assets/rudy-celekli.jpg" alt="Rudy Celekli" width="400" height="400" loading="lazy">
             <h3>Rudy Mizrahi Celekli</h3>
