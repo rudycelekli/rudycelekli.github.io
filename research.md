@@ -24,6 +24,14 @@ How do we know an agent completed the right work, under the right world state, f
 3. Causal fault isolation: reducing a failure to the smallest reproducible causal slice and replaying it against proposed repairs.
 4. Proof-bound execution: retaining enough evidence for another person to audit an autonomous action without trusting the agent's narration.
 
+## Selected publications
+
+- [Reward Hacking in the RL Loop](https://doi.org/10.5281/zenodo.22259605). Gradia research artifact. A paired one-seed GRPO/LoRA experiment showed 58 of 64 answers passed by a gameable reward and one answer confirmed by the oracle.
+- [The Reward-Hacking Wind Tunnel](https://doi.org/10.5281/zenodo.22233638). Gradia empirical preprint on benchmark grader behavior and replayable evaluation evidence.
+- [Conditionally Approved](https://doi.org/10.5281/zenodo.22104672). Gradia preliminary study of a synthetic mortgage world where evidence, authority, and deadlines change mid-task. Blinded human adjudication is pending.
+- [The Value Engine Benchmark](https://doi.org/10.5281/zenodo.22073789). The released Gradia instrument and frozen enterprise-negotiation evaluation grid. Preregistered judge–human agreement work remains open.
+- [Benchmark Radar](https://arxiv.org/abs/2609.11115v4). Coauthored arXiv preprint on searching AI benchmarks and tracing scores to their original sources.
+
 ## Selected public systems
 
 - KYA Evidence · Know Your Agent: https://github.com/rudycelekli/kya-evidence
