@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 134,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 5,
+      "created_at": "2026-11-18T16:20:05Z",
+      "deletions": 41,
+      "merged_at": "2026-11-21T18:44:31Z",
+      "number": 281,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 0,
+      "title": "Restore arbitrary attribute keys from rustworkx without collisions",
+      "url": "https://github.com/c2g-dev/city2graph/pull/281"
+    },
+    {
+      "additions": 35,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-18T16:21:11Z",
+      "deletions": 7,
+      "merged_at": "2026-11-21T18:37:42Z",
+      "number": 284,
+      "repository": "c2g-dev/city2graph",
+      "repository_url": "https://github.com/c2g-dev/city2graph",
+      "reviews": 1,
+      "title": "Keep unique place IDs when a morphology graph has no edges",
+      "url": "https://github.com/c2g-dev/city2graph/pull/284"
+    },
+    {
       "additions": 69,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -65504,7 +65536,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4092,
+  "record_count": 4094,
   "schema_version": 1,
   "updated_at_utc": "2026-11-21"
 }
