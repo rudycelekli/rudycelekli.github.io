@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-21T18:44:31Z</updated>
+  <updated>2026-11-21T19:07:13Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>c2g-dev/city2graph #282: Reject invalid cutoffs in fixed-radius proximity graphs</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/282</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/282"/>
+    <updated>2026-11-21T19:07:13Z</updated>
+    <summary>Merged public contribution. +69 / -5 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #276: Preserve actual GTFS departures and undirected summary geometry</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/276</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/276"/>
+    <updated>2026-11-21T19:06:18Z</updated>
+    <summary>Merged public contribution. +76 / -17 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>c2g-dev/city2graph #293: Build GTFS OD lines from unmaterialized stop coordinates</title>
+    <id>https://github.com/c2g-dev/city2graph/pull/293</id>
+    <link href="https://github.com/c2g-dev/city2graph/pull/293"/>
+    <updated>2026-11-21T18:59:23Z</updated>
+    <summary>Merged public contribution. +98 / -10 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>c2g-dev/city2graph #281: Restore arbitrary attribute keys from rustworkx without collisions</title>
     <id>https://github.com/c2g-dev/city2graph/pull/281</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/861"/>
     <updated>2026-11-20T01:51:36Z</updated>
     <summary>Merged public contribution. +9 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #860: fix(close): filter activity lists with the documented _type parameter</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/860</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/860"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #858: fix(paddle): reject incomplete recurring price options</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/858</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/858"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #852: fix(clis): propagate remaining HTTP rejection statuses</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/852</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/852"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +200 / -5 across 38 changed files.</summary>
   </entry>
 </feed>

@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,094**
+Records: **4,097**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#282: Reject invalid cutoffs in fixed-radius proximity graphs](https://github.com/c2g-dev/city2graph/pull/282) | +69 / -5 across 2 files | 0 reviews · 0 comments |
+| 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#276: Preserve actual GTFS departures and undirected summary geometry](https://github.com/c2g-dev/city2graph/pull/276) | +76 / -17 across 3 files | 0 reviews · 3 comments |
+| 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#293: Build GTFS OD lines from unmaterialized stop coordinates](https://github.com/c2g-dev/city2graph/pull/293) | +98 / -10 across 2 files | 0 reviews · 0 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#281: Restore arbitrary attribute keys from rustworkx without collisions](https://github.com/c2g-dev/city2graph/pull/281) | +134 / -41 across 2 files | 0 reviews · 0 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#284: Keep unique place IDs when a morphology graph has no edges](https://github.com/c2g-dev/city2graph/pull/284) | +35 / -7 across 2 files | 1 reviews · 0 comments |
 | 2026-11-20 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | [#1349: fix(cline): carry the SDK session ID into hook telemetry](https://github.com/Asymptote-Labs/agent-beacon/pull/1349) | +69 / -0 across 4 files | 1 reviews · 0 comments |
