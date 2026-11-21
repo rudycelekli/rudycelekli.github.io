@@ -8753,11 +8753,11 @@
       "deletions": 8,
       "merged_at": "2026-11-06T18:42:35Z",
       "number": 691,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): discover fields inherited through allOf response schemas",
-      "url": "https://github.com/dosco/graphjin/pull/691"
+      "url": "https://github.com/dosco/deeporg/pull/691"
     },
     {
       "additions": 262,
@@ -8769,11 +8769,11 @@
       "deletions": 28,
       "merged_at": "2026-11-06T18:42:28Z",
       "number": 689,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): resolve fragments independently of definition order",
-      "url": "https://github.com/dosco/graphjin/pull/689"
+      "url": "https://github.com/dosco/deeporg/pull/689"
     },
     {
       "additions": 135,
@@ -8785,11 +8785,11 @@
       "deletions": 7,
       "merged_at": "2026-11-06T18:42:22Z",
       "number": 683,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(qcode): encode constraint string literals as JSON",
-      "url": "https://github.com/dosco/graphjin/pull/683"
+      "url": "https://github.com/dosco/deeporg/pull/683"
     },
     {
       "additions": 22,
@@ -12497,11 +12497,11 @@
       "deletions": 18,
       "merged_at": "2026-10-31T08:24:00Z",
       "number": 692,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(discovery): aggregate SQLite index statistics per table",
-      "url": "https://github.com/dosco/graphjin/pull/692"
+      "url": "https://github.com/dosco/deeporg/pull/692"
     },
     {
       "additions": 77,
@@ -12513,11 +12513,11 @@
       "deletions": 8,
       "merged_at": "2026-10-31T08:23:53Z",
       "number": 690,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): require complete standalone argument values",
-      "url": "https://github.com/dosco/graphjin/pull/690"
+      "url": "https://github.com/dosco/deeporg/pull/690"
     },
     {
       "additions": 118,
@@ -12529,11 +12529,11 @@
       "deletions": 19,
       "merged_at": "2026-10-31T08:23:48Z",
       "number": 688,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): parse contextual keyword names",
-      "url": "https://github.com/dosco/graphjin/pull/688"
+      "url": "https://github.com/dosco/deeporg/pull/688"
     },
     {
       "additions": 114,
@@ -12545,11 +12545,11 @@
       "deletions": 5,
       "merged_at": "2026-10-31T08:23:41Z",
       "number": 687,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): expand environment values in nested token request bodies",
-      "url": "https://github.com/dosco/graphjin/pull/687"
+      "url": "https://github.com/dosco/deeporg/pull/687"
     },
     {
       "additions": 112,
@@ -12561,11 +12561,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:23:35Z",
       "number": 686,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): negotiate declared JSON response media types",
-      "url": "https://github.com/dosco/graphjin/pull/686"
+      "url": "https://github.com/dosco/deeporg/pull/686"
     },
     {
       "additions": 65,
@@ -12577,11 +12577,11 @@
       "deletions": 5,
       "merged_at": "2026-10-31T08:23:29Z",
       "number": 685,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): reuse short-lived authentication tokens before expiry",
-      "url": "https://github.com/dosco/graphjin/pull/685"
+      "url": "https://github.com/dosco/deeporg/pull/685"
     },
     {
       "additions": 88,
@@ -12593,11 +12593,11 @@
       "deletions": 2,
       "merged_at": "2026-10-31T08:23:24Z",
       "number": 684,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): reject omitted required GET query parameters",
-      "url": "https://github.com/dosco/graphjin/pull/684"
+      "url": "https://github.com/dosco/deeporg/pull/684"
     },
     {
       "additions": 59,
@@ -12609,11 +12609,11 @@
       "deletions": 9,
       "merged_at": "2026-10-31T08:23:18Z",
       "number": 682,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(valid): isolate concurrent field comparisons",
-      "url": "https://github.com/dosco/graphjin/pull/682"
+      "url": "https://github.com/dosco/deeporg/pull/682"
     },
     {
       "additions": 116,
@@ -12625,11 +12625,11 @@
       "deletions": 14,
       "merged_at": "2026-10-31T08:23:12Z",
       "number": 681,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(valid): evaluate conditional requirement truth tables",
-      "url": "https://github.com/dosco/graphjin/pull/681"
+      "url": "https://github.com/dosco/deeporg/pull/681"
     },
     {
       "additions": 78,
@@ -12641,11 +12641,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:23:06Z",
       "number": 680,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(allow): clear removed saved-query variable metadata",
-      "url": "https://github.com/dosco/graphjin/pull/680"
+      "url": "https://github.com/dosco/deeporg/pull/680"
     },
     {
       "additions": 62,
@@ -12657,11 +12657,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:22:59Z",
       "number": 679,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(allow): preserve long lines when loading saved queries",
-      "url": "https://github.com/dosco/graphjin/pull/679"
+      "url": "https://github.com/dosco/deeporg/pull/679"
     },
     {
       "additions": 43,
@@ -12673,11 +12673,11 @@
       "deletions": 2,
       "merged_at": "2026-10-31T08:22:53Z",
       "number": 678,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(queryshape): recognize compound statistical aggregate names",
-      "url": "https://github.com/dosco/graphjin/pull/678"
+      "url": "https://github.com/dosco/deeporg/pull/678"
     },
     {
       "additions": 55,
@@ -12689,11 +12689,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:22:48Z",
       "number": 677,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(qcode): serialize variable defaults as valid JSON",
-      "url": "https://github.com/dosco/graphjin/pull/677"
+      "url": "https://github.com/dosco/deeporg/pull/677"
     },
     {
       "additions": 28,
@@ -12705,11 +12705,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:22:42Z",
       "number": 676,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(qcode): retain independent variable default buffers",
-      "url": "https://github.com/dosco/graphjin/pull/676"
+      "url": "https://github.com/dosco/deeporg/pull/676"
     },
     {
       "additions": 33,
@@ -12721,11 +12721,11 @@
       "deletions": 7,
       "merged_at": "2026-10-31T08:22:34Z",
       "number": 675,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(jsn): preserve escaped keys when clearing JSON values",
-      "url": "https://github.com/dosco/graphjin/pull/675"
+      "url": "https://github.com/dosco/deeporg/pull/675"
     },
     {
       "additions": 61,
@@ -12737,11 +12737,11 @@
       "deletions": 2,
       "merged_at": "2026-10-31T08:22:28Z",
       "number": 674,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): support numeric exponent literals",
-      "url": "https://github.com/dosco/graphjin/pull/674"
+      "url": "https://github.com/dosco/deeporg/pull/674"
     },
     {
       "additions": 74,
@@ -12753,11 +12753,11 @@
       "deletions": 4,
       "merged_at": "2026-10-31T08:22:21Z",
       "number": 673,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): canonicalize overrides for generated operation IDs",
-      "url": "https://github.com/dosco/graphjin/pull/673"
+      "url": "https://github.com/dosco/deeporg/pull/673"
     },
     {
       "additions": 75,
@@ -12769,11 +12769,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:22:15Z",
       "number": 672,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): substitute server variable defaults when loading specs",
-      "url": "https://github.com/dosco/graphjin/pull/672"
+      "url": "https://github.com/dosco/deeporg/pull/672"
     },
     {
       "additions": 75,
@@ -12785,11 +12785,11 @@
       "deletions": 3,
       "merged_at": "2026-10-31T08:22:10Z",
       "number": 671,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): honor nullable response properties in synthesized columns",
-      "url": "https://github.com/dosco/graphjin/pull/671"
+      "url": "https://github.com/dosco/deeporg/pull/671"
     },
     {
       "additions": 67,
@@ -12801,11 +12801,11 @@
       "deletions": 0,
       "merged_at": "2026-10-31T08:22:01Z",
       "number": 670,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): keep scalar payload-named response properties intact",
-      "url": "https://github.com/dosco/graphjin/pull/670"
+      "url": "https://github.com/dosco/deeporg/pull/670"
     },
     {
       "additions": 50,
@@ -12817,11 +12817,11 @@
       "deletions": 3,
       "merged_at": "2026-10-31T08:21:53Z",
       "number": 669,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): retain explicitly empty query parameter values",
-      "url": "https://github.com/dosco/graphjin/pull/669"
+      "url": "https://github.com/dosco/deeporg/pull/669"
     },
     {
       "additions": 58,
@@ -12833,11 +12833,11 @@
       "deletions": 12,
       "merged_at": "2026-10-31T08:21:47Z",
       "number": 668,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(openapi): preserve exact numbers when extracting result paths",
-      "url": "https://github.com/dosco/graphjin/pull/668"
+      "url": "https://github.com/dosco/deeporg/pull/668"
     },
     {
       "additions": 89,
@@ -12849,11 +12849,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:21:42Z",
       "number": 667,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(config): resolve legacy and nested environment overrides",
-      "url": "https://github.com/dosco/graphjin/pull/667"
+      "url": "https://github.com/dosco/deeporg/pull/667"
     },
     {
       "additions": 54,
@@ -12865,11 +12865,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:21:36Z",
       "number": 666,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(fstable): match partial object-key prefixes in local listings",
-      "url": "https://github.com/dosco/graphjin/pull/666"
+      "url": "https://github.com/dosco/deeporg/pull/666"
     },
     {
       "additions": 52,
@@ -12881,11 +12881,11 @@
       "deletions": 0,
       "merged_at": "2026-10-31T08:21:29Z",
       "number": 665,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): read defaults after variable type annotations",
-      "url": "https://github.com/dosco/graphjin/pull/665"
+      "url": "https://github.com/dosco/deeporg/pull/665"
     },
     {
       "additions": 39,
@@ -12897,11 +12897,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:21:18Z",
       "number": 664,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): ignore byte order marks between tokens",
-      "url": "https://github.com/dosco/graphjin/pull/664"
+      "url": "https://github.com/dosco/deeporg/pull/664"
     },
     {
       "additions": 54,
@@ -12913,11 +12913,11 @@
       "deletions": 1,
       "merged_at": "2026-10-31T08:21:12Z",
       "number": 663,
-      "repository": "dosco/graphjin",
-      "repository_url": "https://github.com/dosco/graphjin",
+      "repository": "dosco/deeporg",
+      "repository_url": "https://github.com/dosco/deeporg",
       "reviews": 0,
       "title": "fix(graph): decode escaped backslashes and Unicode pairs",
-      "url": "https://github.com/dosco/graphjin/pull/663"
+      "url": "https://github.com/dosco/deeporg/pull/663"
     },
     {
       "additions": 1,
