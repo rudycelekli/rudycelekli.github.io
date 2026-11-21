@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-21 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,097**
+Records: **4,098**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-21 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3638: Distinguish GitHub and GitLab numbers in the PR board filter](https://github.com/backnotprop/plannotator/pull/3638) | +10 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#282: Reject invalid cutoffs in fixed-radius proximity graphs](https://github.com/c2g-dev/city2graph/pull/282) | +69 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#276: Preserve actual GTFS departures and undirected summary geometry](https://github.com/c2g-dev/city2graph/pull/276) | +76 / -17 across 3 files | 0 reviews · 3 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#293: Build GTFS OD lines from unmaterialized stop coordinates](https://github.com/c2g-dev/city2graph/pull/293) | +98 / -10 across 2 files | 0 reviews · 0 comments |
