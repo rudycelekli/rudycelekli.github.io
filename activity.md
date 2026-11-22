@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-22 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,098**
+Records: **4,099**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-22 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2921: [TASK FIX] Restore valid verifier config for clinical-metadata-recovery](https://github.com/harbor-framework/terminal-bench-science/pull/2921) | +0 / -4 across 1 files | 1 reviews · 6 comments |
 | 2026-11-21 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3638: Distinguish GitHub and GitLab numbers in the PR board filter](https://github.com/backnotprop/plannotator/pull/3638) | +10 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#282: Reject invalid cutoffs in fixed-radius proximity graphs](https://github.com/c2g-dev/city2graph/pull/282) | +69 / -5 across 2 files | 0 reviews · 0 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#276: Preserve actual GTFS departures and undirected summary geometry](https://github.com/c2g-dev/city2graph/pull/276) | +76 / -17 across 3 files | 0 reviews · 3 comments |

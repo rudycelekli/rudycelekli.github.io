@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-21T21:07:44Z</updated>
+  <updated>2026-11-22T12:53:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>harbor-framework/terminal-bench-science #2921: [TASK FIX] Restore valid verifier config for clinical-metadata-recovery</title>
+    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2921</id>
+    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2921"/>
+    <updated>2026-11-22T12:53:46Z</updated>
+    <summary>Merged public contribution. +0 / -4 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>backnotprop/plannotator #3638: Distinguish GitHub and GitLab numbers in the PR board filter</title>
     <id>https://github.com/backnotprop/plannotator/pull/3638</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/863"/>
     <updated>2026-11-20T01:51:36Z</updated>
     <summary>Merged public contribution. +9 / -1 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #862: fix(activecampaign): require whole-cent deal values</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/862</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/862"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +16 / -2 across 2 changed files.</summary>
   </entry>
 </feed>
