@@ -4,10 +4,25 @@ Evidence timestamp: **2026-11-23 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,099**
+Records: **4,114**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#14: Distinguish unmeasured spider geometry from passing checks](https://github.com/apekshik/anymachine/pull/14) | +24 / -15 across 3 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#9: Propagate Blender failures through spider and quadruped pipelines](https://github.com/apekshik/anymachine/pull/9) | +19 / -8 across 3 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#7: Make the laptop rebuild runnable from any checkout](https://github.com/apekshik/anymachine/pull/7) | +53 / -19 across 3 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#18: Explain laptop inputs that cannot form a hinge](https://github.com/apekshik/anymachine/pull/18) | +18 / -2 across 1 files | 0 reviews · 1 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#17: Document what a clean checkout needs to rebuild each rig](https://github.com/apekshik/anymachine/pull/17) | +18 / -5 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#16: Report unreachable lateral targets in leg IK](https://github.com/apekshik/anymachine/pull/16) | +7 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#15: Report the Stilt export formats actually verified](https://github.com/apekshik/anymachine/pull/15) | +25 / -18 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#13: Enforce the laptop texture cap on both image axes](https://github.com/apekshik/anymachine/pull/13) | +4 / -3 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#12: Reject empty or misspelled backpack collision masks](https://github.com/apekshik/anymachine/pull/12) | +120 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#11: Summarize backpack collision checks using their recorded thresholds](https://github.com/apekshik/anymachine/pull/11) | +106 / -20 across 2 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#10: Fail verification when a quadruped GLB is missing required actions](https://github.com/apekshik/anymachine/pull/10) | +4 / -0 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#8: Always check the laptop hinge at its fully open endpoint](https://github.com/apekshik/anymachine/pull/8) | +21 / -6 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#6: Make Stilt assembly timing repeatable across renders](https://github.com/apekshik/anymachine/pull/6) | +2 / -1 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#5: Reject Stilt animation runs that share an output directory](https://github.com/apekshik/anymachine/pull/5) | +5 / -0 across 1 files | 0 reviews · 0 comments |
+| 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#4: Preserve the Stilt reference video when rendering fails](https://github.com/apekshik/anymachine/pull/4) | +7 / -4 across 2 files | 0 reviews · 0 comments |
 | 2026-11-22 | [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) | [#2921: [TASK FIX] Restore valid verifier config for clinical-metadata-recovery](https://github.com/harbor-framework/terminal-bench-science/pull/2921) | +0 / -4 across 1 files | 1 reviews · 6 comments |
 | 2026-11-21 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3638: Distinguish GitHub and GitLab numbers in the PR board filter](https://github.com/backnotprop/plannotator/pull/3638) | +10 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-21 | [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) | [#282: Reject invalid cutoffs in fixed-radius proximity graphs](https://github.com/c2g-dev/city2graph/pull/282) | +69 / -5 across 2 files | 0 reviews · 0 comments |

@@ -4,8 +4,113 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-22T12:53:46Z</updated>
+  <updated>2026-11-23T22:44:13Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>apekshik/anymachine #14: Distinguish unmeasured spider geometry from passing checks</title>
+    <id>https://github.com/apekshik/anymachine/pull/14</id>
+    <link href="https://github.com/apekshik/anymachine/pull/14"/>
+    <updated>2026-11-23T22:44:13Z</updated>
+    <summary>Merged public contribution. +24 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #9: Propagate Blender failures through spider and quadruped pipelines</title>
+    <id>https://github.com/apekshik/anymachine/pull/9</id>
+    <link href="https://github.com/apekshik/anymachine/pull/9"/>
+    <updated>2026-11-23T22:44:06Z</updated>
+    <summary>Merged public contribution. +19 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #7: Make the laptop rebuild runnable from any checkout</title>
+    <id>https://github.com/apekshik/anymachine/pull/7</id>
+    <link href="https://github.com/apekshik/anymachine/pull/7"/>
+    <updated>2026-11-23T22:44:00Z</updated>
+    <summary>Merged public contribution. +53 / -19 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #18: Explain laptop inputs that cannot form a hinge</title>
+    <id>https://github.com/apekshik/anymachine/pull/18</id>
+    <link href="https://github.com/apekshik/anymachine/pull/18"/>
+    <updated>2026-11-23T22:27:23Z</updated>
+    <summary>Merged public contribution. +18 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #17: Document what a clean checkout needs to rebuild each rig</title>
+    <id>https://github.com/apekshik/anymachine/pull/17</id>
+    <link href="https://github.com/apekshik/anymachine/pull/17"/>
+    <updated>2026-11-23T22:27:17Z</updated>
+    <summary>Merged public contribution. +18 / -5 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #16: Report unreachable lateral targets in leg IK</title>
+    <id>https://github.com/apekshik/anymachine/pull/16</id>
+    <link href="https://github.com/apekshik/anymachine/pull/16"/>
+    <updated>2026-11-23T22:27:11Z</updated>
+    <summary>Merged public contribution. +7 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #15: Report the Stilt export formats actually verified</title>
+    <id>https://github.com/apekshik/anymachine/pull/15</id>
+    <link href="https://github.com/apekshik/anymachine/pull/15"/>
+    <updated>2026-11-23T22:27:06Z</updated>
+    <summary>Merged public contribution. +25 / -18 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #13: Enforce the laptop texture cap on both image axes</title>
+    <id>https://github.com/apekshik/anymachine/pull/13</id>
+    <link href="https://github.com/apekshik/anymachine/pull/13"/>
+    <updated>2026-11-23T22:26:59Z</updated>
+    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #12: Reject empty or misspelled backpack collision masks</title>
+    <id>https://github.com/apekshik/anymachine/pull/12</id>
+    <link href="https://github.com/apekshik/anymachine/pull/12"/>
+    <updated>2026-11-23T22:26:54Z</updated>
+    <summary>Merged public contribution. +120 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #11: Summarize backpack collision checks using their recorded thresholds</title>
+    <id>https://github.com/apekshik/anymachine/pull/11</id>
+    <link href="https://github.com/apekshik/anymachine/pull/11"/>
+    <updated>2026-11-23T22:26:48Z</updated>
+    <summary>Merged public contribution. +106 / -20 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #10: Fail verification when a quadruped GLB is missing required actions</title>
+    <id>https://github.com/apekshik/anymachine/pull/10</id>
+    <link href="https://github.com/apekshik/anymachine/pull/10"/>
+    <updated>2026-11-23T22:26:42Z</updated>
+    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #8: Always check the laptop hinge at its fully open endpoint</title>
+    <id>https://github.com/apekshik/anymachine/pull/8</id>
+    <link href="https://github.com/apekshik/anymachine/pull/8"/>
+    <updated>2026-11-23T22:26:37Z</updated>
+    <summary>Merged public contribution. +21 / -6 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #6: Make Stilt assembly timing repeatable across renders</title>
+    <id>https://github.com/apekshik/anymachine/pull/6</id>
+    <link href="https://github.com/apekshik/anymachine/pull/6"/>
+    <updated>2026-11-23T22:26:31Z</updated>
+    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #5: Reject Stilt animation runs that share an output directory</title>
+    <id>https://github.com/apekshik/anymachine/pull/5</id>
+    <link href="https://github.com/apekshik/anymachine/pull/5"/>
+    <updated>2026-11-23T22:26:25Z</updated>
+    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>apekshik/anymachine #4: Preserve the Stilt reference video when rendering fails</title>
+    <id>https://github.com/apekshik/anymachine/pull/4</id>
+    <link href="https://github.com/apekshik/anymachine/pull/4"/>
+    <updated>2026-11-23T22:26:20Z</updated>
+    <summary>Merged public contribution. +7 / -4 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>harbor-framework/terminal-bench-science #2921: [TASK FIX] Restore valid verifier config for clinical-metadata-recovery</title>
     <id>https://github.com/harbor-framework/terminal-bench-science/pull/2921</id>
@@ -250,110 +355,5 @@
     <link href="https://github.com/coreyhaines31/marketingskills/pull/878"/>
     <updated>2026-11-20T01:51:36Z</updated>
     <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #877: fix(google-ads): strip hyphens from the target customer ID</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/877</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/877"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +6 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #876: fix(similarweb): request geography from the v4 endpoint</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/876</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/876"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +6 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #875: fix(trustpilot): page business search with the documented perpage parameter</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/875</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/875"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #874: fix(resend): page audience, contact and webhook lists with cursors</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/874</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/874"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +20 / -10 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #873: fix(dataforseo): enforce per-task keyword limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/873</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/873"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +24 / -9 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #872: fix(tiktok): send v1.3 operation_status for campaign status updates</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/872</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/872"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +5 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #871: fix(mixpanel): require the funnel query date range</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/871</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/871"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +9 / -4 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #870: fix(lemlist): request campaign stats from the v2 route with its date range</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/870</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/870"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +14 / -3 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #869: fix(hunter): read and pause sequences through documented routes</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/869</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/869"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +8 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #868: fix(apollo): enforce the ten-person bulk enrichment limit</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/868</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/868"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +10 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #867: fix(postmark): enforce batch and suppression request limits</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/867</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/867"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +18 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #866: fix(optimizely): change experiment state with the documented action parameter</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/866</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/866"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +17 / -5 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #865: fix(livestorm): create webhooks with documented url and event attributes</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/865</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/865"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +14 / -9 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #864: fix(ahrefs): send required Keywords Explorer and SERP Overview parameters</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/864</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/864"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +21 / -13 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #863: fix(truelist): enforce the three-address inline verification limit</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/863</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/863"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +9 / -1 across 3 changed files.</summary>
   </entry>
 </feed>
