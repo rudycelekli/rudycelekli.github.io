@@ -129,7 +129,7 @@
       "description": "Canonical research profile for Rudy Mizrahi Celekli: verifiable AI agents, evaluator robustness, and open-source evidence.",
       "full_name": "rudycelekli/rudycelekli.github.io",
       "language": "HTML",
-      "last_pushed_at": "2026-11-23T11:39:22Z",
+      "last_pushed_at": "2026-11-23T12:20:59Z",
       "latest_release": null,
       "name": "rudycelekli.github.io",
       "repository_forks": 0,
@@ -478,7 +478,7 @@
     "accepted_deletions": 175976,
     "accepted_line_changes": 882974,
     "attributed_commits": 5094,
-    "combined_repository_stars": 5348150,
+    "combined_repository_stars": 5348625,
     "merged_pull_request_records": 4099,
     "merged_pull_requests": 4099,
     "owned_public_repositories": 32,
@@ -501,7 +501,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/thedotmack/claude-mem/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 10357,
-      "repository_stars": 119202,
+      "repository_stars": 119212,
       "url": "https://github.com/thedotmack/claude-mem",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -541,7 +541,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/harry0703/MoneyPrinterTurbo/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 23348,
-      "repository_stars": 145179,
+      "repository_stars": 145182,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -580,8 +580,8 @@
       "name": "marketingskills",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/coreyhaines31/marketingskills/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 9079,
-      "repository_stars": 62151,
+      "repository_forks": 9080,
+      "repository_stars": 62156,
       "url": "https://github.com/coreyhaines31/marketingskills",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -600,8 +600,8 @@
       "name": "agency-agents",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/msitarzewski/agency-agents/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 27601,
-      "repository_stars": 169879,
+      "repository_forks": 27600,
+      "repository_stars": 169883,
       "url": "https://github.com/msitarzewski/agency-agents",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -660,8 +660,8 @@
       "name": "colibri",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/JustVugg/colibri/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 6431,
-      "repository_stars": 53040,
+      "repository_forks": 6434,
+      "repository_stars": 53042,
       "url": "https://github.com/JustVugg/colibri",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -740,8 +740,8 @@
       "name": "rea",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/morluto/rea/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 115742,
-      "repository_stars": 474873,
+      "repository_forks": 115749,
+      "repository_stars": 474916,
       "url": "https://github.com/morluto/rea",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -781,7 +781,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/openclaw/Peekaboo/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 423,
-      "repository_stars": 5515,
+      "repository_stars": 5516,
       "url": "https://github.com/openclaw/Peekaboo",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -800,8 +800,8 @@
       "name": "iFixAi",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/ifixai-ai/iFixAi/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 1829,
-      "repository_stars": 46918,
+      "repository_forks": 1830,
+      "repository_stars": 46920,
       "url": "https://github.com/ifixai-ai/iFixAi",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -821,7 +821,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1720,
-      "repository_stars": 17824,
+      "repository_stars": 17826,
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -860,8 +860,8 @@
       "name": "Claude-BugHunter",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/elementalsouls/Claude-BugHunter/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 2045,
-      "repository_stars": 18809,
+      "repository_forks": 2048,
+      "repository_stars": 18877,
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -900,8 +900,8 @@
       "name": "ai-job-search",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/ai-job-search-dev/ai-job-search/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 23391,
-      "repository_stars": 73087,
+      "repository_forks": 23392,
+      "repository_stars": 73090,
       "url": "https://github.com/ai-job-search-dev/ai-job-search",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -921,7 +921,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/bilawalsidhu/gods-eye-view/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 13146,
-      "repository_stars": 66439,
+      "repository_stars": 66442,
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -941,7 +941,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 7447,
-      "repository_stars": 61795,
+      "repository_stars": 61803,
       "url": "https://github.com/HKUDS/DeepTutor",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1061,7 +1061,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/deeplethe/utopia/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1194,
-      "repository_stars": 8653,
+      "repository_stars": 8654,
       "url": "https://github.com/deeplethe/utopia",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1081,7 +1081,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/erkamyaman/rust-anything/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 676,
-      "repository_stars": 8423,
+      "repository_stars": 8445,
       "url": "https://github.com/erkamyaman/rust-anything",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1101,7 +1101,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/wheresryan22/anatomy/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2449,
-      "repository_stars": 28813,
+      "repository_stars": 28816,
       "url": "https://github.com/wheresryan22/anatomy",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1120,8 +1120,8 @@
       "name": "agent-skills",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/addyosmani/agent-skills/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 12455,
-      "repository_stars": 119897,
+      "repository_forks": 12456,
+      "repository_stars": 119899,
       "url": "https://github.com/addyosmani/agent-skills",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1141,7 +1141,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1437,
-      "repository_stars": 14574,
+      "repository_stars": 14581,
       "url": "https://github.com/backnotprop/plannotator",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1221,7 +1221,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/HarnessRouter/harnessrouter/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 491,
-      "repository_stars": 4424,
+      "repository_stars": 4428,
       "url": "https://github.com/HarnessRouter/harnessrouter",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1300,8 +1300,8 @@
       "name": "phonebox",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/ersinkoc/phonebox/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 656,
-      "repository_stars": 5261,
+      "repository_forks": 659,
+      "repository_stars": 5276,
       "url": "https://github.com/ersinkoc/phonebox",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1341,7 +1341,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/dosco/deeporg/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 207,
-      "repository_stars": 3240,
+      "repository_stars": 3239,
       "url": "https://github.com/dosco/deeporg",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1360,8 +1360,8 @@
       "name": "diagram-design",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/cathrynlavery/diagram-design/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 4740,
-      "repository_stars": 70653,
+      "repository_forks": 4739,
+      "repository_stars": 70676,
       "url": "https://github.com/cathrynlavery/diagram-design",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1401,7 +1401,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/NationalSecurityAgency/ghidra/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 11486,
-      "repository_stars": 101043,
+      "repository_stars": 101045,
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1421,7 +1421,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/OpenMontageInc/OpenMontage/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 11253,
-      "repository_stars": 82579,
+      "repository_stars": 82588,
       "url": "https://github.com/OpenMontageInc/OpenMontage",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1481,7 +1481,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/vectorize-io/hindsight/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 7403,
-      "repository_stars": 62805,
+      "repository_stars": 62810,
       "url": "https://github.com/vectorize-io/hindsight",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1500,8 +1500,8 @@
       "name": "VoiceStudio",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/debpalash/VoiceStudio/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 13014,
-      "repository_stars": 116868,
+      "repository_forks": 13020,
+      "repository_stars": 116892,
       "url": "https://github.com/debpalash/VoiceStudio",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1521,7 +1521,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/headroomlabs-ai/headroom/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 6319,
-      "repository_stars": 80611,
+      "repository_stars": 80613,
       "url": "https://github.com/headroomlabs-ai/headroom",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1581,7 +1581,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/Thysrael/Horizon/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2183,
-      "repository_stars": 15010,
+      "repository_stars": 15018,
       "url": "https://github.com/Thysrael/Horizon",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1601,7 +1601,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/The-PR-Agent/pr-agent/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2240,
-      "repository_stars": 16584,
+      "repository_stars": 16585,
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1621,7 +1621,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/liseami/CCBaga/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 383,
-      "repository_stars": 3768,
+      "repository_stars": 3771,
       "url": "https://github.com/liseami/CCBaga",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1641,7 +1641,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/AgriciDaniel/claude-seo/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 3906,
-      "repository_stars": 31770,
+      "repository_stars": 31783,
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1700,8 +1700,8 @@
       "name": "brag",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/latent-spaces/brag/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 1734,
-      "repository_stars": 22299,
+      "repository_forks": 1737,
+      "repository_stars": 22303,
       "url": "https://github.com/latent-spaces/brag",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1720,8 +1720,8 @@
       "name": "OpenBot",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/CopilotKit/OpenBot/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 1655,
-      "repository_stars": 13257,
+      "repository_forks": 1654,
+      "repository_stars": 13260,
       "url": "https://github.com/CopilotKit/OpenBot",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1760,8 +1760,8 @@
       "name": "hallmark",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/Nutlope/hallmark/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 3270,
-      "repository_stars": 59817,
+      "repository_forks": 3271,
+      "repository_stars": 59838,
       "url": "https://github.com/Nutlope/hallmark",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1781,7 +1781,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 5325,
-      "repository_stars": 38074,
+      "repository_stars": 38076,
       "url": "https://github.com/Tencent/WeKnora",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1861,7 +1861,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/tt-a1i/archify/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 6776,
-      "repository_stars": 98958,
+      "repository_stars": 98964,
       "url": "https://github.com/tt-a1i/archify",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1880,8 +1880,8 @@
       "name": "hyperframes",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 8254,
-      "repository_stars": 88616,
+      "repository_forks": 8257,
+      "repository_stars": 88629,
       "url": "https://github.com/heygen-com/hyperframes",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1901,7 +1901,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/google-research/harness2/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2496,
-      "repository_stars": 24882,
+      "repository_stars": 24884,
       "url": "https://github.com/google-research/harness2",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1960,8 +1960,8 @@
       "name": "craft-anything",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/storytold/craft-anything/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 8278,
-      "repository_stars": 41760,
+      "repository_forks": 8280,
+      "repository_stars": 41777,
       "url": "https://github.com/storytold/craft-anything",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -1981,7 +1981,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 45503,
-      "repository_stars": 309267,
+      "repository_stars": 309278,
       "url": "https://github.com/affaan-m/ECC",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2060,8 +2060,8 @@
       "name": "ag-ui",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 2165,
-      "repository_stars": 21298,
+      "repository_forks": 2166,
+      "repository_stars": 21302,
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2081,7 +2081,7 @@
       "official_contributor": false,
       "pull_requests_url": "https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 82957,
-      "repository_stars": 395080,
+      "repository_stars": 395079,
       "url": "https://github.com/openclaw/openclaw",
       "verification_label": "Default-branch commit verified",
       "verification_tier": "default_branch_commit_verified"
@@ -2161,7 +2161,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/google-labs-code/stitch-skills/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1501,
-      "repository_stars": 12101,
+      "repository_stars": 12109,
       "url": "https://github.com/google-labs-code/stitch-skills",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2180,8 +2180,8 @@
       "name": "build-your-own-x",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/codecrafters-io/build-your-own-x/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 52784,
-      "repository_stars": 564875,
+      "repository_forks": 52786,
+      "repository_stars": 564880,
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2200,8 +2200,8 @@
       "name": "Agent-Reach",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/Panniantong/Agent-Reach/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 10252,
-      "repository_stars": 114147,
+      "repository_forks": 10254,
+      "repository_stars": 114156,
       "url": "https://github.com/Panniantong/Agent-Reach",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2221,7 +2221,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/we-promise/sure/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1537,
-      "repository_stars": 17444,
+      "repository_stars": 17450,
       "url": "https://github.com/we-promise/sure",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2232,7 +2232,7 @@
       "accepted_deletions": 17,
       "attributed_commits": 3,
       "commits_url": "https://github.com/truefoundry/trueforge/commits?author=rudycelekli",
-      "contributor_rank": 25,
+      "contributor_rank": 26,
       "contributors_url": "https://github.com/truefoundry/trueforge/graphs/contributors",
       "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
       "full_name": "truefoundry/trueforge",
@@ -2241,7 +2241,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/truefoundry/trueforge/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 574,
-      "repository_stars": 6626,
+      "repository_stars": 6627,
       "url": "https://github.com/truefoundry/trueforge",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2260,8 +2260,8 @@
       "name": "floorplan",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/haydenschmitty/floorplan/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 569,
-      "repository_stars": 6344,
+      "repository_forks": 570,
+      "repository_stars": 6346,
       "url": "https://github.com/haydenschmitty/floorplan",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2361,7 +2361,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2147,
-      "repository_stars": 42400,
+      "repository_stars": 42399,
       "url": "https://github.com/lightpanda-io/browser",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2400,8 +2400,8 @@
       "name": "OpenMausBot",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 3857,
-      "repository_stars": 27037,
+      "repository_forks": 3856,
+      "repository_stars": 27051,
       "url": "https://github.com/milind-soni/OpenMausBot",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2421,7 +2421,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/bee-san/RustScan/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1416,
-      "repository_stars": 20797,
+      "repository_stars": 20796,
       "url": "https://github.com/bee-san/RustScan",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2460,8 +2460,8 @@
       "name": "thinkrail",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/JetBrains/thinkrail/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 535,
-      "repository_stars": 8411,
+      "repository_forks": 534,
+      "repository_stars": 8412,
       "url": "https://github.com/JetBrains/thinkrail",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2520,8 +2520,8 @@
       "name": "AstrBot",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 3657,
-      "repository_stars": 47385,
+      "repository_forks": 3658,
+      "repository_stars": 47384,
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2540,8 +2540,8 @@
       "name": "sglang",
       "official_contributor": false,
       "pull_requests_url": "https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 10783,
-      "repository_stars": 38970,
+      "repository_forks": 10785,
+      "repository_stars": 38975,
       "url": "https://github.com/sgl-project/sglang",
       "verification_label": "Default-branch commit verified",
       "verification_tier": "default_branch_commit_verified"
@@ -2561,7 +2561,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1224,
-      "repository_stars": 20146,
+      "repository_stars": 20158,
       "url": "https://github.com/xerj-org/xerj",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2601,7 +2601,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/max-sixty/worktrunk/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 513,
-      "repository_stars": 12704,
+      "repository_stars": 12705,
       "url": "https://github.com/max-sixty/worktrunk",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2861,7 +2861,7 @@
       "official_contributor": true,
       "pull_requests_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 1955,
-      "repository_stars": 12593,
+      "repository_stars": 12594,
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2880,8 +2880,8 @@
       "name": "graphify",
       "official_contributor": true,
       "pull_requests_url": "https://github.com/Graphify-Labs/graphify/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 14639,
-      "repository_stars": 152277,
+      "repository_forks": 14641,
+      "repository_stars": 152284,
       "url": "https://github.com/Graphify-Labs/graphify",
       "verification_label": "GitHub-listed contributor",
       "verification_tier": "github_listed_contributor"
@@ -2901,7 +2901,7 @@
       "official_contributor": false,
       "pull_requests_url": "https://github.com/earthtojake/text-to-cad/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 2590,
-      "repository_stars": 27198,
+      "repository_stars": 27197,
       "url": "https://github.com/earthtojake/text-to-cad",
       "verification_label": "GitHub graph verified",
       "verification_tier": "github_contribution_graph_verified"
@@ -2920,8 +2920,8 @@
       "name": "hermes-agent",
       "official_contributor": false,
       "pull_requests_url": "https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 60083,
-      "repository_stars": 265556,
+      "repository_forks": 60086,
+      "repository_stars": 265565,
       "url": "https://github.com/NousResearch/hermes-agent",
       "verification_label": "Default-branch commit verified",
       "verification_tier": "default_branch_commit_verified"
@@ -2940,8 +2940,8 @@
       "name": "plugins",
       "official_contributor": false,
       "pull_requests_url": "https://github.com/cursor/plugins/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
-      "repository_forks": 2027,
-      "repository_stars": 18650,
+      "repository_forks": 2028,
+      "repository_stars": 18661,
       "url": "https://github.com/cursor/plugins",
       "verification_label": "GitHub graph verified",
       "verification_tier": "github_contribution_graph_verified"
@@ -3021,7 +3021,7 @@
       "official_contributor": false,
       "pull_requests_url": "https://github.com/paperclipai/paperclip/pulls?q=is%3Apr+author%3Arudycelekli+is%3Amerged",
       "repository_forks": 19290,
-      "repository_stars": 116144,
+      "repository_stars": 116152,
       "url": "https://github.com/paperclipai/paperclip",
       "verification_label": "GitHub graph verified",
       "verification_tier": "github_contribution_graph_verified"
