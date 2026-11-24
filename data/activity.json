@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 74,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 6,
+      "created_at": "2026-11-24T18:43:24Z",
+      "deletions": 4,
+      "merged_at": "2026-11-24T23:03:29Z",
+      "number": 2395,
+      "repository": "mjmirza/app-store-compliance",
+      "repository_url": "https://github.com/mjmirza/app-store-compliance",
+      "reviews": 0,
+      "title": "fix(installer): preserve user-owned OpenCode plugin files",
+      "url": "https://github.com/mjmirza/app-store-compliance/pull/2395"
+    },
+    {
       "additions": 78,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -66272,7 +66288,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4140,
+  "record_count": 4141,
   "schema_version": 1,
   "updated_at_utc": "2026-11-24"
 }
