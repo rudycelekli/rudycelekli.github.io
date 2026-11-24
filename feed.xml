@@ -4,8 +4,50 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-24T02:47:21Z</updated>
+  <updated>2026-11-24T03:27:19Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>TestSprite/testsprite-cli #750: docs(result): account for cancelled results in latest-result examples</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/750</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/750"/>
+    <updated>2026-11-24T03:27:19Z</updated>
+    <summary>Merged public contribution. +11 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #751: docs(ci): warn about required checks on GitHub merge queues</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/751</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/751"/>
+    <updated>2026-11-24T03:22:32Z</updated>
+    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #749: docs(migration): mark the old auth commands as removed</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/749</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/749"/>
+    <updated>2026-11-24T03:17:48Z</updated>
+    <summary>Merged public contribution. +1 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #746: docs(config): explain when CI bypasses the credentials file</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/746</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/746"/>
+    <updated>2026-11-24T03:11:31Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #745: docs(agent): make the offline install instructions explicit</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/745</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/745"/>
+    <updated>2026-11-24T03:06:50Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #740: docs(ci): make the saved-list gate fail on zero tests</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/740</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/740"/>
+    <updated>2026-11-24T03:00:36Z</updated>
+    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>TestSprite/testsprite-cli #742: docs(ci): check credential presence without printing values</title>
     <id>https://github.com/TestSprite/testsprite-cli/pull/742</id>
@@ -313,47 +355,5 @@
     <link href="https://github.com/c2g-dev/city2graph/pull/297"/>
     <updated>2026-11-20T17:28:02Z</updated>
     <summary>Merged public contribution. +13 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #290: Apply OD thresholds after summing reciprocal flows</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/290</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/290"/>
-    <updated>2026-11-20T17:24:58Z</updated>
-    <summary>Merged public contribution. +75 / -17 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #301: Project secondary barriers before matching place and movement nodes</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/301</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/301"/>
-    <updated>2026-11-20T17:24:08Z</updated>
-    <summary>Merged public contribution. +129 / -7 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #665: Compare all vector linework in MCP sheet revisions</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/665</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/665"/>
-    <updated>2026-11-20T15:20:38Z</updated>
-    <summary>Merged public contribution. +60 / -22 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Kentucky-ai/opentakeoff #664: Fix ceiling wall angle after resetting the floor multiplier</title>
-    <id>https://github.com/Kentucky-ai/opentakeoff/pull/664</id>
-    <link href="https://github.com/Kentucky-ai/opentakeoff/pull/664"/>
-    <updated>2026-11-20T14:45:22Z</updated>
-    <summary>Merged public contribution. +50 / -10 across 8 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9787: Propagate program-walk callback and filter errors</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9787</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9787"/>
-    <updated>2026-11-20T11:04:12Z</updated>
-    <summary>Merged public contribution. +10 / -8 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9783: Notify PyGhidra monitor listeners on cancellation</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9783</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9783"/>
-    <updated>2026-11-20T11:04:12Z</updated>
-    <summary>Merged public contribution. +12 / -4 across 1 changed files.</summary>
   </entry>
 </feed>

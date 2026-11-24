@@ -4,10 +4,16 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,119**
+Records: **4,125**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#750: docs(result): account for cancelled results in latest-result examples](https://github.com/TestSprite/testsprite-cli/pull/750) | +11 / -3 across 1 files | 2 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#751: docs(ci): warn about required checks on GitHub merge queues](https://github.com/TestSprite/testsprite-cli/pull/751) | +2 / -0 across 1 files | 2 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#749: docs(migration): mark the old auth commands as removed](https://github.com/TestSprite/testsprite-cli/pull/749) | +1 / -0 across 1 files | 1 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#746: docs(config): explain when CI bypasses the credentials file](https://github.com/TestSprite/testsprite-cli/pull/746) | +1 / -1 across 1 files | 1 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#745: docs(agent): make the offline install instructions explicit](https://github.com/TestSprite/testsprite-cli/pull/745) | +1 / -1 across 1 files | 2 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#740: docs(ci): make the saved-list gate fail on zero tests](https://github.com/TestSprite/testsprite-cli/pull/740) | +4 / -3 across 1 files | 1 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#742: docs(ci): check credential presence without printing values](https://github.com/TestSprite/testsprite-cli/pull/742) | +7 / -2 across 1 files | 1 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#743: docs(onboarding): answer question cards in the terminal](https://github.com/TestSprite/testsprite-cli/pull/743) | +2 / -2 across 2 files | 1 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#741: docs(ci): clarify what the preview gate actually tests](https://github.com/TestSprite/testsprite-cli/pull/741) | +6 / -4 across 1 files | 1 reviews · 1 comments |
