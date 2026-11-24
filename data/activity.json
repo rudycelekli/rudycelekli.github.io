@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 5,
+      "created_at": "2026-11-21T08:41:48Z",
+      "deletions": 2,
+      "merged_at": "2026-11-24T03:34:26Z",
+      "number": 747,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 2,
+      "title": "docs(test): document the project default for test list",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/747"
+    },
+    {
       "additions": 11,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -66032,7 +66048,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4125,
+  "record_count": 4126,
   "schema_version": 1,
   "updated_at_utc": "2026-11-24"
 }

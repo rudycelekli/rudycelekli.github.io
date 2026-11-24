@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,125**
+Records: **4,126**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#747: docs(test): document the project default for test list](https://github.com/TestSprite/testsprite-cli/pull/747) | +2 / -2 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#750: docs(result): account for cancelled results in latest-result examples](https://github.com/TestSprite/testsprite-cli/pull/750) | +11 / -3 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#751: docs(ci): warn about required checks on GitHub merge queues](https://github.com/TestSprite/testsprite-cli/pull/751) | +2 / -0 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#749: docs(migration): mark the old auth commands as removed](https://github.com/TestSprite/testsprite-cli/pull/749) | +1 / -0 across 1 files | 1 reviews · 1 comments |
