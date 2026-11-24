@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-23T22:44:13Z</updated>
+  <updated>2026-11-24T02:29:46Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>TestSprite/testsprite-cli #748: docs(run): distinguish saved-list tunnel limits</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/748</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/748"/>
+    <updated>2026-11-24T02:29:46Z</updated>
+    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #744: docs(agent): clarify skill status on an empty checkout</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/744</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/744"/>
+    <updated>2026-11-24T02:25:34Z</updated>
+    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>apekshik/anymachine #14: Distinguish unmeasured spider geometry from passing checks</title>
     <id>https://github.com/apekshik/anymachine/pull/14</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1570"/>
     <updated>2026-11-20T10:20:03Z</updated>
     <summary>Merged public contribution. +129 / -22 across 6 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #879: fix(supermetrics): reject row limits that parseInt would truncate</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/879</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/879"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +12 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>coreyhaines31/marketingskills #878: fix(wistia): honor an explicit false public project flag</title>
-    <id>https://github.com/coreyhaines31/marketingskills/pull/878</id>
-    <link href="https://github.com/coreyhaines31/marketingskills/pull/878"/>
-    <updated>2026-11-20T01:51:36Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 2 changed files.</summary>
   </entry>
 </feed>

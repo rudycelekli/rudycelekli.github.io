@@ -8,6 +8,38 @@
   },
   "items": [
     {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-21T08:41:50Z",
+      "deletions": 0,
+      "merged_at": "2026-11-24T02:29:46Z",
+      "number": 748,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 2,
+      "title": "docs(run): distinguish saved-list tunnel limits",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/748"
+    },
+    {
+      "additions": 1,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-21T08:41:42Z",
+      "deletions": 1,
+      "merged_at": "2026-11-24T02:25:34Z",
+      "number": 744,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 1,
+      "title": "docs(agent): clarify skill status on an empty checkout",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/744"
+    },
+    {
       "additions": 24,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 3,
@@ -65856,7 +65888,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4114,
+  "record_count": 4116,
   "schema_version": 1,
   "updated_at_utc": "2026-11-24"
 }

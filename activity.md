@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,114**
+Records: **4,116**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#748: docs(run): distinguish saved-list tunnel limits](https://github.com/TestSprite/testsprite-cli/pull/748) | +2 / -0 across 1 files | 2 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#744: docs(agent): clarify skill status on an empty checkout](https://github.com/TestSprite/testsprite-cli/pull/744) | +1 / -1 across 1 files | 1 reviews · 1 comments |
 | 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#14: Distinguish unmeasured spider geometry from passing checks](https://github.com/apekshik/anymachine/pull/14) | +24 / -15 across 3 files | 0 reviews · 0 comments |
 | 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#9: Propagate Blender failures through spider and quadruped pipelines](https://github.com/apekshik/anymachine/pull/9) | +19 / -8 across 3 files | 0 reviews · 0 comments |
 | 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#7: Make the laptop rebuild runnable from any checkout](https://github.com/apekshik/anymachine/pull/7) | +53 / -19 across 3 files | 0 reviews · 0 comments |
