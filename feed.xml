@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-24T02:29:46Z</updated>
+  <updated>2026-11-24T02:47:21Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>TestSprite/testsprite-cli #742: docs(ci): check credential presence without printing values</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/742</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/742"/>
+    <updated>2026-11-24T02:47:21Z</updated>
+    <summary>Merged public contribution. +7 / -2 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #743: docs(onboarding): answer question cards in the terminal</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/743</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/743"/>
+    <updated>2026-11-24T02:42:10Z</updated>
+    <summary>Merged public contribution. +2 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>TestSprite/testsprite-cli #741: docs(ci): clarify what the preview gate actually tests</title>
+    <id>https://github.com/TestSprite/testsprite-cli/pull/741</id>
+    <link href="https://github.com/TestSprite/testsprite-cli/pull/741"/>
+    <updated>2026-11-24T02:35:59Z</updated>
+    <summary>Merged public contribution. +6 / -4 across 1 changed files.</summary>
+  </entry>
   <entry>
     <title>TestSprite/testsprite-cli #748: docs(run): distinguish saved-list tunnel limits</title>
     <id>https://github.com/TestSprite/testsprite-cli/pull/748</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9783"/>
     <updated>2026-11-20T11:04:12Z</updated>
     <summary>Merged public contribution. +12 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9779: Roll back newly created PyGhidra plugin installs after copy failures</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9779</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9779"/>
-    <updated>2026-11-20T11:04:12Z</updated>
-    <summary>Merged public contribution. +12 / -11 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>NationalSecurityAgency/ghidra #9775: Preserve script changes and exceptions during PyGhidra path cleanup</title>
-    <id>https://github.com/NationalSecurityAgency/ghidra/pull/9775</id>
-    <link href="https://github.com/NationalSecurityAgency/ghidra/pull/9775"/>
-    <updated>2026-11-20T11:04:12Z</updated>
-    <summary>Merged public contribution. +11 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>bilawalsidhu/gods-eye-view #1570: fix(places): don't let the browser cache a refused Google answer</title>
-    <id>https://github.com/bilawalsidhu/gods-eye-view/pull/1570</id>
-    <link href="https://github.com/bilawalsidhu/gods-eye-view/pull/1570"/>
-    <updated>2026-11-20T10:20:03Z</updated>
-    <summary>Merged public contribution. +129 / -22 across 6 changed files.</summary>
   </entry>
 </feed>

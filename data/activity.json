@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 7,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-21T08:41:37Z",
+      "deletions": 2,
+      "merged_at": "2026-11-24T02:47:21Z",
+      "number": 742,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 1,
+      "title": "docs(ci): check credential presence without printing values",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/742"
+    },
+    {
+      "additions": 2,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-21T08:41:40Z",
+      "deletions": 2,
+      "merged_at": "2026-11-24T02:42:10Z",
+      "number": 743,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 1,
+      "title": "docs(onboarding): answer question cards in the terminal",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/743"
+    },
+    {
+      "additions": 6,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 1,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-21T08:41:35Z",
+      "deletions": 4,
+      "merged_at": "2026-11-24T02:35:59Z",
+      "number": 741,
+      "repository": "TestSprite/testsprite-cli",
+      "repository_url": "https://github.com/TestSprite/testsprite-cli",
+      "reviews": 1,
+      "title": "docs(ci): clarify what the preview gate actually tests",
+      "url": "https://github.com/TestSprite/testsprite-cli/pull/741"
+    },
+    {
       "additions": 2,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 1,
@@ -65888,7 +65936,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4116,
+  "record_count": 4119,
   "schema_version": 1,
   "updated_at_utc": "2026-11-24"
 }

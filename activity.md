@@ -4,10 +4,13 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,116**
+Records: **4,119**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#742: docs(ci): check credential presence without printing values](https://github.com/TestSprite/testsprite-cli/pull/742) | +7 / -2 across 1 files | 1 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#743: docs(onboarding): answer question cards in the terminal](https://github.com/TestSprite/testsprite-cli/pull/743) | +2 / -2 across 2 files | 1 reviews · 1 comments |
+| 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#741: docs(ci): clarify what the preview gate actually tests](https://github.com/TestSprite/testsprite-cli/pull/741) | +6 / -4 across 1 files | 1 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#748: docs(run): distinguish saved-list tunnel limits](https://github.com/TestSprite/testsprite-cli/pull/748) | +2 / -0 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#744: docs(agent): clarify skill status on an empty checkout](https://github.com/TestSprite/testsprite-cli/pull/744) | +1 / -1 across 1 files | 1 reviews · 1 comments |
 | 2026-11-23 | [apekshik/anymachine](https://github.com/apekshik/anymachine) | [#14: Distinguish unmeasured spider geometry from passing checks](https://github.com/apekshik/anymachine/pull/14) | +24 / -15 across 3 files | 0 reviews · 0 comments |
