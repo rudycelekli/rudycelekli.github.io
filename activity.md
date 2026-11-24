@@ -4,10 +4,21 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,126**
+Records: **4,137**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2392: fix(installer): retain payload when hook removal fails](https://github.com/mjmirza/app-store-compliance/pull/2392) | +48 / -15 across 4 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2391: fix(eval): detect missing feature coverage and duplicate gold cases](https://github.com/mjmirza/app-store-compliance/pull/2391) | +67 / -8 across 3 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2390: fix(register): reject unknown store and jurisdiction scopes](https://github.com/mjmirza/app-store-compliance/pull/2390) | +56 / -2 across 3 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2389: fix(fleet): validate attestation revision and scope types](https://github.com/mjmirza/app-store-compliance/pull/2389) | +40 / -3 across 3 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2388: fix(audit): require findings coverage before marking an area passed](https://github.com/mjmirza/app-store-compliance/pull/2388) | +46 / -15 across 3 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2387: fix(accessibility): bound source excerpts for SwiftUI findings](https://github.com/mjmirza/app-store-compliance/pull/2387) | +33 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2385: fix(metadata): retain policy conflict checks above variant cap](https://github.com/mjmirza/app-store-compliance/pull/2385) | +44 / -4 across 2 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2384: fix(manifest): report non-string privacy descriptions](https://github.com/mjmirza/app-store-compliance/pull/2384) | +18 / -1 across 2 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2383: test(guard): isolate the empty-stdin scan from the host temp directory](https://github.com/mjmirza/app-store-compliance/pull/2383) | +6 / -3 across 1 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2382: fix(deadlines): reject invalid platform filters and trim valid names](https://github.com/mjmirza/app-store-compliance/pull/2382) | +25 / -3 across 2 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2380: fix(validate): require a complete deadline source URL](https://github.com/mjmirza/app-store-compliance/pull/2380) | +22 / -1 across 2 files | 0 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#747: docs(test): document the project default for test list](https://github.com/TestSprite/testsprite-cli/pull/747) | +2 / -2 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#750: docs(result): account for cancelled results in latest-result examples](https://github.com/TestSprite/testsprite-cli/pull/750) | +11 / -3 across 1 files | 2 reviews · 1 comments |
 | 2026-11-24 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | [#751: docs(ci): warn about required checks on GitHub merge queues](https://github.com/TestSprite/testsprite-cli/pull/751) | +2 / -0 across 1 files | 2 reviews · 1 comments |

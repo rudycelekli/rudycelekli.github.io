@@ -4,8 +4,85 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-24T03:34:26Z</updated>
+  <updated>2026-11-24T20:38:19Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mjmirza/app-store-compliance #2392: fix(installer): retain payload when hook removal fails</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2392</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2392"/>
+    <updated>2026-11-24T20:38:19Z</updated>
+    <summary>Merged public contribution. +48 / -15 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2391: fix(eval): detect missing feature coverage and duplicate gold cases</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2391</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2391"/>
+    <updated>2026-11-24T20:37:20Z</updated>
+    <summary>Merged public contribution. +67 / -8 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2390: fix(register): reject unknown store and jurisdiction scopes</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2390</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2390"/>
+    <updated>2026-11-24T20:37:16Z</updated>
+    <summary>Merged public contribution. +56 / -2 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2389: fix(fleet): validate attestation revision and scope types</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2389</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2389"/>
+    <updated>2026-11-24T20:37:10Z</updated>
+    <summary>Merged public contribution. +40 / -3 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2388: fix(audit): require findings coverage before marking an area passed</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2388</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2388"/>
+    <updated>2026-11-24T20:37:06Z</updated>
+    <summary>Merged public contribution. +46 / -15 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2387: fix(accessibility): bound source excerpts for SwiftUI findings</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2387</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2387"/>
+    <updated>2026-11-24T20:37:00Z</updated>
+    <summary>Merged public contribution. +33 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2385: fix(metadata): retain policy conflict checks above variant cap</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2385</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2385"/>
+    <updated>2026-11-24T20:36:55Z</updated>
+    <summary>Merged public contribution. +44 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2384: fix(manifest): report non-string privacy descriptions</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2384</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2384"/>
+    <updated>2026-11-24T20:36:50Z</updated>
+    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2383: test(guard): isolate the empty-stdin scan from the host temp directory</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2383</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2383"/>
+    <updated>2026-11-24T20:36:45Z</updated>
+    <summary>Merged public contribution. +6 / -3 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2382: fix(deadlines): reject invalid platform filters and trim valid names</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2382</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2382"/>
+    <updated>2026-11-24T20:36:40Z</updated>
+    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2380: fix(validate): require a complete deadline source URL</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2380</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2380"/>
+    <updated>2026-11-24T20:36:35Z</updated>
+    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>TestSprite/testsprite-cli #747: docs(test): document the project default for test list</title>
     <id>https://github.com/TestSprite/testsprite-cli/pull/747</id>
@@ -278,82 +355,5 @@
     <link href="https://github.com/google-labs-code/stitch-skills/pull/105"/>
     <updated>2026-11-20T18:08:02Z</updated>
     <summary>Merged public contribution. +104 / -12 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-labs-code/stitch-skills #104: fix: reject unsupported web tags in native components</title>
-    <id>https://github.com/google-labs-code/stitch-skills/pull/104</id>
-    <link href="https://github.com/google-labs-code/stitch-skills/pull/104"/>
-    <updated>2026-11-20T18:05:42Z</updated>
-    <summary>Merged public contribution. +65 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-labs-code/stitch-skills #103: fix: validate hardcoded colors in className expressions</title>
-    <id>https://github.com/google-labs-code/stitch-skills/pull/103</id>
-    <link href="https://github.com/google-labs-code/stitch-skills/pull/103"/>
-    <updated>2026-11-20T18:03:23Z</updated>
-    <summary>Merged public contribution. +71 / -7 across 4 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #286: Ignore out-of-range Overture connector positions</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/286</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/286"/>
-    <updated>2026-11-20T17:37:15Z</updated>
-    <summary>Merged public contribution. +36 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #291: Keep valid GBFS feeds available beside malformed files</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/291</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/291"/>
-    <updated>2026-11-20T17:36:24Z</updated>
-    <summary>Merged public contribution. +49 / -33 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #285: Clip empty spatial selections to an empty graph</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/285</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/285"/>
-    <updated>2026-11-20T17:35:33Z</updated>
-    <summary>Merged public contribution. +49 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #289: Skip Overture downloads for an explicitly empty layer selection</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/289</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/289"/>
-    <updated>2026-11-20T17:34:49Z</updated>
-    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #296: Use the active geometry column to construct dual graphs</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/296</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/296"/>
-    <updated>2026-11-20T17:34:04Z</updated>
-    <summary>Merged public contribution. +27 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #288: Keep disconnected rows out when edge index labels repeat</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/288</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/288"/>
-    <updated>2026-11-20T17:33:11Z</updated>
-    <summary>Merged public contribution. +57 / -8 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #300: Reject invalid network distance costs before routing</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/300</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/300"/>
-    <updated>2026-11-20T17:31:39Z</updated>
-    <summary>Merged public contribution. +80 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #294: Merge reciprocal OD flows for mixed-type zone IDs</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/294</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/294"/>
-    <updated>2026-11-20T17:30:44Z</updated>
-    <summary>Merged public contribution. +24 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #299: Keep valid OD flows when a zone centroid is empty</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/299</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/299"/>
-    <updated>2026-11-20T17:28:42Z</updated>
-    <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
