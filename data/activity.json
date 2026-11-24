@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 78,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 4,
+      "created_at": "2026-11-24T18:43:21Z",
+      "deletions": 16,
+      "merged_at": "2026-11-24T22:03:53Z",
+      "number": 2394,
+      "repository": "mjmirza/app-store-compliance",
+      "repository_url": "https://github.com/mjmirza/app-store-compliance",
+      "reviews": 0,
+      "title": "fix(installer): validate Kimi managed block markers",
+      "url": "https://github.com/mjmirza/app-store-compliance/pull/2394"
+    },
+    {
       "additions": 9,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -66256,7 +66272,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4139,
+  "record_count": 4140,
   "schema_version": 1,
   "updated_at_utc": "2026-11-24"
 }

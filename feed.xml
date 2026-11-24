@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-24T21:17:28Z</updated>
+  <updated>2026-11-24T22:03:53Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mjmirza/app-store-compliance #2394: fix(installer): validate Kimi managed block markers</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2394</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2394"/>
+    <updated>2026-11-24T22:03:53Z</updated>
+    <summary>Merged public contribution. +78 / -16 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mjmirza/app-store-compliance #2393: fix(installer): return failure for invalid dry-run config</title>
     <id>https://github.com/mjmirza/app-store-compliance/pull/2393</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1348"/>
     <updated>2026-11-20T19:35:45Z</updated>
     <summary>Merged public contribution. +54 / -10 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1335: Use authored JSONC key spans when editing configs</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1335</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1335"/>
-    <updated>2026-11-20T19:35:40Z</updated>
-    <summary>Merged public contribution. +14 / -2 across 3 changed files.</summary>
   </entry>
 </feed>
