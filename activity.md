@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-24 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,137**
+Records: **4,139**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2393: fix(installer): return failure for invalid dry-run config](https://github.com/mjmirza/app-store-compliance/pull/2393) | +9 / -2 across 2 files | 0 reviews · 1 comments |
+| 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2381: fix(metadata): propagate failed store pulls and clean up Play edits](https://github.com/mjmirza/app-store-compliance/pull/2381) | +62 / -6 across 3 files | 0 reviews · 1 comments |
 | 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2392: fix(installer): retain payload when hook removal fails](https://github.com/mjmirza/app-store-compliance/pull/2392) | +48 / -15 across 4 files | 0 reviews · 1 comments |
 | 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2391: fix(eval): detect missing feature coverage and duplicate gold cases](https://github.com/mjmirza/app-store-compliance/pull/2391) | +67 / -8 across 3 files | 0 reviews · 1 comments |
 | 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2390: fix(register): reject unknown store and jurisdiction scopes](https://github.com/mjmirza/app-store-compliance/pull/2390) | +56 / -2 across 3 files | 0 reviews · 1 comments |

@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-24T20:38:19Z</updated>
+  <updated>2026-11-24T21:17:28Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mjmirza/app-store-compliance #2393: fix(installer): return failure for invalid dry-run config</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2393</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2393"/>
+    <updated>2026-11-24T21:17:28Z</updated>
+    <summary>Merged public contribution. +9 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2381: fix(metadata): propagate failed store pulls and clean up Play edits</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2381</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2381"/>
+    <updated>2026-11-24T21:09:57Z</updated>
+    <summary>Merged public contribution. +62 / -6 across 3 changed files.</summary>
+  </entry>
   <entry>
     <title>mjmirza/app-store-compliance #2392: fix(installer): retain payload when hook removal fails</title>
     <id>https://github.com/mjmirza/app-store-compliance/pull/2392</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1335"/>
     <updated>2026-11-20T19:35:40Z</updated>
     <summary>Merged public contribution. +14 / -2 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>Asymptote-Labs/agent-beacon #1334: Skip non-object payloads in Claude browser streams</title>
-    <id>https://github.com/Asymptote-Labs/agent-beacon/pull/1334</id>
-    <link href="https://github.com/Asymptote-Labs/agent-beacon/pull/1334"/>
-    <updated>2026-11-20T19:35:35Z</updated>
-    <summary>Merged public contribution. +13 / -0 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>google-labs-code/stitch-skills #105: fix: recognize CSS-first Tailwind setups in verification</title>
-    <id>https://github.com/google-labs-code/stitch-skills/pull/105</id>
-    <link href="https://github.com/google-labs-code/stitch-skills/pull/105"/>
-    <updated>2026-11-20T18:08:02Z</updated>
-    <summary>Merged public contribution. +104 / -12 across 3 changed files.</summary>
   </entry>
 </feed>
