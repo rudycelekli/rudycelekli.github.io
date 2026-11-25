@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,142**
+Records: **4,143**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-25 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#184: fix: accept pasted local torrent and NZB paths with forward slashes or quotes](https://github.com/anmolkapil/plexo/pull/184) | +21 / -1 across 2 files | 2 reviews · 2 comments |
 | 2026-11-25 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2386: fix(accessibility): report undersized Android dimensions alongside wrap_content](https://github.com/mjmirza/app-store-compliance/pull/2386) | +381 / -12 across 2 files | 0 reviews · 1 comments |
 | 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2395: fix(installer): preserve user-owned OpenCode plugin files](https://github.com/mjmirza/app-store-compliance/pull/2395) | +74 / -4 across 2 files | 0 reviews · 1 comments |
 | 2026-11-24 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2394: fix(installer): validate Kimi managed block markers](https://github.com/mjmirza/app-store-compliance/pull/2394) | +78 / -16 across 2 files | 0 reviews · 1 comments |

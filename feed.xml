@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-25T02:20:08Z</updated>
+  <updated>2026-11-25T09:03:21Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>anmolkapil/plexo #184: fix: accept pasted local torrent and NZB paths with forward slashes or quotes</title>
+    <id>https://github.com/anmolkapil/plexo/pull/184</id>
+    <link href="https://github.com/anmolkapil/plexo/pull/184"/>
+    <updated>2026-11-25T09:03:21Z</updated>
+    <summary>Merged public contribution. +21 / -1 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mjmirza/app-store-compliance #2386: fix(accessibility): report undersized Android dimensions alongside wrap_content</title>
     <id>https://github.com/mjmirza/app-store-compliance/pull/2386</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/c2g-dev/city2graph/pull/281"/>
     <updated>2026-11-21T18:44:31Z</updated>
     <summary>Merged public contribution. +134 / -41 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #284: Keep unique place IDs when a morphology graph has no edges</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/284</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/284"/>
-    <updated>2026-11-21T18:37:42Z</updated>
-    <summary>Merged public contribution. +35 / -7 across 2 changed files.</summary>
   </entry>
 </feed>
