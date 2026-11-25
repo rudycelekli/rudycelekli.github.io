@@ -8,6 +8,54 @@
   },
   "items": [
     {
+      "additions": 125,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 3,
+      "comments": 1,
+      "commits": 2,
+      "created_at": "2026-11-24T22:10:05Z",
+      "deletions": 6,
+      "merged_at": "2026-11-25T17:52:39Z",
+      "number": 1619,
+      "repository": "mvanhorn/last30days-skill",
+      "repository_url": "https://github.com/mvanhorn/last30days-skill",
+      "reviews": 1,
+      "title": "fix: keep usable subqueries from malformed provider plans",
+      "url": "https://github.com/mvanhorn/last30days-skill/pull/1619"
+    },
+    {
+      "additions": 199,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 1,
+      "commits": 3,
+      "created_at": "2026-11-24T22:10:01Z",
+      "deletions": 1,
+      "merged_at": "2026-11-25T17:51:45Z",
+      "number": 1618,
+      "repository": "mvanhorn/last30days-skill",
+      "repository_url": "https://github.com/mvanhorn/last30days-skill",
+      "reviews": 3,
+      "title": "fix: bound the remote query planning step",
+      "url": "https://github.com/mvanhorn/last30days-skill/pull/1618"
+    },
+    {
+      "additions": 91,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 1,
+      "commits": 8,
+      "created_at": "2026-11-24T18:39:02Z",
+      "deletions": 2,
+      "merged_at": "2026-11-25T17:47:53Z",
+      "number": 2379,
+      "repository": "mjmirza/app-store-compliance",
+      "repository_url": "https://github.com/mjmirza/app-store-compliance",
+      "reviews": 0,
+      "title": "fix(guard): read quoted Xcode deployment target keys",
+      "url": "https://github.com/mjmirza/app-store-compliance/pull/2379"
+    },
+    {
       "additions": 102,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -66368,7 +66416,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4146,
+  "record_count": 4149,
   "schema_version": 1,
   "updated_at_utc": "2026-11-25"
 }

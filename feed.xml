@@ -4,8 +4,29 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-25T13:56:07Z</updated>
+  <updated>2026-11-25T17:52:39Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>mvanhorn/last30days-skill #1619: fix: keep usable subqueries from malformed provider plans</title>
+    <id>https://github.com/mvanhorn/last30days-skill/pull/1619</id>
+    <link href="https://github.com/mvanhorn/last30days-skill/pull/1619"/>
+    <updated>2026-11-25T17:52:39Z</updated>
+    <summary>Merged public contribution. +125 / -6 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mvanhorn/last30days-skill #1618: fix: bound the remote query planning step</title>
+    <id>https://github.com/mvanhorn/last30days-skill/pull/1618</id>
+    <link href="https://github.com/mvanhorn/last30days-skill/pull/1618"/>
+    <updated>2026-11-25T17:51:45Z</updated>
+    <summary>Merged public contribution. +199 / -1 across 5 changed files.</summary>
+  </entry>
+  <entry>
+    <title>mjmirza/app-store-compliance #2379: fix(guard): read quoted Xcode deployment target keys</title>
+    <id>https://github.com/mjmirza/app-store-compliance/pull/2379</id>
+    <link href="https://github.com/mjmirza/app-store-compliance/pull/2379"/>
+    <updated>2026-11-25T17:47:53Z</updated>
+    <summary>Merged public contribution. +91 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>playcanvas/splat-transform #355: Keep one non-finite value from corrupting its compressed PLY chunk</title>
     <id>https://github.com/playcanvas/splat-transform/pull/355</id>
@@ -334,26 +355,5 @@
     <link href="https://github.com/apekshik/anymachine/pull/4"/>
     <updated>2026-11-23T22:26:20Z</updated>
     <summary>Merged public contribution. +7 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>harbor-framework/terminal-bench-science #2921: [TASK FIX] Restore valid verifier config for clinical-metadata-recovery</title>
-    <id>https://github.com/harbor-framework/terminal-bench-science/pull/2921</id>
-    <link href="https://github.com/harbor-framework/terminal-bench-science/pull/2921"/>
-    <updated>2026-11-22T12:53:46Z</updated>
-    <summary>Merged public contribution. +0 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>backnotprop/plannotator #3638: Distinguish GitHub and GitLab numbers in the PR board filter</title>
-    <id>https://github.com/backnotprop/plannotator/pull/3638</id>
-    <link href="https://github.com/backnotprop/plannotator/pull/3638"/>
-    <updated>2026-11-21T21:07:44Z</updated>
-    <summary>Merged public contribution. +10 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #282: Reject invalid cutoffs in fixed-radius proximity graphs</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/282</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/282"/>
-    <updated>2026-11-21T19:07:13Z</updated>
-    <summary>Merged public contribution. +69 / -5 across 2 changed files.</summary>
   </entry>
 </feed>
