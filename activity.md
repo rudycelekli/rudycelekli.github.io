@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-25 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,145**
+Records: **4,146**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-25 | [playcanvas/splat-transform](https://github.com/playcanvas/splat-transform) | [#355: Keep one non-finite value from corrupting its compressed PLY chunk](https://github.com/playcanvas/splat-transform/pull/355) | +102 / -23 across 2 files | 1 reviews · 3 comments |
 | 2026-11-25 | [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) | [#1830: fix(ci): validate all packages for unknown lockfile formats](https://github.com/Prism-Shadow/penguin-harness/pull/1830) | +48 / -0 across 4 files | 3 reviews · 0 comments |
 | 2026-11-25 | [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) | [#1831: docs: explain how the dev server selects its CLI](https://github.com/Prism-Shadow/penguin-harness/pull/1831) | +40 / -12 across 4 files | 3 reviews · 0 comments |
 | 2026-11-25 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | [#184: fix: accept pasted local torrent and NZB paths with forward slashes or quotes](https://github.com/anmolkapil/plexo/pull/184) | +21 / -1 across 2 files | 2 reviews · 2 comments |

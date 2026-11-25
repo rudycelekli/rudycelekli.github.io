@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 102,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 2,
+      "comments": 3,
+      "commits": 4,
+      "created_at": "2026-10-15T21:02:18Z",
+      "deletions": 23,
+      "merged_at": "2026-11-25T13:56:07Z",
+      "number": 355,
+      "repository": "playcanvas/splat-transform",
+      "repository_url": "https://github.com/playcanvas/splat-transform",
+      "reviews": 1,
+      "title": "Keep one non-finite value from corrupting its compressed PLY chunk",
+      "url": "https://github.com/playcanvas/splat-transform/pull/355"
+    },
+    {
       "additions": 48,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -66352,7 +66368,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4145,
+  "record_count": 4146,
   "schema_version": 1,
   "updated_at_utc": "2026-11-25"
 }
