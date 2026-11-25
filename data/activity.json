@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 48,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 2,
+      "created_at": "2026-11-24T22:14:58Z",
+      "deletions": 0,
+      "merged_at": "2026-11-25T10:22:25Z",
+      "number": 1830,
+      "repository": "Prism-Shadow/penguin-harness",
+      "repository_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "reviews": 3,
+      "title": "fix(ci): validate all packages for unknown lockfile formats",
+      "url": "https://github.com/Prism-Shadow/penguin-harness/pull/1830"
+    },
+    {
       "additions": 40,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 4,
@@ -66336,7 +66352,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4144,
+  "record_count": 4145,
   "schema_version": 1,
   "updated_at_utc": "2026-11-25"
 }

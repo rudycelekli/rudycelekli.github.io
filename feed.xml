@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-25T09:56:13Z</updated>
+  <updated>2026-11-25T10:22:25Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>Prism-Shadow/penguin-harness #1830: fix(ci): validate all packages for unknown lockfile formats</title>
+    <id>https://github.com/Prism-Shadow/penguin-harness/pull/1830</id>
+    <link href="https://github.com/Prism-Shadow/penguin-harness/pull/1830"/>
+    <updated>2026-11-25T10:22:25Z</updated>
+    <summary>Merged public contribution. +48 / -0 across 4 changed files.</summary>
+  </entry>
   <entry>
     <title>Prism-Shadow/penguin-harness #1831: docs: explain how the dev server selects its CLI</title>
     <id>https://github.com/Prism-Shadow/penguin-harness/pull/1831</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/c2g-dev/city2graph/pull/276"/>
     <updated>2026-11-21T19:06:18Z</updated>
     <summary>Merged public contribution. +76 / -17 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>c2g-dev/city2graph #293: Build GTFS OD lines from unmaterialized stop coordinates</title>
-    <id>https://github.com/c2g-dev/city2graph/pull/293</id>
-    <link href="https://github.com/c2g-dev/city2graph/pull/293"/>
-    <updated>2026-11-21T18:59:23Z</updated>
-    <summary>Merged public contribution. +98 / -10 across 2 changed files.</summary>
   </entry>
 </feed>
