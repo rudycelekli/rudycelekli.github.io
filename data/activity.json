@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 40,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 4,
+      "comments": 0,
+      "commits": 4,
+      "created_at": "2026-11-24T22:15:12Z",
+      "deletions": 12,
+      "merged_at": "2026-11-25T09:56:13Z",
+      "number": 1831,
+      "repository": "Prism-Shadow/penguin-harness",
+      "repository_url": "https://github.com/Prism-Shadow/penguin-harness",
+      "reviews": 3,
+      "title": "docs: explain how the dev server selects its CLI",
+      "url": "https://github.com/Prism-Shadow/penguin-harness/pull/1831"
+    },
+    {
       "additions": 21,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -66320,7 +66336,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4143,
+  "record_count": 4144,
   "schema_version": 1,
   "updated_at_utc": "2026-11-25"
 }
