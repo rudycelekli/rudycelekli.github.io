@@ -4,10 +4,37 @@ Evidence timestamp: **2026-11-26 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,149**
+Records: **4,176**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2483: fix(eval): isolate MMLU prompt mode and greedy temperature](https://github.com/JustVugg/colibri/pull/2483) | +72 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2482: fix(eval): reject impossible MMLU subset sample counts](https://github.com/JustVugg/colibri/pull/2482) | +57 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2480: fix(chat): assemble SSE data fields before decoding JSON](https://github.com/JustVugg/colibri/pull/2480) | +60 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2478: fix(chat): retain answer text alongside reasoning deltas](https://github.com/JustVugg/colibri/pull/2478) | +49 / -4 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2477: fix(api): validate compaction requests before inference admission](https://github.com/JustVugg/colibri/pull/2477) | +162 / -16 across 3 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2475: fix(cli): preserve Markdown across streamed prefix boundaries](https://github.com/JustVugg/colibri/pull/2475) | +40 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2473: fix(chat): identify remote document destinations by literal address](https://github.com/JustVugg/colibri/pull/2473) | +36 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2472: fix(mcp): reject malformed UTF-8 without ending the session](https://github.com/JustVugg/colibri/pull/2472) | +42 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2471: fix(mcp): measure wait deadlines with the monotonic clock](https://github.com/JustVugg/colibri/pull/2471) | +84 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2470: fix(mcp): refresh the configured source engine before start](https://github.com/JustVugg/colibri/pull/2470) | +104 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2469: fix(api): preserve GLM answer prose after streamed tool calls](https://github.com/JustVugg/colibri/pull/2469) | +79 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2468: fix(api): cache compaction summaries for exactly their replaced prefix](https://github.com/JustVugg/colibri/pull/2468) | +72 / -6 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2467: fix(convert): preserve Inkling source shards on output aliases](https://github.com/JustVugg/colibri/pull/2467) | +65 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2466: fix(convert): stop Inkling raw copies at unexpected EOF](https://github.com/JustVugg/colibri/pull/2466) | +54 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2465: fix(sft): remove stale files for empty prepared splits](https://github.com/JustVugg/colibri/pull/2465) | +61 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2464: fix(atlas): exclude held-out traces from every specialist set](https://github.com/JustVugg/colibri/pull/2464) | +69 / -3 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2452: test(setup): isolate fixture capacity from physical host disk space](https://github.com/JustVugg/colibri/pull/2452) | +25 / -0 across 1 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2451: test(score): pin float32 KV for the fixture reference](https://github.com/JustVugg/colibri/pull/2451) | +4 / -1 across 1 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2450: fix(mcp): serialize overlapping server lifecycle actions](https://github.com/JustVugg/colibri/pull/2450) | +105 / -9 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2449: fix(v41): preserve qualified tool names in API responses](https://github.com/JustVugg/colibri/pull/2449) | +72 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2448: fix(setup): reject invalid explicit ports before setup work](https://github.com/JustVugg/colibri/pull/2448) | +19 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2446: fix(api): instruct Qwen3-Coder when tools are required](https://github.com/JustVugg/colibri/pull/2446) | +68 / -0 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2445: fix(json): reject invalid raw UTF-8 in checked documents](https://github.com/JustVugg/colibri/pull/2445) | +92 / -6 across 4 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2444: fix(download): preserve exact filenames in curl fallback URLs](https://github.com/JustVugg/colibri/pull/2444) | +75 / -7 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2481: fix(mcp): reject non-JSON constants before dispatch](https://github.com/JustVugg/colibri/pull/2481) | +61 / -1 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2479: fix(chat): report SSE failures and premature response closure](https://github.com/JustVugg/colibri/pull/2479) | +59 / -2 across 2 files | 0 reviews · 0 comments |
+| 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2476: fix(api): report matched API stop before engine length cap](https://github.com/JustVugg/colibri/pull/2476) | +63 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-25 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [#1619: fix: keep usable subqueries from malformed provider plans](https://github.com/mvanhorn/last30days-skill/pull/1619) | +125 / -6 across 3 files | 1 reviews · 1 comments |
 | 2026-11-25 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [#1618: fix: bound the remote query planning step](https://github.com/mvanhorn/last30days-skill/pull/1618) | +199 / -1 across 5 files | 3 reviews · 1 comments |
 | 2026-11-25 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | [#2379: fix(guard): read quoted Xcode deployment target keys](https://github.com/mjmirza/app-store-compliance/pull/2379) | +91 / -2 across 2 files | 0 reviews · 1 comments |

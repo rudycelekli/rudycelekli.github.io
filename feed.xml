@@ -4,8 +4,197 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-25T17:52:39Z</updated>
+  <updated>2026-11-26T12:20:33Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>JustVugg/colibri #2483: fix(eval): isolate MMLU prompt mode and greedy temperature</title>
+    <id>https://github.com/JustVugg/colibri/pull/2483</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2483"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +72 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2482: fix(eval): reject impossible MMLU subset sample counts</title>
+    <id>https://github.com/JustVugg/colibri/pull/2482</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2482"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +57 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2480: fix(chat): assemble SSE data fields before decoding JSON</title>
+    <id>https://github.com/JustVugg/colibri/pull/2480</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2480"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +60 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2478: fix(chat): retain answer text alongside reasoning deltas</title>
+    <id>https://github.com/JustVugg/colibri/pull/2478</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2478"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +49 / -4 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2477: fix(api): validate compaction requests before inference admission</title>
+    <id>https://github.com/JustVugg/colibri/pull/2477</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2477"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +162 / -16 across 3 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2475: fix(cli): preserve Markdown across streamed prefix boundaries</title>
+    <id>https://github.com/JustVugg/colibri/pull/2475</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2475"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +40 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2473: fix(chat): identify remote document destinations by literal address</title>
+    <id>https://github.com/JustVugg/colibri/pull/2473</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2473"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +36 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2472: fix(mcp): reject malformed UTF-8 without ending the session</title>
+    <id>https://github.com/JustVugg/colibri/pull/2472</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2472"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +42 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2471: fix(mcp): measure wait deadlines with the monotonic clock</title>
+    <id>https://github.com/JustVugg/colibri/pull/2471</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2471"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +84 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2470: fix(mcp): refresh the configured source engine before start</title>
+    <id>https://github.com/JustVugg/colibri/pull/2470</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2470"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +104 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2469: fix(api): preserve GLM answer prose after streamed tool calls</title>
+    <id>https://github.com/JustVugg/colibri/pull/2469</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2469"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +79 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2468: fix(api): cache compaction summaries for exactly their replaced prefix</title>
+    <id>https://github.com/JustVugg/colibri/pull/2468</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2468"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +72 / -6 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2467: fix(convert): preserve Inkling source shards on output aliases</title>
+    <id>https://github.com/JustVugg/colibri/pull/2467</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2467"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +65 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2466: fix(convert): stop Inkling raw copies at unexpected EOF</title>
+    <id>https://github.com/JustVugg/colibri/pull/2466</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2466"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +54 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2465: fix(sft): remove stale files for empty prepared splits</title>
+    <id>https://github.com/JustVugg/colibri/pull/2465</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2465"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +61 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2464: fix(atlas): exclude held-out traces from every specialist set</title>
+    <id>https://github.com/JustVugg/colibri/pull/2464</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2464"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +69 / -3 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2452: test(setup): isolate fixture capacity from physical host disk space</title>
+    <id>https://github.com/JustVugg/colibri/pull/2452</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2452"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +25 / -0 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2451: test(score): pin float32 KV for the fixture reference</title>
+    <id>https://github.com/JustVugg/colibri/pull/2451</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2451"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +4 / -1 across 1 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2450: fix(mcp): serialize overlapping server lifecycle actions</title>
+    <id>https://github.com/JustVugg/colibri/pull/2450</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2450"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +105 / -9 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2449: fix(v41): preserve qualified tool names in API responses</title>
+    <id>https://github.com/JustVugg/colibri/pull/2449</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2449"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +72 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2448: fix(setup): reject invalid explicit ports before setup work</title>
+    <id>https://github.com/JustVugg/colibri/pull/2448</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2448"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +19 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2446: fix(api): instruct Qwen3-Coder when tools are required</title>
+    <id>https://github.com/JustVugg/colibri/pull/2446</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2446"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +68 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2445: fix(json): reject invalid raw UTF-8 in checked documents</title>
+    <id>https://github.com/JustVugg/colibri/pull/2445</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2445"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +92 / -6 across 4 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2444: fix(download): preserve exact filenames in curl fallback URLs</title>
+    <id>https://github.com/JustVugg/colibri/pull/2444</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2444"/>
+    <updated>2026-11-26T12:20:33Z</updated>
+    <summary>Merged public contribution. +75 / -7 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2481: fix(mcp): reject non-JSON constants before dispatch</title>
+    <id>https://github.com/JustVugg/colibri/pull/2481</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2481"/>
+    <updated>2026-11-26T12:20:32Z</updated>
+    <summary>Merged public contribution. +61 / -1 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2479: fix(chat): report SSE failures and premature response closure</title>
+    <id>https://github.com/JustVugg/colibri/pull/2479</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2479"/>
+    <updated>2026-11-26T12:20:32Z</updated>
+    <summary>Merged public contribution. +59 / -2 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>JustVugg/colibri #2476: fix(api): report matched API stop before engine length cap</title>
+    <id>https://github.com/JustVugg/colibri/pull/2476</id>
+    <link href="https://github.com/JustVugg/colibri/pull/2476"/>
+    <updated>2026-11-26T12:20:32Z</updated>
+    <summary>Merged public contribution. +63 / -2 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>mvanhorn/last30days-skill #1619: fix: keep usable subqueries from malformed provider plans</title>
     <id>https://github.com/mvanhorn/last30days-skill/pull/1619</id>
@@ -166,194 +355,5 @@
     <link href="https://github.com/mjmirza/app-store-compliance/pull/2380"/>
     <updated>2026-11-24T20:36:35Z</updated>
     <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #747: docs(test): document the project default for test list</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/747</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/747"/>
-    <updated>2026-11-24T03:34:26Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #750: docs(result): account for cancelled results in latest-result examples</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/750</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/750"/>
-    <updated>2026-11-24T03:27:19Z</updated>
-    <summary>Merged public contribution. +11 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #751: docs(ci): warn about required checks on GitHub merge queues</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/751</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/751"/>
-    <updated>2026-11-24T03:22:32Z</updated>
-    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #749: docs(migration): mark the old auth commands as removed</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/749</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/749"/>
-    <updated>2026-11-24T03:17:48Z</updated>
-    <summary>Merged public contribution. +1 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #746: docs(config): explain when CI bypasses the credentials file</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/746</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/746"/>
-    <updated>2026-11-24T03:11:31Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #745: docs(agent): make the offline install instructions explicit</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/745</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/745"/>
-    <updated>2026-11-24T03:06:50Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #740: docs(ci): make the saved-list gate fail on zero tests</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/740</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/740"/>
-    <updated>2026-11-24T03:00:36Z</updated>
-    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #742: docs(ci): check credential presence without printing values</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/742</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/742"/>
-    <updated>2026-11-24T02:47:21Z</updated>
-    <summary>Merged public contribution. +7 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #743: docs(onboarding): answer question cards in the terminal</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/743</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/743"/>
-    <updated>2026-11-24T02:42:10Z</updated>
-    <summary>Merged public contribution. +2 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #741: docs(ci): clarify what the preview gate actually tests</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/741</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/741"/>
-    <updated>2026-11-24T02:35:59Z</updated>
-    <summary>Merged public contribution. +6 / -4 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #748: docs(run): distinguish saved-list tunnel limits</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/748</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/748"/>
-    <updated>2026-11-24T02:29:46Z</updated>
-    <summary>Merged public contribution. +2 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>TestSprite/testsprite-cli #744: docs(agent): clarify skill status on an empty checkout</title>
-    <id>https://github.com/TestSprite/testsprite-cli/pull/744</id>
-    <link href="https://github.com/TestSprite/testsprite-cli/pull/744"/>
-    <updated>2026-11-24T02:25:34Z</updated>
-    <summary>Merged public contribution. +1 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #14: Distinguish unmeasured spider geometry from passing checks</title>
-    <id>https://github.com/apekshik/anymachine/pull/14</id>
-    <link href="https://github.com/apekshik/anymachine/pull/14"/>
-    <updated>2026-11-23T22:44:13Z</updated>
-    <summary>Merged public contribution. +24 / -15 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #9: Propagate Blender failures through spider and quadruped pipelines</title>
-    <id>https://github.com/apekshik/anymachine/pull/9</id>
-    <link href="https://github.com/apekshik/anymachine/pull/9"/>
-    <updated>2026-11-23T22:44:06Z</updated>
-    <summary>Merged public contribution. +19 / -8 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #7: Make the laptop rebuild runnable from any checkout</title>
-    <id>https://github.com/apekshik/anymachine/pull/7</id>
-    <link href="https://github.com/apekshik/anymachine/pull/7"/>
-    <updated>2026-11-23T22:44:00Z</updated>
-    <summary>Merged public contribution. +53 / -19 across 3 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #18: Explain laptop inputs that cannot form a hinge</title>
-    <id>https://github.com/apekshik/anymachine/pull/18</id>
-    <link href="https://github.com/apekshik/anymachine/pull/18"/>
-    <updated>2026-11-23T22:27:23Z</updated>
-    <summary>Merged public contribution. +18 / -2 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #17: Document what a clean checkout needs to rebuild each rig</title>
-    <id>https://github.com/apekshik/anymachine/pull/17</id>
-    <link href="https://github.com/apekshik/anymachine/pull/17"/>
-    <updated>2026-11-23T22:27:17Z</updated>
-    <summary>Merged public contribution. +18 / -5 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #16: Report unreachable lateral targets in leg IK</title>
-    <id>https://github.com/apekshik/anymachine/pull/16</id>
-    <link href="https://github.com/apekshik/anymachine/pull/16"/>
-    <updated>2026-11-23T22:27:11Z</updated>
-    <summary>Merged public contribution. +7 / -4 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #15: Report the Stilt export formats actually verified</title>
-    <id>https://github.com/apekshik/anymachine/pull/15</id>
-    <link href="https://github.com/apekshik/anymachine/pull/15"/>
-    <updated>2026-11-23T22:27:06Z</updated>
-    <summary>Merged public contribution. +25 / -18 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #13: Enforce the laptop texture cap on both image axes</title>
-    <id>https://github.com/apekshik/anymachine/pull/13</id>
-    <link href="https://github.com/apekshik/anymachine/pull/13"/>
-    <updated>2026-11-23T22:26:59Z</updated>
-    <summary>Merged public contribution. +4 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #12: Reject empty or misspelled backpack collision masks</title>
-    <id>https://github.com/apekshik/anymachine/pull/12</id>
-    <link href="https://github.com/apekshik/anymachine/pull/12"/>
-    <updated>2026-11-23T22:26:54Z</updated>
-    <summary>Merged public contribution. +120 / -2 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #11: Summarize backpack collision checks using their recorded thresholds</title>
-    <id>https://github.com/apekshik/anymachine/pull/11</id>
-    <link href="https://github.com/apekshik/anymachine/pull/11"/>
-    <updated>2026-11-23T22:26:48Z</updated>
-    <summary>Merged public contribution. +106 / -20 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #10: Fail verification when a quadruped GLB is missing required actions</title>
-    <id>https://github.com/apekshik/anymachine/pull/10</id>
-    <link href="https://github.com/apekshik/anymachine/pull/10"/>
-    <updated>2026-11-23T22:26:42Z</updated>
-    <summary>Merged public contribution. +4 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #8: Always check the laptop hinge at its fully open endpoint</title>
-    <id>https://github.com/apekshik/anymachine/pull/8</id>
-    <link href="https://github.com/apekshik/anymachine/pull/8"/>
-    <updated>2026-11-23T22:26:37Z</updated>
-    <summary>Merged public contribution. +21 / -6 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #6: Make Stilt assembly timing repeatable across renders</title>
-    <id>https://github.com/apekshik/anymachine/pull/6</id>
-    <link href="https://github.com/apekshik/anymachine/pull/6"/>
-    <updated>2026-11-23T22:26:31Z</updated>
-    <summary>Merged public contribution. +2 / -1 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #5: Reject Stilt animation runs that share an output directory</title>
-    <id>https://github.com/apekshik/anymachine/pull/5</id>
-    <link href="https://github.com/apekshik/anymachine/pull/5"/>
-    <updated>2026-11-23T22:26:25Z</updated>
-    <summary>Merged public contribution. +5 / -0 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>apekshik/anymachine #4: Preserve the Stilt reference video when rendering fails</title>
-    <id>https://github.com/apekshik/anymachine/pull/4</id>
-    <link href="https://github.com/apekshik/anymachine/pull/4"/>
-    <updated>2026-11-23T22:26:20Z</updated>
-    <summary>Merged public contribution. +7 / -4 across 2 changed files.</summary>
   </entry>
 </feed>
