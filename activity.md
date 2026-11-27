@@ -4,10 +4,12 @@ Evidence timestamp: **2026-11-27 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,176**
+Records: **4,178**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-27 | [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | [#663: Allow nesting frozen records without changing the inputs](https://github.com/fabiocaccamo/python-benedict/pull/663) | +19 / -0 across 2 files | 1 reviews · 1 comments |
+| 2026-11-27 | [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | [#664: Detach shallow copies from the original outer dictionary](https://github.com/fabiocaccamo/python-benedict/pull/664) | +12 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2483: fix(eval): isolate MMLU prompt mode and greedy temperature](https://github.com/JustVugg/colibri/pull/2483) | +72 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2482: fix(eval): reject impossible MMLU subset sample counts](https://github.com/JustVugg/colibri/pull/2482) | +57 / -0 across 2 files | 0 reviews · 0 comments |
 | 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2480: fix(chat): assemble SSE data fields before decoding JSON](https://github.com/JustVugg/colibri/pull/2480) | +60 / -4 across 2 files | 0 reviews · 0 comments |

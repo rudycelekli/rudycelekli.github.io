@@ -4,8 +4,22 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-26T12:20:33Z</updated>
+  <updated>2026-11-27T21:39:59Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>fabiocaccamo/python-benedict #663: Allow nesting frozen records without changing the inputs</title>
+    <id>https://github.com/fabiocaccamo/python-benedict/pull/663</id>
+    <link href="https://github.com/fabiocaccamo/python-benedict/pull/663"/>
+    <updated>2026-11-27T21:39:59Z</updated>
+    <summary>Merged public contribution. +19 / -0 across 2 changed files.</summary>
+  </entry>
+  <entry>
+    <title>fabiocaccamo/python-benedict #664: Detach shallow copies from the original outer dictionary</title>
+    <id>https://github.com/fabiocaccamo/python-benedict/pull/664</id>
+    <link href="https://github.com/fabiocaccamo/python-benedict/pull/664"/>
+    <updated>2026-11-27T21:39:48Z</updated>
+    <summary>Merged public contribution. +12 / -0 across 2 changed files.</summary>
+  </entry>
   <entry>
     <title>JustVugg/colibri #2483: fix(eval): isolate MMLU prompt mode and greedy temperature</title>
     <id>https://github.com/JustVugg/colibri/pull/2483</id>
@@ -341,19 +355,5 @@
     <link href="https://github.com/mjmirza/app-store-compliance/pull/2383"/>
     <updated>2026-11-24T20:36:45Z</updated>
     <summary>Merged public contribution. +6 / -3 across 1 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mjmirza/app-store-compliance #2382: fix(deadlines): reject invalid platform filters and trim valid names</title>
-    <id>https://github.com/mjmirza/app-store-compliance/pull/2382</id>
-    <link href="https://github.com/mjmirza/app-store-compliance/pull/2382"/>
-    <updated>2026-11-24T20:36:40Z</updated>
-    <summary>Merged public contribution. +25 / -3 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mjmirza/app-store-compliance #2380: fix(validate): require a complete deadline source URL</title>
-    <id>https://github.com/mjmirza/app-store-compliance/pull/2380</id>
-    <link href="https://github.com/mjmirza/app-store-compliance/pull/2380"/>
-    <updated>2026-11-24T20:36:35Z</updated>
-    <summary>Merged public contribution. +22 / -1 across 2 changed files.</summary>
   </entry>
 </feed>
