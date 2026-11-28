@@ -4,7 +4,7 @@ Evidence timestamp: **2026-11-28 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,178**
+Records: **4,177**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
@@ -2825,7 +2825,6 @@ Records: **4,178**
 | 2026-10-11 | [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent) | [#142: fix(tasks): create sessions when replying to pre-launch failures](https://github.com/Anil-matcha/suparagent/pull/142) | +151 / -3 across 2 files | 0 reviews · 0 comments |
 | 2026-10-11 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#821: Decode gzip HTTP bodies before parsing source feeds](https://github.com/ktwu01/benchmark-radar/pull/821) | +61 / -3 across 2 files | 3 reviews · 2 comments |
 | 2026-10-11 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#829: Preserve successful arXiv queries through RSS fallback](https://github.com/ktwu01/benchmark-radar/pull/829) | +113 / -9 across 2 files | 5 reviews · 2 comments |
-| 2026-10-11 | [ktwu01/benchmark-radar-paper](https://github.com/ktwu01/benchmark-radar-paper) | [#63: Add Rudy Mizrahi Celekli (Gradia) as a coauthor](https://github.com/ktwu01/benchmark-radar-paper/pull/63) | +7 / -4 across 3 files | 1 reviews · 0 comments |
 | 2026-10-11 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#4019: fix(mcp): fence stale resource cache writes after invalidation](https://github.com/ruvnet/ruflo/pull/4019) | +143 / -2 across 2 files | 0 reviews · 0 comments |
 | 2026-10-10 | [ktwu01/benchmark-radar](https://github.com/ktwu01/benchmark-radar) | [#815: fix(report): retain generated questions on same-day reruns](https://github.com/ktwu01/benchmark-radar/pull/815) | +449 / -10 across 3 files | 7 reviews · 4 comments |
 | 2026-10-10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | [#3969: fix(mcp): preserve cancellation when an aborted executor resolves](https://github.com/ruvnet/ruflo/pull/3969) | +72 / -1 across 2 files | 0 reviews · 2 comments |
