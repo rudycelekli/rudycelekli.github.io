@@ -8,6 +8,22 @@
   },
   "items": [
     {
+      "additions": 38,
+      "attribution": "GitHub-authored and merged pull request",
+      "changed_files": 5,
+      "comments": 0,
+      "commits": 3,
+      "created_at": "2026-11-18T05:39:18Z",
+      "deletions": 3,
+      "merged_at": "2026-11-28T12:26:37Z",
+      "number": 2780,
+      "repository": "HKUDS/DeepTutor",
+      "repository_url": "https://github.com/HKUDS/DeepTutor",
+      "reviews": 1,
+      "title": "fix(reading): preserve original extensions on long multilingual filenames",
+      "url": "https://github.com/HKUDS/DeepTutor/pull/2780"
+    },
+    {
       "additions": 19,
       "attribution": "GitHub-authored and merged pull request",
       "changed_files": 2,
@@ -66864,7 +66880,7 @@
     "source_method": "GitHub GraphQL and REST APIs",
     "source_schema_version": 9
   },
-  "record_count": 4177,
+  "record_count": 4178,
   "schema_version": 1,
   "updated_at_utc": "2026-11-28"
 }

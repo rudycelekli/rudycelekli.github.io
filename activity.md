@@ -4,10 +4,11 @@ Evidence timestamp: **2026-11-28 UTC**
 
 Every row is a public pull request authored by Rudy Celekli and reported as merged by GitHub. This is accepted-work evidence, not a claim that every line or repository outcome belongs to one contributor.
 
-Records: **4,177**
+Records: **4,178**
 
 | Merged | Repository | Pull request | Changes | Review evidence |
 |:--|:--|:--|--:|--:|
+| 2026-11-28 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2780: fix(reading): preserve original extensions on long multilingual filenames](https://github.com/HKUDS/DeepTutor/pull/2780) | +38 / -3 across 5 files | 1 reviews · 0 comments |
 | 2026-11-27 | [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | [#663: Allow nesting frozen records without changing the inputs](https://github.com/fabiocaccamo/python-benedict/pull/663) | +19 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-11-27 | [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | [#664: Detach shallow copies from the original outer dictionary](https://github.com/fabiocaccamo/python-benedict/pull/664) | +12 / -0 across 2 files | 1 reviews · 1 comments |
 | 2026-11-26 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | [#2483: fix(eval): isolate MMLU prompt mode and greedy temperature](https://github.com/JustVugg/colibri/pull/2483) | +72 / -2 across 2 files | 0 reviews · 0 comments |

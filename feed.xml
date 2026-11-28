@@ -4,8 +4,15 @@
   <id>https://rudycelekli.github.io/feed.xml</id>
   <link href="https://rudycelekli.github.io/feed.xml" rel="self"/>
   <link href="https://rudycelekli.github.io/activity.md"/>
-  <updated>2026-11-27T21:39:59Z</updated>
+  <updated>2026-11-28T12:26:37Z</updated>
   <author><name>Rudy Mizrahi Celekli</name></author>
+  <entry>
+    <title>HKUDS/DeepTutor #2780: fix(reading): preserve original extensions on long multilingual filenames</title>
+    <id>https://github.com/HKUDS/DeepTutor/pull/2780</id>
+    <link href="https://github.com/HKUDS/DeepTutor/pull/2780"/>
+    <updated>2026-11-28T12:26:37Z</updated>
+    <summary>Merged public contribution. +38 / -3 across 5 changed files.</summary>
+  </entry>
   <entry>
     <title>fabiocaccamo/python-benedict #663: Allow nesting frozen records without changing the inputs</title>
     <id>https://github.com/fabiocaccamo/python-benedict/pull/663</id>
@@ -348,12 +355,5 @@
     <link href="https://github.com/mjmirza/app-store-compliance/pull/2384"/>
     <updated>2026-11-24T20:36:50Z</updated>
     <summary>Merged public contribution. +18 / -1 across 2 changed files.</summary>
-  </entry>
-  <entry>
-    <title>mjmirza/app-store-compliance #2383: test(guard): isolate the empty-stdin scan from the host temp directory</title>
-    <id>https://github.com/mjmirza/app-store-compliance/pull/2383</id>
-    <link href="https://github.com/mjmirza/app-store-compliance/pull/2383"/>
-    <updated>2026-11-24T20:36:45Z</updated>
-    <summary>Merged public contribution. +6 / -3 across 1 changed files.</summary>
   </entry>
 </feed>
